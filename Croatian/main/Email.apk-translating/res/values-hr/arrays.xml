@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+       <item>Sićušan tekst</item>
+        <item>Mali tekst</item>
+        <item>Tekst normalne veličine</item>
+        <item>Veliki tekst</item>
+        <item>Ogroman tekst</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+       <item>Prikaz novijeg razgovora nakon brisanja</item>
+        <item>Prikaz starijeg razgovora nakon brisanja</item>
+        <item>Prikaz popisa razgovora nakon brisanja</item>
+    </string-array>
+</resources>
