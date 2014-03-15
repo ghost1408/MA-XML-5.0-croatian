@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">"Premještam korisničke podatke, vaš račun privremeno blokiran, pričekajte..."</string>
+  <string name="account_bind_prompt">"Premještam korisničke podatke, vaš je račun privremeno blokiran, pričekajte..."</string>
   <string name="add_task">Dodaj zadatak</string>
   <string name="adding_upload_tasks">Učitavam zadatke.</string>
   <string name="already_signin_description">Već ste prijavljeni</string>
