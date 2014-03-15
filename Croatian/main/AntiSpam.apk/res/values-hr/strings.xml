@@ -19,7 +19,7 @@
   <string name="dlg_clear_current_ok">Obriši</string>
   <string name="dlg_clear_current_sms">Ukloniti sve blokirane poruke s ovog broja?</string>
   <string name="dlg_delete_keyword">Ukloniti odabrene riječi?</string>
-  <string name="dlg_edit_keyword">Edit keyword</string>
+  <string name="dlg_edit_keyword">Uredi ključnu riječ</string>
   <string name="dlg_import_blacklist">Dodajem na listu zabranjenih</string>
   <string name="dlg_import_whitelist">Dodajem u iznimke…</string>
   <string name="dlg_keyword_ok">Spremi</string>
@@ -68,11 +68,11 @@
   <string name="st_filter_keywords_setting_summary1">Poruke od nepoznatih kontakata bit će blokirane.</string>
   <string name="st_filter_keywords_setting_summary2">Dodavanje više ključnih riječi odvojenih zarezom.</string>
   <string name="st_filter_keywords_setting_title">Podesi riječi filtriranja</string>
-  <string name="st_filter_keywords_title">Filter keywords</string>
+  <string name="st_filter_keywords_title">Filtriraj ključnu riječ</string>
   <string name="st_filter_sms_button">Filtriraj spam poruke</string>
   <string name="st_mute_all">Stišaj pozive i poruke</string>
   <string name="st_mute_block">Stišaj pozive, blokiraj poruke</string>
-  <string name="st_mute_title">Silent mode</string>
+  <string name="st_mute_title">Tihi način</string>
   <string name="st_other_setting_group">Ostale postavke</string>
   <string name="st_settings_name">Postavke</string>
   <string name="st_show_block_notification">Prikaži blokirane obavijesti</string>
