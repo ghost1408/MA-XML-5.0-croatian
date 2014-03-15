@@ -16,7 +16,7 @@
   <string name="dlg_clear_blacklist">Obrisati listu zabranjenih?</string>
   <string name="dlg_clear_blacklist_ok">Obriši</string>
   <string name="dlg_clear_current_call">Obrisati sve pozive s ovog blokiranog broja?</string>
-  <string name="dlg_clear_current_ok">Obriši</string>
+  <string name="dlg_clear_current_ok">Obrisati</string>
   <string name="dlg_clear_current_sms">Ukloniti sve blokirane poruke s ovog broja?</string>
   <string name="dlg_delete_keyword">Ukloniti odabrene riječi?</string>
   <string name="dlg_edit_keyword">Uredi ključnu riječ</string>
