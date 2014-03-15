@@ -7,3 +7,4 @@ MIUI Translators:
 • MASVA
 
 
+• IVICA
