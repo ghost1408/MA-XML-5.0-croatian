@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_submit">Podnijeti</string>
+  <string name="app_label">Korisničko mišljenje</string>
+  <string name="btn_send">Pošalji</string>
+  <string name="bugreport_feedback_from">Od: %s</string>
+  <string name="description">Opis (potreban)</string>
+  <string name="discard_draft_dialog_button_cancel">Otkaži</string>
+  <string name="discard_draft_dialog_button_discard">U redu</string>
+  <string name="discard_draft_dialog_content">Izvješće je izmijenjeno, kliknite "U redu" odbacivanje skice</string>
+  <string name="discard_draft_dialog_title">Odbaci skicu</string>
+  <string name="err_type">Tip korisničkog mišljenja</string>
+  <string name="err_type_call">Problemi poziva</string>
+  <string name="err_type_data_lost">Izgubljeni podaci</string>
+  <string name="err_type_force_close">Prisilno zatvoreno</string>
+  <string name="err_type_network">Problemi mreže</string>
+  <string name="err_type_others">Ostalo</string>
+  <string name="err_type_power_consuming">Potrošnja energije</string>
+  <string name="err_type_reboot">Ponovna pokretanja sistema</string>
+  <string name="err_type_suggestion">Prijedlog</string>
+  <string name="menu_attach_screenshot">Prikači snimku zaslona</string>
+  <string name="menu_copy">Kopiraj</string>
+  <string name="menu_discard">Odbaci</string>
+  <string name="menu_send">Pošalji izvješće</string>
+  <string name="network_unavailable_dialog_button_ok">U redu</string>
+  <string name="network_unavailable_dialog_content">Korisničko mišljenje će biti poslano kada mobilna mreža bude dostupna</string>
+  <string name="network_unavailable_dialog_title">Mreža nedostupna</string>
+  <string name="packaging_dialog_content">Stvaranje izvješća, pričekajte...</string>
+  <string name="report_miui">Prijavi MIUI</string>
+  <string name="section_description">Opis</string>
+  <string name="section_err_type">Tip mišljenja</string>
+  <string name="section_screenshot">Snimka zaslona</string>
+  <string name="status_msg_collecting_log">Prikupljanje zapisa...</string>
+  <string name="status_msg_pending_upload">%d mišljenja učitano...</string>
+  <string name="toast_description_required">Opis je potreban prije podnošenja</string>
+  <string name="toast_feedback_pending_wlan">Korisničko mišljenje će biti poslano kada WLAN mreža bude dostupna</string>
+  <string name="toast_feedback_submitted">Korisničko mišljenje uspješno poslana</string>
+  <string name="toast_pending_log_collection">Prikupljanje zapisa...</string>
+  <string name="toast_report_copied_to_clipboard">Izvješće kopirano u međuspremnik</string>
+  <string name="toast_report_sent_failed">Neuspjelo slanje izvješća!</string>
+  <string name="toast_report_sent_succeed">Izvješće uspješno poslano!</string>
+  <string name="user_feedback">Korisničko mišljenje</string>
+  <string name="wlan_unavailable_dialog_button_ok">U redu</string>
+  <string name="wlan_unavailable_dialog_button_sent">Poslati sada</string>
+  <string name="wlan_unavailable_dialog_content">%s potreban za 2G/3G podatke, kliknite U redu za slanje pomoću WLAN-a</string>
+  <string name="wlan_unavailable_dialog_title">WLAN nije dostupan</string>
+</resources>
