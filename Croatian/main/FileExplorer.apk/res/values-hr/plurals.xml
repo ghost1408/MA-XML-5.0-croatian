@@ -2,6 +2,6 @@
 <resources>
     <plurals name="directory_item_count">
         <item quantity="other">%d stavaka</item>
-        <item quantity="one">1 stavka</item>
+        <item quantity="one"> 1 stavka </item>
     </plurals>
 </resources>
