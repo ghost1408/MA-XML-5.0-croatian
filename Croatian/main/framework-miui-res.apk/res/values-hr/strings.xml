@@ -272,7 +272,7 @@
   <string name="err_resource_leak">Na žalost, %1$s je prekinut zbog gubljenja reursa.</string>
   <string name="error_forbidden">Vaš račun ima pogrešku. Sinkronizacija onemogućena.</string>
   <string name="error_not_acceptable">Mrežna pogreška. Sinkronizacija onemogućena.</string>
-  <string name="error_title">Sinkronizacija greška za  %s</string>
+  <string name="error_title">Sinkronizacijska greška za  %s</string>
   <string name="error_unauthorized">Previše pokušaja autorizacije računa. Sinkronizacija onemogućena.</string>
   <string name="every_day">Svaki dan</string>
   <string name="experimental_validate">Potvrditi</string>
@@ -393,7 +393,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="no_sim">Nema SIM-a, mreža nedostupna</string>
   <string name="open_wifi_settings">Otvori postavke WLAN-a </string>
   <string name="partys_day"/>
-  <string name="payphone">Payphone</string>
+  <string name="payphone">Govornica</string>
   <string name="peace_day">Dan mira</string>
   <string name="perm_auto_backup">Automatska sigurnosna pohrana</string>
   <string name="perm_data_update_dspt">Dopušteno osvježavanje podataka vodenog žiga</string>
