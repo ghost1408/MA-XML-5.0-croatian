@@ -14,7 +14,7 @@
     <string name="file_path">/MIUI/bilješke/</string>
     <string name="file_name_txt_format">bilješke_%s.txt</string>
     <string name="note_link_tel">Zovi</string>
-    <string name="note_link_email">Pošalji e-poštu</string>
+    <string name="note_link_email">Pošalji E-poštu</string>
     <string name="note_link_web">Pretraži Internet</string>
     <string name="note_link_other">Otvori mapu</string>
     <string name="note_link_select">Odaberi tekst</string>
