@@ -77,7 +77,7 @@
   <string name="st_settings_name">Postavke</string>
   <string name="st_show_block_notification">Prikaži blokirane obavijesti</string>
   <string name="st_sms_group">Poruke</string>
-  <string name="tab_blacklist">Lista zabranjenih</string>
+  <string name="tab_blacklist">Popis zabranjenih</string>
   <string name="tab_block_log">Vatrozid</string>
   <string name="tab_block_log_unKnowNumber">Nepoznat broj</string>
   <string name="tab_call">Zapis poziva</string>
