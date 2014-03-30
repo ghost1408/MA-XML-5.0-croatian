@@ -14,7 +14,7 @@
   <string name="account_security_dialog_title">Sigurnosno ažuriranje</string>
   <string name="account_security_policy_explanation_fmt">Poslužitelj %s zahtijeva da mu omogućite daljinsko upravljanje nekim sigurnosnim značajkama vašeg Android uređaja.</string>
   <string name="account_security_title">Sigurnost uređaja</string>
-  <string name="account_security_waiting_policy_key_message">%s needs security settings information from server，please wait...</string>
+  <string name="account_security_waiting_policy_key_message">%s treba informacije postavki sigurnosti sa poslužitelja，molimo pričekajte...</string>
   <string name="account_settings_action">Postavke računa</string>
   <string name="account_settings_background_attachments_label">Preuzimanje privitaka</string>
   <string name="account_settings_background_attachments_summary">Automatsko preuzimanje privitaka uz nedavne poruke WLAN mrežom</string>
