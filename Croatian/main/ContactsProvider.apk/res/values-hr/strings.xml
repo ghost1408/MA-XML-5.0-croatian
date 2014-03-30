@@ -24,5 +24,5 @@
   <string name="upgrade_out_of_memory_notification_text">Označi da se završi nadogradnja.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Nadogradnja kontakta zahtjeva više memorije</string>
   <string name="upgrade_out_of_memory_notification_title">Nadogradnja pohrane kontakata</string>
-  <string name="voicemail_from_column">"Govorna pošta od "</string>
+  <string name="voicemail_from_column">"Govorna pošta od  "</string>
 </resources>
