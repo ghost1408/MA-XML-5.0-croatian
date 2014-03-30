@@ -2,12 +2,12 @@
 <resources>
   <string name="app_name">Xiaomi sinkronizacija</string>
   <string name="find_device">Pronađi uređaj</string>
-  <string name="find_device_stop_noise">Klikni\"U redu\" da ugasite ton alarma</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Sinkro. slike preko Wi-Fi da izbjegnete dodatne troškove</string>
-  <string name="pref_title_sync_contacts_title">Sinkr. kontakt</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Upotrijebiti Wi-Fi za prikazivanje slika</string>
-  <string name="sub_sync_item_sms_summary">Sinkro. poruka preko Wi-Fi da izbjegnete dodatne troškove</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Upotrijebiti Wi-Fi za sinkro. poruka</string>
+  <string name="find_device_stop_noise">Klikni\"U redu\" da ugasite zvuk alarma</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Sinkronizirati slike preko WLAN-a da izbjegnete dodatne troškove</string>
+  <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakt</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Upotrijebiti WLAN za prikazivanje slika</string>
+  <string name="sub_sync_item_sms_summary">Sinkro. poruka preko WLAN da izbjegnete dodatne troškove</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Upotrijebiti WLAN za sinkronizaciju poruka</string>
   <string name="sync_item_sms_summary">Poruke će biti automatski sinkronizirane</string>
-  <string name="sync_item_sms_title">Sinkro. poruka</string>
+  <string name="sync_item_sms_title">Sinkronizacija poruka</string>
 </resources>
