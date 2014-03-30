@@ -36,7 +36,7 @@
   <string name="description_version">Verzija:</string>
   <string name="description_version_szie">Verzija: %1$s Veličina: %2$s</string>
   <string name="desktop_wallpaper">Pozadinska slika radne površine</string>
-  <string name="download_failed">Preuzimanje neuspješno!</string>
+  <string name="download_failed">Preuzimanje neuspješno !</string>
   <string name="download_preview_failed">Neuspješno učitavanje pregleda</string>
   <string name="download_success">Preuzimanje dovršeno!</string>
   <string name="fail_to_add_account">Neuspješno dodavanje računa</string>
@@ -83,15 +83,15 @@
   <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
   <string name="resource_comment_entry_tips">Vidi komentare</string>
   <string name="resource_comment_expand_full_text">Proširi na cijeli tekst</string>
-  <string name="resource_comment_footer">Prazni komentari nisu prikazani not.</string>
+  <string name="resource_comment_footer">Prazni komentari nisu prikazani.</string>
   <string name="resource_comment_good_comments">Pozitivni komentari</string>
   <string name="resource_comment_invalid">Dodirni zvijezdu da ocijeniš</string>
   <string name="resource_comment_loading_list">Učitavam komentare…</string>
   <string name="resource_comment_name_default">Korisnik %1$s</string>
   <string name="resource_comment_no_average_score">0.0</string>
   <string name="resource_comment_no_comment">Nema komentara</string>
-  <string name="resource_comment_publish">Submit</string>
-  <string name="resource_comment_rate">Rating:</string>
+  <string name="resource_comment_publish">Podnesi</string>
+  <string name="resource_comment_rate">Ocjena:</string>
   <string name="resource_comment_score_count">%1$s korisnika</string>
   <string name="resource_comment_sending">Šaljem komentar...</string>
   <string name="resource_comment_title">Komentara: %1$s</string>
@@ -232,7 +232,7 @@
   <string name="theme_component_title_miwallpaper">Pozadinska slika</string>
   <string name="theme_component_title_mms">SMS</string>
   <string name="theme_component_title_notification">Obavijesti</string>
-  <string name="theme_component_title_others">Others</string>
+  <string name="theme_component_title_others">Ostalo</string>
   <string name="theme_component_title_photo_frame">Okvir slike</string>
   <string name="theme_component_title_ringtone">Melodija zvona</string>
   <string name="theme_component_title_statusbar">Statusna traka</string>
