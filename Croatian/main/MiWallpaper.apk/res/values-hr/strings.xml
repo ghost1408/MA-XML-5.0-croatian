@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="mi_wallpaper_loading">Učitavam Mi-Pozadinsku sliku...</string>
-  <string name="mi_wallpaper_title">Mi Pozadinska slika</string>
+  <string name="mi_wallpaper_loading"> Učitavam Mi-Pozadinsku sliku...</string>
+  <string name="mi_wallpaper_title"> Mi Pozadinska slika </string>
 </resources>
