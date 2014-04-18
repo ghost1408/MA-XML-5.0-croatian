@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="app_name">Jinshan Security Guard</string>
-  <string name="hello_world">Pozdrav svijete!</string>
-  <string name="menu_settings">Postavke</string>
-  <string name="title_activity_main">GlavnaAktivnost</string>
-</resources>
