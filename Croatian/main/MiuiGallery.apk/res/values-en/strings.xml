@@ -3,7 +3,7 @@
   <string name="Import">Uvoz</string>
   <string name="accept">Prihvati</string>
   <string name="accept_or_deny">%1$s dijeljenih albuma %2$s s tobom.</string>
-  <string name="action_fail_unknown_error">Operation failed due to unknown error.</string>
+  <string name="action_fail_unknown_error">Operacija nije uspjela zbog nepoznate greške.</string>
   <string name="activity_not_found">No app is available to complete the action.</string>
   <string name="add_account">Dodaj račun</string>
   <string name="add_sharer">Add sharer</string>

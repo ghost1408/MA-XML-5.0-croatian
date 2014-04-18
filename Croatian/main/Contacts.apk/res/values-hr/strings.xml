@@ -777,7 +777,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="readingSimContacts">Čitanje informacija SIM kartice, pričekajte...</string>
   <string name="reading_vcard_canceled_title">Čitanje podataka kartice vCard otkazano</string>
   <string name="reading_vcard_failed_title">"Čitanje podataka vCarda nije uspjelo"</string>
-  <string name="rebuild_t9_index_dialog_message">Obnova T9 index podataka…</string>
+  <string name="rebuild_t9_index_dialog_message">Obnova T9 indeksa podataka…</string>
   <string name="recent">Nedavno</string>
   <string name="recentCallsIconLabel">Popis poziva</string>
   <string name="recentCalls_addToContact">Dodaj u kontakte</string>

@@ -45,10 +45,10 @@
         <item>1 tjedan</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Locale default</item>
-        <item>Saturday</item>
-        <item>Sunday</item>
-        <item>Monday</item>
+        <item>Zadana oznaka zemlje</item>
+        <item>Subota</item>
+        <item>Nedjelja</item>
+        <item>Ponedjeljak</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Marshall Islands</item>
@@ -82,24 +82,24 @@
         <item>Casablanca</item>
         <item>London, Dublin</item>
         <item>Amsterdam, Berlin</item>
-        <item>Belgrade</item>
+        <item>Beograd</item>
         <item>Brussels</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
         <item>W. Africa Time</item>
         <item>Amman, Jordan</item>
-        <item>Athens, Istanbul</item>
-        <item>Beirut, Lebanon</item>
+        <item>Atena, Istanbul</item>
+        <item>Bejrut, Libanon</item>
         <item>Cairo</item>
         <item>Helsinki</item>
         <item>Jerusalem</item>
         <item>Minsk</item>
         <item>Harare</item>
         <item>Baghdad</item>
-        <item>Moscow</item>
-        <item>Kuwait</item>
+        <item>Moskva</item>
+        <item>Kuvajt</item>
         <item>Nairobi</item>
-        <item>Tehran</item>
+        <item>Teheran</item>
         <item>Baku</item>
         <item>Tbilisi</item>
         <item>Yerevan</item>
@@ -109,20 +109,20 @@
         <item>"Ural'sk"</item>
         <item>Yekaterinburg</item>
         <item>Kolkata</item>
-        <item>Sri Lanka</item>
+        <item>Šri Lanka</item>
         <item>Kathmandu</item>
         <item>Astana</item>
         <item>Yangon</item>
         <item>Krasnoyarsk</item>
         <item>Bangkok</item>
-        <item>Beijing</item>
+        <item>Peking</item>
         <item>Hong Kong</item>
         <item>Irkutsk</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>
         <item>Taipei</item>
-        <item>Seoul</item>
-        <item>Tokyo, Osaka</item>
+        <item>Seul</item>
+        <item>Tokio, Osaka</item>
         <item>Yakutsk</item>
         <item>Adelaide</item>
         <item>Darwin</item>
@@ -178,14 +178,14 @@
         <item>Podsjetnik</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Trčanje samo par minuta kasno.</item>
-        <item>Tamo sam za 10 minuta.</item>
-        <item>Kreni i započni bez mene.</item>
-        <item>"Žao mi je ali ne mogu. Morat ćemo odgoditi."</item>
+       <item>Kasni samo nekoliko minuta.</item>
+        <item>Budite tamo za oko 10 minuta.</item>
+        <item>Samo naprijed, počnite bez mene.</item>
+        <item>Žao mi je, ne mogu stići. Moramo promijeniti dogovor.</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Uvijek</item>
-        <item>Sakm kad je bešumno</item>
+        <item>Samo kad je bešumno</item>
         <item>Nikad</item>
     </string-array>
 </resources>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="continues">Nastavi</string>
+  <string name="data_usage_summary">Ako niste podnijeli zahtjev za podatkovne tarife, preporučuje se isključiti promet mobilnih podataka. Inače, vaš mobilni operater može naplatiti dodatne naknade.</string>
+  <string name="default_gprs_sim_name">Unesite \"%s\" ograničenje plana podataka</string>
+  <string name="input_method">Način unosa</string>
+  <string name="input_method_category">Odaberite zadani način unosa</string>
+  <string name="next">Sljedeće</string>
+  <string name="other_service_google_location">Google Usluga lociranja</string>
+  <string name="other_service_google_location_use">Lokacija &amp; Google search</string>
+  <string name="other_service_google_location_use_help">"Dopustiti Google Usluzi lociranja prikupljanje anonimnih podataka o lokaciji. Prikupljanje će se obaviti čak i kada nema pokrenutih aplikacija. Za podešavanje ove postavke, idite na Postavke&gt;Usluge lociranja"</string>
+  <string name="other_service_google_location_use_summary">Neka Google koristi vaš položaj kako bi poboljšao rezultate pretraživanja i drugih usluga</string>
+  <string name="other_service_label">Ostale usluge</string>
+  <string name="other_service_location">Usluge lociranja</string>
+  <string name="other_service_location_summary">Usluga lociranja omogućuje kartama i drugim aplikacijama preuzimanje vaših podataka o lokaciji pomoću GPS-a</string>
+  <string name="other_service_permission_manager">Upravljanje dopuštenjima aplikacija</string>
+  <string name="other_service_permission_manager_summary">Nadziranje aplikacija za sigurnost i privatnost</string>
+  <string name="other_service_user_experience">Pridružite se programu korisničkih iskustava</string>
+  <string name="other_service_user_experience_summary0">"Mi se oslanjamo na Vas da koristite naš proizvod i značajke te se nadamo da ćete nam pomoći pružajući povratne informacije."</string>
+  <string name="other_service_user_experience_summary1">Hvala MIUI ekipi</string>
+  <string name="setup_complete_info">Nakon prodaje usluga se aktivira prvi puta po korištenju vašeg ​​telefona</string>
+  <string name="setup_complete_label">Postavljanje završeno</string>
+  <string name="setup_complete_start">Započnite koristiti svoj ​​telefon</string>
+  <string name="setup_complete_summary">Postavljanje telefona završeno! Uživajte u korištenju MIUI!</string>
+  <string name="shutdown">Gašenje</string>
+  <string name="sim_card_detection_dialog_message">Otkrivanje SIM kartice, pričekajte...</string>
+  <string name="sim_card_detection_info">"Nije moguće postavljanje Xiaomi računa bez SIM kartice. Ona je potrebna za sinkronizacije računa, praćenje telefona itd."</string>
+  <string name="sim_card_detection_label">Otkrivanje SIM kartice</string>
+  <string name="sim_card_detection_status_absent">SIM kartica nije otkrivena!</string>
+  <string name="traffic_protection_label">Praćenje prometa podataka</string>
+  <string name="traffic_protection_summary">Praćenje prometa podataka će vas podsjetiti kada je vaš plan podataka dosegao svoje ograničenje.</string>
+  <string name="traffic_protection_text_hint">Molimo unesite vaše ograničenje plana podataka.</string>
+  <string name="traffic_protection_unknown">Ne znam. Unijeti ću kasnije</string>
+  <string name="use_data">Omogućiti podatke</string>
+</resources>

@@ -18,7 +18,7 @@
   <string name="err_type_power_consuming">Potrošnja energije</string>
   <string name="err_type_reboot">Ponovna pokretanja sistema</string>
   <string name="err_type_suggestion">Prijedlog</string>
-  <string name="menu_attach_screenshot">Prikači snimku zaslona</string>
+  <string name="menu_attach_screenshot">Priloži snimku zaslona</string>
   <string name="menu_copy">Kopiraj</string>
   <string name="menu_discard">Odbaci</string>
   <string name="menu_send">Pošalji izvješće</string>

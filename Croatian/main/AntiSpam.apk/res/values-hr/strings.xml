@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Čuvarr</string>
+  <string name="app_name">Čuvar</string>
   <string name="bl_block_info" formatted="false">Blokirano: Broj %d detalji %d</string>
   <string name="bl_no_blacklist">Nema blokiranih brojeva</string>
   <string name="bl_no_block_call">Nema blokiranih poziva</string>
