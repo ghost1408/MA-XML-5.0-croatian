@@ -253,9 +253,9 @@ Omogućiti plutajuće prozore?"</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Ne mogu izbrisati，
 Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi. Morate promijeniti postavke baterije prije nego što možete obrisati ovu konfiguraciju."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Ne mogu izbrisati: Uređaj je postavljen da se prebaci na ovu konfiguraciju kada je isteklo vrijeme predviđenog razdoblja. Morate promijeniti postavke baterije prije nego što možete obrisati ovu konfiguraciju.</string>
-    <string name="power_mode_chooser_button_text">primjeni</string>
+    <string name="power_mode_chooser_button_text">Primjeni</string>
     <string name="application_info_label">Informacije o aplikaciji</string>
-    <string name="version_text">verzija %1$s</string>
+    <string name="version_text">Verzija %1$s</string>
     <string name="security_relative">Vezano uz sigurnost</string>
     <string name="privacy_relative">Povezano uz privatnost</string>
     <string name="perm_mian_name">Dozvole</string>
@@ -777,7 +777,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="virus_scan_safe">Očisti</string>
     <string name="virus_scan_dangerous">Rizik</string>
     <string name="virus_scan_find">%d rizik (a) otkriveno</string>
-    <string name="virus_scan_parpare">Pokretanje motora…</string>
+    <string name="virus_scan_parpare">Pokretanje skenera…</string>
     <string name="virus_scan_is_scanning">Skeniranje…</string>
     <string name="virus_scan_stop">Pauza</string>
     <string name="virus_scan_finish">Gotovo</string>
@@ -1966,8 +1966,8 @@ Spremni za početak? Dodirnite "Dalje"."</string>
     <string name="pointer_settings_category">Miš/dodirna površina</string>
     <string name="pointer_speed">Brzina pokazivača</string>
     <string name="game_controller_settings_category">Igrači kontroler</string>
-    <string name="vibrate_input_devices">Upotrijebi vibrator</string>
-    <string name="vibrate_input_devices_summary">Preusmjeri vibrator na igrači kontroler kada su povezani.</string>
+    <string name="vibrate_input_devices">Upotrijebi vibraciju</string>
+    <string name="vibrate_input_devices_summary">Preusmjeri vibraciju na igrači kontroler kada su povezani.</string>
     <string name="keyboard_layout_dialog_title">Odaberite izgled tipkovnice</string>
     <string name="keyboard_layout_dialog_setup_button">Postavljanje izgleda tipkovnice</string>
     <string name="keyboard_layout_dialog_switch_hint">Za prijelaz pritisnite Ctrl i razmaknicu</string>
@@ -2432,7 +2432,7 @@ Pogodnije kontrole korištenja podataka možete pronaći u postavkama unutar apl
     <string name="data_usage_auto_sync_on_dialog_title">Uključiti auto. sinkronizaciju?</string>
     <string name="data_usage_auto_sync_on_dialog">"Sve promjene koje napravite na svojim računima na webu automatski će se kopirati na vaš uređaj. 
 
-Neki računi mogu također promjene koje učinite na tabletu automatski kopirati na web. Google račun funkcionira na taj način. 
+Neki računi mogu također promjene koje učinite na uređaju automatski kopirati na web. Google račun funkcionira na taj način. 
 
 Za odabir vrsta informacija za sinkroniziranje unutar svakog računa, idite na Postavke &gt; Računi."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Isključiti auto. sinkronizaciju?</string>
@@ -2445,7 +2445,7 @@ Za odabir vrsta informacija za sinkroniziranje unutar svakog računa, idite na P
     <string name="data_usage_limit_dialog_title">Ograničavanje upotrebe podataka</string>
     <string name="data_usage_limit_dialog_mobile">"Vaša podatkovna veza mobilnog uređaja bit će onemogućena kada dosegnete navedeno ograničenje.
 
-S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružatelj usluga može drugačije obračunavati promet, razmislite o konzervativnom ograničenju."</string>
+S obzirom da se mjerenje korištenja podataka obavlja na uređaju a vaš pružatelj usluga može drugačije obračunavati promet, razmislite o konzervativnom ograničenju."</string>
     <string name="data_usage_restrict_background_title">Ograničenje pozadinskih podataka?</string>
     <string name="data_usage_restrict_background">Ako ograničite pozadinske mobilne podatke, neke aplikacije i usluge neće raditi ako niste povezani s Wi-Fi mrežom."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
@@ -2572,7 +2572,7 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="dndm_auto_setting_group">Zakazano</string>
     <string name="dndm_auto_button_title">Vrijeme</string>
     <string name="dndm_auto_time_setting">Postavke vremena</string>
-    <string name="dndm_auto_time_setting_summary">Od %1$s to %2$s</string>
+    <string name="dndm_auto_time_setting_summary">Od %1$s do %2$s</string>
     <string name="dndm_auto_time_turn_on">Od</string>
     <string name="dndm_auto_time_turn_on_title">Automatski uključi \"ne ometaj\" </string>
     <string name="dndm_auto_time_turn_off">Do</string>
@@ -2808,7 +2808,7 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="search_label">Postavke</string>
     <string name="search_hint">Postavke pretraživanja</string>
     <string name="search_description">Postavke pretraživanja</string>
-    <string name="remove_from_frequently_fragment">Ukloniti %s brzih postavki?</string>
+    <string name="remove_from_frequently_fragment">Ukloniti %s iz brzih postavki?</string>
     <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
     <string name="frequently_fragment_delete">Ukloni</string>
     <string name="show_fc">Prisilno zatvorne aplikacije</string>

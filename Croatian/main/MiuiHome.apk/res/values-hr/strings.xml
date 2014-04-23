@@ -11,7 +11,7 @@
   <string name="buffering">Međupohrana...</string>
   <string name="cancel_action">Odustani</string>
   <string name="cancel_btn_label">Odustani</string>
-  <string name="cant_remove_folder">Nije moguće ukloniti ne-praznu mapu</string>
+  <string name="cant_remove_folder">Nije moguće ukloniti ispunjenu mapu</string>
   <string name="cant_remove_retained_app">Nije moguće deinstalirati prilagođene aplikacije</string>
   <string name="cant_remove_system_app">Nije moguće ukloniti aplikacije sustava</string>
   <string name="chooser_wallpaper">Odabir pozadinske slike iz</string>
@@ -56,9 +56,9 @@
   <string name="gadget_error_text">Problem pri učitavanju widgeta</string>
   <string name="gadget_google_search_label">Google pretraživanje</string>
   <string name="gadget_load_error">Učitavanje Widget-a...</string>
-  <string name="gadget_photo_22_label">Okvir slike 2x2</string>
-  <string name="gadget_photo_24_label">Okvir slike 4x2</string>
-  <string name="gadget_photo_44_label">Okvir slike 4x4</string>
+  <string name="gadget_photo_22_label">Okvir sl. 2x2</string>
+  <string name="gadget_photo_24_label">Okvir sl. 4x2</string>
+  <string name="gadget_photo_44_label">Okvir sl. 4x4</string>
   <string name="gadget_weather_app_not_installed">Kliknite za instaliranje MIUI vremena</string>
   <string name="gadget_weather_aqi_title">Kvaliteta zraka</string>
   <string name="gadget_weather_download_message">Preuzeti paket: %1$s. veličina: %2$s. Pokušajte ponovno nakon što završi preuzimanje</string>
@@ -196,5 +196,5 @@
   <string name="widget_favorite_contacts_label">Omiljeni kontakti</string>
   <string name="widget_favorite_contacts_style">Veličina prebacivanja</string>
   <string name="widget_gadget_player">Glazba</string>
-  <string name="widget_global_search">Global search</string>
+  <string name="widget_global_search">Globalno pretraživanje</string>
 </resources>

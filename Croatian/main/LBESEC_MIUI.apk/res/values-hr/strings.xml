@@ -146,7 +146,7 @@
   <string name="HIPS_Perm_SendSMS_SMSC">SMS Centar:</string>
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Zadani SMS Centar</string>
   <string name="HIPS_Perm_SendSMS_Text">pošalji SMS poruku %1$s</string>
-  <string name="HIPS_Perm_SilenceRinger">utišaj zvonjavu</string>
+  <string name="HIPS_Perm_SilenceRinger">Utišaj zvonjavu</string>
   <string name="HIPS_Perm_WIFINetwork">WLAN</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Pristup Internetu putem WLAN-a</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplikacija ima dozvolu za pristup Internetu</string>
@@ -182,7 +182,7 @@
   <string name="Su_Unavailable">ROOT Dopuštenje je onemogućeno u stabilnoj verziji MIUI-a. Instalirajte MIUI Beta verziju za aktiviranje ROOT ovlasti.</string>
   <string name="SysOpt_Boost_AutoStart">Automatsko pokretanje dopuštenja</string>
   <string name="SysOpt_Boost_AutoStart_Group">Automatsko pokretanje</string>
-  <string name="SysOpt_Boost_Boot">Boot</string>
+  <string name="SysOpt_Boost_Boot">Pokretanje</string>
   <string name="SysOpt_Boost_Receiver">Pozadina</string>
   <string name="app_name">Dopuštenja</string>
 </resources>
