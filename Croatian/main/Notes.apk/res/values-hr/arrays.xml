@@ -50,7 +50,6 @@
         <item>8</item>
         <item>9</item>
     </string-array>
-    <array name="count_values">
         <item>@drawable/folder_digit_0</item>
         <item>@drawable/folder_digit_1</item>
         <item>@drawable/folder_digit_2</item>

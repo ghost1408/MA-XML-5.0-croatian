@@ -7,7 +7,7 @@
     <string name="man_add_application">Dodaj aplikacije za automatsko pokretanje</string>
     <string name="application_item_disable">Odbij</string>
     <string name="application_item_permission">Dopusti</string>
-    <string name="application_item_already_permission">Dopuušteno</string>
+    <string name="application_item_already_permission">Dopušteno</string>
     <string name="application_forbid_auto_startup">Spriječi %s da se pokrene u pozadini</string>
     <string name="floating_window_switch_label">Prikaži skočne prozore</string>
     <string name="floating_window_switch_label_disable">Sakrij skočne prozore</string>
@@ -171,7 +171,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="power_mode_screen_brightness">Svjetlina</string>
     <string name="power_mode_screen_brightness_manual">Ručno: %1$d%%</string>
     <string name="power_mode_screen_brightness_automatic">Automatski: %1$d%%</string>
-    <string name="power_mode_sleep">Sleep</string>
+    <string name="power_mode_sleep">Mirovanje</string>
     <string name="power_mode_sleep_in_seconds">nakon %1$d sekundi neaktivnosti</string>
     <string name="power_mode_sleep_in_minutes">nakon %1$d minuta neaktivnosti</string>
     <string name="power_mode_sleep_never">Nikad</string>
@@ -274,7 +274,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
     <string name="perm_show_system_app">Pokaži Aplikacije sustava</string>
     <string name="perm_hide_system_app">Sakrij Aplikacije sustava</string>
     <string name="perm_loading">Učitavanje...</string>
-    <string name="perm_operating">Odrada...</string>
+    <string name="perm_operating">Obrada...</string>
     <string name="perm_canceling">Otkazivanje...</string>
     <string name="perm_invalid_input">Nevaljan unos</string>
     <string name="perm_service_enabled">Usluga omogućena</string>
@@ -362,7 +362,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
     <string name="perm_hips_security_prompt_root_step1">Odobriti %1$s root dopuštenje?</string>
     <string name="perm_hips_security_prompt_root_step2">Odobravanje root dopuštenja može destabilizirati uređaj.</string>
     <string name="perm_hips_security_prompt_root_step3">Sigurnost vaših podataka može biti ugrožena.</string>
-    <string name="perm_hips_security_prompt_root_step4">"Neke aplikacije s root dopuštenjem može oštetiti hardver vašeg uređaja."</string>
+    <string name="perm_hips_security_prompt_root_step4">"Neke aplikacije s root dopuštenjem mogu oštetiti hardver vašeg uređaja."</string>
     <string name="perm_hips_security_prompt_root_step5">Budite oprezni: Odobrite root dopuštenje samo onim aplikacijama iz izvora kojem vjerujete.</string>
     <string name="perm_hips_security_prompt_root_step6">Odobriti %1$s root dopuštenje?</string>
     <string name="perm">Dozvole</string>
@@ -395,7 +395,7 @@ Preuzmite developer MIUI verziju za omogućavanje root dopuštenja."</string>
     <string name="perm_hips_disable_content">"MIUI će zaustaviti praćenje zahtjeva aplikacija i sigurnost srodnih sadržaja aplikacija."</string>
     <string name="perm_su_enable_title">Root dopuštenje</string>
     <string name="perm_su_enable_summary">Dopustiti aplikaciji  dobivanje root dopuštenja</string>
-    <string name="perm_su_enable_content">"Dopustiti aplikacije traženje root dopuštenja.
+    <string name="perm_su_enable_content">"Dopustiti aplikacijama traženje root dopuštenja.
 
 Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu destabilizirati uređaj, ugroziti sigurnost vaših podataka, i/ili oštetiti hardver vašeg uređaja."</string>
     <string name="perm_log_clear_title">Očisti zapise</string>
@@ -506,7 +506,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="score">Rezultat</string>
     <string name="seventy">70</string>
     <string name="valuation">Potrebno čišćenje</string>
-    <string name="virus_scan">Virus skeniranje</string>
+    <string name="virus_scan">Skeniranje Virusa</string>
     <string name="network_assistant">Upotreba podataka</string>
     <string name="anti_spam">Lista blokiranih</string>
     <string name="permission_mgr">Dopuštenja</string>
@@ -917,7 +917,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="bluetooth_visibility">Vidljivo</string>
     <string name="bluetooth_is_discoverable">Vidljivo svim Bluetooth uređajima u blizini (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Vidljivo svim Bluetooth uređajima u blizini</string>
-    <string name="bluetooth_not_visible_to_other_devices">Not visible to other Bluetooth devices</string>
+    <string name="bluetooth_not_visible_to_other_devices">Nije vidljivo drugim Bluetooth uređajima</string>
     <string name="bluetooth_only_visible_to_paired_devices">Vidljivo samo uparenim uređajima</string>
     <string name="bluetooth_not_discoverable">Učini uređaj vidljivim</string>
     <string name="bluetooth_visibility_timeout">Vidljivost je istekla</string>
@@ -1053,7 +1053,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="band_mode_set">Postavi</string>
     <string name="band_mode_failed">Neuspješno</string>
     <string name="band_mode_succeeded">Uspješno</string>
-    <string name="sdcard_changes_instructions">Promijene stupaju na snagu kod ponovnog priključivanja USB kabela.</string>
+    <string name="sdcard_changes_instructions">Promjene stupaju na snagu kod ponovnog priključivanja USB kabela.</string>
     <string name="sdcard_settings_screen_mass_storage_text">Omogući USB masovnu pohranu</string>
     <string name="sdcard_settings_total_bytes_label">Ukupno bajtova:</string>
     <string name="sdcard_settings_not_present_status">USB pohrana nije uključena.</string>
@@ -1081,7 +1081,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="airplane_mode">Način rada u zrakoplovu</string>
     <string name="radio_controls_title">Više</string>
     <string name="wireless_networks_settings_title">Bežično povezivanje i mreže</string>
-    <string name="radio_controls_summary">Upravljanje značajkama WLAN, Bluetooth, način rada u zrakoplovu, mobilne mreže i VPN-ovi</string>
+    <string name="radio_controls_summary">Upravljanje značajkama WLAN-a, Bluetooth, način rada u zrakoplovu, mobilne mreže i VPN-ovi</string>
     <string name="roaming">Roaming podataka</string>
     <string name="roaming_enable">Poveži se s podatkovnim uslugama u roamingu</string>
     <string name="roaming_disable">Poveži se s podatkovnim uslugama u roamingu</string>
@@ -1370,14 +1370,12 @@ Unesite PIN za uparivanje s \"%1$s\". [Omogućena Visoka Sigurnost: Potreban klj
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Ništa</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_connect">Poveži</string>
     <string name="wifi_failed_connect_message">Povezivanje s mrežom nije uspjelo</string>
@@ -2045,7 +2043,7 @@ Riječ možete dodati dodirom na gumb Dodaj (+)."</string>
     <string name="enforce_read_external_confirm_message">"Kad je USB pohrana zaštićena, aplikacije moraju tražiti dozvolu za čitanje podataka s vanjske pohrane
 
 Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string>
-    <string name="gadget_picker_title">Odaberi gadget</string>
+    <string name="gadget_picker_title">Odaberi napravu</string>
     <string name="widget_picker_title">Odaberi widget</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Želite izraditi widget i dozvoliti pristup?</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Kada izradite widget, aplikacija %1$s može pristupiti svim podacima koje taj widget prikazuje</string>
@@ -2100,7 +2098,6 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvijatelji."</string
     <string name="battery_stats_wifi_running_label">WLAN</string>
     <string name="battery_stats_wake_lock_label">Vrijeme budnosti uređaja</string>
     <string name="battery_stats_phone_signal_label">Signal mobilne mreže</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">Vrijeme budnosti uređaja</string>
     <string name="wifi_on_time">WLAN na vrijeme</string>
     <string name="bluetooth_on_time">WLAN na vrijeme</string>
@@ -2386,7 +2383,7 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
     <string name="track_frame_time_summary">Mjeri vrijeme rendiranja u adb shell dumpsys gfxinfo</string>
     <string name="window_animation_scale_title">Razmjer animacije prozora</string>
     <string name="transition_animation_scale_title">Razmjer animacije prijelaza</string>
-    <string name="animator_duration_scale_title">>Razmjer duljine animatora</string>
+    <string name="animator_duration_scale_title">Razmjer duljine animatora</string>
     <string name="debug_applications_category">Aplikacije</string>
     <string name="immediately_destroy_activities">"Nemoj čuvati aktivnosti"</string>
     <string name="immediately_destroy_activities_summary">Uništite svaku aktivnost čim je korisnik napusti</string>
@@ -2516,7 +2513,7 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="sel_sub_summary">Odaberite pretplatu za SUB-1 i SUB-2</string>
     <string name="select_subscription">Odaberite pretplatu</string>
     <string name="multi_sim_settings_title">Postavke Multi Sim-a</string>
-    <string name="multi_sim_settings_summary">Postavljanje Multi Sim postavki za glas , mobilne odatke i SMS</string>
+    <string name="multi_sim_settings_summary">Postavljanje Multi Sim postavki za glas, mobilne podatke i SMS</string>
     <string name="voice_title">Glas/USSD/MMI</string>
     <string name="voice_summary">Odaberite pretplatu za glasovni poziv</string>
     <string name="data_title">Poziv mobilnih podataka</string>
@@ -2547,7 +2544,7 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="user_market_apps_heading">Instalirane aplikacije</string>
     <string name="user_discard_user_menu">Odbaci</string>
     <string name="user_remove_user_menu">Ukloni korisnika</string>
-    <string name="user_new_user_name">Pesky kid</string>
+    <string name="user_new_user_name">Dosadno dijete</string>
     <string name="user_confirm_remove_title">Ukloniti korisnika?</string>
     <string name="user_confirm_remove_message">Prostor i podaci tog korisnika nestat će s ovog uređaja.</string>
     <string name="app_notifications_switch_label">Prilagođene obavijesti</string>
@@ -2568,18 +2565,18 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">masovna_pohrana</string>
-    <string name="do_not_disturb_mode">Ne ometaj me</string>
-    <string name="dndm_notification">\"Ne ometaj me\"  omogućeno.</string>
-    <string name="dndm_open">Ne ometaj me</string>
-    <string name="dndm_summary">Kada je omogućeno \"Ne ometaj me\“, pozivi i obavijesti pristigli dok je telefon zaključan biti će utišani.</string>
+    <string name="do_not_disturb_mode">Ne ometaj</string>
+    <string name="dndm_notification">\"Ne ometaj\" omogućeno.</string>
+    <string name="dndm_open">Ne ometaj</string>
+    <string name="dndm_summary">Kada je omogućeno \"Ne ometaj\“, pozivi i obavijesti pristigli dok je telefon zaključan biti će utišani.</string>
     <string name="dndm_auto_setting_group">Zakazano</string>
     <string name="dndm_auto_button_title">Vrijeme</string>
     <string name="dndm_auto_time_setting">Postavke vremena</string>
     <string name="dndm_auto_time_setting_summary">Od %1$s to %2$s</string>
     <string name="dndm_auto_time_turn_on">Od</string>
-    <string name="dndm_auto_time_turn_on_title">Automatski uključi \"ne ometaj me\" </string>
+    <string name="dndm_auto_time_turn_on_title">Automatski uključi \"ne ometaj\" </string>
     <string name="dndm_auto_time_turn_off">Do</string>
-    <string name="dndm_auto_time_turn_off_title">Automatski isključi \"ne ometaj me\" </string>
+    <string name="dndm_auto_time_turn_off_title">Automatski isključi \"ne ometaj\" </string>
     <string name="dndm_dlg_remove_vip">Ukloniti sa popisa iznimaka?</string>
     <string name="dndm_dlg_remove_ok">Ukloni</string>
     <string name="dndm_menu_add_vip_custom">Dodaj iznimku</string>
@@ -2595,7 +2592,7 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="dndm_vip_list_contact">Svi kontakti</string>
     <string name="dndm_vip_list_custom_group">Iznimke</string>
     <string name="dndm_repeated_call_setting_title">Ponovljeni pozivi</string>
-    <string name="dndm_repeated_call_summary_none">Utišaj ponovljene pozive od istog broja</string>
+    <string name="dndm_repeated_call_summary_none">Utišaj ponovljene pozive s istog broja</string>
     <string name="dndm_repeated_call_summary_3min">Ako vas isti pozivatelj nazove ponovo unutar 3 minute, telefon će zazvoniti</string>
     <string name="dndm_twelve_hour_time_format">a h:mm</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
@@ -2631,7 +2628,7 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="upload_debug_log_title">Program korisničkog iskustva</string>
     <string name="upload_debug_log_summary">Pomozi kompaniji Xiaomi pri poboljšavanju proizvoda i usluga šaljući anonimne dijagnostičke podatke i podatke o korištenju</string>
     <string name="device_miui_version">MIUI Verzija</string>
-    <string name="device_cpu">Ukupno CPU-aU</string>
+    <string name="device_cpu">Ukupno CPU-a</string>
     <string name="device_memory">RAM</string>
     <string name="device_internal_memory">Unutarnja pohrana</string>
     <string name="device_sd_memory">SD kartica</string>
@@ -2642,8 +2639,8 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="memory_title">Dostupno %1$s\u0009\u0009Total %2$s</string>
     <string name="xiaomi_account">Xiaomi Račun</string>
     <string name="sync_settings">Sinkronizacija</string>
-    <string name="sms_received_sound_title">Ton primljena poruka</string>
-    <string name="sms_delivered_sound_title">Ton isporučene poruke</string>
+    <string name="sms_received_sound_title">Zvuk primljene poruke</string>
+    <string name="sms_delivered_sound_title">Zvuk isporučene poruke</string>
     <string name="sms_received_sound_dialog_title">Odaberite zvuk za primljene SMS poruke</string>
     <string name="sms_delivered_sound_dialog_title">Odaberite zvuk za isporučene SMS poruke</string>
     <string name="haptic_feedback_level">Razina vibracije</string>
@@ -2669,7 +2666,7 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="screen_timeout_title">Način mirovanja</string>
     <string name="screen_never_timeout_title">Nikada ne miruj</string>
     <string name="screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
-    <string name="screen_on_proximity_sensor_summary">Phone will lock automatically when placed in a pocket</string>
+    <string name="screen_on_proximity_sensor_summary">Telefon će se automatski zaključati kada je stavljen u džep</string>
     <string name="preferred_launcher_title">Željeni pokretač</string>
     <string name="preferred_application_title">Željena %s</string>
     <string name="preferred_application_warning_title">Zamijeni zadano %s</string>
@@ -2681,9 +2678,9 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="screen_key_long_press">Dugi pritisak na navigacijske gumbe</string>
     <string name="screen_key_long_press_action">Pokreni funkciju</string>
     <string name="menu_key">Izbornik</string>
-    <string name="home_key">Početna</string>
+    <string name="home_key">Početni zaslon</string>
     <string name="back_key">Natrag</string>
-    <string name="screen_key_long_press_timeout">Definiraj vrijeme dugog pritiska</string>
+    <string name="screen_key_long_press_timeout">Odredi vrijeme dugog pritiska</string>
     <string name="under_keyguard">Zaključavanje zaslona</string>
     <string name="enable_snapshot_screenlock">Dugo pritisnite Natrag za Fotoaparat</string>
     <string name="disable_power_key_long_press_under_keyguard">Onemogući izbornik tipke za uključivanje</string>
@@ -2762,7 +2759,7 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="headset_calibrate_volume_down">Smanji glasnoću</string>
     <string name="headset_calibrate_prev_track">Prethodni zapis</string>
     <string name="headset_calibrate_next_track">Sljedeći zapis</string>
-    <string name="headset_calibrate_confirm">Primijeni nove funkcij?</string>
+    <string name="headset_calibrate_confirm">Primijeni nove funkcije?</string>
     <string name="headset_no_contected">Slušalice nisu otkrivene</string>
     <string name="headset_calibrate_wrong_key">"To je krivi gumb"</string>
     <string name="apn_new">Nova pristupna točka</string>
@@ -2815,7 +2812,7 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
     <string name="frequently_fragment_delete">Ukloni</string>
     <string name="show_fc">Prisilno zatvorne aplikacije</string>
-    <string name="show_fc_summary">Prikaži prisilno zatvrene apliakcije</string>
+    <string name="show_fc_summary">Prikaži prisilno zatvorene apliakcije</string>
     <string name="factory_reset_summary">"Izbriši sve podatke s unutarnje pohrane uređaja"</string>
     <string name="erase_sure">Osobni podaci</string>
     <string name="erase_personal_data">Osobni podaci</string>
@@ -2866,10 +2863,10 @@ S obzirom da se mjerenje korištenja podataka obavlja na tabletu a vaš pružate
     <string name="dolby_ieq_focused">Fokusiran</string>
     <string name="dolby_preset_select">Odaberite stil</string>
     <string name="dolby_eq_enter_alert_title">Uključi Dolby glazbeni način</string>
-    <string name="dolby_eq_enter_alert_msg">">EQ možete koristiti samo u Dolby glazbenom načinu. Omogućiti ga sada?</string>
-    <string name="dolby_volume_leveler">Volume leveler</string>
-    <string name="dolby_dialogue_enhancer">Dialogue enhancer</string>
-    <string name="dolby_surround_virtualizer">Surround sound</string>
+    <string name="dolby_eq_enter_alert_msg">"EQ možete koristiti samo u Dolby glazbenom načinu. Omogućiti ga sada?</string>
+    <string name="dolby_volume_leveler">Nivelator glasnoće</string>
+    <string name="dolby_dialogue_enhancer">Pojačivač dijaloga</string>
+    <string name="dolby_surround_virtualizer">Zvuk okruženja</string>
     <string name="dirac_mode_off">Isključena optimizacije zvuka</string>
     <string name="dirac_mode_in_ear">Xiaomi slušalice za umetanje u uho</string>
     <string name="dirac_mode_earbuds">Xiaomi slušalice</string>
@@ -2908,9 +2905,9 @@ Pokušajte sljedeće:
 Pokušajte ponovno spojiti USB kabel."</string>
     <string name="msd_install_retry_mac">"Ako računalo ne može detektirati vaš uređaj,
 Pokušajte sljedeće:
-"<li>"Do a search for
+"<li>"Učinite potragu za
 Android File Transfer,
-and run the software."</li>"
+i pokrenite softver."</li>"
 "<li>Ponovno spojite USB kabel.</li>"
 "<li>Ponovno instalirajte upravljački program.</li></string>
     <string name="msd_install_retry_linux">"Ako računalo ne može detektirati vaš uređaj,

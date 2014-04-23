@@ -115,7 +115,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="callrecordview_menu_show_accepted">Prikaži dolazne pozive</string>
   <string name="callrecordview_menu_show_all">Prikaži sve pozive</string>
   <string name="callrecordview_menu_show_called">Prikaži odolazne pozive</string>
-  <string name="callrecordview_menu_show_missed">Prikaži ppropuštene pozive</string>
+  <string name="callrecordview_menu_show_missed">Prikaži propuštene pozive</string>
   <string name="callrecordview_menu_show_new">Novi kontakti</string>
   <string name="callrecordview_menu_show_stranger">Prikaži nepoznate pozive</string>
   <string name="callrecordview_menu_show_title">Odaberite vrstu popisa poziva koji će biti prikazani</string>
@@ -125,7 +125,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="cancel_import_dialog_message">Sigurno želite prekinuti uvoz kontakata?</string>
   <string name="cancel_import_dialog_title">Prekini uvoz</string>
   <string name="cancel_vcard_import_or_export_failed">"Uvoz/izvoz kartice vCard nije otkazan"</string>
-  <string name="chat">Chat</string>
+  <string name="chat">Čavrljanje</string>
   <string name="chat_aim">AIM</string>
   <string name="chat_gtalk">Google Talk</string>
   <string name="chat_icq">ICQ</string>
@@ -270,7 +270,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="deselect_all">Poništi odabir za sve</string>
   <string name="device_bluetooth_title">Prijenos kontakata</string>
   <string name="device_brand_title">Odaberi marku</string>
-  <string name="device_import_account_dialog_title">Odaberi račun za uvzo</string>
+  <string name="device_import_account_dialog_title">Odaberi račun za uvoz</string>
   <string name="device_import_account_dialog_title_suffix">"
   (nađeno %1$s kontakata)"</string>
   <string name="device_import_done_toast">%1$d kontakata uvezeno</string>
@@ -755,7 +755,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_smart_group_location_summary">Poredaj po pozivnom broju</string>
   <string name="preference_smart_group_location_title">Po lokaciji</string>
   <string name="preference_smart_group_title">Smart skupine</string>
-  <string name="preference_telocation_summary_countrycode_off">"Ne birj automatski pozivni broj"</string>
+  <string name="preference_telocation_summary_countrycode_off">"Ne biraj automatski pozivni broj"</string>
   <string name="preference_telocation_summary_countrycode_on">Automatski biraj pozivni broj</string>
   <string name="preference_telocation_summary_teloc_off">Sakrij lokaciju kontakta</string>
   <string name="preference_telocation_summary_teloc_on">Pokaži lokaciju kontakta</string>

@@ -463,7 +463,6 @@
   <string name="pref_setting_title">Postavke stranice</string>
   <string name="pref_text_zoom">Skaliranje teksta</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">Niz korisničkog agenta</string>
   <string name="pref_ua_title">Upravljanje korisničkim agentom</string>
   <string name="pref_use_instant_search">Google instant pretraživanje</string>

@@ -11,8 +11,8 @@
   <string name="auth_notif_title">Zahtjevan ključ sesije za PBAP zahtjev</string>
   <string name="bpp_authentication_timeout_message">Isteklo je vrijeme za unos ključa sesije za %1$s</string>
   <string name="bpp_cancel">Otkaži</string>
-  <string name="bpp_main">Bluetooth printing</string>
-  <string name="bpp_printing_button_text">Printing</string>
+  <string name="bpp_main">Bluetooth ispis</string>
+  <string name="bpp_printing_button_text">Ispis</string>
   <string name="bpp_session_key_dialog_header">Zahtjevan ključ sesije za Bluetooth</string>
   <string name="bpp_session_key_dialog_title">Upiši ključ sesije za %1$s</string>
   <string name="bpp_setting_text">Postavke</string>

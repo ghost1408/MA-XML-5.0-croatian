@@ -9,7 +9,7 @@
   <string name="apply_existing_update_md5error_title">MD5 potpis ne odgovara</string>
   <string name="apply_later_button_text">Primjeni kasnije</string>
   <string name="apply_now_button_text">Ažurirati sada</string>
-  <string name="apply_unable_to_reboot_toast">Nije moguće ponovno pokretanje za ući u recovery</string>
+  <string name="apply_unable_to_reboot_toast">Nije moguće ponovno pokretanje za ulaz u recovery</string>
   <string name="apply_update_dialog_cancel_button">Otkaži</string>
   <string name="apply_update_dialog_update_button">Ažuriranje</string>
   <string name="apply_update_fail">Ažuriranje sistema nije uspjelo</string>

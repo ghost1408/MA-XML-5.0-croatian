@@ -282,12 +282,6 @@
   <string name="mailbox_name_display_sent">Poslano</string>
   <string name="mailbox_name_display_trash">Smeće</string>
   <string name="mailbox_name_display_unread">Nepročitano</string>
-  <string name="mailbox_name_server_drafts">Skice</string>
-  <string name="mailbox_name_server_inbox">Pristigla pošta</string>
-  <string name="mailbox_name_server_junk">Otpad</string>
-  <string name="mailbox_name_server_outbox">Izlazna pošta</string>
-  <string name="mailbox_name_server_sent">Poslano</string>
-  <string name="mailbox_name_server_trash">Smeće</string>
   <string name="mailbox_preferences_header">Postavke sinkronizacije</string>
   <string name="mailbox_settings_action">Mogućnosti sinkronizacije</string>
   <string name="mailbox_settings_activity_title">Mogućnosti sinkronizacije</string>

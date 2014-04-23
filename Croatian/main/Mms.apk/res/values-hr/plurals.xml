@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Broj razgovora koji će biti izbrisani: %1$s?</item>
+        <item quantity="other">Izbrisati odabrane %1$s razgovore?</item>
         <item quantity="one">Brisati ovaj razgovor?</item>
     </plurals>
     <plurals name="slide_duration">
@@ -10,14 +10,14 @@
         <item quantity="few">%s sek</item>
     </plurals>
     <plurals name="search_results_title">
-       <item quantity="other">%1$s rezultata za \"%2$s\"</item>
+        <item quantity="other">%1$s rezultata za \"%2$s\"</item>
         <item quantity="one">%1$s rezultat za \"%2$s\"</item>
     </plurals>
     <plurals name="recipient_count">
-        <item quantity="other">Broj osoba: %1$s<item>
+        <item quantity="other">%1$s osoba</item>
     </plurals>
     <plurals name="message_count">
-       <item quantity="other">Još ovoliko poruka: %1$s</item>
-        <item quantity="one">Još %1$s poruka</item>
+        <item quantity="other">%1$s poruka</item>
+        <item quantity="one">%1$s poruka</item>
     </plurals>
 </resources>

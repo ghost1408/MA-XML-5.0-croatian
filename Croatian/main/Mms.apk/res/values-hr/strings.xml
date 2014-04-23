@@ -209,11 +209,11 @@
   <string name="multimedia_message">Multimedijska poruka</string>
   <string name="multimedia_notification">Obavijest o multimedijskoj poruci</string>
   <string name="mx_activate_error_malformed_info">Neuspjelo aktiviranje Cloud Messaging-a, potrebna je ponovna aktivacija Cloud Messaging-a</string>
-  <string name="mx_activate_error_server">Server aktivacija nije uspjela aktivirati Cloud Messaging</string>
+  <string name="mx_activate_error_server">Poslužitelj aktivacija nije uspjio aktivirati Cloud Messaging</string>
   <string name="mx_activate_error_sim_change">SIM kartica promijenjena, potrebna je ponovna aktivacija Cloud Messaging-a</string>
   <string name="mx_activate_error_title">Neuspjelo aktiviranje Cloud Messaging-a</string>
   <string name="mx_activate_hint_malformed_info">Operacija prekinuta, potrebna je ponovna aktivacija Cloud Messaging-a. Želite li aktivirati sada?</string>
-  <string name="mx_activate_hint_server">Server aktivacija nije uspjela aktivirati Cloud Messaging. Želite li aktivirati sada?</string>
+  <string name="mx_activate_hint_server">Poslužitelj aktivacija nije uspio aktivirati Cloud Messaging. Želite li aktivirati sada?</string>
   <string name="mx_activate_hint_sim_change">SIM kartica promijenjena, potrebna je ponovna aktivacija Cloud Messaging-a. Želite li aktivirati sada?</string>
   <string name="mx_activate_int_hint_malformed_info">Pogreška kod obrade zahtjeva. Međunarodni SMS je potreban za ponovnu aktivaciju Cloud Messaging-a. Želite li aktivirati sada?</string>
   <string name="mx_activate_int_hint_server">Aktivacija s poslužiteljem nije uspjela za Cloud Messaging, međunarodni SMS je potreban za ponovnu aktivaciju Cloud Messaging-a to reactivate Cloud Messaging. Želite li aktivirati sada?</string>

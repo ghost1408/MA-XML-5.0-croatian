@@ -130,7 +130,7 @@
   <string name="HIPS_Perm_ROOT_Desc">Zahtjev ROOT Dopuštenja</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Nedostupno u stabilnoj verziji MIUI-a</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s aplikacija ima dozvolu za dobivanje ROOT Dopuštenja</string>
-  <string name="HIPS_Perm_ROOT_Title">dobivanje ROOT Dopuštenja</string>
+  <string name="HIPS_Perm_ROOT_Title">Dobivanje ROOT Dopuštenja</string>
   <string name="HIPS_Perm_RejectAll">Odbij sve</string>
   <string name="HIPS_Perm_SMS">SMS</string>
   <string name="HIPS_Perm_SMS_Access">čitanje vaših dolaznih SMS-a</string>

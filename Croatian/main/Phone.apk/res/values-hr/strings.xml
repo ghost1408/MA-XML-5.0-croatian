@@ -17,7 +17,6 @@
   <string name="administrative_disable">Upravljanje onemogućeno</string>
   <string name="administrative_enable">Upravljanje omogućen</string>
   <string name="advanced_settings">Opcijske postavke</string>
-  <string name="advanced_settings_container">Spremnik naprednih postavki</string>
   <string name="advanced_settings_hide">▽ Dotaknuti za sakriti sve</string>
   <string name="advanced_settings_show">▷ Dotakni za prikazati sve</string>
   <string name="advertisements_disable">Oglašavanja onemogućena</string>
@@ -55,8 +54,7 @@
   <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Slušalice</string>
   <string name="audio_mode_speaker">Zvučnik</string>
-  <string name="audio_mode_wired_headset">Žičane slušalice</string>
-  <string name="auth_username">Autentikacija korisničkog imena</string>
+  <string name="audio_mode_wired_headset">Žičane slušalice</string> 
   <string name="auth_username_summary">Korisničko ime korišteno za autentikaciju</string>
   <string name="auth_username_title">Autentikacija korisničkog imena</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -368,7 +366,6 @@
   <string name="">Prikazano ime</string>
   <string name="display_name_summary">&lt;Isto kao i korisničko ime&gt;</string>
   <string name="display_name_title">Prikaži ime</string>
-  <string name="domain_address">SipDomena</string>
   <string name="domain_address_title">Poslužitelj</string>
   <string name="doneButton">Gotovo</string>
   <string name="dtmf_tone_enable_title">Zvukovi tipkovnice</string>
@@ -465,7 +462,7 @@
   <string name="fdn_summary_miui">Sve postavke poviše su onemogućene kada je FDN omogućen</string>
   <string name="fdn_unavailable">FDN usluga nije dostupna</string>
   <string name="fw_change_failed">"Proslijeđivanje broja neuspješno.
-Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.<string>
+Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</string>
   <string name="fw_get_in_vm_failed">Dohvaćanje i spremanje trenutnih postavki prosljeđivanja broja neuspješno.
 Želite li se ipak prebaciti na drugog davatelja usluga?"</string>
   <string name="general_news_settings">Opće vijesti</string>
@@ -717,7 +714,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.<string
   <string name="ota_unsuccessful">"Vaš telefon nije aktiviran. Potražite mjesto sa boljom pokrivenosti signalom (blizu prozora, ili vani). Pokušajte ponovo ili zovite službu za korisnike za više opcija."</string>
   <string name="other_settings">Ostale postavke poziva</string>
   <string name="other_settings_miui">Ostale postavke</string>
-  <string name="password">Zaporka</string>
   <string name="password_title">Zaporka</string>
   <string name="pause_prompt_no">Ne</string>
   <string name="pause_prompt_str">"Slanje zvukova"</string>
@@ -753,7 +749,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.<string
   <string name="pin_progress_unlock_icc_miui">Otključavanje SIM kartice…</string>
   <string name="place_a_call1">Pretplata 1</string>
   <string name="place_a_call2">Pretplata 2</string>
-  <string name="port">Port</string>
   <string name="port_title">broj porta</string>
   <string name="pref_custom_location_summary_miui">Prilagodite regionalne pripisivanje i broj pripisivanja</string>
   <string name="pref_custom_location_title_miui">Prilagodite pripisivanje</string>
@@ -794,7 +789,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.<string
   <string name="progress_dialog_exiting_ecm">Isključivanje ECM</string>
   <string name="prompt">Pitaj</string>
   <string name="prompt_user">Pitaj korisnika</string>
-  <string name="proxy_address">ProxyAdresa</string>
   <string name="proxy_address_title">Odlazna proxy adresa</string>
   <string name="pstn_phone">Poziv s mobilnog uređaja</string>
   <string name="puk2_blocked">PUK2 je trajno blokiran.</string>
@@ -891,7 +885,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.<string
   <string name="select_automatically">Odaberi automatski</string>
   <string name="sendSms">Pošalji SMS</string>
   <string name="send_button">Pošalji</string>
-  <string name="send_keepalive">PošaljiKeepAlive</string>
   <string name="send_keepalive_title">Pošalji keep-alive</string>
   <string name="separate_from_conference_miui">Jedan poziv</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Željena vrsta mreža dostupna samo kada su mobilni podaci onemogućeni</string>
@@ -938,10 +931,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.<string
   <string name="sip_accounts">Računi za internet pozivanje (SIP)</string>
   <string name="sip_accounts_title">Računi</string>
   <string name="sip_add_account_tip_text">Dodajte SIP račun za internet pozivanje</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Uvijek pošalji</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Za sve pozive kada je mreža dostupna</string>
   <string name="sip_call_options_entry_2">Samo za internet pozive</string>
   <string name="sip_call_options_entry_3">Pitaj za svaki poziv</string>
@@ -1034,7 +1024,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.<string
   <string name="throttle_time_frame">Razdoblje korištenja podataka</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ ciklusa proteklo. Sljedeće razdoblje započinje u %2$d dana (%3$s)"</string>
   <string name="title_data_settings">Postavke podataka</string>
-  <string name="transport">Protokol</string>
   <string name="transport_title">Tip prijenosa</string>
   <string name="tty_mode_entries_full_miui">TTY Pun</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1059,7 +1048,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.<string
   <string name="updating_settings">Ažuriranje postavki...</string>
   <string name="updating_title">Ažuriraj postavke poziva</string>
   <string name="username">Korisničko ime</string>
-  <string name="username_title">Korisničko ime</string>
   <string name="ussdRunning">USSD kod pokrenut…</string>
   <string name="vibrate_on_ring_title">Vibriraj kad zvoni</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte. Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
