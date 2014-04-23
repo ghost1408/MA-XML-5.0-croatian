@@ -602,7 +602,7 @@
   <string name="webapp_web_goback">Natrag</string>
   <string name="website_settings_clear_all">Izbriši sve</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Odustani</string>
-  <string name="website_settings_clear_all_dialog_message">Izbrisati sve podatke web-lokacije i dopuštenja lokacija?<</string>
+  <string name="website_settings_clear_all_dialog_message">Izbrisati sve podatke web-lokacije i dopuštenja lokacija?</string>
   <string name="website_settings_clear_all_dialog_ok_button">U redu</string>
   <string name="webstorage_clear_data_dialog_cancel_button">Odustani</string>
   <string name="webstorage_clear_data_dialog_message">Izbrisati sve podatke pohranjene na ovoj web-lokaciji?</string>
