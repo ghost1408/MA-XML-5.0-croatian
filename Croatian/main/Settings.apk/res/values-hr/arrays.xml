@@ -22,7 +22,6 @@
         <item>8</item>
         <item>9</item>
     </string-array>
-    </array>
     <string-array name="power_mode_entries">
         <item>Performanse</item>
         <item>Balansirano</item>

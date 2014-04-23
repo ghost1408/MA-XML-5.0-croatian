@@ -1047,7 +1047,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="updating_fdn_contact">Ažuriranje broja za fiksno biranje (FDN)...</string>
   <string name="updating_settings">Ažuriranje postavki...</string>
   <string name="updating_title">Ažuriraj postavke poziva</string>
-  <string name="username">Korisničko ime</string>
   <string name="ussdRunning">USSD kod pokrenut…</string>
   <string name="vibrate_on_ring_title">Vibriraj kad zvoni</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte. Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
