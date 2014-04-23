@@ -25,7 +25,7 @@
         <item quantity="one">1 grupa</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">Broj ljudi: %1$d iz grupe %2$s</item>
+        <item quantity="other">Broj osoba: %1$d iz grupe %2$s</item>
         <item quantity="one">%1$d osoba iz grupe %2$s</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">

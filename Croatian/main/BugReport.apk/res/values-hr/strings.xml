@@ -7,7 +7,7 @@
   <string name="description">Opis (potreban)</string>
   <string name="discard_draft_dialog_button_cancel">Otkaži</string>
   <string name="discard_draft_dialog_button_discard">U redu</string>
-  <string name="discard_draft_dialog_content">Izvješće je izmijenjeno, kliknite "U redu" odbacivanje skice</string>
+  <string name="discard_draft_dialog_content">Izvješće je izmijenjeno, kliknite "U redu" za odbacivanje skice</string>
   <string name="discard_draft_dialog_title">Odbaci skicu</string>
   <string name="err_type">Tip korisničkog mišljenja</string>
   <string name="err_type_call">Problemi poziva</string>

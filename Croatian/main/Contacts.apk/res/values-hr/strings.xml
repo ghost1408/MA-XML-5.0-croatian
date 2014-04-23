@@ -143,7 +143,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="clearFrequentsConfirmation_title">Brisati podatke o čestim kontaktima?</string>
   <string name="clearFrequentsProgress_title">Brisanje često kontaktiranih...</string>
   <string name="clear_default">Izbriši zadano</string>
-  <string name="clear_digits">obriši broj telefona</string>
+  <string name="clear_digits">Obriši broj telefona</string>
   <string name="click_close">Kliknite zaslon da zatvorite</string>
   <string name="close_dial_pad">zatvori brojčanik</string>
   <string name="cloud_antispam_mark">Spam</string>
@@ -266,7 +266,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="description_version_szie">Verzija: %1$s Veličina: %2$s</string>
   <string name="description_view_contact">Prikaži kontakt %1$s</string>
   <string name="description_view_contact_detail">Prikaži kontakt</string>
-  <string name="description_voicemail_button">voicemail</string>
+  <string name="description_voicemail_button">govorna pošta</string>
   <string name="deselect_all">Poništi odabir za sve</string>
   <string name="device_bluetooth_title">Prijenos kontakata</string>
   <string name="device_brand_title">Odaberi marku</string>
@@ -591,7 +591,7 @@ Za dodavanje kontakata, dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font><
   <string name="noContactsHelpTextForCreateShortcut">"Nemate kontakata za prikaz."</string>
   <string name="noContactsHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
 
-Za dodavanje kontakata, dodirnite ""<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
+Za dodavanje kontakata, dodirnite ""<b><font fgcolor="#ffffffff">Menu</font></b>", onda dodirnite:
  
 "<b><font fgcolor="#ffffffff"><li>"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom
 "</li></font></b>" 
@@ -810,7 +810,7 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_account_login_title">Prijava</string>
   <string name="resource_account_switch">Promijeni račun</string>
   <string name="resource_alarm_default">Alarm</string>
-  <string name="resource_app_name">Izvori  preglednika</string>
+  <string name="resource_app_name">Izvori preglednika</string>
   <string name="resource_apply">Primijeni</string>
   <string name="resource_apply_trial">Pokušajte sad</string>
   <string name="resource_buy">Kupi</string>
@@ -850,7 +850,7 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_comment_upload_not_bought">Molimo koristite ovu temu prije ostavljanja komentara.</string>
   <string name="resource_comment_upload_not_logined">Prvo se morate prijaviti</string>
   <string name="resource_comment_upload_success">Komentar poslan! Vaš komentar će biti prikazan nakon pregleda.</string>
-  <string name="resource_default">Zadani zvuk zvonae</string>
+  <string name="resource_default">Zadani zvuk zvona</string>
   <string name="resource_default_name">Izvor</string>
   <string name="resource_delete_all">Izbrisati %1$d odabrane izvore?</string>
   <string name="resource_delete_confirm">Izbrisati odabrane izvore?</string>
@@ -890,7 +890,7 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_exchange_wrong_format_by_server">"Poklon kod nije mogao biti potvrđen. Provjerite je li točno unesen."</string>
   <string name="resource_expand_full_text">Proširi</string>
   <string name="resource_get_auth_checking">Provjera ovlaštenja...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Tema ne može raditi na trenutnom uređaja, dostigli ste limit 10 tema, molimo vas da koristite neki drugi uređaj</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Tema ne može raditi na trenutnom uređaju, dostigli ste limit 10 tema, molimo vas da koristite neki drugi uređaj</string>
   <string name="resource_get_auth_exceed_max_limit_title">Prekoračen limit ovlaštenja</string>
   <string name="resource_get_auth_missing">Tema nije preuzeta iz službenog marketa, preuzmite slične onima iz službenog marketa.</string>
   <string name="resource_get_auth_retrieving">Preuzimam ovlaštenja...</string>
@@ -914,7 +914,7 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_present">Poklon</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Besplatno</string>
-  <string name="resource_price_unit">" MiCredits"</string>
+  <string name="resource_price_unit">" MiCrediti"</string>
   <string name="resource_purchase_getting_order">Preuzimam narudžbu…</string>
   <string name="resource_purchase_verifying_payment">Potvrda uplate…</string>
   <string name="resource_purchase_waiting_payment">Čekam potvrdu plaćanja…</string>
@@ -1119,7 +1119,7 @@ Odaberite jednu od sljedećih opcija:"</string>
   <string name="viewContactTitle">Pojedinosti kontakta</string>
   <string name="view_updates_from_group">Prikaži ažuriranja</string>
   <string name="voicemail">Govorna pošta</string>
-  <string name="voicemail_buffering">Buffering…</string>
+  <string name="voicemail_buffering">Međupohrana…</string>
   <string name="voicemail_fetching_content">Preuzimam govornu poštu…</string>
   <string name="voicemail_fetching_timout">"Nije moguće dohvatiti govornu poštu."</string>
   <string name="voicemail_playback_error">"Nije moguće reproducirati govornu poštu."</string>
