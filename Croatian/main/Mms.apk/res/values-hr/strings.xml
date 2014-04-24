@@ -22,7 +22,7 @@
   <string name="adding_attachments">Pričekajte završetak dodavanja stavki u dijaprojekciju.</string>
   <string name="adding_attachments_title">Dodavanje privitaka</string>
   <string name="adding_recipients">Dodavanje primatelja…</string>
-  <string name="app_label">Slanje poruke</string>
+  <string name="app_label">Poruke</string>
   <string name="attach_image">Slike</string>
   <string name="attach_record_sound">Zvuk sa ploče</string>
   <string name="attach_record_video">Snimi videozapis</string>
@@ -310,7 +310,7 @@ Prijavite greške i pošaljite svoje mišljenje Xiaomi-u direktno.”</string>
   <string name="pref_title_mms_auto_retrieval">Automatsko vraćanje</string>
   <string name="pref_title_mms_delete">Ograničenje multimedijske poruke</string>
   <string name="pref_title_mms_read_reports">Čitaj izvješća</string>
-  <string name="pref_title_mms_retrieval_during_roaming">Automatsko vraćanje u Roaming-u</string>
+  <string name="pref_title_mms_retrieval_during_roaming">Automatsko vraćanje u Roamingu</string>
   <string name="pref_title_new_message_popup">Skočni prozor nove poruke</string>
   <string name="pref_title_notification_body_enabled">Prikaži obavijest</string>
   <string name="pref_title_ringtone_repeat">Učestalost podsjetnika zvuka zvona</string>

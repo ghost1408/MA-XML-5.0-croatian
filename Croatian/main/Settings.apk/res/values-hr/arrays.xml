@@ -63,7 +63,7 @@
         <item>Uvijek provjeri</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-         <item>Kratko</item>
+        <item>Kratko</item>
         <item>Srednje</item>
         <item>Dugo</item>
     </string-array>
@@ -148,7 +148,7 @@
         <item>Nikad</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-       <item>Viskoke performanse</item>
+        <item>Viskoke performanse</item>
         <item>Balansirano</item>
         <item>Štednja baterije</item>
     </string-array>
@@ -196,19 +196,19 @@
         <item>"Imate previše pokrenutih aplikacija u pozadini…"</item>
     </string-array>
     <string-array name="screen_color_title">
-       <item>Toplo</item>
+        <item>Toplo</item>
         <item>Standardno</item>
         <item>Hladno</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
-       <item>Ništa</item>
+        <item>Ništa</item>
         <item>Pokaži nedavne aplikacije</item>
         <item>Pokreni upravitelje</item>
         <item>Pokreni Google now</item>
         <item>Zatvori trenutnu aplikaciju</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-         <item>0.5 sekunde</item>
+        <item>0.5 sekunde</item>
         <item>1 sekunda</item>
         <item>1.5 sekunda</item>
         <item>2 sekunde</item>
@@ -270,12 +270,12 @@
         <item>Jako brzo</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-          <item>Pitaj kod veze</item>
+        <item>Pitaj kod veze</item>
         <item>Samo punjenje</item>
         <item>Učitaj SD karticu</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
-       <item>Vrijeme upotrebe</item>
+        <item>Vrijeme upotrebe</item>
         <item>Pokreni brojanje</item>
         <item>Naziv aplikacije</item>
     </string-array>
@@ -287,7 +287,7 @@
         <item>Majmun</item>
     </string-array>
     <string-array name="vpn_states">
-       <item>Nije povezano</item>
+        <item>Nije povezano</item>
         <item>Pokreće se...</item>
         <item>Povezivanje…</item>
         <item>Povezano</item>
@@ -295,7 +295,7 @@
         <item>Neuspješno</item>
     </string-array>
     <string-array name="vpn_types_long">
-     <item>PPTP VPN</item>
+        <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN s unaprijed dijeljenim ključevima</item>
         <item>L2TP/IPSec VPN s certifikatima</item>
         <item>IPSec VPN s unaprijed dijeljenim ključevima i Xauth autentifikacijom</item>
@@ -303,7 +303,7 @@
         <item>IPSec VPN s certifikatima i hibridnom autentifikacijom</item>
     </string-array>
     <string-array name="wfd_status">
-         <item>Uređaj povezan, kreiram sesiju…</item>
+        <item>Uređaj povezan, kreiram sesiju…</item>
         <item>Sesija kreirana.</item>
         <item>Pucanje sesije…</item>
         <item>Sesija neuspješna.</item>
@@ -325,7 +325,7 @@
         <item>Statično</item>
     </string-array>
     <string-array name="wifi_p2p_status">
-      <item>Povezano</item>
+        <item>Povezano</item>
         <item>Pozvano</item>
         <item>Neuspješno</item>
         <item>Dostupno</item>
@@ -337,7 +337,7 @@
         <item>PIN s ovog uređaja</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-          <item>Ništa</item>
+        <item>Ništa</item>
         <item>Ručno</item>
     </string-array>
     <string-array name="wifi_signal">
@@ -347,12 +347,12 @@
         <item>Odličan</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-       <item>Uvijek</item>
+        <item>Uvijek</item>
         <item>Samo kad je uključeno</item>
         <item>Nikada (povećava promet podataka)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-       <item>Uvijek</item>
+        <item>Uvijek</item>
         <item>Samo kad je uključeno</item>
         <item>Nikad</item>
     </string-array>
@@ -371,7 +371,7 @@
         <item>Privremeno izbjegavanje loše veze</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
-         <item></item>
+        <item></item>
         <item>Skeniranje…</item>
         <item>Povezivanje na mrežu %1$s…</item>
         <item>Autentikacija s mrežom %1$s…</item>
