@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="calendar_storage">Calendar Storage</string>
-    <string name="upgrade_msg">Upgrading Calendar database.</string>
-    <string name="calendar_default_name">Default</string>
-    <string name="calendar_info">Calendar info</string>
-    <string name="calendar_info_error">Error</string>
-    <string name="calendar_info_no_calendars">No calendars</string>
-    <string name="calendar_info_events">Events: %1$d</string>
-    <string name="calendar_info_events_dirty">Events: %1$d, Unsaved: %2$d</string>
-    <string name="provider_label">Calendar</string>
-    <string name="debug_tool_delete_button">Delete now</string>
-    <string name="debug_tool_start_button">Start</string>
-    <string name="debug_tool_message">You are about to 1) make a copy of your calendar database to the SD card/USB storage, which is readable by any app, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
-    <string name="debug_tool_email_sender_picker">Choose a program to send your file</string>
-    <string name="debug_tool_email_subject">Calendar Db attached</string>
-    <string name="debug_tool_email_body">Attached is my Calendar database with all my appointments and personal information. Handle with care.</string>
-    <string name="holiday_update_title">Work days data need connect network and update</string>
-    <string name="holiday_update_summary">Click check updates</string>
-    <string name="holiday_data_updating">Updating...</string>
-    <string name="holiday_data_update_failed">Check for update errors and please try again later.</string>
-    <string name="holiday_data_update_succeed">Check for completed update</string>
-    <string name="holiday_data_no_network">No network, please try again later</string>
+    <string name="calendar_storage">Kalendar pohrana</string>
+    <string name="upgrade_msg">Nadogradnja baze podataka Kalendara</string>
+    <string name="calendar_default_name">Zadano</string>
+    <string name="calendar_info">Detalji kalendara</string>
+    <string name="calendar_info_error">Greška</string>
+    <string name="calendar_info_no_calendars">Nema kalendara</string>
+    <string name="calendar_info_events">Događaji: %1$d</string>
+    <string name="calendar_info_events_dirty">Događaji: %1$d, Unsaved: %2$d</string>
+    <string name="provider_label">Kalendar</string>
+    <string name="debug_tool_delete_button">Izrisati sada</string>
+    <string name="debug_tool_start_button">Započni</string>
+    <string name="debug_tool_message">Spremate se 1) napraviti kopiju baze podataka kalendara na SD karticu/USB uređaj za pohranu koji može čitati bilo koja aplikacija, i 2) poslati e-poštom. Ne zaboravite izbrisati kopiju čim je uspješno kopirano na uređaj ili e-pošta primljena.</string>
+    <string name="debug_tool_email_sender_picker">Odaberite program za slanje datoteke</string>
+    <string name="debug_tool_email_subject">Kalendar Db u prilogu</string>
+    <string name="debug_tool_email_body">U prilogu je moj kalendar baze podataka sa svim mojim obvezama i osobnim podacima. Pažljivo s njime.</string>
+    <string name="holiday_update_title">Podaci radnih dana trebaju povezivanje na mrežu i ažuriranje</string>
+    <string name="holiday_update_summary">Kliknite provjerite ažuriranja</string>
+    <string name="holiday_data_updating">Ažuriranje...</string>
+    <string name="holiday_data_update_failed">Provjeri pogreške ažuriranja i pokušajte ponovno kasnije.</string>
+    <string name="holiday_data_update_succeed">Provjerite za završena ažuriranja</string>
+    <string name="holiday_data_no_network">Nema mreže, pokušajte ponovno kasnije</string>
 </resources>
