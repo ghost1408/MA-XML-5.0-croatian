@@ -171,7 +171,7 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
     <string name="free_time_traffic_hint">Unesite ograničenje Isklj.vrha podataka</string>
     <string name="traffic_protection_label">Upozorenje uporabe podataka</string>
     <string name="traffic_protection_summary">Postavi upozorenja kada uporaba podataka dosegne određenu razinu</string>
-    <string name="traffic_protection_unknown">&lt;u>Postaviti kasnije&lt;/u></string>
+    <string name="traffic_protection_unknown">Postaviti kasnije</string>
     <string name="traffic_protection_text_hint">Postavite ograničenje uporaba podataka</string>
     <string name="traffic_protection_next">Dalje</string>
     <string name="traffic_protection_data_usage_summary">"Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga može dovesti do povećanih troškova."</string>

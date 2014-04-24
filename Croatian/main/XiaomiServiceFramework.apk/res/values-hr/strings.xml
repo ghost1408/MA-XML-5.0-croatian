@@ -77,7 +77,7 @@
   <string name="dirty_mms_count">%d poruka</string>
   <string name="dirty_note_count">%d bilješka</string>
   <string name="disable_find_device_error">%1$s, neuspjelo onemogućavanje lociranja uređaja</string>
-  <string name="disable_micloud">&lt;u&gt;Ne omogućiti MiCloud&lt;/u&gt;</string>
+  <string name="disable_micloud">Ne omogućiti MiCloud</string>
   <string name="email_already_be_used">Adresa e-pošte je već u uporabi</string>
   <string name="enableAll">Omogući sve</string>
   <string name="enable_find_device_error">%1$s, neuspjelo omogućivanje lociranja uređaja</string>
@@ -171,7 +171,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="micloud_intro_01_part_02">MIUI vam omogućuje slanje cloud poruka besplatno putem mreže</string>
   <string name="micloud_intro_02_part_01">Ne morate ništa raditi</string>
   <string name="micloud_intro_02_part_02">Cloud usluge vam pomažu sinkronizirati kontakte, poruke, fotografije i ostale podatke na različitim mobilnim uređajima.</string>
-  <string name="micloud_intro_03_part_01">Nikada nećete ponovo izgubiti svoje podatke i osigurati se da sadržaj bude siguran</string>
+  <string name="micloud_intro_03_part_01">Nikada nećete ponovo izgubiti svoje podatke i osigurati se da vaš sadržaj bude siguran</string>
   <string name="micloud_intro_03_part_02">Upravljanje podacima i lociranje, zaključavanje ili brisanje sadržaja uređaja na i.xiaomi.com</string>
   <string name="micloud_is_what">Što je MiCloud?</string>
   <string name="micloud_more">Saznaj više</string>
@@ -249,7 +249,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
   <string name="sync_sub_dspt">SMS će biti poslan za aktivaciju usluge</string>
-  <string name="sync_sub_int_dspt">Međunarodna SMS će biti poslan za aktivaciju usluge</string>
+  <string name="sync_sub_int_dspt">Međunarodni SMS će biti poslan za aktivaciju usluge</string>
   <string name="title_reg">Registracija</string>
   <string name="title_voucher">Top-up koristeći Mi Credit bon</string>
   <string name="trust_device">Vjeruj uređaju</string>

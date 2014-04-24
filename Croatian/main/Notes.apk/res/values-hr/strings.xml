@@ -3,11 +3,11 @@
     <string name="app_name">Bilješke</string>
     <string name="app_widget">Bilješke</string>
     <string name="widget_havenot_content">Nije pronađena pripadajuća bilješka, kliknite kako bi napravili pripadajuću bilješku. Da promijenite veličinu, držite i povucite rub.</string>
-    <string name="widget_under_visit_mode">Guard mode, ne možete vidjeti bilješku</string>
+    <string name="widget_under_visit_mode">Guard način, ne možete vidjeti bilješku</string>
     <string name="notelist_string_info">...</string>
     <string name="notelist_menu_new">Dodaj zabilješku</string>
     <string name="note_alert_expired">Isteklo</string>
-    <string name="format_date_ymd">yyyyMMdd</string>
+    <string name="format_date_ymd">ddMMyyyy</string>
     <string name="format_datetime_mdhm">MMMd kk:mm</string>
     <string name="notealert_ok">U redu</string>
     <string name="notealert_enter">Pogledaj</string>
@@ -33,7 +33,7 @@
     <string name="menu_move_parent_folder">Mapa poviše</string>
     <string name="menu_rename_folder">Preimenuj</string>
     <string name="info_note_enter_desktop">Poslano na početni zaslon</string>
-    <string name="alert_message_delete_notes">Izbrisati %1$s bilješku?</string>
+    <string name="alert_message_delete_notes">Izbrisati %1$s bilješku (e)?</string>
     <string name="alert_message_delete_folders">Izbrisati odabrane %1$s mape?</string>
     <string name="alert_message_delete_folders_notes">Izbrisati odabrane %1$s mape i %2$s bilješke?</string>
     <string name="alert_message_delete_note">Izbrisati ovu bilješku?</string>
@@ -54,7 +54,7 @@
     <string name="error_unsupport_content">Zabilješka sadrži nepodržani sadržaj, kliknite za nadogradnju aplikacije</string>
     <string name="error_contact_not_exist">Kontakt ne postoji</string>
     <string name="preferences_title">Postavke</string>
-    <string name="preferences_bg_random_appear_title">Nasumična nova boja bilješke</string>
+    <string name="preferences_bg_random_appear_title">Nasumična boja nove bilješke</string>
     <string name="pref_title_font_size">Veličina fonta</string>
     <string name="call_record_folder_name">Bilješka poziva</string>
     <string name="hint_foler_name">Naziv</string>

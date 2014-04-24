@@ -15,7 +15,7 @@
     <string name="permdesc_downloadWithoutNotification">Dopušta aplikaciji preuzimanje datoteka putem Upravitelja preuzimanja bez prikazivanja obavijesti korisniku.</string>
     <string name="permlab_accessAllDownloads">Pristup svim preuzimanjima sustava</string>
     <string name="permdesc_accessAllDownloads">Dopušta aplikaciji prikaz i izmjenu svih preuzimanja pokrenuto od strane bilo koje aplikacije na sustavu.</string>
-    <string name="download_unknown_title">&lt;Bez naslova></string>
+    <string name="download_unknown_title">Bez naslova</string>
     <string name="notification_filename_separator">", "</string>
     <string name="notification_filename_extras">" i %d više"</string>
     <string name="notification_download_complete">Preuzimanje završeno.</string>
