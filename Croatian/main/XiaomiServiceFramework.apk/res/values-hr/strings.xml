@@ -205,11 +205,11 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="micloud_web_discription_01">Prijavite se na http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">za pohranu i pristup vašim datotekama s bilo kojeg mjesta</string>
   <string name="micloud_welcome_skip_login">Preskoči registraciju</string>
-  <string name="mili_center">Mi Credit</string>
+  <string name="mili_center">Mi Kredit</string>
   <string name="my_xiaomi_account">Moj Xiaomi račun</string>
   <string name="next">Sljedeće</string>
   <string name="noRemind">Bez podsjetnika</string>
-  <string name="nobind">NNije odobreno</string>
+  <string name="nobind">Nije odobreno</string>
   <string name="other_settings">Ostale postavke</string>
   <string name="password">Zaporka</string>
   <string name="prev">Natrag</string>
@@ -262,7 +262,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="user_agreement_p1">"Prijavom, slažete se s Xiaomi
   "</string>
   <string name="user_agreement_p2">Uvjeti pružanja usluge</string>
-  <string name="user_agreement_p3">" i  "</string>
+  <string name="user_agreement_p3">" i "</string>
   <string name="user_agreement_p4">Izjava o privatnosti</string>
   <string name="user_agreement_p5">"Prijavom, slažete se
  s "</string>

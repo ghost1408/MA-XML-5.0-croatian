@@ -8,7 +8,7 @@
   <string name="balance_inquiry_default_sp_name">Operator</string>
   <string name="balance_inquiry_send_sms_hint">Besplatna SMS poruka će biti poslana za upit stanja</string>
   <string name="balance_inquiry_send_sms_summmary">Provjerite stanje</string>
-  <string name="balance_inquiry_title">Balance inquiry</string>
+  <string name="balance_inquiry_title">Upit računa</string>
   <string name="callrecordview_item_newcontact">Novi Kontakt</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
   <string name="callrecordview_item_op_time_missed">Nije povezano</string>
@@ -61,14 +61,14 @@ Provjerite vaš broj za praćenje."</string>
   <string name="mark_title_null_hint">Unos ne može biti prazan</string>
   <string name="menu_about_yellow_page">O ovoj stranici</string>
   <string name="menu_add_black_list">Dodaj na listu zabranjenih</string>
-  <string name="menu_call_ip_number">Biraj IP poziv (dial %s)</string>
+  <string name="menu_call_ip_number">Biraj IP poziv (biraj %s)</string>
   <string name="menu_copy_text">Kopiraj u međuspremnik</string>
   <string name="menu_correct_yellow_page">Ispravak</string>
   <string name="menu_delete_call_log">Izbrisati popis poziva</string>
   <string name="menu_delete_one">Ukloni stavku s popisa poziva</string>
   <string name="menu_refresh">Osvježi</string>
   <string name="menu_remove_black_list">Ukloniti s liste zabranjenih</string>
-  <string name="mishop_web_payment_title">MiStore checkout</string>
+  <string name="mishop_web_payment_title">MiStore blagajna</string>
   <string name="navigation_search_all_cities">Svi gradovi</string>
   <string name="navigation_search_automatically_positioned_city">Trenutan grad</string>
   <string name="navigation_search_hot_cities">Popularno</string>
@@ -113,7 +113,7 @@ Provjerite vaš broj za praćenje."</string>
   <string name="recharge_pay_hint_license">Top-up obavijest</string>
   <string name="recharge_payment_result_failed_summary">Pokušajte ponovo</string>
   <string name="recharge_payment_result_failed_title">Top-up neuspjelo</string>
-  <string name="recharge_payment_result_ok_summary">Confirm that this amount is reflected in your balance.</string>
+  <string name="recharge_payment_result_ok_summary">Potvrdite da se taj iznos neće odraziti na vaš račun.</string>
   <string name="recharge_payment_result_ok_title">Dodano RMB %s</string>
   <string name="recharge_payment_result_progress_summary">Provjeravam ishod plaćanja…</string>
   <string name="recharge_phone_number_error">Uneseni broj nije valjan</string>
@@ -122,7 +122,7 @@ Provjerite vaš broj za praćenje."</string>
   <string name="recharge_title">Najviše</string>
   <string name="recharge_user_confirm_summary">"Biti će vam naplaćeno RMB %2$s za %1$s.
 
-Total amount: RMB %3$s"</string>
+Ukupan iznos: RMB %3$s"</string>
   <string name="recharge_user_confirm_title">Potvrdi</string>
   <string name="remind_another_time">"Ne podsjećaj"</string>
   <string name="remind_user_confirm">U redu</string>

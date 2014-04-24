@@ -102,8 +102,8 @@ Danas %1$s's kvaliteta zraka: %2$s, %3$s. %4$s %5$s."</string>
   <string name="share_button_text">Dijeli</string>
   <string name="share_choice_titile">Dijeli informacije o vremenu</string>
   <string name="share_content">\#MIUI vrijeme#</string>
-  <string name="share_qq">Dijeli preko Tencent Weibo</string>
-  <string name="share_sina">Dijeli preko Sina Weibo</string>
+  <string name="share_qq">Dijeli putem Tencent Weibo</string>
+  <string name="share_sina">Dijeli putem Sina Weibo</string>
   <string name="share_weather_content">"\#MIUI vrijeme#
 Danas %1$s je vrijeme %2$s, %3$s, %4$s. %5$s."</string>
   <string name="share_weather_title">Dijeli podatke o vremenu</string>
@@ -112,7 +112,7 @@ Danas %1$s je vrijeme %2$s, %3$s, %4$s. %5$s."</string>
   <string name="sina_share_success">Dijeljenje uspješno!</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao, ponovno se povežite</string>
   <string name="sina_token_invalid_warning">Weibo račun je netočan, ponovno se povežite</string>
-  <string name="sms_notification">Dijeli preko SMS-a</string>
+  <string name="sms_notification">Dijeli putem SMS-a</string>
   <string name="tip_weather">MIUI obavijest o vremenu</string>
   <string name="tip_weather_info_content_1">Nanošenje slojeva!</string>
   <string name="tip_weather_info_title_1">%1$s razlika temperature od %2$d stupnjeva</string>

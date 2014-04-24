@@ -170,7 +170,7 @@
   <string name="layout_selector_title">"Izgled dijaprojekcije "</string>
   <string name="loading_all_messages">Učitavanje svih poruka..</string>
   <string name="loading_conversations">Učitavanje razgovora...</string>
-  <string name="loading_mms">Učitavanje MMS…</string>
+  <string name="loading_mms">Učitavanje MMS-a…</string>
   <string name="me">Ja</string>
   <string name="menu_compose_new">Stvori novu poruku</string>
   <string name="menu_delete_messages">Izbriši poruke</string>
@@ -239,7 +239,7 @@
   <string name="mx_online">Mrežno</string>
   <string name="mx_reactivate">Ponovno aktivirajte clod poruke</string>
   <string name="mx_recommend_msg">Omogući Cloud Messaging za slanje besplatnih poruka</string>
-  <string name="mx_warning_notice">SMS će biti poslana za aktivaciju Cloud Messaging. Mogu biti naplaćeni dodatni troškovi</string>
+  <string name="mx_warning_notice">SMS će biti poslan za aktivaciju Cloud Messaging-a. Mogu biti naplaćeni dodatni troškovi</string>
   <string name="need_download">Čekanje sinkronizacije...</string>
   <string name="new_message">Nova poruka</string>
   <string name="new_message_arrived">Primljena nova poruka</string>

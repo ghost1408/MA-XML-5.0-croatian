@@ -204,7 +204,7 @@
   <string name="more">Više</string>
   <string name="music_browser_label">Glazba</string>
   <string name="music_filter">Filter datoteka</string>
-  <string name="music_filter_helper">Kako bi se sakrili datoteke koje nisu vezane uz glazbu, veličina filtra od 800k je primijenjena za skrivanje tih datoteka od toga da bude prikazane.Taj granica se može podesiti u Postavke / Filtar datoteka.</string>
+  <string name="music_filter_helper">Da sakrijete datoteke koje nisu vezane uz glazbu, veličina filtra od 800k je primijenjena za skrivanje tih datoteka.Ta granica se može podesiti u Postavke / Filtar datoteka.</string>
   <string name="music_not_loaded">Nema audio datoteka!</string>
   <string name="music_open_other_connect">Preuzmite glazbu koristeći mobilnu podatkovnu vezu</string>
   <string name="music_picker_title">Odabir pjesme</string>
@@ -234,7 +234,7 @@
   <string name="play_and_download">Slušaj i preuzmi</string>
   <string name="play_and_download_summary">Streaming glazbe tijekom preuzimanja</string>
   <string name="play_selection">Reproduciraj</string>
-  <string name="playback_failed">Žao nam je, svirač ne podržava oavj tip audio zapisa.</string>
+  <string name="playback_failed">Žao nam je, svirač ne podržava ovu vrstu audio zapisa.</string>
   <string name="playback_failed_by_bad_file">%s nije moguće reproducirati, nepodržani format nije podržan ili datoteka ne postoji.</string>
   <string name="playback_failed_by_network">%s nije moguće reproducirati, provjerite postavke mrežne veze</string>
   <string name="playback_failed_no_title_by_bad_file">Pjesmu nije moguće reproducirati. Format nije podržan ili datoteka ne postoji.</string>

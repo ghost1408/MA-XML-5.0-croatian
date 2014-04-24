@@ -13,8 +13,8 @@
   <string name="airkan_video_playing"/>
   <string name="airkan_video_playing_in">Video zapis se reproducira...</string>
   <string name="app_name">MiVideo</string>
-  <string name="buffering">Buffering...</string>
-  <string name="buffering_video_netplay_label_v5">Buffering...</string>
+  <string name="buffering">Međupohrana...</string>
+  <string name="buffering_video_netplay_label_v5">Međupohrana...</string>
   <string name="episode_prefix">"epizoda"</string>
   <string name="loading_video_netplay_label">Učitavanje, molim pričekajte...</string>
   <string name="loading_video_netplay_label_v5">Učitavam stream, molim pričekajte...</string>

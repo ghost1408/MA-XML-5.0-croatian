@@ -139,9 +139,9 @@
   <string name="sort_dialog_title">Poredaj</string>
   <string name="sorted_flux">Statistika prometa</string>
   <string name="stop_app_button">Zatvori</string>
-  <string name="sync_fail_notify_detail">Feedback from operators not received, click to try again</string>
+  <string name="sync_fail_notify_detail">Povratna informacija od davatelja usluga nije primljena, kliknite za ponovni pokušaj</string>
   <string name="sync_fail_notify_title">Neuspjela sinkronizacija</string>
-  <string name="sync_traffic_fail_message">Sinkronizacija neuspjela od davatelja usluga, poslužitelj zauzet. Please try again later or call customer service %s for help</string>
+  <string name="sync_traffic_fail_message">Sinkronizacija neuspjela od davatelja usluga, poslužitelj zauzet. Pokušajte ponovno kasnije ili nazovite korisničku službu %s za pomoć</string>
   <string name="sync_traffic_fail_title">Neuspjela sinkronizacija</string>
   <string name="sync_traffic_ing">Sinkronizacija od davatelja usluga, molimo pričekajte...</string>
   <string name="sync_traffic_no_cmd_detail">"Pošaljite svoj grad, pokrajinu i ICC's brand i davatelja usluga na sljedeću temu na forumu: http://www.miui.com/forum-172-1.html. Hvala Vam."</string>
