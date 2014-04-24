@@ -405,7 +405,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="perm_tigger_toggle_dspt">Dozvoliti aplikaciji da uključi stavke u statusnoj traci</string>
   <string name="perm_tigger_toggle_lab">Uključi stavke u statusnoj traci</string>
   <string name="perm_use_find_device">Lociraj uređaj</string>
-  <string name="permdesc_accessNote">Omogućuje aplikaciji da pročita i mijenja vaše bilješke spremljene na telefonu. Zlonamjerne aplikacije mogu koristiti to za slanje bilješke drugim ljudima ili izbrisati sve bilješke.</string 
+  <string name="permdesc_accessNote">Omogućuje aplikaciji da pročita i mijenja vaše bilješke spremljene na telefonu. Zlonamjerne aplikacije mogu koristiti to za slanje bilješke drugim ljudima ili izbrisati sve bilješke.</string> 
   <string name="permlab_accessNote">Zabilješke pristupa</string>
   <string name="pin_operation_failed">PIN operacija neuspješna.</string>
   <string name="pincode_set_to_default_msg">PIN kod je 1234, unesite novi PIN.</string>
