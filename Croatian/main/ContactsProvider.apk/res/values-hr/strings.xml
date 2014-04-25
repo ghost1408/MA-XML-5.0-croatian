@@ -5,7 +5,7 @@
   <string name="create_contact">Kreiraj novi kontakt</string>
   <string name="debug_dump_database_message">Spremate se 1) napraviti kopiju svoje baze podataka koja sadrži sve važne informacije svih kontakata i poziva na unutarnjoj pohrani i 2) poslati je e-poštom. Ne zaboravite izbrisati kopiju čim ste je uspješno kopirali s uređaja ili primili e-poštu.</string>
   <string name="debug_dump_delete_button">Izbrisati sada</string>
-  <string name="debug_dump_email_body">U prilogu je moja baza kontakata sa svim mojim informacijama kontakata.Budi oprezan </string>
+  <string name="debug_dump_email_body">U prilogu je moja baza kontakata sa svim mojim informacijama kontakata.Budi oprezan</string>
   <string name="debug_dump_email_sender_picker">Izaberite program za slanje datoteke</string>
   <string name="debug_dump_email_subject">Kontakti DB priloženi</string>
   <string name="debug_dump_start_button">Započni</string>

@@ -56,7 +56,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="optimize_tips_cache_title">Predmemorija：</string>
     <string name="optimize_tips_cache_content">Stvoreno od aplikacija i procesa koji ih zahtijevaju samo privremeno (npr. sličice).</string>
     <string name="optimize_tips_residual_title">Ostaci：</string>
-    <string name="optimize_tips_residual_content">"Datoteke (npr. videozapisi, pozadinske slike, glazba, itd.) that have been downloaded on to your device's SD card by apps which have already been uninstalled. As some of these files may still be of use to you, we recommend that you use the Advanced feature when cleaning up residual files."</string>
+    <string name="optimize_tips_residual_content">"Datoteke (npr. videozapisi, pozadinske slike, glazba, itd.) koje su preuzete na SD karticu vašeg uređaja od strane aplikacije koja je deinstalirana. Kako vam neke od tih datoteka još uvijek mogu biti od koristi, preporučujemo vam da koristite napredne značajke kod čišćenja zaostalih datoteka."</string>
     <string name="quick_scan_apk_list_item_version_hit">Verzija：%s</string>
     <string name="apk_status_uninstalled">Nije instalirano</string>
     <string name="apk_status_installed_old">Starija vezija</string>
@@ -98,7 +98,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="opt_restore_perm">Vraćena zadana dopuštenja privatnosti za %d programa</string>
     <string name="opt_progress_started">Optimiziranje…</string>
     <string name="opt_progress_done">Završeno</string>
-    <string name="opt_score_desc">pts</string>
+    <string name="opt_score_desc">poena</string>
     <string name="opt_score">83</string>
     <string name="opt_done_desc">Završeno</string>
     <string name="opt_cancel_desc">Odustani</string>
@@ -163,7 +163,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="power_mode_cpu_state_save">Štednja baterije</string>
     <string name="power_mode_cpu_state_save_desc">Baterija ima prioritet nad performansama</string>
     <string name="power_mode_auto_clean_memory">Očisti memoriju</string>
-    <string name="power_mode_auto_clean_memery_lock_screen">nakon %1$d min</string>
+    <string name="power_mode_auto_clean_memery_lock_screen">Nakon %1$d min</string>
     <string name="power_mode_auto_clean_memory_in_one_minute">Nakon 1 minute</string>
     <string name="power_mode_auto_clean_memory_in_five_minutes">Nakon 5 minuta</string>
     <string name="power_mode_auto_clean_memory_in_ten_minutes">Nakon 10 minuta</string>
@@ -2382,13 +2382,13 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
     <string name="data_usage_tab_3g">2G-3G</string>
     <string name="data_usage_list_mobile">Mobilno</string>
     <string name="data_usage_list_none">Ništa</string>
-    <string name="data_usage_enable_mobile">Mobilni data</string>
+    <string name="data_usage_enable_mobile">Mobilni podaci</string>
     <string name="data_usage_enable_3g">2G-3G podaci</string>
     <string name="data_usage_enable_4g">4G podaci</string>
     <string name="data_usage_app_settings">Prikaz postavki aplikacije</string>
     <string name="data_usage_app_restrict_background">Ograničenje pozadinskih podataka</string>
     <string name="data_usage_app_restrict_background_summary">Onemogući pozadinske podatke na mobilnim mrežama. Upotrijebit će se fiksne mreže ako su dostupne.</string>
-    <string name="data_usage_app_restrict_background_summary_disabled">Za ograničenje poz. podat. za ovu apl., prvo graničite mob. podatke.</string>
+    <string name="data_usage_app_restrict_background_summary_disabled">Za ograničenje poz. podat. za ovu apl., prvo ograničite mob. podatke.</string>
     <string name="data_usage_app_restrict_dialog_title">Ograničenje pozadinskih podataka?</string>
     <string name="data_usage_app_restrict_dialog">"Zbog te značajke aplikacija koja ovisi o pozadinskim podacima može prestati raditi kada su dostupne samo mobilne mreže. 
 
@@ -2520,17 +2520,17 @@ S obzirom da se mjerenje korištenja podataka obavlja na uređaju a vaš pružat
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">masovna_pohrana</string>
     <string name="do_not_disturb_mode">Ne ometaj</string>
-    <string name="dndm_notification">\"Ne ometaj\" omogućeno.</string>
+    <string name="dndm_notification">\"Ne ometaj"\ omogućeno.</string>
     <string name="dndm_open">Ne ometaj</string>
-    <string name="dndm_summary">Kada je omogućeno \"Ne ometaj\“, pozivi i obavijesti pristigli dok je telefon zaključan biti će utišani.</string>
+    <string name="dndm_summary">Kada je omogućeno \"Ne ometaj“\, pozivi i obavijesti pristigli dok je telefon zaključan biti će utišani.</string>
     <string name="dndm_auto_setting_group">Zakazano</string>
     <string name="dndm_auto_button_title">Vrijeme</string>
     <string name="dndm_auto_time_setting">Postavke vremena</string>
     <string name="dndm_auto_time_setting_summary">Od %1$s do %2$s</string>
     <string name="dndm_auto_time_turn_on">Od</string>
-    <string name="dndm_auto_time_turn_on_title">Automatski uključi \"ne ometaj\" </string>
+    <string name="dndm_auto_time_turn_on_title">Automatski uključi \"ne ometaj"\</string>
     <string name="dndm_auto_time_turn_off">Do</string>
-    <string name="dndm_auto_time_turn_off_title">Automatski isključi \"ne ometaj\" </string>
+    <string name="dndm_auto_time_turn_off_title">Automatski isključi \"ne ometaj"\</string>
     <string name="dndm_dlg_remove_vip">Ukloniti sa popisa iznimaka?</string>
     <string name="dndm_dlg_remove_ok">Ukloni</string>
     <string name="dndm_menu_add_vip_custom">Dodaj iznimku</string>
@@ -2981,7 +2981,7 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="wifi_share_qrcode_finish">Završi</string>
     <string name="noise_suppression">Utišavanje ambijentalne buke</string>
     <string name="phone_call_noise_suppression">Utišaj buku tijekom poziva</string>
-    <string name="sync_wifi_only">WLAN samo</string>
+    <string name="sync_wifi_only">Samo na WLAN-u</string>
     <string name="open_wifi_connect_title">Poveži se na otvorenu mrežu %1$s</string>
     <string name="open_wifi_connect_summary">Dotaknite za upravljanje</string>
     <string name="miui_screensaver_state_on">Uključeno</string>

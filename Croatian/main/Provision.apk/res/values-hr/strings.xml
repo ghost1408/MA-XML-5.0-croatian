@@ -5,7 +5,7 @@
   <string name="default_gprs_sim_name">Unesite \"%s\" ograničenje plana podataka</string>
   <string name="input_method">Način unosa</string>
   <string name="input_method_category">Odaberite zadani način unosa</string>
-  <string name="next">Sljedeće</string>
+  <string name="next">Dalje</string>
   <string name="other_service_google_location">Google Usluga lociranja</string>
   <string name="other_service_google_location_use">Lokacija &amp; Google search</string>
   <string name="other_service_google_location_use_help">"Dopustiti Google Usluzi lociranja prikupljanje anonimnih podataka o lokaciji. Prikupljanje će se obaviti čak i kada nema pokrenutih aplikacija. Za podešavanje ove postavke, idite na Postavke&gt;Usluge lociranja"</string>

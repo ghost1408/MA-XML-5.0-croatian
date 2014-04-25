@@ -18,7 +18,7 @@
   <string name="backup_theme_progress_message">Pohranjujem podatke teme, pričekajte...</string>
   <string name="backup_theme_success_message">Tema uspješno pohranjena</string>
   <string name="basic_info">Osnovne informacije</string>
-  <string name="change_wallpaper">Pozadinska slika</string>
+  <string name="change_wallpaper">Slika pozadine</string>
   <string name="close">Zatvori</string>
   <string name="component_category_finest_title">Istaknuto</string>
   <string name="component_category_more_title">Više</string>
@@ -35,12 +35,12 @@
   <string name="description_uploadtime">Ažuriranje:</string>
   <string name="description_version">Verzija:</string>
   <string name="description_version_szie">Verzija: %1$s Veličina: %2$s</string>
-  <string name="desktop_wallpaper">Pozadinska slika radne površine</string>
+  <string name="desktop_wallpaper">Slika pozadine radne površine</string>
   <string name="download_failed">Preuzimanje neuspješno !</string>
   <string name="download_preview_failed">Neuspješno učitavanje pregleda</string>
   <string name="download_success">Preuzimanje dovršeno!</string>
   <string name="fail_to_add_account">Neuspješno dodavanje računa</string>
-  <string name="live_wallpaper">Animirana pozadinska slika</string>
+  <string name="live_wallpaper">Animirana slika pozadine</string>
   <string name="loading">Učitavam...</string>
   <string name="loading_resource_detail_fail">Neuspjelo učitavanje resursa!</string>
   <string name="loading_resource_detail_info">Učitavam...</string>
@@ -48,7 +48,7 @@
   <string name="lockstyle_personal_settings">Uređivanje</string>
   <string name="long_ringtone_resource">Dugo</string>
   <string name="maml_component_customization_title">Postavke komponenti</string>
-  <string name="mi_wallpaper">MIUI Pozadinska slika</string>
+  <string name="mi_wallpaper">MIUI Slika pozadine</string>
   <string name="online_no_network">Neuspješno povezivanje s mrežom</string>
   <string name="online_search_hint">Potražnja mrežnih izvora</string>
   <string name="payment_info">MiKrediti</string>
@@ -228,15 +228,15 @@
   <string name="theme_component_title_icon">Ikona</string>
   <string name="theme_component_title_launcher">Početni zaslon</string>
   <string name="theme_component_title_lockstyle">Zaključani zaslon</string>
-  <string name="theme_component_title_lockwallpaper">Poz. slika zaklj. zaslona</string>
-  <string name="theme_component_title_miwallpaper">Pozadinska slika</string>
+  <string name="theme_component_title_lockwallpaper">Slika poz. zaklj. zaslona</string>
+  <string name="theme_component_title_miwallpaper">Slika pozadine</string>
   <string name="theme_component_title_mms">SMS</string>
   <string name="theme_component_title_notification">Obavijesti</string>
   <string name="theme_component_title_others">Ostalo</string>
   <string name="theme_component_title_photo_frame">Okvir slike</string>
   <string name="theme_component_title_ringtone">Melodija zvona</string>
   <string name="theme_component_title_statusbar">Statusna traka</string>
-  <string name="theme_component_title_wallpaper">Pozadinska slika</string>
+  <string name="theme_component_title_wallpaper">Slika pozadine</string>
   <string name="theme_current_using_has_update">Trenutna tema ažurirana, klikni ovdje za podesiti</string>
   <string name="theme_description_title_customized">Uredi</string>
   <string name="theme_description_title_default">Zadano</string>
@@ -255,7 +255,7 @@
   <string name="wallpaper_decoded_error">Neuspješno dekodiranje</string>
   <string name="wallpaper_loading_text">Učitavam...</string>
   <string name="wallpaper_set_as_both">Podesi za oboje</string>
-  <string name="wallpaper_set_as_destop">Podesi za pozadinsku sliku</string>
+  <string name="wallpaper_set_as_destop">Podesi kao sliku pozadine</string>
   <string name="wallpaper_set_as_lockscreen">Podesi za sliku zaklj.zaslona</string>
   <string name="wallpaper_settings">Postavke pozadinske slike</string>
 </resources>

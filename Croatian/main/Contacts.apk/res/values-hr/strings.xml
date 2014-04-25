@@ -114,7 +114,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="callrecordview_menu_show">Filtriraj popis poziva</string>
   <string name="callrecordview_menu_show_accepted">Prikaži dolazne pozive</string>
   <string name="callrecordview_menu_show_all">Prikaži sve pozive</string>
-  <string name="callrecordview_menu_show_called">Prikaži odolazne pozive</string>
+  <string name="callrecordview_menu_show_called">Prikaži odlazne pozive</string>
   <string name="callrecordview_menu_show_missed">Prikaži propuštene pozive</string>
   <string name="callrecordview_menu_show_new">Novi kontakti</string>
   <string name="callrecordview_menu_show_stranger">Prikaži nepoznate pozive</string>
@@ -436,7 +436,7 @@ Razlog: \"%s\""</string>
   <string name="import_selected_sim_entries_miui">Uvezi odabrane kontakte</string>
   <string name="import_sim_entries_finish">Uvoz SIM kontakata uspješno završen</string>
   <string name="import_sim_entry_miui">Uvezi s SIM kartice</string>
-  <string name="import_to_xiaomi_account_confirm">Uvozim</string>
+  <string name="import_to_xiaomi_account_confirm">Uvezi</string>
   <string name="import_to_xiaomi_account_progress_finish">Uvoz uspješan!</string>
   <string name="import_to_xiaomi_account_progress_message">Uvozim…</string>
   <string name="import_to_xiaomi_account_progress_title">Uvezi kontakte na Xiaomi Račun</string>
@@ -566,7 +566,7 @@ Razlog: \"%s\""</string>
   <string name="name_phonetic_middle">Srednje ime fonetski</string>
   <string name="name_prefix">Prefiks imena</string>
   <string name="name_suffix">Sufiks imena</string>
-  <string name="next">Sljedeće</string>
+  <string name="next">Dalje</string>
   <string name="next_birthday">Sljedeći rođendan: %s</string>
   <string name="nfc_vcard_file_name">Kontak primljen preko NFC</string>
   <string name="nicknameLabelsGroup">Nadimak</string>

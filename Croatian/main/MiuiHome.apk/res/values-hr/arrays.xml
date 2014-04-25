@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-       <item>Klasično klizanje</item>
+        <item>Klasično klizanje</item>
         <item>Klasično klizanje (bez prebacivanja)</item>
         <item>"Križno utišavanje"</item>
         <item>Tumbanje</item>
@@ -17,11 +17,11 @@
          <item>Desno</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
-         <item>Zadano</item>
+        <item>Zadano</item>
         <item>Klasično</item>
     </string-array>
     <string-array name="gadget_weather_image">
-       <item>Vedro</item>
+        <item>Vedro</item>
         <item>"Oblačno"</item>
         <item>Izmaglica</item>
         <item>Maglovito</item>

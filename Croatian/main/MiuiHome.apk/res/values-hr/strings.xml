@@ -18,7 +18,7 @@
   <string name="confirm_btn_label">U redu</string>
   <string name="default_folder_title_game">Igre</string>
   <string name="default_folder_title_recommend">Preporučeno</string>
-  <string name="default_folder_title_security">Centar za sigurnost</string>
+  <string name="default_folder_title_security">Centar za sig.</string>
   <string name="default_folder_title_tools">Alati</string>
   <string name="default_name">Zadano</string>
   <string name="default_shortcut_title_10086">google.com</string>
@@ -33,7 +33,7 @@
   <string name="failed_to_drop">Neuspješno premještanje!</string>
   <string name="failed_to_drop_widget_invalid">Neispravan Widget</string>
   <string name="failed_to_drop_widget_nospace">Neuspješno premještanje, nedovoljno prostora!</string>
-  <string name="folder_name">Folder</string>
+  <string name="folder_name">Mapa</string>
   <string name="frame_load_failed">Neispravan okvir za fotografije, neuspjelo učitavanje okvira!</string>
   <string name="free_style_apps_title">Odaberite aplikaciju</string>
   <string name="free_style_drawer_title">Sve aplikacije</string>
@@ -49,7 +49,7 @@
   <string name="free_style_enter_tip">Gurnite prema dolje s dva prsta za prebacivanje na MiSpace</string>
   <string name="free_style_exit_tip">Povucite prema gore sa dva prsta za izlaz iz MiSpace</string>
   <string name="free_style_londing_text">Priprema MiSpace-a...</string>
-  <string name="gadget_clear_button_label">Čistač zadataka</string>
+  <string name="gadget_clear_button_label">Čistač</string>
   <string name="gadget_clock_12_label">Sat 2x1</string>
   <string name="gadget_clock_22_label">Sat 2x2</string>
   <string name="gadget_clock_24_label">Sat 4x2</string>
@@ -62,7 +62,7 @@
   <string name="gadget_weather_app_not_installed">Kliknite za instaliranje MIUI vremena</string>
   <string name="gadget_weather_aqi_title">Kvaliteta zraka</string>
   <string name="gadget_weather_download_message">Preuzeti paket: %1$s. veličina: %2$s. Pokušajte ponovno nakon što završi preuzimanje</string>
-  <string name="gadget_weather_download_start">započni</string>
+  <string name="gadget_weather_download_start">Započni</string>
   <string name="gadget_weather_download_title">Preuzimanje</string>
   <string name="gadget_weather_downloading">Paket se preuzima. Pokušajte ponovno završiti preuzimanje</string>
   <string name="gadget_weather_loading">Nema meteoroloških podataka</string>
@@ -118,7 +118,7 @@
   <string name="pref_icon_shadow_title">Sjena ikona</string>
   <string name="pref_keep_in_memory_summary">Držite Pokretač pokrenut kada je memorija niska.</string>
   <string name="pref_keep_in_memory_title">Drži u memoriji</string>
-  <string name="pref_keep_layout_summary">Prebacivanje rasporeda ikona može poremetiti izgled početnog aslona.</string>
+  <string name="pref_keep_layout_summary">Prebacivanje rasporeda ikona može poremetiti izgled početnog zaslona.</string>
   <string name="pref_keep_layout_title">Držite trenutni izgled</string>
   <string name="pref_render_in_truecolor_summary">Isključivanje ove opcije će poboljšati učinkovitost crtanja.</string>
   <string name="pref_render_in_truecolor_title">Visoka kvaliteta grafike</string>
@@ -174,7 +174,7 @@
   <string name="status_bar_toggle_vibrate">Vibracija</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">WLAN hotspot</string>
-  <string name="title_select_live_folder">Odaberite MAPU</string>
+  <string name="title_select_live_folder">Odaberite mapu</string>
   <string name="title_select_shortcut">Odaberite prečac</string>
   <string name="toggle_select_title">Odaberite prečac</string>
   <string name="toggle_title">Prečaci</string>

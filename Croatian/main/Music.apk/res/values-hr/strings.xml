@@ -74,7 +74,7 @@
   <string name="disconnect">Odspojiti</string>
   <string name="download">Preuzmi</string>
   <string name="download_album_settings">Automatski preuzmi omot albuma</string>
-  <string name="download_album_summary">Može koštati više kada se koristi mobilna mreža, molimo vas da razmislite o korištenju WLAN-a</string>
+  <string name="download_album_summary">Može koštati više kada se koristi mobilna mreža, stoga razmislite o korištenju WLAN-a</string>
   <string name="download_all_album">Preuzimanje omota albuma</string>
   <string name="download_all_avatar">Preuzimanje slike izvođača</string>
   <string name="download_all_track">Preuzimanje svih pjesama</string>
@@ -116,7 +116,7 @@
   <string name="equalizer_save_success">Profil EQ spremljen</string>
   <string name="expired">Isteklo</string>
   <string name="fade_effect_settings">Postepeno utišavaj pjesmu</string>
-  <string name="fade_effect_summary">Omogućuje blijeđenje između svakog reproducirane pjesme</string>
+  <string name="fade_effect_summary">Omogućuje blijeđenje između svake reproducirane pjesme</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="file_not_found">Datoteka ne postoji</string>
   <string name="filter_by_duration">Filtriraj prema trajanju</string>

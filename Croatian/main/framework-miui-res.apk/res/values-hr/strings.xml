@@ -285,8 +285,8 @@
   <string name="find_device_check_sim">Provjeravam SIM karticu…</string>
   <string name="find_device_sim_change_instructions">"Vaš uređaj je zaključan. Unesite ispravnu SIM karticu ili unesite zaporku Xiaomi računa"</string>
   <string name="find_device_sim_change_instructions_no_network">"Vaš uređaj je zaključan na mrežu , unesite ispravnu SIM karticu"</string>
-  <string name="find_device_turn_off_flight_mode">Isključite zrakoplovni način</string>
-  <string name="find_device_turn_off_flight_mode_instructions">"Vaš uređaj je zaključan, isključite zrakoplovni način"</string>
+  <string name="find_device_turn_off_flight_mode">Isključite način rada u zrakoplovu</string>
+  <string name="find_device_turn_off_flight_mode_instructions">"Vaš uređaj je zaključan, isključite način rada u zrakoplovu"</string>
   <string name="firewall_setting">Vatrozid</string>
   <string name="first_back_long_press_message">"Želite li omogućiti funkciju dugog pritiska tipke "Natrag" za gašenje pokrenutih procesa/pozadinskih servisa? Omogućite to Postavke &gt; Sustav &gt; Postavke tipaka"</string>
   <string name="fm_record_smaple_prefix_miui">Snimanje radia</string>
@@ -294,8 +294,8 @@
   <string name="force_exit_message">Uspješno zatvoreno \"%1$s\"</string>
   <string name="forget_password_string">Zaboravljena zaporka</string>
   <string name="format_time_in_12_hours">hh:mma</string>
-  <string name="global_action_privacy_mode_dialog_message">U Guard načinu, pozivi, bilješke, galerija i SMS poruke će biti skrivene i Pokretač neće moći ući u način uređivanja. Možete postaviti lozinku za zaštitu Guard moda kroz Postavke kontrole upravljanja</string>
-  <string name="global_action_toggle_privacy_mode">Guard</string>
+  <string name="global_action_privacy_mode_dialog_message">U Čuvar načinu, pozivi, bilješke, galerija i SMS poruke će biti skrivene i Pokretač neće moći ući u način uređivanja. Možete postaviti lozinku za zaštitu Guard moda kroz Postavke kontrole upravljanja</string>
+  <string name="global_action_toggle_privacy_mode">Čuvar</string>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
   <string name="grain_rain"/>
@@ -439,7 +439,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">Trenutna SIM kartica neaktivirana. Međunarodna SMS kartica potrebna za aktivaciju ove usluge, želite aktivirati sada?</string>
   <string name="sim_changed_reactivate_notice">Trenutna SIM kartica neaktivirana. SMS potreban za aktivaciju  Xiaomi Servis sinkronizacije. Aktivirati sada?</string>
-  <string name="sim_in_airplane_mode">Onemogući Zrakoplovni način.</string>
+  <string name="sim_in_airplane_mode">Onemogući način rada u zrakoplovu.</string>
   <string name="sim_locked">SIM kartica zaključana</string>
   <string name="sim_not_ready">SIM kartica u upotrebi, pokušajte ponovno.</string>
   <string name="sim_unavailable">SIM kartica nedostupna</string>

@@ -100,7 +100,7 @@
   <string name="delete_phrase">Izbrisati frazu</string>
   <string name="delete_unlocked">Izbriši zaključane poruke</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
-  <string name="delivery_toast_body">Poruku je primio %s.</string>
+  <string name="delivery_toast_body">Poruku isporučena %s.</string>
   <string name="disable_notifications_dialog_message">Prestati s dupliciranjem obavijesti putem tekstualnih poruka iz zadane aplikacije za slanje poruka?</string>
   <string name="discard">Odbaciti</string>
   <string name="discard_message">Odbaciti poruku</string>
@@ -109,7 +109,7 @@
   <string name="dl_failure_notification">Preuzimanje poruke: %1$s od pošiljatelja: %2$s nije bilo moguće.</string>
   <string name="done">Done</string>
   <string name="download">Preuzmi</string>
-  <string name="download_later">Preuzimanje u ovom trenutku nije moguće.  Pokušajte ponovo kasnije.</string>
+  <string name="download_later">Preuzimanje u ovom trenutku nije moguće. Pokušajte ponovo kasnije.</string>
   <string name="downloading">Preuzimanje...</string>
   <string name="duration_not_a_number">Trajanje mora biti broj</string>
   <string name="duration_sec">Trajanje (%s sek)</string>
@@ -318,7 +318,7 @@ Prijavite greške i pošaljite svoje mišljenje Xiaomi-u direktno.”</string>
   <string name="pref_title_sms_delete">Ograničenje teksta poruke</string>
   <string name="pref_title_system_mms_priority">Prioritet sistemske aplikacije Mms</string>
   <string name="pref_title_vcard">Pošalji kroz vCard</string>
-  <string name="pref_title_wake_up_screen">Buđenje-zaslona</string>
+  <string name="pref_title_wake_up_screen">Buđenje zaslona</string>
   <string name="preferences_title">Postavke</string>
   <string name="prepare_send">Priprema za slanje...</string>
   <string name="preview">Pregled</string>
@@ -327,7 +327,7 @@ Prijavite greške i pošaljite svoje mišljenje Xiaomi-u direktno.”</string>
   <string name="priority_label">"Prioritet: "</string>
   <string name="priority_low">Niski</string>
   <string name="priority_normal">Normalni</string>
-  <string name="privacy_mode_hint">Nije moguće slanje poruke u Guard načinu</string>
+  <string name="privacy_mode_hint">Nije moguće slanje poruke u Čuvar načinu</string>
   <string name="private_message">Osobna poruka</string>
   <string name="private_new_notification">Obavijest nove osobne poruke</string>
   <string name="private_protect">Zaštiti osobne poruke</string>
@@ -364,10 +364,10 @@ Prijavite greške i pošaljite svoje mišljenje Xiaomi-u direktno.”</string>
   <string name="saved_ringtone">Melodija zvona spremljena je</string>
   <string name="saved_ringtone_fail">Melodiju zvona nije moguće spremiti</string>
   <string name="saved_to_sim">Spremljeno na SIM karticu!</string>
-  <string name="search">Slanje poruka</string>
+  <string name="search">Poruke</string>
   <string name="search_empty">Nema podudaranja</string>
   <string name="search_hint">Pretraživanje slanja poruka</string>
-  <string name="search_label">Slanje poruka</string>
+  <string name="search_label">Poruke</string>
   <string name="search_setting_description">Tekst u vašim porukama</string>
   <string name="search_show_more_results">Pikaži više</string>
   <string name="secs">sek</string>

@@ -23,7 +23,7 @@
         <item>Izgled desktopa</item>
         <item>Postavke alarma</item>
         <item>Zabilješke</item>
-        <item>DND</item>
+        <item>Ne smetaj</item>
         <item>Račun</item>
     </string-array>
     <string-array name="app_type_desc">

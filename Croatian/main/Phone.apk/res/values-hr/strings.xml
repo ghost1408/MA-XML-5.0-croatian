@@ -87,7 +87,7 @@
   <string name="auto_record_call_title_miui">Snimi automatski</string>
   <string name="auto_record_scenario_enteries_always_miui">Automatsko snimanje za sve brojeve</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Automatsko snimanje odabranih brojeva</string>
-  <string name="auto_record_scenario_title_miui">Način "Automatsko snimanje"</string>
+  <string name="auto_record_scenario_title_miui">Način "Automatskog snimanja"</string>
   <string name="auto_record_unknown_miui">Nepoznati brojevi</string>
   <string name="auto_record_whitelist_miui">Postavljanje odabranih brojeva</string>
   <string name="auto_record_whitelist_no_item_miui">Kliknite gumbe na dnu za dodati brojeve za automatsko snimanje</string>
@@ -505,7 +505,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="incall_error_supp_service_switch">Nije moguće promijeniti pozive.</string>
   <string name="incall_error_supp_service_transfer">Nije moguće prebaciti pozive.</string>
   <string name="incall_error_supp_service_unknown">Nepodržana usluga.</string>
-  <string name="incall_screen_background_summary_miui">"Koristite pozadinsku sliku zaključanog zaslona kada nema avatara"</string>
+  <string name="incall_screen_background_summary_miui">"Koristite sliku pozadine zaključanog zaslona kada nema avatara"</string>
   <string name="incall_screen_background_title_miui">Pozadina zaslona tijekom poziva</string>
   <string name="incall_status_dialed_mmi">Započinjem MMI slijed…</string>
   <string name="information">Informacije</string>
@@ -616,7 +616,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="new_cards_available">Nova kartica dostupna. Molimo konfigurirajte pretplate.</string>
   <string name="new_pin2_hint_miui">Novi PIN2</string>
   <string name="new_pin_hint_miui">Novi PIN</string>
-  <string name="next_miui">Sljedeće</string>
+  <string name="next_miui">Dalje</string>
   <string name="no_change">Nema promjena.</string>
   <string name="no_internet_available">Za upućivanje internetskog poziva, provjerite internetsku vezu</string>
   <string name="no_internet_available_title">Nema Internet veze</string>
@@ -693,17 +693,17 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="onscreen_swap_calls_text_miui">Zamijeni</string>
   <string name="onscreen_tools_off_miui">Alati</string>
   <string name="onscreen_tools_on_miui">Alati</string>
-  <string name="optional_summary">&lt;Opcija&gt;</string>
+  <string name="optional_summary">Opcija</string>
   <string name="ota_activate">Aktiviraj</string>
   <string name="ota_call_end">Natrag</string>
   <string name="ota_failure">Programiranje neuspješno</string>
   <string name="ota_listen">Slijedite govorne upute dok ne čujete da je aktivacija završena.</string>
-  <string name="ota_next">Sljedeće</string>
+  <string name="ota_next">Dalje</string>
   <string name="ota_progress">Molimo pričekajte dok se vaš telefon ne programira.</string>
   <string name="ota_skip_activation_dialog_message">"Ako preskočite aktivaciju, ne možete upućivati ​​pozive ili spajati se na mobilne podatkovne mreže (možete se spojiti na WLAN mrežu). Dok ne aktivirate svoj ​​telefon, od vas se traži da ga aktivirate svaki put kad ga uključite."</string>
   <string name="ota_skip_activation_dialog_skip_label">Preskoči</string>
   <string name="ota_skip_activation_dialog_title">Preskočiti aktivaciju?</string>
-  <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
+  <string name="ota_spc_failure">VIŠAK SPC KVAROVA</string>
   <string name="ota_speaker">Zvučnik</string>
   <string name="ota_successful">Vaš telefon je sada aktiviran. Može potrajati i do 15 minuta do uspostave mreže.</string>
   <string name="ota_title_activate">Aktivirajte svoj telefon</string>
@@ -733,7 +733,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="pin2_changed_miui">PIN2 uspješno promijenjen</string>
   <string name="pin2_invalid">FDN nije ažuriran: unijeli ste pogrešan PIN.</string>
   <string name="pin2_invalid_or_name_is_too_long">FDN nije ažuriran: unijeli ste pogrešan PIN2 ili je ime predugo.</string>
-  <string name="pin2_lock_warning_miui">"Please notice that PIN2 related functionality will be locked if failed again!"</string>
+  <string name="pin2_lock_warning_miui">"Napomena da PIN2 vezana funkcionalnost biti zaključana, ako ponovo ne uspijete!"</string>
   <string name="pin2_locked_message_miui">Netočan PIN2, i PIN2 te srodne funkcionalnosti su zaključane. Resetirajte PIN2 sa PUK2.</string>
   <string name="pin2_or_fdn_invalid">FDN nije ažuriran. PIN2 greška ili je telefonski broj odbijen</string>
   <string name="pin2_unblocked">PIN2 Odblokiran!</string>

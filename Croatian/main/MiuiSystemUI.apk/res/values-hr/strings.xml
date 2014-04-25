@@ -270,7 +270,7 @@ yyyy.M.d"</string>
     <string name="status_bar_toggle_flight_mode">Način rada u zrakoplovu</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Zaključano</string>
-    <string name="status_bar_toggle_mute">bez zvuka</string>
+    <string name="status_bar_toggle_mute">Bez zvuka</string>
     <string name="status_bar_toggle_network_type">Mreža</string>
     <string name="status_bar_toggle_privacy_mode">Gost</string>
     <string name="status_bar_toggle_reboot">Ponovno pokretanje</string>
@@ -284,8 +284,8 @@ yyyy.M.d"</string>
     <string name="status_bar_toggle_wifi">WLAN</string>
     <string name="status_bar_toggle_power_mode">Energija</string>
     <string name="status_bar_toggle_drive_mode">Auto</string>
-    <string name="status_bar_toggle_wifi_ap">WLAN</string>
-    <string name="status_bar_toggle_quiet_mode">DND</string>
+    <string name="status_bar_toggle_wifi_ap">WLAN Hotspot</string>
+    <string name="status_bar_toggle_quiet_mode">Ne smetaj</string>
     <string name="status_bar_toggle_ringtone">Zvuk zvona</string>
     <string name="status_bar_toggle_ring">Zvono</string>
     <string name="status_bar_toggle_sync_auto">Sinkronizacija</string>

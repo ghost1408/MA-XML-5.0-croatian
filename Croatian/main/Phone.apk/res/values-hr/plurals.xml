@@ -5,8 +5,8 @@
         <item quantity="one">Nema data konekcije %s minutu</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefon će biti u hitnom načinu %s minuta. Dok je u ovom mogu nijedna aplikacija koja koristi data konekciju ne može biti korištena. Želite li sada izaći?</item>
-        <item quantity="one">Telefon će biti u hitnom načinu %s minutu. Dok je u ovom mogu nijedna aplikacija koja koristi data konekciju ne može biti korištena. Želite li sada izaći?</item>
+        <item quantity="other">Telefon će biti u hitnom načinu %s minuta. Dok je u ovom načinu nijedna aplikacija koja koristi data konekciju ne može biti korištena. Želite li sada izaći?</item>
+        <item quantity="one">Telefon će biti u hitnom načinu %s minutu. Dok je u ovom načinu nijedna aplikacija koja koristi data konekciju ne može biti korištena. Želite li sada izaći?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
        <item quantity="other">Odabrana akcija nije moguća u hitnom načinu. Telefon će biti u ovom načinu %s minuta. Želite li sada izaći?</item>
