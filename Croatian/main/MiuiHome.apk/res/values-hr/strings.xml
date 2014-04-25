@@ -95,7 +95,7 @@
   <string name="menu_search">Pretraži</string>
   <string name="menu_settings">Postavke sustava</string>
   <string name="menu_sort">Poredaj ikone aplikacije</string>
-  <string name="menu_wallpaper">Pozadinska slika</string>
+  <string name="menu_wallpaper">Slika pozadine</string>
   <string name="menu_workspace_preview">Pregled</string>
   <string name="out_of_space">Na ovom početnom zaslonu više nema mjesta.</string>
   <string name="permdesc_install_shortcut">Omogućuje aplikaciji dodavanje prečaca bez intervencije korisnika.</string>
