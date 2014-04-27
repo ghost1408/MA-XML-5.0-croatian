@@ -1130,7 +1130,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="bluetooth_dun_remember_choice">"Više me ne pitaj"</string>
     <string name="date_and_time">Postavke datuma &amp; vremena</string>
     <string name="choose_timezone">Odabir vremenske zone</string>
-    <string name="default_date_format">dd/MM/yyyy</string>
+    <string name="default_date_format">MM/dd/yyyy</string>
     <string name="normal_date_format">Regionalno (%s)</string>
     <string name="display_preview_label">Pregled:</string>
     <string name="display_font_size_label">Veličina fonta:</string>
