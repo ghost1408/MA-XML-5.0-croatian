@@ -47,8 +47,7 @@
     <string name="operation_rename_message">Naziv mape</string>
     <string name="operation_create_folder_message">Imenuj mapu</string>
     <string name="operation_delete_confirm_message">Obrisati</string>
-    <string name="operation_delete_confirm_message_folder">"Sav sadržaj mape biti će izbrisan.
-"</string>
+    <string name="operation_delete_confirm_message_folder">"Sav sadržaj mape biti će izbrisan."</string>
     <string name="delete_folder">Izbrisati ovu mapu?</string>
     <string name="delete_folders">Izbrisati %1$d?</string>
     <string name="delete_file">Izbrisati ovu datoteku?</string>
