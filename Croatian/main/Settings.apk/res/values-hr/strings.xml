@@ -624,7 +624,6 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="item_mms">Filtriraj neželjene poruke</string>
     <string name="score_good_state">Uređaj je optimiziran</string>
     <string name="score_need_optimize">Potrebno čišćenje</string>
-    <string name="category_key_settings">key_settings</string>
     <string name="preference_key_create_shortcut">key_create_shortcut</string>
     <string name="preference_key_about_version">key_about_version</string>
     <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
@@ -915,7 +914,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="menu_item_notification_power_text">Energija</string>
     <string name="menu_item_notification_antispam_text_normal">Spam</string>
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
-    <string name="button_text_view_power">Prikaz energije</string>
+    <string name="button_text_view_power">Energija</string>
     <string name="notification_title_firewall_blocked">Blokirano</string>
     <string name="pref_category_title_securitycenter_settings">Postavke Centar za sigurnost</string>
     <string name="pref_category_title_module_settings">Postavke svakog funkcionalnog sigurnosnog modula</string>
@@ -1225,6 +1224,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="next_label">Dalje</string>
     <string name="language_picker_title">Jezik</string>
     <string name="activity_picker_label">Odabir aktivnosti</string>
+    <string name="debug_intent_sender_label">Ispravljanje pogrešaka namjere pošiljatelja</string>
     <string name="device_info_label">Informacije o uređaju</string>
     <string name="battery_info_label">Informacije o bateriji</string>
     <string name="display_label">Zaslon</string>
@@ -1466,8 +1466,17 @@ Unesite PIN za uparivanje s \"%1$s"\. [Omogućena Visoka Sigurnost: Potreban klj
     <string name="wifi_display_options_forget">Zaboravi</string>
     <string name="wifi_display_options_done">Gotovo</string>
     <string name="wifi_display_options_name">Naziv</string> 
+    <string name="wifi_display_certification_heading">Certifikat</string>
+    <string name="wifi_display_session_info">Detalji sesije</string>
+    <string name="wifi_display_listen_mode">Omoguči način za slušanje</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Dopusti razmjenu podataka kada uređaj dodiruje drugi uređaj</string>
+ 
+ 
+ 
+ 
+ 
+ 
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_on_summary">NFC dijeljenje sadržaja omogućeno</string>
     <string name="android_beam_off_summary">NFC dijeljenje sadržaja onemogućeno</string>
@@ -2066,10 +2075,12 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="filter">Filter</string>
     <string name="filter_dlg_title">Odabir opcija filtra</string>
     <string name="filter_apps_all">Sve</string>
+    <string name="filter_apps_disabled">Disabled</string>
     <string name="filter_apps_third_party">Preuzeto</string>
     <string name="filter_apps_running">Pokrenuto</string>
     <string name="filter_apps_onsdcard">USB pohrana</string>
-    <string name="disabled">Onemogućeno</string>
+    <string name="disabled">Disabled</string>
+    <string name="not_installed">Not installed</string>
     <string name="no_applications">Nema aplikacija.</string>
     <string name="internal_storage">Unutarnja pohrana</string>
     <string name="sd_card_storage">USB pohrana</string>
@@ -2361,6 +2372,7 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
     <string name="accessibility_service_no_apps_title">Trebate čitač zaslona?</string>
     <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kao pomoć slijepim i slabovidnim korisnicima. Želite li ga besplatno instalirati s usluge Trgovine Play?</string>
     <string name="accessibility_service_default_description">Nije dan opis.</string>
+    <string name="settings_button">Settings</string>
     <string name="print_settings">Printanje</string>
     <string name="print_settings_title">Usluge ispisa</string>
     <string name="print_service_security_warning_title">Upotrijebiti %1$s?</string>
@@ -2991,6 +3003,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="cell_broadcast_settings">Postavke mobilne mreže</string>
     <string name="user_restrictions_title">Ograničenja apliakcija i sadržaja</string>
     <string name="user_rename">PREIMENUJ</string>
+	<string name="pref_button_light">Svjetlo tipki</string>
     <string name="pref_button_light_summary">Indikator tipki Izbornik, Početna i Natrag</string>
     <string name="button_light_timeout">Postavke svjetla tipki</string>
     <string name="app_restrictions_custom_label">Postavljanje ograničenja aplikacije</string>
@@ -3205,7 +3218,6 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="led_frequence_summary">Postavi interval između LED treptaja</string>
     <string name="led_pulse_summary">Pulsno svjetlo obavijesti kod primanja nove obavijesti</string>
     <string name="show_rounded_corners">Prikaži zaobljene uglove</string>
-    <string name="pref_button_light">Svjetlo tipki</string>
     <string name="screen_button_key">Tipke virtualnog zaslona</string>
     <string name="screen_button_custom">Prilagodi položaj tipki zaslona</string>
     <string name="headset_settings">Slušalice</string>
