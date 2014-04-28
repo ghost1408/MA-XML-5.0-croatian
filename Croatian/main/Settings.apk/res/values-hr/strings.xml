@@ -1130,7 +1130,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="bluetooth_dun_remember_choice">"Više me ne pitaj"</string>
     <string name="date_and_time">Postavke datuma &amp; vremena</string>
     <string name="choose_timezone">Odabir vremenske zone</string>
-    <string name="default_date_format">MM/dd/yyyy</string>
+    <string name="default_date_format">dd/MM/yyyy</string>
     <string name="normal_date_format">Regionalno (%s)</string>
     <string name="display_preview_label">Pregled:</string>
     <string name="display_font_size_label">Veličina fonta:</string>
@@ -3260,6 +3260,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="mms_vibrate_abbreviation">Boja svjetla poruka</string>
     <string name="breathing_light_color_menu_title">Boja svjetla</string>
     <string name="breathing_light_color_summary">LED boja kod primanja nove obavijesti</string>
+    <string name="breathing_light_color_title">" Boja LED-a"</string>
     <string name="breathing_light_freq_title">Frekvencija treperenja LED-a</string>
     <string name="led_colors_summary">Obavijesti</string>
     <string name="led_frequence_summary">Postavi interval između LED treptaja</string>
