@@ -306,9 +306,7 @@
   <string name="default_contacts_countrycode_hint_miui">Unesite pozivni broj zemlje npr. 385 za HR</string>
   <string name="default_contacts_countrycode_miui">Zadani pozivni broj zemlje kontakata</string>
   <string name="default_contacts_countrycode_sum_miui">Postavite zadani kôd zemlje svojih kontakata</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Nije podešen&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Obrisati</string>
   <string name="deleteAllSimEntries">Obrisati sve kontakte sa SIM kartice</string>
   <string name="deleteSimContacts">Brisanje kontakata SIM kartice...</string>
@@ -888,7 +886,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="send_keepalive_title">Pošalji keep-alive</string>
   <string name="separate_from_conference_miui">Jedan poziv</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Željena vrsta mreža dostupna samo kada su mobilni podaci onemogućeni</string>
-  <string name="set_primary">Postavi kao primarno</string>
   <string name="set_primary_summary">Koristi za izlazne pozive</string>
   <string name="set_primary_title">Postavi kao primarni račun</string>
   <string name="set_smsc_address_error_miui">Neuspjelo postavljanje broja SMS središta, molimo pokušajte kasnije.</string>

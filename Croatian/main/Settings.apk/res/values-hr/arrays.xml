@@ -265,6 +265,7 @@
         <item>Uvijek</item>
         <item>Samo kad je na punjenju</item>
         <item>Nikada</item>
+		</string-array>
 	<string-array name="wifi_sleep_policy_values">
 	 <item>2</item>
         <item>1</item>
