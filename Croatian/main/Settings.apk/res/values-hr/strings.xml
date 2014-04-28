@@ -3604,7 +3604,6 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="lock_settings_common_title">Postavke zaključavanja</string>
     <string name="turn_off_security_lock">Isključi zaključavanje zaslona</string>
     <string name="change_password">Promijeni zaporku</string>
-    <string name="change_security_lock">Isprobajte ostale načine otključavanja</string>
     <string name="sync_wifi_only">Samo na WLAN-u</string>
     <string name="line_breaking_title">Optimiziranje teksta</string>
     <string name="line_breaking_summary">Optimiziranje odlomka lomljenja</string>
