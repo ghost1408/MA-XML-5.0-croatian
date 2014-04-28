@@ -1471,12 +1471,6 @@ Unesite PIN za uparivanje s \"%1$s"\. [Omogućena Visoka Sigurnost: Potreban klj
     <string name="wifi_display_listen_mode">Omoguči način za slušanje</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Dopusti razmjenu podataka kada uređaj dodiruje drugi uređaj</string>
- 
- 
- 
- 
- 
- 
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_on_summary">NFC dijeljenje sadržaja omogućeno</string>
     <string name="android_beam_off_summary">NFC dijeljenje sadržaja onemogućeno</string>
@@ -1527,7 +1521,7 @@ Unesite PIN za uparivanje s \"%1$s"\. [Omogućena Visoka Sigurnost: Potreban klj
     <string name="wifi_empty_list_user_restricted">"Nemate dopuštenje za promjenu WLAN mreže"</string>
     <string name="wifi_other_network">Ostale mreže…</string>
     <string name="wifi_more">Više</string>
-   <string name="wifi_setup_wps">Autom. postavljanje (WPS)</string>
+    <string name="wifi_setup_wps">Autom. postavljanje (WPS)</string>
     <string name="wifi_required_info_text">Da bi se postavljanje dovršilo, vaš ureðaj treba pristupiti WLAN mreži. Nakon postavljanja možete izmjenjivati mobilnu podatkovnu vezu i WLAN.</string>
     <string name="wifi_show_advanced">Prikaži napredne opcije</string>
     <string name="wifi_wps_setup_title">Zaštićeno postavljanje WLAN mreže</string>
