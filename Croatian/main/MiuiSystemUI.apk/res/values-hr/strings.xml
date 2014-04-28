@@ -176,7 +176,6 @@ yyyy.M.d"</string>
     <string name="settings_toggle_position_divider_page">%1$d prečaca iznad ove linije je aktivno</string>
     <string name="settings_toggle_position_divider_list">Prečaci iznad ove linije su aktivni</string>
     <string name="settings_toggle_position_reset">Resetiraj prečace</string>
-    <string name="settings_show_flow_info">Prikaži detalje</string>
     <string name="camera_key_action_setting_title">MI Gumb</string>
     <string name="camera_key_action_category_title">Upotrijebi ako se Aplikacija Kamera ne pokrene</string>
     <string name="camera_key_action_none_title">Nema akcije</string>
