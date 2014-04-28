@@ -3246,9 +3246,9 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="manually_add_network">Dodaj mrežu</string>
     <string name="network_detail">Detalji mreže %s</string>
     <string name="connected_wifi">Povezano</string>
-	<string name="incoming_call_breathing_light_color_title">Boja svjetla poziva</string>
-    <string name="notification_breathing_light_color_title">Boja svjetla obavijesti</string>
-    <string name="mms_breathing_light_color_title">Boja svjetla poruka</string>
+	<string name="incoming_call_breathing_light_color_title">Boja LED-a kod poziva</string>
+    <string name="notification_breathing_light_color_title">Boja LED-a kod obavijesti</string>
+    <string name="mms_breathing_light_color_title">Boja LED-a  kod poruka</string>
     <string name="incoming_call_breathing_light_freq_title">Frekvencija treperenja LED-a za pozive</string>
     <string name="notification_breathing_light_freq_title">Frekvencija treperenja LED-a za obavijesti</string>
     <string name="mms_breathing_light_freq_title">Frekvencija treperenja LED-a za poruke</string>
@@ -3259,7 +3259,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="notification_vibrate_abbreviation">"Obavijesti "</string>
     <string name="mms_vibrate_abbreviation">Boja svjetla poruka</string>
     <string name="breathing_light_color_menu_title">Boja svjetla</string>
-    <string name="breathing_light_color_summary">LED boja kod primanja nove obavijesti</string>
+    <string name="breathing_light_color_summary">Boja LED-a kod primanja nove obavijesti</string>
     <string name="breathing_light_color_title">" Boja LED-a"</string>
     <string name="breathing_light_freq_title">Frekvencija treperenja LED-a</string>
     <string name="led_colors_summary">Obavijesti</string>
