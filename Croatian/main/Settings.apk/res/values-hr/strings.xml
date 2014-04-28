@@ -2366,7 +2366,6 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
     <string name="accessibility_service_no_apps_title">Trebate čitač zaslona?</string>
     <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kao pomoć slijepim i slabovidnim korisnicima. Želite li ga besplatno instalirati s usluge Trgovine Play?</string>
     <string name="accessibility_service_default_description">Nije dan opis.</string>
-    <string name="settings_button">Settings</string>
     <string name="print_settings">Printanje</string>
     <string name="print_settings_title">Usluge ispisa</string>
     <string name="print_service_security_warning_title">Upotrijebiti %1$s?</string>
