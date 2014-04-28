@@ -1225,7 +1225,6 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="next_label">Dalje</string>
     <string name="language_picker_title">Jezik</string>
     <string name="activity_picker_label">Odabir aktivnosti</string>
-    <string name="debug_intent_sender_label">Ukl. pogr. pošiljatelja namjera</string>
     <string name="device_info_label">Informacije o uređaju</string>
     <string name="battery_info_label">Informacije o bateriji</string>
     <string name="display_label">Zaslon</string>
@@ -1466,16 +1465,7 @@ Unesite PIN za uparivanje s \"%1$s"\. [Omogućena Visoka Sigurnost: Potreban klj
     <string name="wifi_display_options_title">Opcije bežičnog zaslona</string>
     <string name="wifi_display_options_forget">Zaboravi</string>
     <string name="wifi_display_options_done">Gotovo</string>
-    <string name="wifi_display_options_name">Naziv</string>
-    <string name="wifi_display_certification_heading">Certifikat</string>
-    <string name="wifi_display_session_info">Podaci o sesiji</string>
-    <string name="wifi_display_listen_mode">Omogući način slušanja </string>
-    <string name="wifi_display_autonomous_go">Omogućite autonomni GO</string>
-    <string name="wifi_display_pause">Pauza</string>
-    <string name="wifi_display_resume">Nastavi</string>
-    <string name="wifi_display_wps_config">WPS konfiguracija</string>
-    <string name="wifi_display_listen_channel">Slušaj kanale</string>
-    <string name="wifi_display_operating_channel">Radni kanal</string>
+    <string name="wifi_display_options_name">Naziv</string> 
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Dopusti razmjenu podataka kada uređaj dodiruje drugi uređaj</string>
     <string name="android_beam_settings_title">Android Beam</string>
@@ -1550,7 +1540,6 @@ Unesite PIN za uparivanje s \"%1$s"\. [Omogućena Visoka Sigurnost: Potreban klj
     <string name="wifi_status">Status</string>
     <string name="wifi_speed">Brzina veze</string>
     <string name="wifi_ip_address">IP adresa</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_eap_method">EAP metoda</string>
     <string name="please_select_phase2">Provjere autentičnosti faze 2</string>
     <string name="wifi_eap_ca_cert">CA certifikat</string>
@@ -1571,19 +1560,7 @@ Unesite PIN za uparivanje s \"%1$s"\. [Omogućena Visoka Sigurnost: Potreban klj
     <string name="wifi_wps_available_second_item">" (WPS dostupan)"</string>
     <string name="wifi_secured_first_item">Osigurano značajkom %1$s</string>
     <string name="wifi_secured_second_item">, osigurano značajkom %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Ništa</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_scan_always_turnon_message">"Radi poboljšanja preciznosti lokacije kao i u druge svrhe aplikacija %1$s želi uključiti pregledavanje mreže, čak i kada je WLAN isključen.
 
 Dozvoliti to za sve aplikacije koje žele izvoditi pregledavanje?"</string>
@@ -1617,11 +1594,8 @@ Za postavljanje uređaja može biti potrebna značajna mrežna aktivnost."</stri
     <string name="wifi_ip_settings_invalid_dns">Upišite važeću DNS adresu.</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length">Upišite prefiks mreže duljine između 0 i 32 znaka.</string>
     <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string> 
-    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_gateway">Pristupnik</string> 
-    <string name="wifi_gateway_hint">Duljina mrežnog prefiksa</string>
     <string name="wifi_p2p_settings_title">Izravni WLAN</string>
     <string name="wifi_p2p_device_info">Podaci o uređaju</string>
     <string name="wifi_p2p_persist_network">Zapamti tu vezu</string>
@@ -1648,34 +1622,7 @@ Za postavljanje uređaja može biti potrebna značajna mrežna aktivnost."</stri
     <string name="wifi_tether_configure_ap_text">Postavljanje WLAN hotspot-a</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s prijenosni WLAN hotspot</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-    <string name="testing_wifi_info">WLAN informacje</string>
-    <string name="disableNetwork">onemogućimrežu</string>
-    <string name="enableNetwork">omogućimrežu</string>
-    <string name="disconnect">prekinuti</string>
-    <string name="getConfiguredNetworks">dobivanjeKonfiguriraneMreže</string>
-    <string name="getConnectionInfo">dobivanjeInformacijeVeze</string>
-    <string name="wifi_api_test">WLAN API</string>
-    <string name="wifi_status_test">WLAN status</string>
-    <string name="wifi_update">Osvježi statistike</string>
-    <string name="wifi_state_label">Stanje WLAN-a:</string>
-    <string name="network_state_label">Stanje mreže:</string>
-    <string name="supplicant_state_label">Stanje molitelja:</string>
-    <string name="rssi_label">RSSI:</string>
-    <string name="bssid_label">BSSID:</string>
-    <string name="ssid_label">SSID:</string>
-    <string name="hidden_ssid_label">Skriven SSID:</string>
-    <string name="ipaddr_label">IPadr:</string>
-    <string name="macaddr_label">MAC adr:</string>
-    <string name="networkid_label">ID mreže:</string>
-    <string name="link_speed_label">Brzina veze:</string>
-    <string name="scan_list_label">Rezultati skeniranja:</string>
-    <string name="wifi_state_disabling">Obemogućivanje</string>
-    <string name="wifi_state_disabled">Onemogućeno</string>
-    <string name="wifi_state_enabling">Omogućivanje</string>
-    <string name="wifi_state_enabled">Omogućeno</string>
-    <string name="wifi_state_unknown">Nepoznato</string>
     <string name="wifi_config_info">Konfiguracija WLAN-a</string>
-    <string name="config_list_label">Konfigurirane mreže</string>
     <string name="home_settings">Početna</string>
     <string name="display_settings_title">Zaslon</string>
     <string name="sound_settings">Zvuk</string>
@@ -1747,7 +1694,6 @@ Za postavljanje uređaja može biti potrebna značajna mrežna aktivnost."</stri
     <string name="screensaver_activate_on_dock_title">Kada je uređaj na priključnoj stanici</string>
     <string name="automatic_brightness">Automatska svjetlina</string>
     <string name="title_font_size">Veličina fonta</string>
-    <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Veličina fonta</string>
     <string name="sim_lock_settings">Postavke zaključavanja SIM kartice</string>
     <string name="sim_lock_settings_category">Postavite zaključavanje SIM kartice</string>
@@ -2415,7 +2361,6 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
     <string name="accessibility_service_no_apps_title">Trebate čitač zaslona?</string>
     <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kao pomoć slijepim i slabovidnim korisnicima. Želite li ga besplatno instalirati s usluge Trgovine Play?</string>
     <string name="accessibility_service_default_description">Nije dan opis.</string>
-    <string name="settings_button">Postavke</string>
     <string name="print_settings">Printanje</string>
     <string name="print_settings_title">Usluge ispisa</string>
     <string name="print_service_security_warning_title">Upotrijebiti %1$s?</string>
@@ -2441,7 +2386,6 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
     <string name="print_cancelling_state_title_template">Otkazivanje %1$s</string>
     <string name="print_failed_state_title_template">Greška pisača %1$s</string>
     <string name="accessibility_script_injection_security_warning_summary">Želite li da aplikacije instaliraju skripte iz Googlea da bi im web sadržaj bio pristupačniji?</string>
-    <string name="accessibility_service_default_description">Nije dan opis.</string>
     <string name="settings_button">Postavke</string>
     <string name="print_search_box_hidden_utterance">Search box hidden</string>
     <string name="power_usage_summary_title">Baterija</string>
@@ -2458,7 +2402,6 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
     <string name="battery_stats_wifi_running_label">WLAN</string>
     <string name="battery_stats_wake_lock_label">Vrijeme budnosti uređaja</string>
     <string name="battery_stats_phone_signal_label">Signal mobilne mreže</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">Vrijeme budnosti uređaja</string>
     <string name="wifi_on_time">WLAN na vrijeme</string>
     <string name="bluetooth_on_time">WLAN na vrijeme</string>
@@ -2701,7 +2644,6 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
     <string name="wifi_setup_description_connected">Dodirni <b>Dalje</b>" za nastavak postavljanja.
 
 Dodirni "<b>Natrag</b> za povezivanje s drugom WLAN mrežom.</string>
-    <string name="time_zone_auto_stub">Odabir vremenske zone</string>
     <string name="accessibility_sync_enabled">Sinkronizacija je omogućena</string>
     <string name="accessibility_sync_disabled">Sinkronizacija je onemogućena</string>
     <string name="accessibility_sync_error">Pogreška sinkronizacije</string>
@@ -3044,23 +2986,6 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="restriction_menu_change_pin">Promijeni PIN</string>
     <string name="app_notifications_switch_label">Prilagođene obavijesti</string>
     <string name="help_label">Pomoć</string>
-    <string name="help_url_wifi" />
-    <string name="help_url_bluetooth" />
-    <string name="help_url_data_usage" />
-    <string name="help_url_more_networks" />
-    <string name="help_url_vpn" />
-    <string name="help_url_sound" />
-    <string name="help_url_battery" />
-    <string name="help_url_accounts" />
-    <string name="help_url_choose_lockscreen" />
-    <string name="help_url_backup_reset" />
-    <string name="help_url_tether" />
-    <string name="help_url_dreams" />
-    <string name="help_url_users" />
-    <string name="help_url_location_access" />
-    <string name="help_url_security" />
-    <string name="help_url_nfc_payment" />
-    <string name="help_url_remote_display" />
     <string name="user_account_title">Račun za sadržaj</string>
     <string name="user_picture_title">ID Fotografije</string>
     <string name="cell_broadcast_settings">Postavke mobilne mreže</string>
