@@ -186,7 +186,7 @@
   <string name="attachment_info_dialog_wifi_title">Potrebna WLAN veza</string>
   <string name="attachment_info_malware">"Ne možete spremiti/otvoriti ovu datoteku jer ova vrsta privitka može sadržavati zlonamjerni program."</string>
   <string name="attachment_info_no_intent">Nemate instaliranu aplikaciju za otvaranje ove vrste privitka. Pokušajte preuzeti odgovarajuću aplikaciju s Trgovine Play.</string>
-  <string name="attachment_info_policy">"This attachment can't be saved or opened because of this account's security policies."</string>
+  <string name="attachment_info_policy">"Ovaj privitak se ne može otvoriti ili spremiti zbog sigurnosnih pravima ovog računa."</string>
   <string name="attachment_info_sideload_disabled">Ovaj privitak je aplikacija. Morate označiti Nepoznati izvoriu Postavke &gt; Aplikacije prije nego je instalirate.</string>
   <string name="attachment_info_unknown">"Ne mogu otvoriti privitak."</string>
   <string name="attachment_info_wifi_only">Privitak je prevelik za preuzimanje preko mobilne mreže. Preuzmite ga sljedeći puta kada budete povezani na WLAN mrežu.</string>
@@ -329,8 +329,8 @@ Kopija: %4$s
   <string name="message_view_always_show_pictures_button">Prikaži uvijek</string>
   <string name="message_view_always_show_pictures_confirmation">Slike će biti prikazane automatski od ovog pošiljatelja.</string>
   <string name="message_view_always_show_pictures_prompt">Uvijek prikaži slike od ovog pošiljatelja</string>
-  <string name="message_view_attachment_background_load">Napomena: Jedan ili više privitakaOne or more attachments in your forwarded message will be downloaded prior to sending.</string>
-  <string name="message_view_attachment_cancel_action">Stop</string>
+  <string name="message_view_attachment_background_load">Napomena: Jedan ili više privitaka u vašoj proslijeđenoj poruci će se preuzeti prije slanja.</string>
+  <string name="message_view_attachment_cancel_action">Zaustavi</string>
   <string name="message_view_attachment_info_action">Podaci</string>
   <string name="message_view_attachment_install_action">Instaliraj</string>
   <string name="message_view_attachment_load_action">Učitaj</string>
