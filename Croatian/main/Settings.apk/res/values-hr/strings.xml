@@ -359,7 +359,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="power_consume_other">Ostalo</string>
     <string name="battery_desc_other_apps">Ukupna energija konzumirana od strane drugih aplikacija</string>
     <string name="power_settings_title">Performanse sustava</string>
-    <string name="power_settings_category_title">Pokazivač baterije</string>
+    <string name="power_settings_category_title">Izgled baterije</string>
     <string name="power_settings_shape">Grafički</string>
     <string name="power_settings_number">Postotak</string>
     <string name="power_settings_top">Linija na vrhu</string>
