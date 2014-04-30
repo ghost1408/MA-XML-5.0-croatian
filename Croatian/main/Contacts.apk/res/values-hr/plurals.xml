@@ -42,7 +42,7 @@
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d odabrano</item>
-        <item quantity="one">%1$d odabrand</item>
+        <item quantity="one">%1$d odabran</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d favorita</item>

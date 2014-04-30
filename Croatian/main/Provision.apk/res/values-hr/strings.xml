@@ -22,7 +22,7 @@
   <string name="setup_complete_label">Postavljanje završeno</string>
   <string name="setup_complete_start">Započnite koristiti svoj ​​telefon</string>
   <string name="setup_complete_summary">Postavljanje telefona završeno! Uživajte u korištenju MIUI!</string>
-  <string name="shutdown">Gašenje</string>
+  <string name="shutdown">Isključivanje</string>
   <string name="sim_card_detection_dialog_message">Otkrivanje SIM kartice, pričekajte...</string>
   <string name="sim_card_detection_info">"Nije moguće postavljanje Xiaomi računa bez SIM kartice. Ona je potrebna za sinkronizacije računa, praćenje telefona itd."</string>
   <string name="sim_card_detection_label">Otkrivanje SIM kartice</string>

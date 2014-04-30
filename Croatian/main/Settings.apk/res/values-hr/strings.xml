@@ -1218,7 +1218,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="settings_shortcut">Prečac postavki</string>
     <string name="airplane_mode">Način rada u zrakoplovu</string>
     <string name="radio_controls_title">Više</string>
-    <string name="wireless_networks_settings_title">Bežično povezivanje i mreže</string>
+    <string name="wireless_networks_settings_title">Bežično povezivanje &amp; mreže</string>
     <string name="radio_controls_summary">Upravljanje značajkama WLAN-a, Bluetootha, način rada u zrakoplovu, mobilne mreže i VPN-ovi</string>
     <string name="roaming">Roaming podataka</string>
     <string name="roaming_enable">Poveži se s podatkovnim uslugama u roamingu</string>
@@ -2166,7 +2166,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="keyboard_layout_dialog_switch_hint">Za prijelaz pritisnite Ctrl i razmaknicu</string>
     <string name="keyboard_layout_default_label">Zadano</string>
     <string name="keyboard_layout_picker_title">Postavke tipkovnice</string>
-    <string name="user_dict_multiple_settings_title">Osobni riječnici</string>
+    <string name="user_dict_multiple_settings_title">Osobni rječnik</string>
     <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_add_menu_title">Dodaj</string>
     <string name="user_dict_settings_add_dialog_title">Dodaj u rječnik</string>
@@ -2466,7 +2466,7 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
     <string name="menu_proc_stats_type_background">Pozadina</string>
     <string name="menu_proc_stats_type_foreground">Prednji plan</string>
     <string name="menu_proc_stats_type_cached">Spremljeno u privremenu memoriju</string>
-    <string name="voice_input_output_settings">Glasovni ulaz  &amp;  izlaz</string>
+    <string name="voice_input_output_settings">Glasovni ulaz &amp; izlaz</string>
     <string name="voice_input_output_settings_title">Postavke glasovnog ulaza &amp; izlaza</string>
     <string name="voice_search_settings_title">Glasovno pretraživanje</string>
     <string name="keyboard_settings_title">Android tipkovnica</string>

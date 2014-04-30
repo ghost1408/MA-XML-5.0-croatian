@@ -37,7 +37,6 @@
   <string name="birthday_event_description">"Danas %1$s'ima rođendan!"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 dana do rođendana (%3$s)</string>
   <string name="birthday_notification_text_today">"Ne zaboravite čestitati "Sretan rođendan"!"</string>
@@ -171,9 +170,6 @@
   <string name="online_reminder_minutes_text">Podsjetnik vremena</string>
   <string name="online_reminder_slider_text">Omogućite obavijesti</string>
   <string name="pengzu">Bol</string>
-  <string name="prefDefault_alerts_vibrateWhen">nikad</string>
-  <string name="prefDefault_alerts_vibrate_false">nikad</string>
-  <string name="prefDefault_alerts_vibrate_true">uvijek</string>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>
   <string name="pref_title_alarm_remind">Podsjetnik alarma</string>
   <string name="pref_title_alert_remind">Skočni podsjetnik</string>
