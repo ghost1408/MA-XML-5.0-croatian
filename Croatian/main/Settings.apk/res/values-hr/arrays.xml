@@ -6,7 +6,7 @@
         <item>Štednja baterije</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
-         <item>Nakon 1 minute</item>
+        <item>Nakon 1 minute</item>
         <item>Nakon 5 minuta</item>
         <item>Nakon 10 minuta</item>
         <item>Nikad</item>
@@ -21,7 +21,7 @@
         <item>Nikad</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-         <item>Viskoke performanse</item>
+        <item>Viskoke performanse</item>
         <item>Balansirano</item>
         <item>Štednja baterije</item>
     </string-array>
@@ -39,10 +39,10 @@
     </string-array>
     <string-array name="score_suggests">
        <item>Uključi Listu blokiranih</item>
-        <item>Uključite kontrolu dozvole aplikacija</item>
-        <item>Očisti smeće</item>
-        <item>Ažuriraj listu virusa</item>
-        <item>"Imate previše pokrenutih aplikacija u pozadini…"</item>
+       <item>Uključite kontrolu dozvole aplikacija</item>
+       <item>Očisti smeće</item>
+       <item>Ažuriraj listu virusa</item>
+       <item>"Imate previše pokrenutih aplikacija u pozadini…"</item>
     </string-array>
     <string-array name="timezone_filters">
        <item>Amerika</item>
@@ -90,17 +90,17 @@
         <item>30 minuta</item>
     </string-array>
     <string-array name="entries_font_size">
-         <item>Mali</item>
+        <item>Mali</item>
         <item>Normalan</item>
         <item>Veliki</item>
         <item>Ogroman</item>
     </string-array>
     <string-array name="tts_rate_entries">
        <item>Jako polako</item>
-        <item>Polako</item>
-        <item>Normalno</item>
-        <item>Brzo</item>
-        <item>Jako brzo</item>
+       <item>Polako</item>
+       <item>Normalno</item>
+       <item>Brzo</item>
+       <item>Jako brzo</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Jako nisko</item>
@@ -111,7 +111,7 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-      <item>Skeniranje…</item>
+        <item>Skeniranje…</item>
         <item>Povezivanje…</item>
         <item>Autentikacija…</item>
         <item>Dohvaćanje IP adrese…</item>
@@ -138,7 +138,7 @@
         <item>Privremeno izbjegavanje loše veze</item>
     </string-array>
     <string-array name="wifi_ap_security">
-       <item>Otvoreno</item>
+        <item>Otvoreno</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
     </string-array>
@@ -148,7 +148,7 @@
         <item>PIN s ovog uređaja</item>
     </string-array>
     <string-array name="wifi_p2p_status">
-       <item>Povezano</item>
+        <item>Povezano</item>
         <item>Pozvano</item>
         <item>Neuspješno</item>
         <item>Dostupno</item>
@@ -161,7 +161,7 @@
         <item>Nikad ne prekidaj</item>
     </string-array>
     <string-array name="wifi_signal">
-         <item>Loš</item>
+        <item>Loš</item>
         <item>Slab</item>
         <item>Dobar</item>
         <item>Odličan</item>
@@ -182,17 +182,17 @@
         <item>Samo 2,4 GHz</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
-       <item>Vrijeme uporabe</item>
+        <item>Vrijeme uporabe</item>
         <item>Pokreni brojanje</item>
         <item>Naziv aplikacije</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
-       <item>Statično</item>
+        <item>Statično</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
          <item>Ništa</item>
-        <item>Ručno</item>
+         <item>Ručno</item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Isključeno</item>
@@ -206,7 +206,7 @@
         <item>PAP ili CHAP</item>
     </string-array>
     <string-array name="app_install_location_entries">
-         <item>Unutarnja pohrana</item>
+        <item>Unutarnja pohrana</item>
         <item>SD kartica</item>
         <item>Neka sustav odluči</item>
     </string-array>
@@ -221,7 +221,7 @@
         <item>Uvijek provjeri</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-          <item>Nikad ne upotrebljavaj HDCP provjeru</item>
+        <item>Nikad ne upotrebljavaj HDCP provjeru</item>
         <item>Upotrebljavaj HDCP provjeru samo za DRM sadržaj</item>
         <item>Uvijek upotrebljavaj HDCP provjeru</item>
     </string-array>
@@ -235,7 +235,7 @@
         <item>Animacija razmjera 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-      <item>Animacija isključena</item>
+        <item>Animacija isključena</item>
         <item>Animacija razmjera .5 x</item>
         <item>Animacija razmjera 1x</item>
         <item>Animacija razmjera 1.5 x</item>
@@ -261,7 +261,7 @@
         <item>Najviše 4 procesa</item>
     </string-array>
     <string-array name="vpn_types_long">
-      <item>PPTP VPN</item>
+        <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN s unaprijed dijeljenim ključevima</item>
         <item>L2TP/IPSec VPN s certifikatima</item>
         <item>IPSec VPN s unaprijed dijeljenim ključevima i Xauth autentifikacijom</item>
@@ -284,7 +284,7 @@
         <item>Majmun</item>
     </string-array>
     <string-array name="multi_sim_entries">
-         <item>Upis 1</item>
+        <item>Upis 1</item>
         <item>Upis 2</item>
     </string-array>
     <string-array name="multi_sim_summaries">
@@ -297,7 +297,7 @@
         <item>Pitaj</item>
     </string-array>
     <string-array name="multi_sim_summaries_voice">
-         <item>Upis 1</item>
+        <item>Upis 1</item>
         <item>Upis 2</item>
         <item>Pitaj korisnika</item>
     </string-array>
@@ -306,17 +306,17 @@
         <item>Upis 2</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-       <item>Jako</item>
+        <item>Jako</item>
         <item>Srednje</item>
         <item>Lagano</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-         <item>Grafički</item>
+        <item>Grafički</item>
         <item>Postotak</item>
         <item>Linija na vrhu</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-       <item>Pitaj kod veze</item>
+        <item>Pitaj kod veze</item>
         <item>Samo punjenje</item>
         <item>Učitaj SD karticu</item>
     </string-array>
@@ -330,6 +330,50 @@
         <item>8 sekundi</item>
         <item>9 sekundi</item>
     </string-array>
+    <string-array name="led_freq_values">
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+    </string-array>
+    <string-array name="led_color_values">
+        <item>plava</item>
+        <item>crvena</item>
+        <item>žuta</item>
+        <item>zelena</item>
+        <item>cijan</item>
+        <item>bijela</item>
+        <item>\#FFAA00AA</item>
+    </string-array>
+    <string-array name="mi1_led_color_values">
+        <item>plava</item>
+        <item>crvena</item>
+        <item>zelena</item>
+        <item>\#FFFF0033</item>
+        <item>\#FF5500FF</item>
+        <item>\#FFAA00AA</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Plava</item>
+        <item>Crvena</item>
+        <item>Zelena</item>
+        <item>Roza</item>
+        <item>Ljubičasta</item>
+        <item>Grimizna</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Plava</item>
+        <item>Crvena</item>
+        <item>Žuta</item>
+        <item>Zelena</item>
+        <item>Roza</item>
+        <item>Bijela</item>
+        <item>Ljubičasta</item>
+    </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI heksadecimal</item>
@@ -342,13 +386,13 @@
         <item>Zatvori trenutnu aplikaciju</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-       <item>0.5 sekunde</item>
+        <item>0.5 sekunde</item>
         <item>1 sekunda</item>
         <item>1.5 sekunda</item>
         <item>2 sekunde</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
-       <item>1 sekunda</item>
+        <item>1 sekunda</item>
         <item>2 sekunde</item>
         <item>5 sekundi</item>
         <item>10 sekundi</item>
@@ -356,7 +400,7 @@
         <item>Uvijek</item>
     </string-array>
     <string-array name="wfd_status">
-         <item>Uređaj povezan, kreiram sesiju…</item>
+        <item>Uređaj povezan, kreiram sesiju…</item>
         <item>Sesija kreirana.</item>
         <item>Pucanje sesije…</item>
         <item>Sesija neuspješna.</item>
@@ -364,16 +408,16 @@
         <item>Uređaj povezan</item>
     </string-array>
     <string-array name="screen_color_title">
-       <item>Toplo</item>
+        <item>Toplo</item>
         <item>Standardno</item>
         <item>Hladno</item>
     </string-array>
     <string-array name="screen_saturation_title">
-       <item>Briljantan</item>
+        <item>Briljantan</item>
         <item>Standardan</item>
     </string-array>
     <string-array name="startup_hips_action">
-         <item>Dozvoli</item>
+        <item>Dozvoli</item>
         <item>Odbij</item>
     </string-array>
     <string-array name="change_security_lock_picker">
@@ -394,7 +438,7 @@
         <item>Neograničeno</item>
     </string-array>
     <string-array name="preferred_app_entries">
-       <item>Pokretač</item>
+        <item>Pokretač</item>
         <item>Pozivi</item>
         <item>Poruke</item>
         <item>Preglednik</item>
