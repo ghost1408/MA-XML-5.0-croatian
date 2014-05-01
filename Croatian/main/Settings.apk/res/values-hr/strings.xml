@@ -373,7 +373,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Ne mogu izbrisati: Uređaj je postavljen da se prebaci na ovu konfiguraciju kada je isteklo vrijeme predviđenog razdoblja. Morate promijeniti postavke baterije prije nego što možete obrisati ovu konfiguraciju.</string>
     <string name="power_mode_chooser_button_text">Primjeni</string>
     <string name="power_20s_enter_mode">%1$ds prebaci na način %2$s</string>
-    <string name="power_notify_lowbattery">enrgija manja od %1$d%%</string>
+    <string name="power_notify_lowbattery">energija manja od %1$d%%</string>
     <string name="power_recovery_mode">Vrati na %1$s način</string>
     <string name="power_subtitle_lowbattery">Automatska štednja energije kada je slaba baterija</string>
     <string name="power_subtitle_ontime">Štednja energije kada je na vrijeme</string>
@@ -3246,8 +3246,8 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="remove_from_frequently_fragment">Ukloniti %s iz brzih postavki?</string>
     <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
     <string name="frequently_fragment_delete">Ukloni</string>
-    <string name="show_fc">Prisilno zatvorne aplikacije</string>
-    <string name="show_fc_summary">Prikaži prisilno zatvorene apliakcije</string>
+    <string name="show_fc">Prisilno zatvorene aplikacije</string>
+    <string name="show_fc_summary">Prikaži prisilno zatvorene aplikacije</string>
     <string name="factory_reset_summary">"Izbriši sve podatke s unutarnje pohrane uređaja"</string>
     <string name="erase_sure">Osobni podaci</string>
     <string name="erase_personal_data">Osobni podaci</string>
