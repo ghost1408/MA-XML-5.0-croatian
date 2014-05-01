@@ -2155,7 +2155,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="keyboard_layout_dialog_switch_hint">Za prijelaz pritisnite Ctrl i razmaknicu</string>
     <string name="keyboard_layout_default_label">Zadano</string>
     <string name="keyboard_layout_picker_title">Postavke tipkovnice</string>
-    <string name="user_dict_multiple_settings_title">Osobni riječnici</string>
+    <string name="user_dict_multiple_settings_title">Osobni rječnik</string>
     <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_add_menu_title">Dodaj</string>
     <string name="user_dict_settings_add_dialog_title">Dodaj u rječnik</string>
@@ -2178,7 +2178,7 @@ Riječ možete dodati dodirom na gumb Dodaj (+)."</string>
     <string name="testing">Testiranje</string>
     <string name="testing_phone_info">Informacije o uređaju</string>
     <string name="testing_battery_info">Informacije o bateriji</string>
-    <string name="testing_sim_toolkit">SIM Alat</string>
+    <string name="testing_sim_toolkit">Alat SIM-a</string>
     <string name="quick_launch_title">Brzo pokretanje</string>
     <string name="quick_launch_summary">Postavljanje tipkovničkih prečaca za pokretanje aplikacija</string>
     <string name="quick_launch_assign_application">Dodjela aplikacije</string>
