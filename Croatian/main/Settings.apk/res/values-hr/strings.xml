@@ -3462,7 +3462,6 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="msg_wlan_signal_found">Pronađeni WLAN signal %s, želite li koristiti ovu WLAN mrežu? Koristeći ovu mrežu će prekinuti podatkovnu uslugu djelomično.</string>
     <string name="wifi_signal_found_msg">Trenutni signal veza je slab, želite koristiti neki drugi WLAN mrežu?</string>
     <string name="android_beam_tips">Uvjerite se da se uređaji dodiruju, zatim dodirnite sadržaj koji želite poslati.</string>
-    <string name="restriction_nfc_enable_title">NFC</string>
     <string name="wifi_share">Dijeli WLAN</string>
     <string name="wifi_share_turn_on">Uključeno</string>
     <string name="wifi_share_turn_off">Isključeno</string>
