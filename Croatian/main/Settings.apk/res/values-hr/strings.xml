@@ -2156,7 +2156,9 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="keyboard_layout_dialog_switch_hint">Za prijelaz pritisnite Ctrl i razmaknicu</string>
     <string name="keyboard_layout_default_label">Zadano</string>
     <string name="keyboard_layout_picker_title">Postavke tipkovnice</string>
-    <string name="user_dict_settings_title">Osobni rječnik</string>
+    <string name="user_dict_settings_titlebar">Korisnički rječnik</string>
+    <string name="user_dict_single_settings_title">Osobni rječnik</string>
+    <string name="user_dict_multiple_settings_title">Osobni rječnici</string>
     <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_add_menu_title">Dodaj</string>
     <string name="user_dict_settings_add_dialog_title">Dodaj u rječnik</string>
@@ -2699,6 +2701,9 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
     <string name="debug_hw_overdraw">Uvijek upotrijebi GPU kod slaganja zaslona</string>
     <string name="disable_overlays">Omogućite tragove</string>
     <string name="disable_overlays_summary">Odaberite omogućene tragove</string>
+    <string name="enable_traces_title">Omogućite tragove</string>
+    <string name="enable_traces_dialog_title">Odaberite omogućene tragove</string>
+    <string name="show_hw_overdraw_summary">Od najbolje do najgore: plava, zelena, svijetlo crvena, crvena</string>
     <string name="enable_traces_summary_none">Nema trenutno omogućenih tragova</string>
     <string name="enable_traces_summary_num">%1$d trenutno omogućenih tragova</string>
     <string name="enable_traces_summary_all">Svi tragovi trenutno omogućeni</string>
@@ -3196,7 +3201,8 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="headset_no_contected">Slušalice nisu otkrivene</string>
     <string name="headset_calibrate_wrong_key">"To je krivi gumb"</string>
     <string name="sim_change_failed_enable_sim_lock">Omogući zaključavanje SIM kartice</string>
-    <string name="sim_lock_change_not_supported">"Nemoguće promijeniti zaključavanje SIM kartice."</string>
+    <string name="sim_lock_change_not_supported">"Nemoguće promijeniti zaključavanje SIM kartice.
+     SIM ne podržava promjenu."</string>
     <string name="apn_new">Nova pristupna točka</string>
     <string name="apn_save">Spremi?</string>
     <string name="apn_save_msg">Spremiti promjene za APN?</string>
@@ -3453,8 +3459,10 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="wifi_priority_changed" formatted="false">Stara vrijednost prioriteta  = %s | Nova vrijednost = %s</string>
     <string name="wifi_configured_ap_list">Prethodno konfigurirani AP-ovi</string>
     <string name="wifi_priority_label">Postavke zaključavanja</string>
-    <string name="nfc_category_title">NFC</string>
+    <string name="msg_wlan_signal_found">Pronađeni WLAN signal %s, želite li koristiti ovu WLAN mrežu? Koristeći ovu mrežu će prekinuti podatkovnu uslugu djelomično.</string>
+    <string name="wifi_signal_found_msg">Trenutni signal veza je slab, želite koristiti neki drugi WLAN mrežu?</string>
     <string name="android_beam_tips">Uvjerite se da se uređaji dodiruju, zatim dodirnite sadržaj koji želite poslati.</string>
+    <string name="restriction_nfc_enable_title">NFC</string>
     <string name="wifi_share">Dijeli WLAN</string>
     <string name="wifi_share_turn_on">Uključeno</string>
     <string name="wifi_share_turn_off">Isključeno</string>
