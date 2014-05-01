@@ -2411,11 +2411,11 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
     <string name="battery_action_wifi">WLAN Postavke</string>
     <string name="battery_action_bluetooth">Bluetooth Postavke</string>
     <string name="battery_desc_voice">Baterija iskorištena uslugom glasovnog poziva</string>
-    <string name="battery_desc_standby">Baterija iskorištena kad je tabletni uređaj u mirovanju</string>
-    <string name="battery_desc_radio">Baterija iskorištena upotrebom telefonskog radio prijemnika</string>
+    <string name="battery_desc_standby">Baterija iskorištena kad je uređaj u mirovanju</string>
+    <string name="battery_desc_radio">Baterija iskorištena upotrebom radio prijemnika</string>
     <string name="battery_sugg_radio">Prebacite se na način rada u zrakoplovu u područjima loše pokrivenosti signalom da biste uštedjeli energiju</string>
     <string name="battery_desc_display">Baterija iskorištena za zaslon i pozadinsko svjetlo</string>
-    <string name="battery_sugg_display">Smanjite svjetlinu i/ili privremeni prekid zaslona</string>
+    <string name="battery_sugg_display">Smanjite svjetlinu i/ili privremeno isključite zaslon</string>
     <string name="battery_desc_wifi">Baterija iskorištena za WLAN</string>
     <string name="battery_sugg_wifi">"Isključi WLAN ako se ne upotrebljava ili ako nije dostupan"</string>
     <string name="battery_desc_bluetooth">Baterija iskorištena upotrebom značajke Bluetooth</string>
@@ -2647,7 +2647,7 @@ Dodirni "<b>Natrag</b> za povezivanje s drugom WLAN mrežom.</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Dobrodošli u Google sinkr.!</font>" 
 Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontaktima, sastancima i više, bez obzira gdje se nalazili. "</string>
     <string name="header_application_sync_settings">Postavke sinkronizacije aplikacija</string>
-    <string name="header_data_and_synchronization">Podaci i sinkronizacija</string>
+    <string name="header_data_and_synchronization">Podaci &amp; sinkronizacija</string>
     <string name="preference_change_password_title">Promijeni zaporku</string>
     <string name="header_account_settings">Postavke računa</string>
     <string name="remove_account_label">Ukloni račun</string>
@@ -3025,7 +3025,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="search_vpn">vpn</string>
     <string name="search_tether">dijeljenje veze</string>
     <string name="search_brightness">svjetlina</string>
-    <string name="search_wallpaper">pozadinska slika</string>
+    <string name="search_wallpaper">slika pozadine</string>
     <string name="search_launcher">pokretač</string>
     <string name="search_accelerometer">mjerač ubrzanja</string>
     <string name="search_screen_timeout">vrijeme gašenja zaslona</string>
@@ -3038,7 +3038,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="search_gps">gps</string>
     <string name="search_status_bar">traka statusa</string>
     <string name="search_sync">sinkronizacija</string>
-    <string name="search_battery_indicator">pokazivač baterije</string>
+    <string name="search_battery_indicator">izgled baterije</string>
     <string name="search_key">tipka</string>
     <string name="search_led">led</string>
     <string name="search_date_time">datum vrijeme</string>
