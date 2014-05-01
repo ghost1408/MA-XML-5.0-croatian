@@ -1221,10 +1221,10 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
     <string name="roaming_reenable_title">Omogućiti roaming podataka?</string>
     <string name="networks">Odabir operatera</string>
     <string name="sum_carrier_select">Odaberite mrežnog operatera</string>
-    <string name="date_and_time_settings_title">Datum i vrijeme</string>
+    <string name="date_and_time_settings_title">Datum &amp; vrijeme</string>
     <string name="date_and_time_settings_title_setup_wizard">Postavite datum i vrijeme</string>
     <string name="date_and_time_settings_summary">Postavljanje datuma, vremena, vremenske zone i formata</string>
-    <string name="date_time_auto">Automatski datum i vrijeme</string>
+    <string name="date_time_auto">Automatski datum &amp; vrijeme</string>
     <string name="date_time_auto_summaryOn">Upotrijebi vrijeme mreže</string>
     <string name="date_time_auto_summaryOff">Upotrijebi vrijeme mreže</string>
     <string name="zone_auto">Automatska vremenska zona</string>
@@ -2155,7 +2155,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="keyboard_layout_dialog_switch_hint">Za prijelaz pritisnite Ctrl i razmaknicu</string>
     <string name="keyboard_layout_default_label">Zadano</string>
     <string name="keyboard_layout_picker_title">Postavke tipkovnice</string>
-    <string name="user_dict_multiple_settings_title">Osobni rječnik</string>
+    <string name="user_dict_settings_title">Osobni rječnik</string>
     <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_add_menu_title">Dodaj</string>
     <string name="user_dict_settings_add_dialog_title">Dodaj u rječnik</string>
