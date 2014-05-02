@@ -632,7 +632,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="seventy">70</string>
     <string name="valuation">Potrebno čišćenje</string>
     <string name="virus_scan">Skeniranje Virusa</string>
-    <string name="network_assistant">Upotreba podataka</string>
+    <string name="network_assistant">Potrošnja pod.</string>
     <string name="anti_spam">Lista blokiranih</string>
     <string name="permission_mgr">Dopuštenja</string>
     <string name="cleaner">Čistač</string>
@@ -837,7 +837,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="work_done">Gotovo</string>
     <string name="last_checked_date">Zadnje skeniranje je bilo prije 30 dana</string>
     <string name="last_checked_date_mark">pts</string>
-    <string name="last_checked_date2">Najnovije skeniranje obavljeno prije %d dana</string>
+    <string name="last_checked_date2">Zadnje skeniranje obavljeno prije %d dana</string>
     <string name="just_checked">Sve izgleda uredno!</string>
     <string name="need_check">Neke stavke mogu biti optimizirane…</string>
     <string name="scan_done">Skeniranje završeno</string>
@@ -858,11 +858,11 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="cancel">Odustani</string>
     <string name="mem_lock">Zaključaj</string>
     <string name="mem_unlock">Otključaj</string>
-    <string name="last_check_date_today">"Najnovije skeniranje: Danas "</string>
-    <string name="last_check_date_yesterday">"Najnovije skeniranje: Jučer "</string>
+    <string name="last_check_date_today">"Zadnje skeniranje: Danas "</string>
+    <string name="last_check_date_yesterday">"Zadnje skeniranje: Jučer "</string>
     <string name="last_check_never_checked">Skeniraj preporučeno (prvi puta)</string>
     <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
-    <string name="last_checked_default">Najnovije skeniranje je bilo prije %s dana</string>
+    <string name="last_checked_default">Zadnje skeniranje je bilo prije %s dana</string>
     <string name="examination_score_100">Sve izgleda uredno</string>
     <string name="examination_score_80_100">Nekoliko stavaka može biti optimizirano</string>
     <string name="examination_score_80_60">Neke stavke mogu biti optimizirane</string>
@@ -914,7 +914,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="virus_scan_list_item_risk">Rizik</string>
     <string name="virus_scan_start">Skeniranje virusa</string>
     <string name="virus_scan_support">Powered by Tencent</string>
-    <string name="virus_scan_last_time">Najnovije skeniranje: %s</string>
+    <string name="virus_scan_last_time">Zadnje skeniranje: %s</string>
     <string name="virus_scan_safe">Očisti</string>
     <string name="virus_scan_dangerous">Rizik</string>
     <string name="virus_scan_find">%d rizik (a) otkriveno</string>
@@ -963,9 +963,9 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="virus_scan_package_label_unknown">nepoznato</string>
     <string name="virus_scan_not_found_virus">Nema pronađenih virusa</string>
     <string name="virus_scan_not_found_risk">Nema nađenih rizika</string>
-    <string name="virus_scan_last_scan_today">"Najnovije skeniranje: Danas "</string>
-    <string name="virus_scan_last_scan_yesterday">"Najnovije skeniranje: Jučer "</string>
-    <string name="virus_scan_last_scan_date">Najnovija skeniranje bilo prije je %d dana</string>
+    <string name="virus_scan_last_scan_today">"Zadnje skeniranje: Danas "</string>
+    <string name="virus_scan_last_scan_yesterday">"Zadnje skeniranje: Jučer "</string>
+    <string name="virus_scan_last_scan_date">Zadnje skeniranje je bilo prije %d dana</string>
     <string name="virus_scan_unknown_virus_name">Nepoznato</string>
     <string name="virus_scan_is_cloud_scanning">Skeniranje u oblaku…</string>
     <string name="virus_scan_clean_dialog_message">Čišćenje...</string>
@@ -3294,7 +3294,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="font_size_large">Veliki</string>
     <string name="font_size_huge">Ogroman</string>
     <string name="virus_scan_app_stop_scan">Zaustavi skeniranje</string>
-    <string name="password_guard">Zaporka</string>
+    <string name="password_guard">Sigurnost</string>
     <string name="title_dolby_control">Dobly digital plus</string>
     <string name="dolby_mode_off">Isključeno</string>
     <string name="dolby_mode_music">Glazba</string>
