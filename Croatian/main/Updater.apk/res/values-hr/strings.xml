@@ -70,7 +70,7 @@
   <string name="later">Ponovno pokreni kasnije</string>
   <string name="loading">Zahtjevanje</string>
   <string name="md5_check_cancelled">MD5 provjera otkazana</string>
-  <string name="mione_update_fail_description">Molimo ažurirati opet</string>
+  <string name="mione_update_fail_description">Pokušajte ponoviti ažuriranje</string>
   <string name="mione_update_fail_title">Ažuriranje nije uspjelo</string>
   <string name="mione_update_success_title">Ažuriranje završeno</string>
   <string name="monthly_build">Mjesečno izdanje</string>
@@ -92,7 +92,7 @@
   <string name="next">Sljedeće</string>
   <string name="no_proper_updates">Nema dostupnih ažuriranja za trenutno instaliranu verziju</string>
   <string name="no_updatecheck_executed">Provjera ažuriranja nije provedena</string>
-  <string name="no_updates_found">Već imate instaliranu najnoviju verziju</string>
+  <string name="no_updates_found">Već imate instaliranu najnoviju verziju MIUI :-)</string> 
   <string name="no_updates_warning">Nema dostupnih ažuriranja za vaš telefon</string>
   <string name="no_updates_warning2">Aplikacija će vas obavijestiti o budućim ažuriranjima</string>
   <string name="not_recommend">"Nije preporučljivo"</string>
@@ -147,7 +147,7 @@
   <string name="unstable_build">Nestabilno izdanje</string>
   <string name="update_comment_hint">(opcijalno)</string>
   <string name="update_comment_title">Vaši komentari</string>
-  <string name="update_feedback">Four-grid Update Feedback</string>
+  <string name="update_feedback">Ocjena ažuriranja</string>
   <string name="update_feedback_expired">Šteta što ste propustili povratne informacije ažuriranja. Molimo  vas da pošaljete anketu opet sljedeći utorak."</string>
   <string name="update_feel">1. Kako se osjećate?</string>
   <string name="update_general">Nije loše</string>
