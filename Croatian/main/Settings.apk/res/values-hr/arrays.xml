@@ -129,7 +129,7 @@
         <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
         <item>Questo è un esempio di sintesi vocale in italiano.</item>
         <item>Este es un ejemplo de síntesis de voz en español.</item>
-	    <item>Ovo je primjer sinteze govora na hrvatskom jeziku.</item>
+	 <item>Ovo je primjer sinteze govora na hrvatskom jeziku.</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
@@ -398,7 +398,7 @@
         <item>1 sekunda</item>
         <item>1.5 sekunda</item>
         <item>2 sekunde</item>
-		</string-array>
+	</string-array>
     <string-array name="screen_key_long_press_action">
         <item>Ništa</item>
         <item>Pokaži nedavne aplikacije</item>
@@ -494,8 +494,8 @@ telefon će se automatski otvoriti kada je spojen na računalo."</item>
         <item>Zaporka</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-       <item>Smanjenje buke jed.mikrofonom</item>
-        <item>Smanjenje buke dva mikrofona</item>
+       <item>Smanjenje buke jednim mikrofonom</item>
+       <item>Smanjenje buke s dva mikrofona</item>
     </string-array>
 	<string-array name="media_feedback_level_entries">
         <item>Jako</item>
