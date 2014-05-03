@@ -2001,6 +2001,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="force_stop">Prisilno zaustavi</string>
     <string name="total_size_label">Ukupno</string>
     <string name="application_size_label">Aplikacija</string>
+	<string name="applications_settings">Aplikacije</string>
     <string name="external_code_size_label">USB aplikacija za pohranjivanje</string>
     <string name="data_size_label">Podaci</string>
     <string name="external_data_size_label">Podaci USB pohrane</string>
@@ -3111,8 +3112,8 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="preferred_sms_warning_use_system">"Nemoj koristiti"</string>
     <string name="preferred_sms_settings">Ova aplikacije će biti postavljena kao zadana aplikacije za čitanje i sastavljanje SMS poruka.</string>
     <string name="preferred_sms_title">Zadana aplikacije SMS-a</string>
-    <string name="key_settings_title">Gumbi</string>
-    <string name="key_settings">Gumbi</string>
+    <string name="key_settings_title">Gumbi &amp; tipke</string>
+    <string name="key_settings">Gumbi &amp; tipke</string>
     <string name="screen_key_long_press">Dugi pritisak na navigacijske gumbe</string>
     <string name="screen_key_long_press_action">Pokreni funkciju</string>
     <string name="menu_key">Izbornik</string>

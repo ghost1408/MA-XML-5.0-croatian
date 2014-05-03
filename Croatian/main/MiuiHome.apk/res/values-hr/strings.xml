@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="home_indicator">donja_točka</string>
+    <string name="home_indicator">bottom_point</string>
     <string name="wallpaper_scrolling">sve</string>
     <string name="sharedUserId" />
     <string name="process" />
@@ -120,10 +120,10 @@
     <string name="photo_load_failed">Neuspješno učitavanje fotografije</string>
     <string name="frame_load_failed">Neuspješno učitavanje okvira</string>
     <string name="gadget_weather_loading">Nema meteoroloških podataka</string>
-    <string name="gadget_weather_title_24">Vrijeme</string>
-    <string name="gadget_weather_title_14">Vrijeme</string>
+    <string name="gadget_weather_title_24">Vrijeme 4X2</string>
+    <string name="gadget_weather_title_14">Vrijeme 4X1</string>
     <string name="gadget_weather_app_not_installed">Dodirnite za preuzimanje MIUI Vrijeme</string>
-    <string name="gadget_weather_time_format">MM/d EEE</string>
+    <string name="gadget_weather_time_format">dd.MM.yyyy</string>
     <string name="gadget_weather_theme_type">Vrsta naprave</string>
     <string name="gadget_weather_download_title">Preuzimanje</string>
     <string name="gadget_weather_download_message">Morate preuzeti sadržaj aplikacije: %1$s. veličine: %2$s. Ponovno pokrenite aplikaciju nakon završetka preuzimanja.</string>
@@ -177,7 +177,7 @@
     <string name="status_bar_toggle_rotate">Zakretanje</string>
     <string name="status_bar_toggle_screen_button">Onemogući</string>
     <string name="status_bar_toggle_screenshot">Snimak zaslona</string>
-    <string name="status_bar_toggle_shutdown">Energija</string>
+    <string name="status_bar_toggle_shutdown">Isključivanje</string>
     <string name="status_bar_toggle_sync">Sink.</string>
     <string name="status_bar_toggle_torch">Svjetiljka</string>
     <string name="status_bar_toggle_vibrate">Vibracija</string>
