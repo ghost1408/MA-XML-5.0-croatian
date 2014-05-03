@@ -4,7 +4,7 @@
   <string name="account_login">Prijavite se</string>
   <string name="account_summary">Sig. pohrana Xiaomi, Google računa i ostalih podataka</string>
   <string name="already_enable_encrypt">Šifriranje omogućeno</string>
-  <string name="app_name">Sigurnosna pohrana</string>
+  <string name="app_name">Pohrana</string>
   <string name="auto_backup">Automatska sig. pohrana</string>
   <string name="auto_backup_all_user_apps">Svi programi</string>
   <string name="auto_backup_choose">Automatski napravi sig. pohranu</string>
@@ -132,11 +132,11 @@ za za prekid vraćanja"</string>
   <string name="customization_under_wifi_prompt">Samo podržano prilikom korištenja WLAN-a</string>
   <string name="data_no_enough_space">Nedovoljno prostora interne memorije, napravite mjesta i pokušajte ponovno</string>
   <string name="data_no_enough_space_message">Vraćanje može podbaciti, napravite mjesta na unutarnjoj pohrani i pokušajte ponovno</string>
-  <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
   <string name="delete">Obrisati</string>
   <string name="delete_backup_process">Brišem sig.pohranu(e)...</string>
   <string name="delete_failed_backup_confirm">Ova sig. pohrana ima grešku i ne mogu vratiti podatke s nje</string>
-  <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
+  <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
   <string name="disable_encrypt_title">Šifriranje isključeno</string>
   <string name="enable_encrypt">Uključiti sada</string>
   <string name="enable_encrypt_fail">Neuspješno uključivanje enkripcije</string>
@@ -156,7 +156,7 @@ za za prekid vraćanja"</string>
   <string name="import_from_xiaomi_account_hint2">Napomena: Idi na idući korak ako sigurnosna pohrana postoji</string>
   <string name="import_from_xiaomi_account_hint_title">Koristi MiTalk za sigurnosno kopiranje kontakata na drugim uređajima, ne na MI-ONE</string>
   <string name="just_support_op_with_wifi_connected">Samo kada se koristi WLAN</string>
-  <string name="local_app_name">Sig.pohrana</string>
+  <string name="local_app_name">Pohrana</string>
   <string name="local_backup_window_title">Lokalna sigurnosna pohrana</string>
   <string name="local_home_title">Lokalno sigurnosno pohranjivanje podataka</string>
   <string name="local_no_backup">Nema lokalne sigurnosne pohrane</string>

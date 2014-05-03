@@ -14,7 +14,12 @@
         <item>Postavi pitanje</item>
         <item>Ne dopuštaj nikada</item>
         <item>Dopusti uvijek</item>
-	</string-array>	
+	</string-array>
+	<string-array name="miracast_policies">
+        <item>Kratka stanka</item>
+        <item>Standardno</item>
+        <item>Bolja kvaliteta</item>
+    </string-array>
 	<string-array name="wifi_connect_type_entries">
         <item>Automatsko povezivanje</item>
         <item>Ručno povezivanje</item>
@@ -286,6 +291,12 @@
         <item>Animacija razmjera 5 x</item>
         <item>Animacija razmjera 10 x</item>
     </string-array>
+   <string-array name="enable_opengl_traces_entries">
+        <item>Ništa</item>
+        <item>Logcat</item>
+        <item>Systrace (grafika)</item>
+        <item>Pozivni snop za funkciju glGetError</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standardna granica</item>
         <item>Nema pozadinskih procesa</item>
@@ -382,6 +393,12 @@
         <item>Bijela</item>
         <item>Ljubičasta</item>
     </string-array>
+    <string-array name="back_long_press_timeout">
+        <item>0.5 sekunde</item>
+        <item>1 sekunda</item>
+        <item>1.5 sekunda</item>
+        <item>2 sekunde</item>
+		</string-array>
     <string-array name="screen_key_long_press_action">
         <item>Ništa</item>
         <item>Pokaži nedavne aplikacije</item>
@@ -478,7 +495,12 @@ telefon će se automatski otvoriti kada je spojen na računalo."</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
        <item>Smanjenje buke jed.mikrofonom</item>
-        <item>Smanjenje buke dvo.mikrofonom</item>
+        <item>Smanjenje buke dva mikrofona</item>
+    </string-array>
+	<string-array name="media_feedback_level_entries">
+        <item>Jako</item>
+        <item>Srednje</item>
+        <item>Dobro</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minuta</item>
