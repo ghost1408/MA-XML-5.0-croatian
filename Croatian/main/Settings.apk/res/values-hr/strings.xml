@@ -2001,7 +2001,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="force_stop">Prisilno zaustavi</string>
     <string name="total_size_label">Ukupno</string>
     <string name="application_size_label">Aplikacija</string>
-	<string name="applications_settings">Aplikacije</string>
+    <string name="applications_settings">Aplikacije</string>
     <string name="external_code_size_label">USB aplikacija za pohranjivanje</string>
     <string name="data_size_label">Podaci</string>
     <string name="external_data_size_label">Podaci USB pohrane</string>
