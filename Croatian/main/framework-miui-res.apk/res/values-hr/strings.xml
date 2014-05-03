@@ -323,7 +323,7 @@
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
-  <string name="lock_screen_date">MMMM, EEEE d</string>
+  <string name="lock_screen_date">d. MMMM EEEE</string>
   <string name="lockscreen_access_pattern_cell_added">Ćelije dodane</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak kompletan</string>
@@ -364,7 +364,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="lunar_yi"/>
   <string name="lunar_yue"/>
   <string name="lunar_zheng"/>
-  <string name="memory_clear_nothing_result">Nema memorije za očistiti</string>
+  <string name="memory_clear_nothing_result">Memorija već optimizirana</string>
   <string name="memory_clear_result">"%1$s Slobodno | %2$s dostupno"</string>
   <string name="minutes">%d minuta</string>
   <string name="miui_copyright_title">Autorsko pravo</string>
@@ -386,7 +386,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="month_of_november">Stu</string>
   <string name="month_of_october">Ruj</string>
   <string name="month_of_september">Lis</string>
-  <string name="multi_select_title">Odabrano %1$s stavki</string>
+  <string name="multi_select_title"> %1$s odabrano</string>
   <string name="national_day"/>
   <string name="never">Nikad</string>
   <string name="new_years_day"/>

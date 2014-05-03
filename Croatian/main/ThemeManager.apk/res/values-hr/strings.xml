@@ -44,7 +44,7 @@
   <string name="loading">Učitavam...</string>
   <string name="loading_resource_detail_fail">Neuspjelo učitavanje resursa!</string>
   <string name="loading_resource_detail_info">Učitavam...</string>
-  <string name="lockscreen_wallpaper">Zaključani zaslon</string>
+  <string name="lockscreen_wallpaper">Slika pozadine zaklj. zaslona</string>
   <string name="lockstyle_personal_settings">Uređivanje</string>
   <string name="long_ringtone_resource">Dugo</string>
   <string name="maml_component_customization_title">Postavke komponenti</string>
@@ -219,8 +219,8 @@
   <string name="theme_component_title_alarmstyle">Stil alarma</string>
   <string name="theme_component_title_all">Tema</string>
   <string name="theme_component_title_audio_effect">Zvučni efekt</string>
-  <string name="theme_component_title_boot_animation">Boot animacija</string>
-  <string name="theme_component_title_boot_audio">Boot zvuk</string>
+  <string name="theme_component_title_boot_animation">Animacija pokretanja</string>
+  <string name="theme_component_title_boot_audio">Zvuk pokretanja</string>
   <string name="theme_component_title_clock">Sat</string>
   <string name="theme_component_title_contact">Biratelj</string>
   <string name="theme_component_title_font">Font</string>
@@ -255,7 +255,7 @@
   <string name="wallpaper_decoded_error">Neuspješno dekodiranje</string>
   <string name="wallpaper_loading_text">Učitavam...</string>
   <string name="wallpaper_set_as_both">Podesi za oboje</string>
-  <string name="wallpaper_set_as_destop">Podesi kao sliku pozadine</string>
+  <string name="wallpaper_set_as_destop">Podesi za sliku pozadine</string>
   <string name="wallpaper_set_as_lockscreen">Podesi za sliku zaklj.zaslona</string>
   <string name="wallpaper_settings">Postavke pozadinske slike</string>
 </resources>

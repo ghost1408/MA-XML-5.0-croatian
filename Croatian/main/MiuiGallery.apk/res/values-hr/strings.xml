@@ -41,7 +41,7 @@
   <string name="alert_message_open_sync">Sinkronizacija potrebna, želite sada otvoriti sinkronizaciju?</string>
   <string name="already_apply_album">Otvori %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
-  <string name="androidesk_wallpapers">Android Pozadinske slike</string>
+  <string name="androidesk_wallpapers">Android slike pozadine</string>
   <string name="aperture">Otvor blende</string>
   <string name="app_name">Galerija</string>
   <string name="appwidget_empty_text">Nema fotografija.</string>
@@ -66,7 +66,7 @@
   <string name="camera_disconnected">Fotoaparat je isključen.</string>
   <string name="camera_folder_display_name">Slike Fotoaparata</string>
   <string name="camera_path">/DCIM/Fotoaparat</string>
-  <string name="camera_setas_wallpaper">Pozadinska slika</string>
+  <string name="camera_setas_wallpaper">Slika pozadine</string>
   <string name="camera_view_none_message">Snimljene fotografije će ovdje biti prikazane.</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_hint">Radnja otkazana</string>
@@ -397,14 +397,14 @@ prijateljima."</string>
   <string name="set_label_all_albums">Svi albumi</string>
   <string name="set_label_local_albums">Lokalni albumi</string>
   <string name="set_label_mtp_devices">MTP uređaji</string>
-  <string name="set_lock_and_wallpaper">Postavljanje za pozadinsku sliku...</string>
-  <string name="set_lock_or_wallpaper">Postavljanje pozadinske slike</string>
+  <string name="set_lock_and_wallpaper">Postavljanje za sliku pozadine...</string>
+  <string name="set_lock_or_wallpaper">Postavljanje slike pozadine</string>
   <string name="set_lockscreen">Postavljanje zaključanog zaslona</string>
   <string name="set_recent_album">Postavi kao nedavni album</string>
   <string name="set_screensaver_path_message">Ovaj album će biti prikazan 5 sekundi nakon što se zaslon isključi.</string>
   <string name="set_screensaver_path_message_if_only_charging">Slike u ovom albumu će biti prikazane u čuvaru zaslona samo tijekom punjenja.</string>
   <string name="set_screensaver_path_title">Dijaprojekcija čuvara zaslona</string>
-  <string name="set_wallpaper">Postavi pozadinsku sliku</string>
+  <string name="set_wallpaper">Postavi za sliku pozadine</string>
   <string name="settings">Postavke</string>
   <string name="settings_i_xiaomi_com">Prijavite se na i.xiaomi.com za upravljanje svojim oblakom za pohranu</string>
   <string name="shadow">Sjenčanje</string>
@@ -452,7 +452,7 @@ prijateljima."</string>
   <string name="system_album">Album sustava</string>
   <string name="tab_all_text">Postavi sve</string>
   <string name="tab_lockscreen_text">Zaključani zaslon</string>
-  <string name="tab_wallpaper_text">Desktop</string>
+  <string name="tab_wallpaper_text">Zaslon</string>
   <string name="tags">Oznake</string>
   <string name="temperature">Toplina</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
@@ -461,7 +461,7 @@ prijateljima."</string>
   <string name="there_is_no_image">Nema slike.</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Vrijeme</string>
-  <string name="time_line_view">Timeline_Pogled</string>
+  <string name="time_line_view">Timeline_view</string>
   <string name="times">Vremena</string>
   <string name="tint">Svijetlija nijansa</string>
   <string name="title">Naslov</string>
@@ -479,7 +479,7 @@ prijateljima."</string>
   <string name="video_not_exist">Videozapis ne postoji!</string>
   <string name="view_sharers">Pogledaj sudionike</string>
   <string name="vignette">Vinjeta</string>
-  <string name="wallpaper">Pozadinska slika</string>
+  <string name="wallpaper">Slika pozadine</string>
   <string name="warn">Upozorenje</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="where_is_barcode">Gdje je QR kod?</string>

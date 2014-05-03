@@ -103,4 +103,16 @@
         <item>Lebdeća prašina</item>
         <item>Sumaglica</item>
     </string-array>
+	 <string-array name="editing_mode_entries">
+        <item>Premjesti aplikaciju</item>
+        <item>Widgeti</item>
+        <item>Slika pozadine</item>
+        <item>Efekti</item>
+    </string-array>
+    <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
 </resources>
