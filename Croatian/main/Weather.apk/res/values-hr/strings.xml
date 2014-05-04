@@ -98,14 +98,14 @@
   <string name="settings_weather_preview">Pretpregled vremenske animacije</string>
   <string name="settings_weather_title">Postavke</string>
   <string name="share_aqi_content">"\#MIUI vrijeme#
-Danas %1$s's kvaliteta zraka: %2$s, %3$s. %4$s %5$s."</string>
+U %1$s je kvaliteta zraka: %2$s, %3$s. %4$s %5$s."</string>
   <string name="share_button_text">Dijeli</string>
   <string name="share_choice_titile">Dijeli informacije o vremenu</string>
   <string name="share_content">\#MIUI vrijeme#</string>
   <string name="share_qq">Dijeli putem Tencent Weibo</string>
   <string name="share_sina">Dijeli putem Sina Weibo</string>
   <string name="share_weather_content">"\#MIUI vrijeme#
-Danas %1$s je vrijeme %2$s, %3$s, %4$s. %5$s."</string>
+U %1$s je vrijeme %2$s, %3$s, %4$s. %5$s."</string>
   <string name="share_weather_title">Dijeli podatke o vremenu</string>
   <string name="sina_share_fail">Slanje neuspješno!</string>
   <string name="sina_share_pendding">Šaljem...</string>

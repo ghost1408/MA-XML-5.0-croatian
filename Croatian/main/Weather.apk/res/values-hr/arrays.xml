@@ -15,7 +15,7 @@
         <item>旅游指数</item>
     </string-array>
     <string-array name="act_weather_main_listview_key">
-        <item>Brzina vjetra:</item>
+        <item>Vjetar:</item>
         <item>UV indeks:　</item>
         <item>Odjeća:</item>
         <item>Komfor:</item>
@@ -141,15 +141,15 @@
         <item>Kvaliteta zraka je loša, ostanite u kući.</item>
     </string-array>
     <string-array name="weather_sms_addons">
-        <item>"Današnja prognoza za @: $."</item>
-        <item>Nisko~visoko: %.</item>
+        <item>"Današnja prognoza @: $."</item>
+        <item>Temp. : % °C.</item>
         <item>Ne zaboravite ponijeti kišobran!</item>
-        <item></item>
+        <item>Pokušajte ostati suhi</item>
         <item>Ukoliko sušite odjeću vani, ne zaboravite je pospremiti! :)"</item>
         <item>"Ako je moguće, nemojte voziti."</item>
         <item>Vozite pažljivo!</item>
         <item>"Budite na oprezu vani,sklisko je."</item>
-        <item></item>
+        <item>Bez žurbe. Budite na oprezu</item>
         <item>Budite na oprezu vani.</item>
         <item>"Ne izlazite ako ne morate."</item>
         <item>Nanesite kremu za sunčanje i ponesite sunčane naočale.</item>
