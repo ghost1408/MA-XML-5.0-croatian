@@ -3581,7 +3581,6 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="preferred_app_settings_default">Zadano</string>
     <string name="preferred_app_settings_reset">Obnovi zadano</string>
     <string name="preferred_app_settings_reset_message">Sve zadane aplikacija će se vratiti na MIUI podešavanja</string>
-    <string name="preferred_app_settings_reset_message">Sve zadane aplikacija će se vratiti na MIUI podešavanja</string>
     <string name="miracast_settings_category">Postavke prikaza WLAN-a</string>
     <string name="miracast_display_category">Zasloni</string>
     <string name="miracast_menu_search">Traži</string>
