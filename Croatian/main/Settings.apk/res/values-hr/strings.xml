@@ -59,7 +59,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="optimize_tips_cache_title">Predmemorija：</string>
     <string name="optimize_tips_cache_content">Stvoreno od aplikacija i procesa koji ih zahtijevaju samo privremeno (npr. sličice).</string>
     <string name="optimize_tips_residual_title">Ostaci：</string>
-    <string name="optimize_tips_residual_content">"Datoteke (npr. videozapisi, pozadinske slike, glazba, itd.) koje su preuzete na SD karticu vašeg uređaja od strane aplikacije koja je deinstalirana. Kako vam neke od tih datoteka još uvijek mogu biti od koristi, preporučujemo vam da koristite napredne značajke kod čišćenja zaostalih datoteka."</string>
+    <string name="optimize_tips_residual_content">"Datoteke (npr. videozapisi, slike pozadine, glazba, itd.) koje su preuzete na SD karticu vašeg uređaja od strane aplikacije koja je deinstalirana. Kako vam neke od tih datoteka još uvijek mogu biti od koristi, preporučujemo vam da koristite napredne značajke kod čišćenja zaostalih datoteka."</string>
     <string name="quick_scan_apk_list_item_version_hit">Verzija：%s</string>
     <string name="apk_status_uninstalled">Nije instalirano</string>
     <string name="apk_status_installed_old">Starija vezija</string>
@@ -84,7 +84,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="deep_clean_tips_cache_title">Memorija：</string>
     <string name="deep_clean_tips_cache_content">"Neke aplikacije koriste predmemoriju datoteke za preuzimanje dodatnih resursa (npr. riječi pjesama, glazba i slike). Budite oprezni kod čišćenja tih datoteka."</string>
     <string name="deep_clean_tips_residual_title">Ostaci：</string>
-    <string name="deep_clean_tips_residual_content">"Ostaci su datoteke (npr. videozapisi, pozadinske slike, glazba, itd.) koji su preuzeti na SD karticu vašeg uređaja od aplikacije koja je deinstalirana. Budite oprezni kod čišćenja, neke od tih datoteka i dalje vam mogu biti korisne."</string>
+    <string name="deep_clean_tips_residual_content">"Ostaci su datoteke (npr. videozapisi, slike pozadine, glazba, itd.) koji su preuzeti na SD karticu vašeg uređaja od aplikacije koja je deinstalirana. Budite oprezni kod čišćenja, neke od tih datoteka i dalje vam mogu biti korisne."</string>
     <string name="deep_clean_tips_large_file_title">Velike datoteke：</string>
     <string name="deep_clean_tips_large_file_content">Velike datoteke su datoteke veće od 10MB koje su trenutno pohranjene na uređaju. Samo vi možete odlučiti da li su vam još potrebne.</string>
     <string name="toast_qucik_scan_list_empty">Sve izgleda dobro, nije potrebno čišćenje!</string>
