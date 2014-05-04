@@ -2708,7 +2708,6 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
     <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
     <string name="enable_traces_title">Omogućite tragove</string>
     <string name="enable_traces_dialog_title">Odaberite omogućene tragove</string>
-    <string name="show_hw_overdraw_summary">Od najbolje do najgore: plava, zelena, svijetlo crvena, crvena</string>
     <string name="enable_traces_summary_none">Nema trenutno omogućenih tragova</string>
     <string name="enable_traces_summary_num">%1$d trenutno omogućenih tragova</string>
     <string name="enable_traces_summary_all">Svi tragovi trenutno omogućeni</string>
@@ -2723,7 +2722,7 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
     <string name="force_rtl_layout_all_locales">Nametni zdesna ulijevo</string>
     <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
     <string name="show_non_rect_clip">Profiliraj GPU prikazivanje</string>
-	<string name="show_non_rect_clip">Otkloni pogreške operacija nepravokutnog isječka</string>
+    <string name="show_non_rect_clip">Otkloni pogreške operacija nepravokutnog isječka</string>
     <string name="track_frame_time_summary">Mjeri vrijeme rendiranja u adb shell dumpsys gfxinfo</string>
     <string name="window_animation_scale_title">Razmjer animacije prozora</string>
     <string name="transition_animation_scale_title">Razmjer animacije prijelaza</string>
