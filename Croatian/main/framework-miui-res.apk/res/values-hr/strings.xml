@@ -323,7 +323,7 @@
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
-  <string name="lock_screen_date">d. MMMM EEEE</string>
+  <string name="lock_screen_date">EEEE dd/MM/YY</string>
   <string name="lockscreen_access_pattern_cell_added">Ćelije dodane</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak kompletan</string>

@@ -15,7 +15,7 @@
     <string name="search_go">Pretraži</string>
     <string name="selectAll">Odaberi sve</string>
     <string name="unknownName">(Nepoznato)</string>
-    <string name="untitled">&lt;Bez naslova></string>
+    <string name="untitled">&lt;Bez naslova&gt;</string>
     <string name="VideoView_error_button">U redu</string>
     <string name="VideoView_error_text_unknown">Ovaj videozapis nije moguće reproducirati.</string>
     <string name="VideoView_error_title">Problem s videozapisom</string>
@@ -24,11 +24,11 @@
     <string name="VideoView_error_text_invalid_progressive_playback">Ovaj videozapis nije valjan za streaming na ovaj uređaj.</string>
     <string name="selectTextMode">Odabir teksta</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="hour_minute_24" formatted="false">%-k:%M</string>
-    <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
+    <string name="hour_minute_24" formatted="false">%H:%M</string>
+    <string name="hour_minute_ampm" formatted="false">%-l:%M%p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
     <string name="twelve_hour_time_format">h:mm a</string>
-    <string name="twenty_four_hour_time_format">H:mm</string>
+    <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="numeric_date" formatted="false">%-e.%-m.%Y.</string>
     <string name="numeric_date_format">d.M.yyyy.</string>
     <string name="numeric_date_template" formatted="false">%s.%s.%s.</string>
@@ -77,9 +77,9 @@
     <string name="same_month_mdy1_mdy2">%3$s. - %8$s.%2$s.%9$s.</string>
     <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %3$s.%2$s. - %6$s, %8$s.%7$s.%9$s.</string>
     <string name="short_format_month">%b</string>
-    <string name="full_wday_month_day_no_year">E, d. MMMM</string>
-    <string name="abbrev_wday_month_day_no_year">E, d. MMMM</string>
-    <string name="abbrev_wday_month_day_year">EEE, d.MMM.y.</string>
+    <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+    <string name="abbrev_wday_month_day_no_year">EEE, MMMM d</string>
+    <string name="abbrev_wday_month_day_year">EEE, MMM d, yyyy</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
