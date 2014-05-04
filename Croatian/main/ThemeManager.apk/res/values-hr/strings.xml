@@ -67,11 +67,11 @@
   <string name="resource_buy">Kupi</string>
   <string name="resource_can_not_selected">%1$s ne može biti odabrano!</string>
   <string name="resource_category">Kategorija</string>
-  <string name="resource_comment_1_star">1 Zvijezda</string>
-  <string name="resource_comment_2_star">2 Zvijezde</string>
-  <string name="resource_comment_3_star">3 Zvijezde</string>
-  <string name="resource_comment_4_star">4 Zvijezde</string>
-  <string name="resource_comment_5_star">5 Zvijezda</string>
+  <string name="resource_comment_1_star">*</string>
+  <string name="resource_comment_2_star">**</string>
+  <string name="resource_comment_3_star">***</string>
+  <string name="resource_comment_4_star">****</string>
+  <string name="resource_comment_5_star">*****</string>
   <string name="resource_comment_all_comments">Svi komentari</string>
   <string name="resource_comment_average_score">Prosječna ocjena</string>
   <string name="resource_comment_bad_comments">Negativno</string>
