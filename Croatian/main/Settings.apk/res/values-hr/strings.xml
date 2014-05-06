@@ -232,7 +232,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="opt_item_procs_clean">Upravljanje procesima</string>
     <string name="opt_item_file_scan">Skeniraj datoteke</string>
     <string name="opt_item_autorun">Autopokretanje</string>
-    <string name="opt_item_app_perm">Dozvole</string>
+    <string name="opt_item_app_perm">Dopuštenja</string>
     <string name="opt_waiting">Čekam</string>
     <string name="power_center_title">Energija</string>
     <string name="power_center_consume_rank">Potrošnja energije</string>
@@ -390,9 +390,9 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
     <string name="version_text">Verzija %1$s</string>
     <string name="security_relative">Vezano uz sigurnost</string>
     <string name="privacy_relative">Povezano uz privatnost</string>
-    <string name="perm_mian_name">Dozvole</string>
-    <string name="perm_app_name">Dozvole</string>
-    <string name="perm_manage_tab_title">Dozvole</string>
+    <string name="perm_mian_name">Dopuštenja</string>
+    <string name="perm_app_name">Dopuštenja</string>
+    <string name="perm_manage_tab_title">Dopuštenja</string>
     <string name="app_manage_tab_title">Aplikacije</string>
     <string name="app_log_tab_title">Zapis dozvola</string>
     <string name="perm_copyright">Powered by LBE Privacy Guard</string>
@@ -497,7 +497,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
     <string name="perm_hips_security_prompt_root_step4">"Neke aplikacije s root dopuštenjem mogu oštetiti hardver vašeg uređaja."</string>
     <string name="perm_hips_security_prompt_root_step5">Budite oprezni: Odobrite root dopuštenje samo onim aplikacijama iz izvora kojem vjerujete.</string>
     <string name="perm_hips_security_prompt_root_step6">Odobriti %1$s root dopuštenje?</string>
-    <string name="perm">Dozvole</string>
+    <string name="perm">Dopuštenja</string>
     <string name="perm_app">Aplikacije</string>
     <string name="perm_log">Zapis</string>
     <string name="perm_header">Nadziranje %1$d aplikacija</string>
@@ -1927,7 +1927,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="contributors_title">Suradnici</string>
     <string name="regulatory_information">Informacije o propisima</string>
     <string name="copyright_title">Autorska prava</string>
-    <string name="license_title">Dozvole</string>
+    <string name="license_title">Dopuštenja</string>
     <string name="terms_title">Uvjeti i odredbe</string>
     <string name="settings_license_activity_title">Otvori licence izvora</string>
     <string name="settings_license_activity_unavailable">Došlo je do problema s učitavanjem licenci.</string>
@@ -1993,7 +1993,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="auto_launch_label">Pokretanje prema zadanim postavkama</string>
     <string name="auto_launch_label_generic">Zadane postavke</string>
     <string name="screen_compatibility_label">Kompatibilnost zaslona</string>
-    <string name="permissions_label">Dozvole</string>
+    <string name="permissions_label">Dopuštenja</string>
     <string name="cache_header_label">Predmemorija</string>
     <string name="clear_cache_btn_text">Očisti predmemoriju</string>
     <string name="cache_size_label">Predmemorija</string>
@@ -3067,7 +3067,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="device_cpu4_info">4-jezgreni</string>
     <string name="available_size">%s dostupno</string>
     <string name="total_size">%s ukupno</string>
-    <string name="memory_title">Dostupno %1$s\u0009\u0009Total %2$s</string>
+    <string name="memory_title">Dostupno %1$s\u0009\u0009Ukupno %2$s</string>
     <string name="xiaomi_account">Xiaomi Račun</string>
     <string name="sync_settings">Sinkronizacija</string>
     <string name="sms_received_sound_title">Zvuk primljene poruke</string>
@@ -3078,7 +3078,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="privacy_protect_title">Zaštita privatnosti</string>
     <string name="privacy_mode_enable_title">Gost način</string>
     <string name="privacy_mode_enable_sum">Sakrij poruke, bilješke, slike i dolazne pozive od korisnika</string>
-    <string name="ac_enable_title">Dozvole</string>
+    <string name="ac_enable_title">Dopuštenja</string>
     <string name="ac_set_apps_title">Zaključavanje aplikacija</string>
     <string name="ac_privacy_mode_title">Zaporka</string>
     <string name="ac_privacy_mode_sum">Zatraži zaporku za onemogućavanje Gost načina</string>
@@ -3174,6 +3174,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="incoming_call_vibrate_abbreviation">"Pozivi "</string>
     <string name="notification_vibrate_abbreviation">"Obavijesti "</string>
     <string name="mms_vibrate_abbreviation">"Poruke "</string>
+	<string name="breathing_light_color_title">  -boja LED-a</string>
 	<string name="incoming_call_breathing_light_color_title">Boja LED-a kod poziva</string>
     <string name="notification_breathing_light_color_title">Boja LED-a kod obavijesti</string>
     <string name="mms_breathing_light_color_title">Boja LED-a kod poruka</string>
@@ -3184,7 +3185,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="notification_breathing_light_freq_title">Frekvencija treperenja LED-a kod obavijesti</string>
     <string name="mms_breathing_light_freq_title">Frekvencija treperenja LED-a kod poruka</string>
     <string name="breathing_light_freq_summary">Pulsiraj kod nove obavijesti</string>
-    <string name="led_settings">Boja Obavijesti</string>
+    <string name="led_settings">Boja LED-a</string>
     <string name="led_colors_summary">Obavijesti</string>
     <string name="led_frequence_summary">Postavi interval između LED treptaja</string>
     <string name="led_pulse_summary">Pulsno svjetlo obavijesti kod primanja nove obavijesti</string>
@@ -3369,7 +3370,7 @@ i pokrenite softver."</li>"
 Pokušajte sljedeće:
 1) Koristite instalacijski alat \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
 2) Stvorite mapu \"mkdir\" /media/mtp
-3) Potvrdite dozvole korisničke grupe u trenutnoj fuse korisničkoj grupi
+3) Potvrdite dopuštenja korisničke grupe u trenutnoj fuse korisničkoj grupi
 4) Ponovno se prijavite
 5) Pristupite priključenom uređaju mtpfs /media/mtp preko File explorer-a; jednako kao i za lokalne mape
 6) Deinstalirajte uređaj fusermount -u /media/mtp
@@ -3412,12 +3413,12 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="drive_mode_auto_sms_reply_content">"Trenutno ne mogu razgovarati… Nazvati ću kasnije."</string>
     <string name="drive_mode_auto_sms_reply_content_title">Brzi odgovor</string>
     <string name="clear_activities_summary">Koristi ovu aplikaciju kao zadanu za neke radnje</string>
-    <string name="permission_detail_info">Pojedinosti dozvola</string>
-    <string name="permission_detail_info_summary">Dozvole: Sigurnost %1$d，Privatnost %2$d，Ostalo %3$d</string>
-    <string name="permission_manage">Upravljaj dozvolama</string>
-    <string name="permission_manage_summary">Upravljanje dozvolama automatskog pokretanja, privatnosti i sigurnosti</string>
-    <string name="other_relative">Ostale dozvole</string>
-    <string name="permission_manage_title">Pojedinosti dozvola za %s</string>
+    <string name="permission_detail_info">Pojedinosti dopuštenja</string>
+    <string name="permission_detail_info_summary">Dopuštenja: Sigurnost %1$d，Privatnost %2$d，Ostalo %3$d</string>
+    <string name="permission_manage">Upravljaj dopuštenjima</string>
+    <string name="permission_manage_summary">Upravljanje dopuštenja automatskog pokretanja, privatnosti i sigurnosti</string>
+    <string name="other_relative">Ostala dopuštenja</string>
+    <string name="permission_manage_title">Pojedinosti dopuštenja za %s</string>
     <string name="filter_apps_cached">Spremljeno u predmemoriju</string>
     <string name="screen">Zaslon</string>
     <string name="system">Sustav</string>

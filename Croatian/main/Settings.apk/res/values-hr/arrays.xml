@@ -116,12 +116,26 @@
         <item>Brzo</item>
         <item>Jako brzo</item>      
     </string-array>
+	<string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+    </string-array>
     <string-array name="tts_pitch_entries">
         <item>Jako nisko</item>
         <item>Nisko</item>
         <item>Normalno</item>
         <item>Visoko</item>
         <item>Jako visoko</item>
+    </string-array>
+	<string-array name="tts_pitch_values">
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+        <item>150</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -131,6 +145,14 @@
         <item>Este es un ejemplo de síntesis de voz en español.</item>
 	 <item>Ovo je primjer sinteze govora na hrvatskom jeziku.</item>
     </string-array>
+	<string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+		<item>hrv</item>
+	</string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Skeniranje…</item>
