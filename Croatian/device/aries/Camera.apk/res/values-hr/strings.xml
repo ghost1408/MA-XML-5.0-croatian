@@ -40,10 +40,10 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="confirm_change_mode_title">Način prebacivanja</string>
   <string name="confirm_change_to_expert_mode_message">Odmah prebaciti na profesionalan način rada ?</string>
   <string name="confirm_change_to_simple_mode_message">Odmah prebaciti na jednostavan način ?</string>
-  <string name="confirm_location_message">Fotoaparat može pohraniti lokaciju u snimljenim fotografijama, želite li to omogućiti?</string>
+  <string name="confirm_location_message">Fotoaparat može pohraniti lokaciju snimljenih fotografija, želite li to omogućiti?</string>
   <string name="confirm_restore_message">Vraćanje zadanih postavki Fotoaparata?</string>
   <string name="confirm_restore_title">Vrati na zadano</string>
-  <string name="connect_wifi">Poveži se na ovu Wi-Fi mrežu</string>
+  <string name="connect_wifi">Poveži se na ovu WLAN mrežu</string>
   <string name="contact_address">Adresa</string>
   <string name="contact_birthday">Rođendan</string>
   <string name="contact_company">Tvrtka</string>
@@ -64,7 +64,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="details">Detalji</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
-  <string name="details_title">%1$d of %2$d stavaka:</string>
+  <string name="details_title">%1$d od %2$d stavaka:</string>
   <string name="dialog_ok">U redu</string>
   <string name="disable_video_snapshot_hint">Video snimka je onemogućena kada su uključeni specijalni efekti.</string>
   <string name="download_by_browser">Preuzmi putem preglednika</string>
@@ -180,7 +180,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_coloreffect_entry_negative">Negativ</string>
   <string name="pref_camera_coloreffect_entry_none">Ništa</string>
   <string name="pref_camera_coloreffect_entry_posterize">Posterizacija</string>
-  <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
+  <string name="pref_camera_coloreffect_entry_sepia">Sepija</string>
   <string name="pref_camera_coloreffect_title">Efekat boje</string>
   <string name="pref_camera_contrast_entry_level0">Razina 0</string>
   <string name="pref_camera_contrast_entry_level1">Razina 1</string>
@@ -234,7 +234,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_jpegquality_entry_superfine">Super fina</string>
   <string name="pref_camera_jpegquality_title">Kvaliteta slike</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Fokusiranje</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Sniamnje</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Snimanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Dugi pritisak na tipku okidača</string>
   <string name="pref_camera_movie_solid_entry_off">Isključeno</string>
   <string name="pref_camera_movie_solid_entry_on">Uključeno</string>
@@ -447,9 +447,9 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržana kada je HDR UKLJUČEN.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Brzo uzastopno snimanje nije podržano kada ISO nije 'automatski'."</string>
   <string name="toast_start_audio_capture">Napravite zvuk na okidanju</string>
-  <string name="undo">UNDO</string>
+  <string name="undo">VRATI</string>
   <string name="unit_mm">mm</string>
-  <string name="video_camera_label">Videozapis</string>
+  <string name="video_camera_label">Videokamera</string>
   <string name="video_err">"Nemoguće reproducirati videozapis."</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Dostignuto ograničenje veličine.</string>

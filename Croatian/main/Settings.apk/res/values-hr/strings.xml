@@ -2039,12 +2039,12 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="filter">Filter</string>
     <string name="filter_dlg_title">Odabir opcija filtra</string>
     <string name="filter_apps_all">Sve</string>
-    <string name="filter_apps_disabled">Disabled</string>
+    <string name="filter_apps_disabled">Onemogućeno</string>
     <string name="filter_apps_third_party">Preuzeto</string>
     <string name="filter_apps_running">Pokrenuto</string>
     <string name="filter_apps_onsdcard">USB pohrana</string>
-    <string name="disabled">Disabled</string>
-    <string name="not_installed">Not installed</string>
+    <string name="disabled">Onemogućeno</string>
+    <string name="not_installed">Nije instalirano</string>
     <string name="no_applications">Nema aplikacija.</string>
     <string name="internal_storage">Unutarnja pohrana</string>
     <string name="sd_card_storage">USB pohrana</string>
@@ -2114,7 +2114,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="running_processes_item_description_p_s">%1$d procesa i  %2$d usluga</string>
     <string name="running_processes_item_description_p_p">%1$d procesa i %2$d usluga</string>
     <string name="runningservicedetails_settings_title">Pokrenute apliakcije</string>
-    <string name="no_services">Nije aktivno</string>
+    <string name="no_services">Nema aktivnih usluga</string>
     <string name="runningservicedetails_services_title">Usluge</string>
     <string name="runningservicedetails_processes_title">Procesi</string>
     <string name="service_stop">Zaustavi</string>
@@ -2293,6 +2293,9 @@ Korak 2: Dodirnite i držite dva prsta sve dok ne čujete zvučnu potvrdu.
 
 Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu privremeno omogućuje dostupnost sve dok ureðaj nije otključan."</string>
     <string name="accessibility_toggle_large_text_preference_title">Veliki tekst</string>
+	<string name="accessibility_toggle_screen_magnification_preference_title">Uvećanje zaslona</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Automatski ažuriraj uvećanje zaslona</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Ažuriraj uvećanje zaslona kod prijelaza aplikacije</string>
     <string name="accessibility_power_button_ends_call_title">Tipka uključivanja završava poziv</string>
     <string name="accessibility_speak_password_title">Izgovorite zaporke</string>
     <string name="accessibility_long_press_timeout_title">Dodirni &amp; drži odgodu</string>
@@ -3168,7 +3171,10 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="manually_add_network">Dodaj mrežu</string>
     <string name="network_detail">Detalji mreže %s</string>
     <string name="connected_wifi">Povezano</string>
-    <string name="incoming_call_breathing_light_color_title">Boja LED-a kod poziva</string>
+    <string name="incoming_call_vibrate_abbreviation">"Pozivi "</string>
+    <string name="notification_vibrate_abbreviation">"Obavijesti "</string>
+    <string name="mms_vibrate_abbreviation">"Poruke "</string>
+	<string name="incoming_call_breathing_light_color_title">Boja LED-a kod poziva</string>
     <string name="notification_breathing_light_color_title">Boja LED-a kod obavijesti</string>
     <string name="mms_breathing_light_color_title">Boja LED-a kod poruka</string>
     <string name="breathing_light_color_menu_title">Boja svjetla</string>

@@ -22,5 +22,5 @@ Ako niste sami zatražili vraćanje, ne dozvolite nastavak radnje. To će zamije
     <string name="toast_backup_ended">Sigurnosna kopija dovršena</string>
     <string name="toast_restore_started">Započinje vraćanje...</string>
     <string name="toast_restore_ended">Vraćanje završeno</string>
-    <string name="toast_timeout">Isteklo je vrijeme operacije</string>
+    <string name="toast_timeout">Isteklo je vrijeme radnje.</string>
 </resources>

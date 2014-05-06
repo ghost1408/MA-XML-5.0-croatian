@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="HIPS_SecurityPrompt_ROOT_Step1">Dopuštate li aplikaciji %1$s da dobije ROOT dopuštenje?</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">Sigurno dopuštate %1$s da dobije ROOT dopuštenje?</string>
-</resources>

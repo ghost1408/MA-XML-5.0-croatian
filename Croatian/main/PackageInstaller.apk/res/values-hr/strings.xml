@@ -14,7 +14,7 @@
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) će zamijeniti trenutnu verziju (%3$s). Korisnički sadržaj će biti zadržani. Jeste li sigurni da želite instalirati?"</string>
   <string name="dlg_app_replacement_title">Zamijeniti aplikaciju?</string>
   <string name="dlg_ok">U redu</string>
-  <string name="dlg_sys_app_replacement_statement">"To je aplikacija sustava. Želite te je i dalje zamijeniti? Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
+  <string name="dlg_sys_app_replacement_statement">"To je aplikacija sustava. Želite li je i dalje zamijeniti? Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
   <string name="done">Gotovo</string>
   <string name="high_risk_perms">Dozvole visokog rizika</string>
   <string name="install">Instaliraj</string>

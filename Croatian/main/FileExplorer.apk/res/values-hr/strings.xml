@@ -95,7 +95,7 @@
     <string name="favorite_screen_cap">MIUI slike zaslona</string>
     <string name="favorite_ringtone">Zvukovi zvona</string>
     <string name="file_loading">Učitavam…</string>
-    <string name="multi_select_title">%1$sodabrano</string>
+    <string name="multi_select_title">%1$s odabrano</string>
     <string name="tab_networkdisk">KuaiPan</string>
     <string name="operation_download_link">Kreiraj link za preuzimanje</string>
     <string name="ui_filechange_btn_download">Preuzimanje datoteka</string>
@@ -198,13 +198,13 @@ Uzmite slobodan prostor %1$s"</string>
     <string name="stay_awake_summary">Držati zaslon budnim kad koristite FTP</string>
     <string name="ftp_transfer_secure">Sigurnost</string>
     <string name="ftp_port_number">Broj porta</string>
-    <string name="ftp_account_req_notice">Korisničko ime i lozinka, 4~16 znakova, sadrži znamenke,slova abecede,mala i velika slova</string>
+    <string name="ftp_account_req_notice">Korisničko ime i zaporka, 4~16 znakova, sadrži znamenke,slova abecede,mala i velika slova</string>
     <string name="ftp_open_port_error">Nemoguće otvoriti odabrani FTP port, provjeri svoju mrežnu vezu i pokušaj ponovno.</string>
     <string name="ftp_anonymous_login">Anonimna prijava</string>
     <string name="ftp_username_and_passworld">Prijavi se</string>
     <string name="ftp_username_hint">Korisničko ime</string>
-    <string name="ftp_password_hint">Lozinka</string>
-    <string name="ftp_invalid_username_or_password">Neispravno korisničko ime i lozinka</string>
+    <string name="ftp_password_hint">Zaporka</string>
+    <string name="ftp_invalid_username_or_password">Neispravno korisničko ime i zaporka</string>
     <string name="add_task">Dodaj zadatak</string>
     <string name="adding_upload_tasks">Učitavam zadatke…</string>
     <string name="create_new_folder_desctiption">Stvaranje nove mape…</string>
@@ -212,7 +212,7 @@ Uzmite slobodan prostor %1$s"</string>
     <string name="rename_description">Preimenujem…</string>
     <string name="share_link_failed">Stvaranje mape vanjske veze neuspješno</string>
     <string name="choose_send_type">Odaberite metodu</string>
-    <string name="download_link_completed">odijelio sam %1$s preko KuaiPan. Kliknite na link ispod za pregled:</string>
+    <string name="download_link_completed">Podijelio sam %1$s preko KuaiPan. Kliknite na link ispod za pregled:</string>
     <string name="transing">Slanje…</string>
     <string name="finished">Završeno</string>
     <string name="uploading">Učitavanj…</string>
