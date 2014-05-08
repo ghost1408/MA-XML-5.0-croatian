@@ -182,9 +182,6 @@
   <string name="preferences_alerts_title">Obavijesti</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibracija</string>
   <string name="preferences_build_version">Verzija izrade</string>
-  <string name="prefDefault_alerts_vibrateWhen">nikad</string>
-  <string name="prefDefault_alerts_vibrate_true">uvijek</string>
-  <string name="prefDefault_alerts_vibrate_false">nikad</string>
   <string name="preferences_category_account_title">Račun</string>
   <string name="preferences_category_general_title">Općenito</string>
   <string name="preferences_clear_search_history_summary">"Uklonite sve vaše pretrage"</string>

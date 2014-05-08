@@ -1896,7 +1896,6 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="master_clear_gesture_explanation">Da biste potvrdili vraćanje na tvorničke postavke, trebate nacrtati svoj uzorak za otključavanje.</string>
     <string name="master_clear_failed">"Nije došlo do poništavanja jer nije dostupna usluga brisanja sustava."</string>
     <string name="master_clear_confirm_title">Poništiti?</string>
-    <string name="internal_media_format_title">Izbrisati Unutarnju pohranu</string>
     <string name="internal_media_format_button_text">Izbrisati Unutarnju pohranu</string>
     <string name="media_format_title">Izbriši USB pohranu</string>
     <string name="media_format_summary">Briše sve podatke USB memorije</string>
