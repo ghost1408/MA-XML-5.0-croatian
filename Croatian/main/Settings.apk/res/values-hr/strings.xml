@@ -3353,7 +3353,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="font_size_huge">Ogroman</string>
     <string name="virus_scan_app_stop_scan">Zaustavi skeniranje</string>
     <string name="password_guard">Sigurnost</string>
-    <string name="title_dolby_control">Dobly digital plus</string>
+    <string name="title_dolby_control">Dolby digital plus</string>
     <string name="dolby_mode_off">Isključeno</string>
     <string name="dolby_mode_music">Glazba</string>
     <string name="dolby_mode_movie">Videozapis</string>
