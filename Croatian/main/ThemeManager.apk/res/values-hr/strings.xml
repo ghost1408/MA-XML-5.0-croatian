@@ -20,8 +20,8 @@
   <string name="basic_info">Osnovne informacije</string>
   <string name="change_wallpaper">Slika pozadine</string>
   <string name="close">Zatvori</string>
-  <string name="component_category_finest_title">Istaknuto</string>
-  <string name="component_category_more_title">Više</string>
+  <string name="component_category_finest_title">OPĆE</string>
+  <string name="component_category_more_title">NAPREDNO</string>
   <string name="component_include_title">Sadrži %1$s stavki</string>
   <string name="component_select_title">Odabrano %1$s stavaka</string>
   <string name="component_settings_title">Uredi temu</string>
@@ -47,7 +47,7 @@
   <string name="lockscreen_wallpaper">Slika pozadine zaklj. zaslona</string>
   <string name="lockstyle_personal_settings">Uređivanje</string>
   <string name="long_ringtone_resource">Dugo</string>
-  <string name="maml_component_customization_title">Postavke komponenti</string>
+  <string name="maml_component_customization_title">Postavke</string>
   <string name="mi_wallpaper">MIUI Slika pozadine</string>
   <string name="online_no_network">Neuspješno povezivanje s mrežom</string>
   <string name="online_search_hint">Potražnja mrežnih izvora</string>
@@ -176,7 +176,7 @@
   <string name="resource_ringtone_default">Melodija zvona</string>
   <string name="resource_ringtone_playing_error">pogreška sviranja</string>
   <string name="resource_ringtone_volume_mute">Vaša melodija zvona je utišana</string>
-  <string name="resource_save_to_note">Spremi u Zabilješke</string>
+  <string name="resource_save_to_note">Spremi u Bilješke</string>
   <string name="resource_see_more">Vidi više</string>
   <string name="resource_select">Odaberi</string>
   <string name="resource_selected">Istaknuto</string>
@@ -225,7 +225,7 @@
   <string name="theme_component_title_contact">Biratelj</string>
   <string name="theme_component_title_font">Font</string>
   <string name="theme_component_title_framework">Okvir</string>
-  <string name="theme_component_title_icon">Ikona</string>
+  <string name="theme_component_title_icon">Ikone</string>
   <string name="theme_component_title_launcher">Početni zaslon</string>
   <string name="theme_component_title_lockstyle">Zaključani zaslon</string>
   <string name="theme_component_title_lockwallpaper">Slika poz. zaklj. zaslona</string>

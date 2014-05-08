@@ -93,56 +93,56 @@
         <item></item>
         <item></item>
         <item></item>
-        <item>"Pada jaka kiša, ne zaboravite ponijeti kišobran."</item>
-        <item>"Pada jaka kiša, ne zaboravite ponijeti kišobran."</item>
-        <item>"Pada jaka kiša, ne zaboravite ponijeti kišobran."</item>
-        <item>"Ako izlazite, ne zaboravite ponijeti kišobran!"</item>
-        <item>"Ako izlazite, ne zaboravite ponijeti kišobran!"</item>
-        <item>"Ako izlazite, ne zaboravite ponijeti kišobran!"</item>
-        <item>"Padat će kiša danas, ne zaboravite ponijeti kišobran!"</item>
-        <item>"Kiša rominja, ponesite kišobran!"</item>
-        <item>"Pada mješavina kiše i snijega, ne zaboravite ponijeti kišobran!"</item>
-        <item>"Pada snijeg, ne zaboravite šešir i šal!"</item>
-        <item>"Snježiti će danas, ne zaboravite šešir i šal!"</item>
-        <item>"Pada snijeg jako, ne zaboravite šešir i šal!"</item>
-        <item>"Pada snijeg jako a bit, ne zaboravite šešir i šal!"</item>
-        <item>"Lagana susnježica, ne zaboravite šešir i šal."</item>
-        <item>"Jaka pješčana oluja, ne zaboravite masku za lice."</item>
-        <item>"Pomalo kiši vani, ne zaboravite ponijeti kišobran."</item>
-        <item>"Vrlo jaka pješčana oluja, ne zaboravite masku za lice."</item>
-        <item>"Vrlo jaka pješčana oluja, ne zaboravite masku za lice."</item>
-        <item>"Ne vidi se tuča svaki dan. Hodajte pažljivo!"</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Obucite se dobro!</item>
+        <item>Obucite se dobro!</item>
+        <item>Obucite se dobro!</item>
+        <item>Obucite se dobro!</item>
+        <item>Obucite se dobro.</item>
+        <item>Budite na oprezu.</item>
+        <item>Budite na oprezu.</item>
+        <item>Budite na oprezu.</item>
+        <item>Budite na oprezu.</item>
+        <item>Budite na oprezu! Ceste su skliske</item>
     </string-array>
     <string-array name="weather_sms_content">
         <item>Koristite kremu za sunčanje.</item>
         <item>Biti će oblačno danas.</item>
-        <item>Vrijeme će se pogoršati. Pokušajte ostati u zatvorenom prostoru.</item>
-        <item>Vozite pažljivo :)</item>
-        <item>"Pada jaka kiša, ne zaboravite ponijeti kišobran."</item>
-        <item>"Pada jaka kiša, ne zaboravite ponijeti kišobran."</item>
-        <item>"Pada jaka kiša, ne zaboravite ponijeti kišobran."</item>
+        <item>Pokušajte ostati kod kuće.</item>
+        <item>Vozite pažljivo</item>
         <item>Ponesite kišobran!</item>
         <item>Ponesite kišobran!</item>
-        <item>Ponesite kišobran! :)</item>
         <item>Ponesite kišobran!</item>
-        <item>"Kiša rominja, ponesite kišobran!"</item>
-        <item>"Pada mješavina kiše i snijega, ne zaboravite ponijeti kišobran!"</item>
-        <item>"Pada snijeg jako!"</item>
-        <item>Padati će snijeg, ne zaboravite šešir i šal.</item>
-        <item>"Pada snijeg jako, ne zaboravite šešir i šal!"</item>
-        <item>"Pada lagani snijeg, ne zaboravite šešir i šal!"</item>
-        <item>"Pada snijeg, ne zaboravite šešir i šal!"</item>
-        <item>"Jaka pješčana oluja, ne zaboravite masku za lice."</item>
-        <item>"Jaka pješčana oluja, ne zaboravite masku za lice."</item>
-        <item>Jaka pješčana oluja, ne zaboravite masku za lice.</item>
-        <item>Jaka pješčana oluja, ne zaboravite masku za lice.</item>
-        <item>"Ne vidi se tuča svaki dan. Hodajte pažljivo!"</item>
-        <item>Kvaliteta zraka je loša, ne zaboravite nositi masku.</item>
-        <item>Kvaliteta zraka je loša, ostanite u kući.</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+	<item>Ponesite kišobran!</item>
+        <item>Ponesite kišobran!</item>
+        <item>Stvarno dolazi loše vrijeme</item>
+        <item>Ne zaboravite šešir i šal!</item>
+        <item>Obucite se dobro</item>
+        <item>Ne zaboravite šešir i šal!</item>
+        <item>Ne zaboravite šešir i šal!</item>
+        <item>Ne zaboravite šešir i šal!</item>
+        <item>Ne zaboravite masku za lice.</item>
+        <item>Ne zaboravite masku za lice.</item>
+        <item>Ne zaboravite masku za lice.</item>
+        <item>Stvarno dolazi loše vrijeme.</item>
+        <item>Ne zaboravite masku za lice</item>
+        <item>Oostanite u kući.</item>
     </string-array>
     <string-array name="weather_sms_addons">
         <item>"Današnja prognoza @: $."</item>
-        <item>Temp. : % °C.</item>
+        <item>Temp.: % °C.</item>
         <item>Ne zaboravite ponijeti kišobran!</item>
         <item>Pokušajte ostati suhi</item>
         <item>Ukoliko sušite odjeću vani, ne zaboravite je pospremiti! :)"</item>

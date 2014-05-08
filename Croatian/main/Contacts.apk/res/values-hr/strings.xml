@@ -49,7 +49,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="btn_rotation">Zakretanje</string>
   <string name="btn_split_contact">Odvoji kontakt</string>
   <string name="button_cancel_scan">Zaustavi</string>
-  <string name="button_scan">Re-scan</string>
+  <string name="button_scan">Ponovno skeniranje</string>
   <string name="caching_vcard_message">Spremanje vCard datoteke u telefon...</string>
   <string name="caching_vcard_title">Spremanje</string>
   <string name="callAgain">Biraj ponovno</string>
@@ -198,7 +198,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="contacts_unavailable_create_contact">Stvori novi kontakt</string>
   <string name="contacts_unavailable_import_contacts">Uvezi kontakte</string>
   <string name="copy_text">Kopiraj u međuspremnik</string>
-  <string name="createContactShortcutSuccessful">Widget za kontakte dodan je na vaš početni zaslon.</string>
+  <string name="createContactShortcutSuccessful">Widget kontakata dodan je na vaš početni zaslon.</string>
   <string name="create_group_dialog_title">Izrada nove grupe</string>
   <string name="create_group_item_label">Izrada nove grupe</string>
   <string name="customLabelPickerTitle">Prilagođeni naziv</string>
@@ -248,7 +248,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="description_image_button_pound">pound</string>
   <string name="description_image_button_seven">sedam</string>
   <string name="description_image_button_six">šest</string>
-  <string name="description_image_button_star">zvijezda</string>
+  <string name="description_image_button_star">*</string>
   <string name="description_image_button_three">tri</string>
   <string name="description_image_button_two">dva</string>
   <string name="description_image_button_zero">nula</string>
@@ -553,7 +553,7 @@ Razlog: \"%s\""</string>
   <string name="missing_name">(Nema imena)</string>
   <string name="move_and_resize">Premjesti i promijeni veličinu</string>
   <string name="multipleContactDeleteConfirmation">Brisanjem ovog kontakta izbrisat ćete podatke s više računa.</string>
-  <string name="multipleContactDeleteConfirmationDetail"> Brisanjem \"%s\" izbrisat ćete podatke s više računa..</string>
+  <string name="multipleContactDeleteConfirmationDetail"> Brisanjem \"%s\" izbrisat ćete podatke s više računa.</string>
   <string name="my_phone_not_provider_bluetooth">Telefon ne podržava Bluetooth</string>
   <string name="my_phone_provider_bluetooth">Telefon podržava Bluetooth</string>
   <string name="nameLabelsGroup">Ime</string>
@@ -816,11 +816,11 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_buy">Kupi</string>
   <string name="resource_can_not_selected">"%1$s ne može biti odabrano"</string>
   <string name="resource_category">Kategorija</string>
-  <string name="resource_comment_1_star">1 Zvijezda</string>
-  <string name="resource_comment_2_star">2 Zvijezde</string>
-  <string name="resource_comment_3_star">3 Zvijezde</string>
-  <string name="resource_comment_4_star">4 Zvijezde</string>
-  <string name="resource_comment_5_star">5 Zvijezda</string>
+  <string name="resource_comment_1_star">*</string>
+  <string name="resource_comment_2_star">**</string>
+  <string name="resource_comment_3_star">***</string>
+  <string name="resource_comment_4_star">****</string>
+  <string name="resource_comment_5_star">*****</string>
   <string name="resource_comment_all_comments">Sve</string>
   <string name="resource_comment_average_score">Ocjene</string>
   <string name="resource_comment_bad_comments">Negativno</string>
@@ -1151,4 +1151,6 @@ Odaberite jednu od sljedećih opcija:"</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Nepoznata pogreška</string>
   <string name="yellowpage_navigation_menu_order">Moj redoslijed</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na početni zaslon</string>
-</resources>
+  <string name="imei_invalid">Nevaljani IMEI</string>
+  <string name="meid_invalid">Nevaljani MEID</string>
+  </resources>

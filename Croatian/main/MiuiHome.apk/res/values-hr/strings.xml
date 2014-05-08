@@ -10,6 +10,7 @@
     <string name="chooser_wallpaper">Odabir slike pozadine iz</string>
     <string name="activity_not_found">"Aplikacija nije instalirana"</string>
     <string name="cancel_action">Odustani</string>
+    <string name="apply_as_lock_wallpaper">Primjeni</string>
     <string name="apply_as_lock_wallpaper_message">Primijeniti ovu pozadinu i za zaslon zaključavanja?</string>
     <string name="lock_screen_failed_message">Neuspjeloa primjena</string>
     <string name="lock_screen_success_message">Primjenjeno</string>

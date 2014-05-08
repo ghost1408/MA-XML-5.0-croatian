@@ -2,6 +2,7 @@
 <resources>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
+    <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="app_label">UI sistema</string>
     <string name="status_bar_recent_remove_item_title">Ukloni s popisa</string>
@@ -161,12 +162,12 @@ yyyy.M.d"</string>
     <string name="settings_screenshot_notification_disabled">Nema snimki zaslona obavijesti</string>
     <string name="settings_custom_carrier">Uredi naziv davatelja usluga</string> 
     <string name="settings_no_carrier">Ništa</string>	  
-	<string name="settings_show_carrier_summary">Prikaži samo na zaklj.zaslonu</string>
+    <string name="settings_show_carrier_summary">Prikaži samo na zaklj.zaslonu</string>
     <string name="settings_basic_settings">Osnovne postavke</string>
     <string name="settings_advanced">Dodatne postavke</string>
     <string name="settings_show_flow_info">Prikaži detalje uporabe podataka</string>
-	<string name="settings_show_carrier">Prikaži davatelja usluga</string>
-	<string name="settings_expanded_view">Postavke povlačenja prema dolje</string>
+    <string name="settings_show_carrier">Prikaži davatelja usluga</string>
+    <string name="settings_expanded_view">Postavke povlačenja prema dolje</string>
     <string name="settings_status_bar">Traka obavijesti</string>
     <string name="settings_show_network_speed">Pokaži brzinu veze</string>
     <string name="settings_expandable_under_fullscreen">Omogući u prikazu cijelog zaslona</string>

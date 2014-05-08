@@ -192,7 +192,7 @@ za za prekid vraćanja"</string>
   <string name="restore_launcher_layout_hit">(Napomena: Vraćanje postavki pokretača)</string>
   <string name="restore_progress">Vraćanje...</string>
   <string name="restore_report">Izvještaj vraćanja</string>
-  <string name="restore_telephony_hit">Napomena: Postupak oporavka će ponovno pokrenuti aplikaciju telefona)</string>
+  <string name="restore_telephony_hit">Napomena: Postupak oporavka će ponovno pokrenuti aplikaciju telefona</string>
   <string name="retry">Pokušaj ponovo</string>
   <string name="reverse_all">Očisti sve</string>
   <string name="sc_bad_request">Loš zahtjev</string>
