@@ -404,7 +404,7 @@ prijateljima."</string>
   <string name="set_screensaver_path_message">Ovaj album će biti prikazan 5 sekundi nakon što se zaslon isključi.</string>
   <string name="set_screensaver_path_message_if_only_charging">Slike u ovom albumu će biti prikazane u čuvaru zaslona samo tijekom punjenja.</string>
   <string name="set_screensaver_path_title">Dijaprojekcija čuvara zaslona</string>
-  <string name="set_wallpaper">Postavi za sliku pozadine</string>
+  <string name="set_wallpaper">Postavi kao sliku pozadine</string>
   <string name="settings">Postavke</string>
   <string name="settings_i_xiaomi_com">Prijavite se na i.xiaomi.com za upravljanje svojim oblakom za pohranu</string>
   <string name="shadow">Sjenčanje</string>
@@ -450,7 +450,7 @@ prijateljima."</string>
   <string name="sync_only_in_wifi_alert">Isključivanje Samo učitavanja u WLAN-u može konzumirati više mrežnog prometa; sigurno želite ugasiti?</string>
   <string name="sync_only_in_wifi_summary">Preporučeno omogućiti, inače će pojesti mrežni promet.</string>
   <string name="system_album">Album sustava</string>
-  <string name="tab_all_text">Postavi sve</string>
+  <string name="tab_all_text">Postavi oboje</string>
   <string name="tab_lockscreen_text">Zaključani zaslon</string>
   <string name="tab_wallpaper_text">Zaslon</string>
   <string name="tags">Oznake</string>
@@ -458,7 +458,7 @@ prijateljima."</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
-  <string name="there_is_no_image">Nema slike.</string>
+  <string name="there_is_no_image">Nema slike</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Vrijeme</string>
   <string name="time_line_view">Timeline_view</string>

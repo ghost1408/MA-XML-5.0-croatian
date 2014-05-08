@@ -82,7 +82,7 @@
   <string name="resource_comment_edit_text_default">Napiši komentar</string>
   <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
   <string name="resource_comment_entry_tips">Vidi komentare</string>
-  <string name="resource_comment_expand_full_text">Proširi na cijeli tekst</string>
+  <string name="resource_comment_expand_full_text">Proširi na cijeli tekst▼</string>
   <string name="resource_comment_footer">Prazni komentari nisu prikazani.</string>
   <string name="resource_comment_good_comments">Pozitivni komentari</string>
   <string name="resource_comment_invalid">Dodirni zvijezdu da ocijeniš</string>
@@ -116,7 +116,7 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s tema</string>
   <string name="resource_detail_recommend_other_themes">Korisnicima se još sviđa</string>
   <string name="resource_detail_update_log_title">Ažuriranja</string>
-  <string name="resource_detail_window_title">%1$s detalja</string>
+  <string name="resource_detail_window_title">%1$s detalji</string>
   <string name="resource_download">Preuzimanja</string>
   <string name="resource_download_trial">Besplatna proba</string>
   <string name="resource_downloaded_title">Preuzeti resursi</string>

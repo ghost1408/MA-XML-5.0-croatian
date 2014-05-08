@@ -471,7 +471,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
     <string name="perm_hips_phoneid_iccid">Dobivanje SIM kartice SN</string>
     <string name="perm_hips_phoneid_number">Dobiti vašeg ​​broja telefona</string>
     <string name="perm_hips_phoneid_imsi">Dobivanje IMSI broja</string>
-    <string name="perm_hips_Dopusti_all">Dopusti sve</string>
+    <string name="perm_hips_allow_all">Dopusti sve</string>
     <string name="perm_hips_prompt_all">Pitaj sve</string>
     <string name="perm_hips_reject_all">Odbij sve</string>
     <string name="perm_hips_root_title">Dobivanje root dopuštenja</string>
@@ -1146,18 +1146,17 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="bluetooth_phonebook_request">Zahtjev za pristup telefonskom imeniku</string>
     <string name="bluetooth_pb_acceptance_dialog_text">Korisnik %1$s želio bi pristupiti vašim kontaktima i povijesti poziva. Dati pristup korisniku %2$s?</string>
     <string name="bluetooth_pb_remember_choice">"Više me ne pitaj"</string>
-    <string name="bluetooth_ftp_request">Ftp request</string>
+    <string name="bluetooth_ftp_request">Ftp zahtjev</string>
     <string name="bluetooth_dun_acceptance_dialog_text">%1$s želi koristiti DUN. Dati pristup %2$s?</string>
     <string name="bluetooth_dun_remember_choice">"Više me ne pitaj"</string>
     <string name="bluetooth_mas_request">Message Access request</string>
-    <string name="bluetooth_mas_acceptance_dialog_text">%1$s would like to access your messages. Give access to %2$s?</string>
-    <string name="bluetooth_mas_remember_choice">"Don't ask again"</string>
-    <string name="bluetooth_sap_request">SAP request</string>
-    <string name="bluetooth_sap_acceptance_dialog_text">%1$s would like to access your SIM. Give access to %2$s?</string>
-    <string name="bluetooth_sap_remember_choice">"Don't ask again"</string>
-    <string name="bluetooth_dun_request">DUN request</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s želi pristup vašim porukama. Dati pristup %2$s?</string>
+    <string name="bluetooth_mas_remember_choice">"Više me ne pitaj"</string>
+    <string name="bluetooth_sap_request">SAP zahtjev</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi pristupit vašoj SIM kartici. Dati pristup %2$s?</string>
+    <string name="bluetooth_sap_remember_choice">"Više me ne pitaj"</string>
+    <string name="bluetooth_dun_request">DUN zahtjev</string>
     <string name="bluetooth_map_acceptance_dialog_text">%1$s želi pristupit vašim porukama. Dati pristup %2$s?</string>
-    <string name="bluetooth_dun_remember_choice">"Don't ask again"</string>
     <string name="date_and_time">Postavke datuma &amp; vremena</string>
     <string name="date_time_12_hour_sample">1:00 pm</string>
     <string name="date_time_24_hour_sample">13:00</string>
@@ -1898,9 +1897,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="master_clear_failed">"Nije došlo do poništavanja jer nije dostupna usluga brisanja sustava."</string>
     <string name="master_clear_confirm_title">Poništiti?</string>
     <string name="internal_media_format_title">Izbrisati Unutarnju pohranu</string>
-    <string name="internal_media_format_desc">Izbrisati Unutarnju pohranu? Izgubiti ćete <b>sve</b> pohranjene podatke, i telefon će se ponovno pokrenuti!</string>
     <string name="internal_media_format_button_text">Izbrisati Unutarnju pohranu</string>
-    <string name="internal_media_format_final_desc">"Izbrisati Unutarnju pohranu i sve u njoj pohranjene datoteke? Radnja se ne može poništiti! Telefon će se ponovno pokrenuti nakon brisanja Unutarnje pohrane!"</string>
     <string name="media_format_title">Izbriši USB pohranu</string>
     <string name="media_format_summary">Briše sve podatke USB memorije</string>
     <string name="media_format_desc">Izbrisati čitavu USB memoriju? Izgubiti ćete <b>sve</b> pohranjene podatke!</string>
@@ -2030,7 +2027,6 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "<b>USB pohrana</b> m
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Pokušajte ponovo za %d s.</string>
     <string name="skip_button_label">Odustani</string>
     <string name="lock_title">Osiguranje uređaja</string>
-    <string name="lock_intro_message">Aplikacije</string>
     <string name="lock_intro_message">"Zaštitite svoj ​​telefon od neovlaštene upotrebe stvaranjem osobnog uzorka za zaključavanje zaslona. Povucite prst i pokušajte povezati najmanje četiri točke u bilo kojem smjeru na sljedećem zaslonu.
 Spremni započeti? Dodirnite Dalje."</string>
     <string name="manageapplications_settings_title">Upravljanje aplikacijama</string>
@@ -3246,9 +3242,6 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="led_pulse_summary">Pulsno svjetlo obavijesti kod primanja nove obavijesti</string>
     <string name="show_rounded_corners">Prikaži zaobljene uglove</string>
     <string name="pref_operational_key">Tipka radnje</string>
-    <string name="pref_button_light">Button light</string>
-    <string name="pref_button_light_summary">Menu, Home and Back key indicator</string>
-    <string name="button_light_timeout">Button light settings</string>
     <string name="screen_button_key">Tipke virtualnog zaslona</string>
     <string name="screen_button_custom">Prilagodi položaj tipki zaslona</string>
     <string name="headset_settings">Slušalice</string>
@@ -3504,7 +3497,6 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="next_button_label">Dalje</string>
     <string name="internal_media_format_final_desc">"Izbrisati unutarnju pohranu? Radnja se ne može poništiti!! Uređaj će se ponovo pokrenuti nakon brisanja unutarnje pohrane!"</string>
     <string name="internal_media_format_desc">Izbrisati unutarnju pohranu? Svi <b>vaši</b> podaci će biti izbrisani, uređaj će se ponovo pokrenuti!</string>
-    <string name="internal_media_format_button_text">Izbriši unutarnju pohranu</string>
     <string name="internal_media_format_title">Izbriši unutarnju pohranue</string>
     <string name="internal_format">Izbriši unutarnju pohranu</string>
     <string name="internal_format_summary">Izbriši sve podatke s unutarnje pohrane, npr. glazbu,slike</string>

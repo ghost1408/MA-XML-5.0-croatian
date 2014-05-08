@@ -155,7 +155,6 @@
   <string name="HIPS_Perm_MMS_Desc">Pristup vašim dolaznim MMS-a</string>
   <string name="HIPS_Perm_MMS_Hint">%1$s aplikacija ima dopuštenje za pristup vašim dolaznim MMS-a</string>
   <string name="HIPS_Perm_MMS_Access">Pristup MMS</string>
-  <string name="HIPS_Perm_CallLog_Access">čitanje vaših zapisa poziva</string>
   <string name="HIPS_Perm_SendSMS">Pošalji SMS poruku</string>
   <string name="HIPS_Perm_SendSMS_Content">Sadržaj:</string>
   <string name="HIPS_Perm_SendSMS_Data">pošalji SMS poruku %1$s:%2$d</string>

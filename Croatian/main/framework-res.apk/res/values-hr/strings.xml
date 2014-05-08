@@ -1123,7 +1123,7 @@ za račun %s."</string>
     <string name="submit">Pošalji</string>
     <string name="car_mode_disable_notification_title">Omogućen je način rada za automobil</string>
     <string name="car_mode_disable_notification_message">Dodirnite za izlaz iz načina rada u automobilu.</string>
-    <string name="tethered_notification_title">Dijeljenje veze ili aktivan hotspot</string>
+    <string name="tethered_notification_title">Dijeljiv ili aktivan hotspot</string>
     <string name="tethered_notification_message">Dodirnite za postavljanje.</string>
     <string name="back_button_label">Natrag</string>
     <string name="next_button_label">Dalje</string>
