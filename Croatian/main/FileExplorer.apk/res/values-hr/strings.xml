@@ -307,8 +307,4 @@ Uzmite slobodan prostor %1$s"</string>
     <string name="folder_exist">Mapa već postoji</string>
     <string name="unmount_inform_text">Isključiti USB pohranu?</string>
     <string name="dlg_error_unmount_text">Nemoguće isključiti USB pohranu.</string>
-	<string name="delete_folder">Izbrisati ovu mapu?</string>
-    <string name="delete_folders">Izbrisati %1$d?</string>
-    <string name="delete_file">Izbrisati ovu datoteku?</string>
-    <string name="delete_files">Izbrisati %1$d datoteke?</string>
 </resources>
