@@ -414,7 +414,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
     <string name="perm_summary_enabled">Uključeno</string>
     <string name="perm_summary_disabled">Isključeno</string>
     <string name="perm_enable">Omogući upravitelja dozvola</string>
-    <string name="perm_disable">Onemogući</string>
+    <string name="perm_disable">Onemogući</string>	
     <string name="perm_optimize">Optimiziraj</string>
     <string name="perm_check">Provjera</string>
     <string name="perm_clean">Očisti</string>
@@ -1283,7 +1283,10 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
     <string name="date_time_date_format">Odaberite format datuma</string>
     <string name="zone_list_menu_sort_alphabetically">Poredaj abecedno</string>
     <string name="zone_list_menu_sort_by_timezone">Poredaj po vremenskoj zoni</string>
-    <string name="date_picker_title">Datum</string>
+    <string name="dialog_title_auto_start_tips">O automatskom pokretanju</string>
+    <string name="dialog_message_auto_start_tips">Neke sigurnosne aplikacije mogu pogrešno upućivati na to da im je MIUI spriječio pokretanje. Za provjeru odobrenih dopuštenja za pojedine aplikacije, idite na Postavke -> Aplikacije.</string>
+    <string name="button_text_known">Znam</string>
+	<string name="date_picker_title">Datum</string>
     <string name="time_picker_title">Vrijeme</string>
     <string name="biometric_weak_improve_matching_title">Poboljšanje podudaranja lica</string>
     <string name="biometric_weak_liveliness_title">Provjera živosti</string>
@@ -2127,7 +2130,7 @@ Spremni započeti? Dodirnite Dalje."</string>
     <string name="invalid_location">"Lokacija instalacije nije važeća."</string>
     <string name="system_package">"Ažuriranja sustava nije moguće instalirati na vanjskom mediju."</string>
     <string name="force_stop_dlg_title">Prisilno zaustaviti?</string>
-    <string name="force_stop_dlg_text">Ako silom zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
+    <string name="force_stop_dlg_text">Ako prisilno zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
     <string name="move_app_failed_dlg_title" />
     <string name="move_app_failed_dlg_text">"Premještanje aplikacije %1$s nije uspjelo."</string>
     <string name="app_install_location_title">Željena lokacije instalacije</string>
@@ -3378,7 +3381,20 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="dirac_mode_in_ear">Xiaomi slušalice za umetanje u uho</string>
     <string name="dirac_mode_earbuds">Xiaomi slušalice</string>
     <string name="dirac_mode_piston_100">Xiaomi klipne slušalice</string>
+	<string name="dirac_mode_general_earbuds">Opće slušalice</string>
+    <string name="dirac_mode_general_inear">Opće slušalice za umetanje u uho</string>
+    <string name="dirac_mode_piston_1">Xiaomi klipne slušalice-1</string>
+    <string name="dirac_mode_piston_2">Xiaomi klipne slušalice-2</string>
+    <string name="dirac_mode_piston_youth">Xiaomi klipne slušalice-youth</string>
     <string name="dirac_mode_general">Općenito</string>
+	<string name="msd_pc_system_install_start_summary_vista">"Za Windows Vista i novije verzije sustava Windows, 
+%1$s automatski će se pojaviti kao USB memorija"</string>
+    <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s pojavit će se kao USB uređaj
+za masovnu pohranu kod spajanja na računalo."</string>
+    <string name="msd_pc_system_install_finish_summary_xp">"Nakon što instalirate ovaj upravljački program
+%1$s pojavit će se kao USB uređaj za masovnu pohranu kod spajanja na računalo."</string>
+    <string name="msd_pc_system_install_finish_summary_vista">"Za Windows Vista i novije verzije sustava Windows,
+%1$s Glazbeni player će se pojaviti na vašem računalu automatski"</string>
     <string name="equalizer">EQ</string>
     <string name="wifi_menu_wfd">WLAN zaslon</string>
     <string name="wfd_settings_title">WLAN zaslon</string>

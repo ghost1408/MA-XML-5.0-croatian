@@ -177,7 +177,7 @@
   <string name="add_cc_bcc_menu">Dodaj Cc/Bcc</string>
   <string name="add_file_attachment">Dodaj privitak</string>
   <string name="add_quick_responses_action">Napravi novi</string>
-  <string name="alert_selected_all_message">" ima najmanje %d poruka, odabrati sve？"</string>
+  <string name="alert_selected_all_message">" ima najmanje %d poruka, odabrati sve?"</string>
   <string name="alert_title_selected">Odaberi sve</string>
   <string name="app_name">E-pošta</string>
   <string name="attachment_info_apk_install_disabled">"Aplikacije ne mogu biti instalirane izravno iz e-pošte. Prvo spremite a onda instalirajte aplikaciju koristeći Preuzimanje aplikacije."</string>
@@ -431,6 +431,12 @@ Kopija: %4$s
   <string name="unread_action">Označi nepročitano</string>
   <string name="waitinf_for_sync_message_1">Sinkroniziranje...</string>
   <string name="waitinf_for_sync_message_2">Vaš sandučić će se uskoro pojaviti.</string>
+  <string name="wait_for_sync_body_txt_array_1">Exchange Server će zatražiti u roku</string>
+  <string name="wait_for_sync_body_txt_array_2">1–30</string>
+  <string name="wait_for_sync_body_txt_array_3">seconds.Molimo Vas da potvrdite sigurnosne postavke i aktivirate. Obratite pozornost na</string>
+  <string name="wait_for_sync_body_txt_array_4">upozorenje sustava</string>
+  <string name="wait_for_sync_body_txt_array_5">.</string>
+  <string name="wait_for_sync_note">Molimo kliznite s vrha kako bi dobili obavijest. Kliknite za dovršetak sigurnosne postavke.</string>
   <string name="widget_all_mail">Kombinirani sandučić</string>
   <string name="widget_loading">Učitavanje…</string>
   <string name="widget_no_accounts">"Niste podesili račun E-pošte."</string>

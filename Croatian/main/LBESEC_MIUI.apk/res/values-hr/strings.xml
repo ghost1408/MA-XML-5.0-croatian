@@ -104,6 +104,9 @@
   <string name="HIPS_Perm_Contact_Access">čitanje vaših popisa kontakata</string>
   <string name="HIPS_Perm_Contact_Desc">Pristup vašem popisu kontakata</string>
   <string name="HIPS_Perm_Contact_Hint">%1$s aplikacija ima dopuštenje za pristup vašem popisu kontakata</string>
+  <string name="HIPS_Perm_DisableKeyguard">Otključaj zaslon</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">Otključaj zaslon</string>
+  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s aplikacija može otključati zaslon</string>
   <string name="HIPS_Perm_EndCall">Prekini trenutni poziv</string>
   <string name="HIPS_Perm_GetCallState">Dobivanje trenutnog statusa poziva</string>
   <string name="HIPS_Perm_ListenCallState">Nadziranje statusa poziva</string>

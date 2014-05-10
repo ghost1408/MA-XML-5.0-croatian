@@ -4,9 +4,11 @@
   <string name="act_aqi_pm10_title">PM10</string>
   <string name="act_aqi_pm25_title">PM2.5</string>
   <string name="act_aqi_so2_title">SO2</string>
+  <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
+  <string name="location_tag">Lociraj</string>
   <string name="act_city_find_gps_error">Odaberite grad ručno na popisu izbornika.</string>
   <string name="act_find_city_hint">Traži</string>
-  <string name="act_find_city_hot_title">Popularni gradovi </string>
+  <string name="act_find_city_hot_title">Dodaj</string>
   <string name="act_find_city_null_data">Nema rezultata.</string>
   <string name="act_find_city_title">Dodaj lokaciju</string>
   <string name="act_init_dialog_finish">Globalna vremenska prognoza je dodana.</string>
@@ -27,8 +29,14 @@
   <string name="act_weather_range_select">Odaberite grad</string>
   <string name="act_weather_range_title">Vremenska prognoza u blizini</string>
   <string name="act_weather_update_time">%s Ažurirano</string>
+  <string name="act_weather_find_city_no_result">Nema rezultata</string>
+  <string name="act_weather_find_city_added">Grad dodan</string>
+  <string name="act_weather_find_city_net_no_good">"Ne mogu se spojiti na mrežu"</string>
+  <string name="act_weather_find_city_click_retry">Dodirnite za ponovni pokušaj</string>
+  <string name="button_abandon">Odbaciti promjene</string>
   <string name="add_city">Dodaj lokaciju</string>
-  <string name="alert_message_delete">Obriši odabranu %d stavku(e)?</string>
+  <string name="act_weather_cycle_no_forcast">Nepoznato</string>
+  <string name="alert_message_delete">Obrisati odabranu %d stavku(e)?</string>
   <string name="alert_provider_message">Trebate omogućiti lokaciju preko vaše mobilne mreže.</string>
   <string name="alert_provider_title">Obavijest o lokaciji</string>
   <string name="alert_title_delete">Obriši</string>
@@ -51,6 +59,7 @@
   <string name="aqi_quality_index_moderate">umjereno</string>
   <string name="aqi_quality_index_pure">odličan</string>
   <string name="aqi_quality_index_unhealthy">nezdravo</string>
+  <string name="aqi_quality_index_break">Yikes!</string>
   <string name="button_allow">Dopusti</string>
   <string name="button_not_allow">Odbij</string>
   <string name="cancel">Otkaži</string>
@@ -68,6 +77,8 @@
   <string name="local_city">Lokalni gradovi</string>
   <string name="location_allow_err">Neuspješno lociranje.</string>
   <string name="location_management">Lokacije</string>
+  <string name="gps_hint">Trenutna lokacija</string>
+  <string name="edit_city">Uredi</string>
   <string name="location_notification">Vremenske obavijesti</string>
   <string name="menu_about">Oko</string>
   <string name="menu_add">Dodaj grad</string>
@@ -98,14 +109,14 @@
   <string name="settings_weather_preview">Pretpregled vremenske animacije</string>
   <string name="settings_weather_title">Postavke</string>
   <string name="share_aqi_content">"\#MIUI vrijeme#
-U %1$s je kvaliteta zraka: %2$s, %3$s. %4$s %5$s."</string>
+Današnja kvaliteta zraka u %1$s je: %2$s, %3$s. %4$s %5$s."</string>
   <string name="share_button_text">Dijeli</string>
   <string name="share_choice_titile">Dijeli informacije o vremenu</string>
   <string name="share_content">\#MIUI vrijeme#</string>
   <string name="share_qq">Dijeli putem Tencent Weibo</string>
   <string name="share_sina">Dijeli putem Sina Weibo</string>
   <string name="share_weather_content">"\#MIUI vrijeme#
-U %1$s je vrijeme %2$s, %3$s°C, %4$s. %5$s."</string>
+Danas u %1$s je vrijeme %2$s, %3$s, %4$s. %5$s."</string>
   <string name="share_weather_title">Dijeli podatke o vremenu</string>
   <string name="sina_share_fail">Slanje neuspješno!</string>
   <string name="sina_share_pendding">Šaljem...</string>
@@ -114,7 +125,7 @@ U %1$s je vrijeme %2$s, %3$s°C, %4$s. %5$s."</string>
   <string name="sina_token_invalid_warning">Weibo račun je netočan, ponovno se povežite</string>
   <string name="sms_notification">Dijeli putem SMS-a</string>
   <string name="tip_weather">MIUI obavijest o vremenu</string>
-  <string name="tip_weather_info_content_1">Nanošenje slojeva!</string>
+  <string name="tip_weather_info_content_1">Uzmite nešto viška odjeće!</string>
   <string name="tip_weather_info_title_1">%1$s razlika temperature od %2$d stupnjeva</string>
   <string name="tip_weather_info_title_2">%1$s današnja temperatura se procjenjuje na %2$s</string>
   <string name="trend_weather_today">Danas</string>

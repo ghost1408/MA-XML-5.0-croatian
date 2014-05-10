@@ -338,4 +338,14 @@
   <string name="vip_recommend_title">Visoko kvalitetna glazba</string>
   <string name="where_is_barcode">"Gdje je QR kod?"</string>
   <string name="xiaomi_account_setting">Xiaomi račun</string>
+  <string name="dirac_mode_general_earbuds">Opće slušalice</string>
+  <string name="dirac_mode_general_inear">Opće slušalice za umetanje u uho</string>
+  <string name="dirac_mode_piston_2">Xiaomi klipne slušalice-2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi klipne slušalice-youth</string>
+  <string name="sync_alert_title">Sinkronizacija glazbe</string>
+  <string name="sync_alert_message">Sinkronizirajte vaše omiljene pjesme na svim uređajima s Mi računom.</string>
+  <string name="not_now">Ne sad</string>
+  <string name="sync_disable_toast">Uvijek možete omogućite sinkronizaciju kasnije u Postavke > Računi > Mi Cloud</string>
+  <string name="login_and_enable">Prijavite se i sinkronizirajte</string>
+  <string name="sync_enable_toast">Možete promijeniti ove postavke u Postavke > Računi > Mi Cloud</string>
 </resources>

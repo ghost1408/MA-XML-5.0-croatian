@@ -276,4 +276,5 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="wrong_vcode">Netočan vkôd</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="find_device_notice_p4">Kada god se mijenja SIM kartica, registracijski SMS može biti poslana za praćenje telefona</string>
 </resources>

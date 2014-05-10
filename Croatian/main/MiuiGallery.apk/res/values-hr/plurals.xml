@@ -14,5 +14,10 @@
         <item quantity="other">%1$d slika</item>
         <item quantity="zero">%1$d slika</item>
         <item quantity="one">%1$d slika</item>
+	</plurals>
+	<plurals name="number_of_items">
+        <item quantity="other">%1$d stavaka</item>
+        <item quantity="zero">%1$d stavaka</item>
+        <item quantity="one">%1$d stavka</item>
     </plurals>
 </resources>

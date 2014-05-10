@@ -689,4 +689,8 @@ telefon će se automatski otvoriti kada je spojen na računalo."</item>
         <item>Prikaži područja za deuteranomaliju</item>
         <item>Prikaži brojač slojnih iscrtavanja</item>
     </string-array>
+	<string-array name="perm_disable_keyguard_action">
+       <item>Dopusti</item>
+       <item>Odbij</item>
+       </string-array>
 </resources>
