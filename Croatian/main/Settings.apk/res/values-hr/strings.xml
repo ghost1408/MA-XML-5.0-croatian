@@ -1753,11 +1753,11 @@ Preostalo pokušaja :"</string>
     <string name="system_update_settings_list_item_title">Ažuriranja sustava</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Verzija sustava Android</string>
-    <string name="model_number">Broj modela</string>
+    <string name="model_number">Model</string>
     <string name="fcc_equipment_id">ID opreme</string>
     <string name="baseband_version">Osnovna verzija</string>
     <string name="kernel_version">Verzija jezgre</string>
-    <string name="build_number">Broj međuverzije</string>
+    <string name="build_number">Android međuverzija</string>
     <string name="selinux_status">SELinux status</string>
     <string name="device_info_not_available">Nije dostupno</string>
     <string name="device_status_activity_title">Status</string>
