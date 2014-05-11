@@ -43,6 +43,8 @@
   <string name="app_love_font_lng">%s</string>
   <string name="app_love_sms_title">Sadržaj poruke</string>
   <string name="app_love_view_title">Pretpregled</string>
+  <string name="network_unavailable">"Ne mogu se spojiti na mrežu. Provjerite podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="weather_data_unreachable">"Ne mogu dobiti detalje o vremenu. Pričekajte 1-2 minute i pokušajte ponovno."</string>
   <string name="app_name">Vrijeme</string>
   <string name="app_nohave_net">Mreža nije pronađena</string>
   <string name="app_unquiet_net">Slaba mrežna veza</string>
@@ -96,7 +98,7 @@
   <string name="menu_trend">Trend</string>
   <string name="save_screen_shot_failed">Neuspjelo spremanje snimke zaslona.</string>
   <string name="selected_format">Odabrana %d stavka(e)</string>
-  <string name="send_sms_notification">Naredna vremenska obavijest</string>
+  <string name="send_sms_notification">Proslijedi obavijest o vremenu</string>
   <string name="send_sms_notification_summary">"Pošalji današnje vremenske podatke svojim kontaktima preko poruke"</string>
   <string name="send_weather_sms_cycle">%1$s vremenska prognoza：%2$s</string>
   <string name="send_weather_sms_error">Nema podataka o vremenu</string>
@@ -116,7 +118,7 @@ Današnja kvaliteta zraka u %1$s je: %2$s, %3$s. %4$s %5$s."</string>
   <string name="share_qq">Dijeli putem Tencent Weibo</string>
   <string name="share_sina">Dijeli putem Sina Weibo</string>
   <string name="share_weather_content">"\#MIUI vrijeme#
-Danas u %1$s je vrijeme %2$s, %3$s, %4$s. %5$s."</string>
+Danas u %1$s je vrijeme %2$s , %3$s, %4$s. %5$s."</string>
   <string name="share_weather_title">Dijeli podatke o vremenu</string>
   <string name="sina_share_fail">Slanje neuspješno!</string>
   <string name="sina_share_pendding">Šaljem...</string>
@@ -126,13 +128,13 @@ Danas u %1$s je vrijeme %2$s, %3$s, %4$s. %5$s."</string>
   <string name="sms_notification">Dijeli putem SMS-a</string>
   <string name="tip_weather">MIUI obavijest o vremenu</string>
   <string name="tip_weather_info_content_1">Uzmite nešto viška odjeće!</string>
-  <string name="tip_weather_info_title_1">%1$s razlika temperature od %2$d stupnjeva</string>
+  <string name="tip_weather_info_title_1">%1$s razlika temperature od %2$d stupnjava</string>
   <string name="tip_weather_info_title_2">%1$s današnja temperatura se procjenjuje na %2$s</string>
   <string name="trend_weather_today">Danas</string>
   <string name="trend_weather_tomorrow">Sutra</string>
   <string name="weather_notification">Obavijest o vremenu</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
-  <string name="weather_unit_with_c">°C</string>
+  <string name="weather_unit_with_c">℃</string>
   <string name="widget_loading">Nema podataka o vremenu</string>
 </resources>

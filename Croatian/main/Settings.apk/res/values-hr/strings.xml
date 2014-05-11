@@ -1059,7 +1059,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="battery_info_voltage_label">Napon baterije:</string>
     <string name="battery_info_voltage_units">mV</string>
     <string name="battery_info_temperature_label">Temperatura baterije:</string>
-    <string name="battery_info_temperature_units">° C</string>
+    <string name="battery_info_temperature_units">°C</string>
     <string name="battery_info_uptime">Vrijeme proteklo od pokretanja:</string>
     <string name="battery_info_awake_battery">Vrijeme bez mirovanja na bateriji:</string>
     <string name="battery_info_awake_plugged">Vrijeme bez mirovanja kod punjenja:</string>

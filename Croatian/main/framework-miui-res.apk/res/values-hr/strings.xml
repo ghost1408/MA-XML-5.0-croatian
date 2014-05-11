@@ -4,7 +4,7 @@
   <string name="activate_fail_notification_title">Reaktivirajte Xiaomi Servis sinkronizacije</string>
   <string name="activating">Aktiviram...</string>
   <string name="alarm_message_12_hour_formate">aah:mm</string>
-  <string name="alwaysUsePrompt">Podesi kao zadano (ne pitaj ponovo)</string>
+  <string name="alwaysUsePrompt">Zapamti ovaj izbor</string>
   <string name="android_lockscreen_glogin_instructions">Za otključati, prijavite se vašim računom </string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
@@ -288,7 +288,9 @@
   <string name="find_device_turn_off_flight_mode">Isključite način rada u zrakoplovu</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Vaš uređaj je zaključan, isključite način rada u zrakoplovu"</string>
   <string name="firewall_setting">Vatrozid</string>
-  <string name="first_back_long_press_message">"Želite li omogućiti funkciju dugog pritiska tipke "Natrag" za gašenje pokrenutih procesa/pozadinskih servisa? Omogućite to Postavke &gt; Sustav &gt; Postavke tipaka"</string>
+  <string name="first_back_long_press_message">"Dugim pritiskom tipke "Natrag"  možete ugasiti pokrenute procesa/pozadinske servise?
+  
+Omogućite to Postavke &gt; Sustav &gt; Gumbi &amp; tipke"</string>
   <string name="fm_record_smaple_prefix_miui">Snimanje radia</string>
   <string name="fools_day">1. April</string>
   <string name="force_exit_message">Uspješno zatvoreno \"%1$s\"</string>
@@ -414,6 +416,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="reboot_confirm">Telefon će se ponovno pokrenuti</string>
   <string name="reboot_confirm_title">Sigurno želite ponovno pokretanje?</string>
   <string name="reboot_progress">Ponovno pokretanje...</string>
+    <string name="safetylegal_activity_unreachable">"Ne mogu se spojiti na mrežu. Možete vidjeti ovu informaciju online  %s."</string>
   <string name="retrocession_day"/>
   <string name="return_to_me_message">Vratite telefon vlasniku.</string>
   <string name="reverse_all">Obriši sve</string>
@@ -423,7 +426,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="screen_on_proximity_sensor_hint">"Prisilno zatvaranje: Drži 'Natrag'+'Volume Up' tipku"</string>
   <string name="screen_on_proximity_sensor_summary">"Zlouporabni način omogućen. Funkcije telefona trenutno onemogućene!"</string>
   <string name="screen_on_proximity_sensor_title">Spriječite zloupotrebu telefona</string>
-  <string name="sd_not_available">SD kartica neučitana ili nedostupna </string>
+  <string name="sd_not_available">SD kartica neučitana ili nedostupna</string>
   <string name="sd_not_available_low_internal_storage">SD kartica neučitana ili nedostupna, unutarnja pohrane sve manje </string>
   <string name="sd_not_available_saved_to_internal_storage">Spremljeno na unutanju pohranu</string>
   <string name="sd_not_available_use_internal_storage">SD kartica nedostupna, spremljeno na unutarnju pohranu</string>
@@ -480,7 +483,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="user_agreement2">" Korisnički priručnik"</string>
   <string name="user_agreement3">" i "</string>
   <string name="user_agreement4">Izjava o privatnosti</string>
-  <string name="user_agreement5">，Klik na "U redu" pokazuje da se slažete te da ste spremni pristati na navedeni sadržaj, pritisnite "Odustani" za izlaz.</string>
+  <string name="user_agreement5">Klik na "U redu" pokazuje da se slažete te da ste spremni pristati na navedeni sadržaj, pritisnite "Odustani" za izlaz.</string>
   <string name="v5_date_picker_label_day"/>
   <string name="v5_date_picker_label_month"/>
   <string name="v5_date_picker_label_year"/>

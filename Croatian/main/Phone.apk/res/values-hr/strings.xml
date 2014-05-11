@@ -3,7 +3,7 @@
   <string name="ContactScreen">Dodaj/Uredi SIM kontakt</string>
   <string name="ExportContactScreen">Izvoz telefonskih kontakata na SIM karticu</string>
   <string name="absent_num">NEDOSTUPAN BROJ</string>
-    <string name="accept_modify_call_request_prompt">PrihvatitU zahtjev promjene poziva?</string>
+  <string name="accept_modify_call_request_prompt">PrihvatitU zahtjev promjene poziva?</string>
   <string name="accessibility_call_muted">Poziv utišan.</string>
   <string name="accessibility_speakerphone_enabled">Zvučnik omogućen.</string>
   <string name="addSimEntries">Dodaj SIM kontakt</string>
@@ -308,7 +308,7 @@
   <string name="custom_location_location_no_item_miui">"Kliknite na "Dodaj" u nastavku za dodavanje prilagođenih atributa"</string>
   <string name="custom_location_number_hint_miui">Pozivni broj, kao što je 049, grupni brojevi kao što su 68#####</string>
   <string name="cw_title_miui">Poziv na čekanju</string>
-  <string name="data_connected_change">Nije moguće promijeniti mrežu dok je podatkovna usluga u upotrebi. Zaustavite trenutnou podatkovnu uslugu i odaberiti neku drugu dostupnu mrežu?</string>
+  <string name="data_connected_change">Nije moguće promijeniti mrežu dok je podatkovna usluga u upotrebi. Zaustaviti trenutnu podatkovnu uslugu i odabrati neku drugu dostupnu mrežu?</string>
   <string name="data_enable_summary">Omogućiti pristup podacima putem mobilne mreže</string>
   <string name="data_enabled">Podaci omogućeni</string>
   <string name="deact_all_sub_not_supported">Deaktivacija obje pretplate nije podržana.</string>
@@ -633,7 +633,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="mobile_network_setting">Postavke Mobilne mreže</string>
   <string name="mobile_networks">Postavke Mobilne mreže</string>
   <string name="mobile_networks_miui">Postavke Mobilne mreže</string>
-  <string name="modify_call_failure_str">"Modify Call request failed
+  <string name="modify_call_failure_str">"Zahtjev izmjene poziva nije uspio
 "</string>
   <string name="modify_call_option_title">Koji tip razgovora?</string>
   <string name="modify_call_option_voice">Samo glas</string>
@@ -739,7 +739,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="onscreen_merge_calls_text_miui">Upravljanje pozivima</string>
   <string name="onscreen_mute_text_miui">Utišaj</string>
   <string name="onscreen_note_text_miui">Bilješka</string>
-  <string name="onscreen_send_flash_text_miui">Flash</string>
+  <string name="onscreen_send_flash_text_miui">Bljeskalica</string>
   <string name="onscreen_speaker_text_miui">Zvučnik</string>
   <string name="onscreen_swap_calls_text_miui">Zamijeni</string>
   <string name="onscreen_tools_off_miui">Alati</string>
@@ -993,12 +993,12 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="sim_lock_off_miui">Potreban PIN za korištenje telefona</string>
   <string name="sim_lock_on_miui">Potreban PIN za korištenje telefona</string>
   <string name="sim_lock_title_miui">Postavke SIM zaključavanja</string>
-    <string name="sim_slot_alert_title">Slot na SIM kartu</string>
-    <string name="sim_slot_alert_message">Vložte %s SIM kartu do prvého slotu, ktorý podporuje 3G siete.</string>
-    <string name="sim_slot_alert_shutdown">Vypnúť</string>
-    <string name="sim_slot_alert_cancel">Používať ďalej</string>
+  <string name="sim_slot_alert_title">Utor za SIM karticu</string>
+  <string name="sim_slot_alert_message">Umetnite %s SIM karticu u prvi utor, koji podržava 3G mreže.</string>
+  <string name="sim_slot_alert_shutdown">Isključiti</string>
+  <string name="sim_slot_alert_cancel">Používať ďalej</string>
   <string name="sim_ndp_dismiss_text">Odbaciti</string>
-  <string name="sim_ndp_unlock_text">Otklučaj</string>
+  <string name="sim_ndp_unlock_text">Otključaj</string>
   <string name="sim_pin_change_miui">Promijeni SIM PIN</string>
   <string name="sim_pin_toggle_miui">Zaključaj SIM karticu</string>
   <string name="sim_unlock_failed">SIM SIM otključavanje neuspješno.</string>

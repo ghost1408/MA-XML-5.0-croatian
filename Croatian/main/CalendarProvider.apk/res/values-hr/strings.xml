@@ -7,7 +7,7 @@
     <string name="calendar_info_error">Greška</string>
     <string name="calendar_info_no_calendars">Nema kalendara</string>
     <string name="calendar_info_events">Događaji: %1$d</string>
-    <string name="calendar_info_events_dirty">Događaji: %1$d, Unsaved: %2$d</string>
+    <string name="calendar_info_events_dirty">Događaji: %1$d, Nespremljeno: %2$d</string>
     <string name="provider_label">Kalendar</string>
     <string name="debug_tool_delete_button">Izrisati sada</string>
     <string name="debug_tool_start_button">Započni</string>

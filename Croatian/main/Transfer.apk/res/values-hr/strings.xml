@@ -2,7 +2,7 @@
 <resources>
   <string name="about_to_receive">O primanju datoteka</string>
   <string name="about_to_send">Pošalji datoteku</string>
-  <string name="add_download_task_failed">Dodavanje Zadatatka preuzimanja nije uspio! Molimo pokušajte ponovno</string>
+  <string name="add_download_task_failed">Dodavanje Zadataka preuzimanja nije uspio! Molimo pokušajte ponovno</string>
   <string name="add_to_download">Dodano na red za preuzimanje </string>
   <string name="add_to_restore">Dodano za vraćanje</string>
   <string name="all_history">Sva povijest</string>
@@ -40,7 +40,7 @@
   <string name="editmode_menu_share">Dijeli</string>
   <string name="empty_share_history">Nema povijesti dijeljenja</string>
   <string name="error_bad_file">Oštećena datoteka</string>
-  <string name="error_connect_service">Ne mogu se spojiti na uslugu prijenosa .</string>
+  <string name="error_connect_service">Ne mogu se spojiti na uslugu prijenosa.</string>
   <string name="error_download">Neuspjelo preuzimanje</string>
   <string name="error_general">Došlo je do opće pogreške</string>
   <string name="error_info_cant_send_folder">Upozorenje! Mape se ne mogu slati!</string>
@@ -94,7 +94,7 @@
   <string name="noti_receiving">%1$s: Primljeno %2$d/%3$d datoteka</string>
   <string name="noti_sending">%1$s: Poslano %2$d/%3$d datoteka</string>
   <string name="noti_wait_receive">Čekanje za primanje datoteka</string>
-  <string name="noti_wait_send">"Čekanje za primanje datoteka, budite sigurni da je primatelj omogućio povezivanje i moežslati datoteke"</string>
+  <string name="noti_wait_send">"Čekanje za primanje datoteka, budite sigurni da je primatelj omogućio povezivanje i može slati datoteke"</string>
   <string name="notify_after_download">Obavijesti nakon preuzimanja</string>
   <string name="notify_after_restore">Obavijesti nakon vraćanja</string>
   <string name="ok">U redu</string>
@@ -211,11 +211,11 @@ na [ %1$s ]"</string>
   <string name="wait_sdcard">Čekanje na SD karticu</string>
   <string name="wait_wifi">Čekanje na WLAN</string>
   <string name="wait_wifi_to_download">Čekanje na WLAN za automatsko preuzimanje datoteka</string>
-  <string name="wait_wifi_to_upload">Wait for Wi-Fi to automatically upload and share files</string>
+  <string name="wait_wifi_to_upload">Čekanje na WLAN za automatsko učitavanje i dijeljenje datoteka</string>
   <string name="waiting_receive">Čekanje pošiljatelja</string>
   <string name="waitting">Čekanje...</string>
   <string name="wanna_receive">Prihvati</string>
-  <string name="welcome_tip1">Brzo prenesite datoteke bez povezivanja without mobile data connection</string>
-  <string name="welcome_tip2">Brzo prenesite slike, glazbu, kontakte i još više toga!</string>
+  <string name="welcome_tip1">Brzo prenesite datoteke bez korištenja mobilne podatkovne veze</string>
+  <string name="welcome_tip2">Dijelite slike, glazbu, kontakte i još više toga!</string>
   <string name="you_can">U redu</string>
 </resources>
