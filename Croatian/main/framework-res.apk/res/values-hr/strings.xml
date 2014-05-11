@@ -716,7 +716,6 @@ Preostalo pokušaja :"</string>
     <string name="keyguard_password_entry_touch_hint">
 <font size="17">Doditnite za unos zaporke</font>
 </string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Dodirnite za tipkanje zaporke</font></string>
     <string name="keyguard_password_enter_password_code">Unesite zaporku za otključavanje</string>
     <string name="keyguard_password_enter_pin_password_code">Unesite PIN za otključavanje</string>
     <string name="keyguard_password_wrong_pin_code">Netočan PIN kôd.</string>
@@ -1043,7 +1042,6 @@ Za nastavak dodirnite U redu, a za ostanak na trenutačnoj stranici dodirnite Od
     <string name="date_picker_dialog_title">Postavi datum</string>
     <string name="date_time_set">Postavi</string>
     <string name="date_time_done">Gotovo</string>
-    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NOVO: </font></string>
     <string name="perms_description_app">Omogućuje aplikacija %1$s.</string>
     <string name="no_permissions">Nije potrebno dopuštenje</string>
     <string name="perms_hide">
