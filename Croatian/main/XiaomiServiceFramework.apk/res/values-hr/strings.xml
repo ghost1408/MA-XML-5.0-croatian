@@ -4,15 +4,58 @@
   <string name="access_token_expired_warning">Weibo račun je istekao, povežite se ponovo</string>
   <string name="access_token_invalid_warning">Weibo račun je nevažeći povežite se ponovo</string>
   <string name="account">Račun</string>
-  <string name="account_dspt">"Xiaomi Račun može sinkronizirati i pohraniti vaše poruke, kontakte, slike, itd."</string>
+  <string name="account_dspt">"Prijavite se na Xiaomi Račun. 
+Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
   <string name="account_hint_text">E-pošta/Telefonski broj</string>
   <string name="account_name">Račun: %1$s</string>
-  <string name="activate_phone_failed_notif_title">Neuspjelo omogućivanje MiCloud usluge</string>
-  <string name="activate_phone_failed_notif_title_msim">Neuspjelo pokretanje MiCloud-a za SIM %s</string>
-  <string name="activate_phone_send_sms_fail">Neuspjelo slanje aktivacijskog SMS-a, ne mogu otvoriti uslugu sinkronizacije</string>
-  <string name="activate_phone_send_sms_failed_notif">Neuspjelo slanje aktivacijskog SMS-a</string>
-  <string name="activate_phone_server_error">Greška poslužitelja，ne mogu otvoriti uslugu sinkronizacije</string>
-  <string name="activate_phone_server_error_notif">Greška poslužitelja</string>
+  <string name="activate_desc_2_intl_sim_cards">SMS i međunarodni SMS će biti poslani za aktivaciju vaše SIM kartice</string>
+  <string name="activate_desc_2_sim_cards">2 SMS-a će biti poslana za aktivaciju dvije SIM kartice</string>
+  <string name="activate_desc_intl_sim_card">Međunarodni SMS će biti poslan za aktivaciju vaše SIM kartice</string>
+  <string name="activate_desc_mixed_sim_cards">SMS i međunarodni SMS će biti poslani za aktivaciju vaše 2 nove SIM kartice</string>
+  <string name="activate_desc_sim_card">SMS će biti poslan za aktivaciju vaše SIM kartice</string>
+  <string name="activate_feature_call_log_sync">Sinkronizacija popisa poziva</string>
+  <string name="activate_feature_find_device">Lokacija uređaja</string>
+  <string name="activate_feature_mms_sync">Sinkronizacija SMS-a</string>
+  <string name="activate_feature_mx">Cloud poruke</string>
+  <string name="activate_popup_confirm_failed_phone_error">Pokušaj ponovno</string>
+  <string name="activate_popup_confirm_failed_query_info">Pokušaj ponovno</string>
+  <string name="activate_popup_confirm_failed_receive_sms">Pokušaj ponovno</string>
+  <string name="activate_popup_confirm_failed_send_sms">Pošalji ponovno</string>
+  <string name="activate_popup_confirm_failed_server">Pokušaj ponovno</string>
+  <string name="activate_popup_desc_2_intl_sim_cards">2 international SMS will be sent to activate your SIM card in order to enable features like %s (carrier rates apply)</string>
+  <string name="activate_popup_desc_2_sim_cards">2 SMSes will be sent to activate your 2 SIM card in order to enable features like %s (carrier rates apply)</string>
+  <string name="activate_popup_desc_failed_phone_error">The number your entered is invalid.</string>
+  <string name="activate_popup_desc_failed_query_info">Ne mogu steći vaš telefonski broj. Provjerite da je vaša SIM kartica aktivna.</string>
+  <string name="activate_popup_desc_failed_receive_sms">Dvaput provjerite broj koji ste unijeli, i provjerite da je vaša SIM kartica aktivna.</string>
+  <string name="activate_popup_desc_failed_send_sms">"Ne mogu poslati aktivacijski SMS. Molimo Vas, provjerite da je vaša SIM kartica aktivna."</string>
+  <string name="activate_popup_desc_failed_server">Pogreška poslužitelja. Provjerite mrežnu povezanost.</string>
+  <string name="activate_popup_desc_intl_sim_card">Međunarodni SMS će biti poslan za aktiviranje SIM kartice kako bi omogućili značajke kao što su %s (troškovi se naplaćuju)</string>
+  <string name="activate_popup_desc_mixed_sim_cards">Međunarodni SMS će biti poslan za aktiviranje 2 SIM kartice kako bi omogućili značajke kao što sue %s (troškovi se naplaćuju)</string>
+  <string name="activate_popup_desc_new_2_intl_sim_cards">Vaša SIM kartica se promijenila. 2. međunarodna SMS-a će biti poslana za aktivaciju dvije SIM kartice kako bi se omogućile značajke kao što su %s (troškovi se naplaćuju)</string>
+  <string name="activate_popup_desc_new_2_sim_cards">Vaša SIM kartica se promijenila. 2. međunarodna SMS-a će biti poslana za aktivaciju dvije SIM kartice kako bi se omogućile značajke kao što su %s (troškovi se naplaćuju)</string>
+  <string name="activate_popup_desc_new_intl_sim_card">Vaša SIM kartica se promijenila. Međunarodni SMS će biti poslan za aktivaciju nove SIM kartice kako bi se omogućile značajke kao što su %s (troškovi se naplaćuju)</string>
+  <string name="activate_popup_desc_new_mixed_sim_cards">Vaša SIM kartica se promijenila. SMS i međunarodni SMS će biti poslani za aktivaciju 2 nove SIM kartice kako bi se omogućile značajke kao što su %s (troškovi se naplaćuju)</string>
+  <string name="activate_popup_desc_new_sim_card">Vaša SIM kartica se promijenila. SMS će biti poslan za aktivaciju nove SIM kartice kako bi se omogućile značajke kao što su %s (troškovi se naplaćuju)</string>
+  <string name="activate_popup_desc_new_sim_card_downlink">Vaša SIM kartica se promijenila.Unesite broj vaše SIM kartice, kako bi se omogućile značajke kao što su %s</string>
+  <string name="activate_popup_desc_register_account">SMS će biti poslan za registraciju vašeg ​​Xiaomi računa</string>
+  <string name="activate_popup_desc_register_account_downlink">Please enter the number for your SIM card, in order to register you Xiaomi Account</string>
+  <string name="activate_popup_desc_register_account_intl">An international SMS will be sent to register your Xiaomi Account</string>
+  <string name="activate_popup_desc_sim_card">An SMS will be sent to activate your SIM card in order to enable features like %s (carrier rates apply)</string>
+  <string name="activate_popup_desc_sim_card_downlink">Unesite broj vaše SIM kartice, kako bi se omogućile značajke kao što su %s</string>
+  <string name="activate_popup_title_failed_phone_error">Aktivacija nije uspjela</string>
+  <string name="activate_popup_title_failed_query_info">Aktivacija nije uspjela</string>
+  <string name="activate_popup_title_failed_receive_sms">Aktivacija nije uspjela</string>
+  <string name="activate_popup_title_failed_send_sms">Aktivacija nije uspjela</string>
+  <string name="activate_popup_title_failed_server">Aktivacija nije uspjela</string>
+  <string name="activate_popup_title_manual">Aktivacija SIM kartice</string>
+  <string name="activate_popup_title_new_sim_card">Aktivacija nove SIM kartice</string>
+  <string name="activate_popup_title_register_account">Registracija računa</string>
+  <string name="activate_phone_failed_notif_title">Neuspjela aktivacija usluge Xiaomi Cloud</string>
+  <string name="activate_phone_failed_notif_title_msim">Neuspjela aktivacija usluge Xiaomi za SIM %s</string>
+  <string name="activate_phone_send_sms_fail">Neuspješno slanje aktivacijskog SMS-a</string>
+  <string name="activate_phone_send_sms_failed_notif">Neuspješno slanje aktivacijskog SMS-a</string>
+  <string name="activate_phone_server_error">Pogreška poslužitelja.</string>
+  <string name="activate_phone_server_error_notif">Pogreška poslužitelja.</string>
   <string name="activate_status_desc_acquire_phone_number">Dobivanje broja telefona s poslužitelja</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Došlo je do pogreške poslužitelja pri dobivanju broja telefona.</string>
   <string name="activate_status_desc_acquire_phone_number_server_error_wait">Pogreška poslužitelja pri dobivanju broja telefona. Čekam ponovni pokušaj...</string>
@@ -35,6 +78,8 @@
   <string name="activate_status_desc_acquire_sim_user_id_server_io_error_wait">Greška I/O servera pri dobivanju informacija o registraciji, čekam ponovni pokušaj...</string>
   <string name="activate_status_desc_acquire_sim_user_id_server_no_info">Neuspjelo dobivanje podataka o registraciji</string>
   <string name="activate_status_desc_acquire_sim_user_id_server_no_info_wait">Neuspjelo dobivanje podataka o registraciji, čekam ponovni pokušaj...</string>
+  <string name="activate_status_desc_checking_xiaomi_account">Provjera Xiaomi računa na poslužitelju</string>
+  <string name="activate_status_desc_checking_xiaomi_account_server_error">Došlo je do pogreške poslužitelja prilikom provjere Xiaomi računa</string>
   <string name="activate_status_desc_failed_getting_device_info">Neuspjelo dobivanje informacije o uređaju</string>
   <string name="activate_status_desc_failed_getting_gateway">Neuspjelo dobivanje SMS-a Gateway-a</string>
   <string name="activate_status_desc_failed_getting_sim_info">Neuspjelo dobivanje informacije o SIM kartici</string>
@@ -55,10 +100,17 @@
   <string name="available_functionality">Dostupne funkcije</string>
   <string name="bad_authentication">Neuspjela autorizacija, krivo korisničko ime ili zaporka</string>
   <string name="bind_sina_weibo">Autoriziraj Sina Weibo</string>
-  <string name="bind_weibo_description">Nađi telefonske kontakte, prijatelje i druge podatke izravno s računa</string>
+  <string name="bind_weibo_description">"Pronađi kontakte telefona i prijatelje pomoću Wiebo.. 
+     NAPOMENA: aplikacija ne radi u Europi."</string>
   <string name="binded">Pomoćnici</string>
   <string name="btn_activate">Aktiviraj</string>
-  <string name="button_cancel">Otkaži</string>
+  <string name="btn_count_down_wait">%1$s sekundi za čekanje</string>
+  <string name="btn_voucher">Karta MiKredta (%1$s)</string>
+  <string name="btn_wait_call">Čekanje</string>
+  <string name="btn_wait_call_count">Čekaj (%1$s)</string>
+  <string name="btn_wait_confirm">Čekaj...</string>
+  <string name="btn_wait_confirm_count">Čekaj (%1$s)</string>
+  <string name="button_cancel">Odustani</string>
   <string name="captcha">Captcha kôd</string>
   <string name="check_phone_error_title">Neuspjelo omogućivanje usluge sinkronizacije</string>
   <string name="check_phone_io_error">Greška mreže</string>
@@ -86,6 +138,7 @@
   <string name="enable_sync_dspt">Sinkronizacija je isključena</string>
   <string name="error_dup_phone">Telefon je registriran</string>
   <string name="error_invalid_dev_id">Id uređaja je nevažeći</string>
+  <string name="error_mili_title">Nema kredita</string>
   <string name="error_network">Greška mreže</string>
   <string name="error_no_sms_service">SMS usluga nije dostupna</string>
   <string name="error_server">Greška usluge</string>
@@ -95,7 +148,7 @@
   <string name="failed_to_send_activate_email">Neuspjelo slanje aktivacijske e-pošte</string>
   <string name="find_device">Lociraj uređaj</string>
   <string name="find_device_check_phone_error_title">Neuspjelo omogućivanje lociranja uređaja</string>
-  <string name="find_device_disabled_notice">"Možete ga ponovno otvoriti kroz Postavke - Računi &amp; sinkroniziraj - Xiaomi Račun"</string>
+  <string name="find_device_disabled_notice">"Možete ga ponovno otvoriti kroz Postavke - Računi &amp; Sinkronizacija - Xiaomi Račun"</string>
   <string name="find_device_disabled_title">Lociranje uređaja onemogućeno</string>
   <string name="find_device_disabling">Isključivanje...</string>
   <string name="find_device_enabling">Uključivanje...</string>
@@ -103,33 +156,36 @@
   <string name="find_device_error_server">Greška poslužitelja</string>
   <string name="find_device_notice_p1">Kada izgubite svoj telefon, molimo vas da posjetite</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
-  <string name="find_device_notice_p3">da ga pronađete, zaključate, ili obrišete sve podatke</string>
+  <string name="find_device_notice_p3">Da ga pronađete, zaključate, ili obrišete sve podatke</string>
+   <string name="find_device_notice_p4">Kada god se mijenja SIM kartica, registracijski SMS može biti poslan za praćenje telefona</string>
   <string name="find_device_success_title">Lociranje uređaja omogućeno</string>
   <string name="find_password_on_web_msg">Molimo vas posjetite račun.xiaomi.com za vraćanje svoje zaporke</string>
-  <string name="forget_password"><u>Zaboravljena zaporka?</u></string>
-  <string name="foreign_login"><u>Država/Predbroj</u></string>
-  <string name="seperator_forget_and_foreign">|</string>
-  <string name="phone_num_hint_text">Broj telefona</string>
+  <string name="forget_password">Zaboravljena zaporka?</string>
   <string name="get_back_pwd">Oporavak zaporke računa</string>
   <string name="header_data_and_synchronization">Podaci &amp; Sinkronizacija</string>
   <string name="i_know">U redu</string>
-  <string name="micloud_area_code_title">Država/Predbroj</string>
-  <string name="micloud_area_code_hot">Vruće</string>
   <string name="input_captcha_hint">Unesite znakove</string>
   <string name="input_password_hint">Unesite zaporku</string>
   <string name="input_vcode_hint">Unesite verifijacijski kôd</string>
-  <string name="input_vcode_prompt">Molimo unesite verifijacijski kôd</string>
-  <string name="int_phone_user_notice">Prilikom registracije korištenja broja izvan Kine unesite kod zemlje, npr. +385xxxxxxxxx</string>
+  <string name="input_vcode_prompt">Unesite verifijacijski kôd</string>
+  <string name="int_phone_user_notice">Unesite telefonski broj formata: +385xxxxxxxxx</string>
   <string name="internet_comm">Poslužitelj poruka</string>
-  <string name="internet_message">MiCloud poruke</string>
+  <string name="internet_message">Cloud poruke</string>
+  <string name="label_order_name">Naziv proizvoda:</string>
+  <string name="label_order_price">Količina:</string>
   <string name="login">Prijavite se</string>
   <string name="login_failed">Prijava nije uspjela</string>
-  <string name="login_instead_reg">Prijava koristeći ovaj broj telefona</string>
+  <string name="login_instead_reg">Prijavite se brojem telefona</string>
   <string name="login_notice">Prijava...</string>
+  <string name="logout_failed">Prijava nije uspjela</string>
   <string name="master_alert_notif_dspt" formatted="false">"Tijekom ovog perioda dodali ste %s naziva kontakata, %s SMS, %s slika, %s biležaka i ostalih podataka.
 
- Ako izgubite telefon iliga izbrišete, ovi podaci biti će izgubljeni. Preporučuje se da vratite sinkronizaciju kako bi osigurali sigurnost podataka"</string>
+ Ako izgubite telefon ili ga izbrišete, ovi podaci biti će izgubljeni. Preporučuje se da vratite sinkronizaciju kako bi osigurali sigurnost podataka"</string>
   <string name="master_alert_notif_title">Podaci nisu sinkronizirani izvan %s dana</string>
+  <string name="memu_refresh">Osvježi</string>
+  <string name="mibi_license_message">Usluge Xiaomi na MiKrediti. Pritiskom na tipku "U redu"da se slažete s %1$s.</string>
+  <string name="mibi_license_message_span">LiveTV MiKrediti</string>
+  <string name="mibi_license_title">LiveTV MiKrediti</string>
   <string name="micloud_account">Xiaomi račun</string>
   <string name="micloud_account_details">Detalji račna</string>
   <string name="micloud_account_label">Račun: %1$s</string>
@@ -168,17 +224,17 @@ Ako izgubite ili oštetite telefon, vaši podaci će i dalje biti na sigurnom.
 Kada je vaš MiCloud račun pun, vaši stari podaci neće biti uklonjeni. Međutim, svaki novi sadržaj koji dodate (npr. fotografije, video zapisi, bilješke ili aplikacije) neće biti pohranjen.
 
 Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor za pohranu."</string>
-  <string name="micloud_full_influence_title">Kada je vaš MiCloud pun</string>
-  <string name="micloud_gallery_image">MiCloud slike</string>
-  <string name="micloud_gallery_video">MiCloud video zapisi</string>
+  <string name="micloud_full_influence_title">Kada vam ponestane prostora</string>
+  <string name="micloud_gallery_image">Slike</string>
+  <string name="micloud_gallery_video">Video zapisi</string>
   <string name="micloud_input_password_prompt">Unesite zaporku</string>
   <string name="micloud_intro_01_part_01">Uštedite svoje mobilne podatke</string>
-  <string name="micloud_intro_01_part_02">Besplatne poruke putem MiCloud-a</string>
+  <string name="micloud_intro_01_part_02">MIUI vam omogućuje slanje poruka u Cloud-u preko interneta</string>
   <string name="micloud_intro_02_part_01">Prestanite koristiti pogone i račune e-pošte da premjestite datoteke okolo</string>
   <string name="micloud_intro_02_part_02">Sinkronizacija kontakata, poruka, fotografija i još mnogo toga između uređaja.</string>
   <string name="micloud_intro_03_part_01">Osigurajte sadržaj svog telefona s bilo kojeg mjesta</string>
   <string name="micloud_intro_03_part_02">Lociranje na daljinu, zaključavanje ili brisanje sadržaja telefona na i.xiaomi.com</string>
-  <string name="micloud_is_what">Što je MiCloud?</string>
+  <string name="micloud_is_what">Što je Xiaomi Cloud?</string>
   <string name="micloud_more">Saznaj više</string>
   <string name="micloud_none">Ništa</string>
   <string name="micloud_password_confirm_hint">Potvrdite zaporku</string>
@@ -188,11 +244,12 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="micloud_reg_new">Napravi novi</string>
   <string name="micloud_resend_active_email">Ponovno pošalji aktivacijsku e-poštu</string>
   <string name="micloud_space_full_influence">Što će se dogoditi ako ponestane prostora?</string>
-  <string name="micloud_storage_space">MiCloud prostor za pohranu</string>
+  <string name="micloud_storage_space">Xiaomi prostor za pohranu</string>
   <string name="micloud_summary">Prijavite se na Xiaomi račun za sinkronizaciju kontakata, galeriju albuma i druge funkcije.</string>
   <string name="micloud_title_dspt" formatted="false">"Ukupan prostor %s
  iskorišteno %s | preostalo %s"</string>
   <string name="micloud_title_full_dspt">Postignuto je ograničenje pohrane!</string>
+  <string name="micloud_upgrade_space">Povećajte raspoloživi kapacitet</string>
   <string name="micloud_use_existing">Postojeći</string>
   <string name="micloud_user_base_info">Korisničke informacije</string>
   <string name="micloud_user_email">E-pošta</string>
@@ -242,9 +299,9 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="sim_changed_notification_content">SIM kartica nije aktivirana</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Preskoči prijavu</string>
-  <string name="skip_login_u">&lt;u&gt;Preskoči prijavu&lt;/u&gt;</string>
+  <string name="skip_login_u">Preskoči prijavu</string>
   <string name="skip_setup_account_msg">Koristeći svoj ​​Xiaomi račun, možete sinkronizirati i pohraniti vaše SMS poruke, kontakte, fotografije, bilješke, itd. Nastaviti i postaviti kasnije?</string>
-  <string name="skip_setup_account_title">Preskoči postavaljanje</string>
+  <string name="skip_setup_account_title">Preskoči prijavu u račun</string>
   <string name="start_micloud">Početak</string>
   <string name="sub_alert_notif_dspt" formatted="false">"Imate %s lokalnih kontakata telefona, %s SMS poruka, %s fotografija, %s bilježaka i ostalih podataka koji nisu sinkronizirani. 
 
@@ -252,7 +309,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="sub_alert_notif_title">Usluga sinkronizacije ključa nije omogućena</string>
   <string name="sync_dspt">Omogući sinkronizaciju</string>
   <string name="sync_data_merge_warning_desc">Podaci %s telefona koji kad se spoje s cloud podacima su nepovratni, budite oprezni!</string>
-  <string name="sync_data_recover_warning_title">Upozorenje obnnove podataka</string>
+  <string name="sync_data_recover_warning_title">Upozorenje obnove podataka</string>
   <string name="sync_data_recover_warning_desc">Podaci %s telefonu će se obnoviti iz cloud-a, budite oprezni!</string>
   <string name="sync_data_merge_warning_ok">Spoji</string>
   <string name="sync_data_merge_warning_cancel">Odustani</string>
@@ -281,11 +338,11 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="updated_nothing">Nema stavaka za sinkronizaciju</string>
   <string name="user_agreement_p1">"Prijavom, slažete se s Xiaomi
   "</string>
-  <string name="user_agreement_p2">Uvjeti pružanja usluge</string>
+  <string name="user_agreement_p2">Uvjetima pružanja usluge</string>
   <string name="user_agreement_p3">" i "</string>
-  <string name="user_agreement_p4">Izjava o privatnosti</string>
-  <string name="user_agreement_p5">"Prijavom, slažete se
- s "</string>
+  <string name="user_agreement_p4">Izjavom o privatnosti</string>
+  <string name="user_agreement_p5">"Prijavom, slažete se s
+ "</string>
   <string name="vcode">Verifikacija koda</string>
   <string name="vcode_notification_title">Vaša prijava verifikacije nije potpuna</string>
   <string name="vcode_prompt_long">Unesite verifikacijski kôd koji je generirao Xiaomi sigurnosni token</string>
@@ -294,7 +351,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="wipe_data_dialog_title">"Neke stavke nisu bile sinkronizirane."</string>
   <string name="wrong_captcha">Netočan captcha kôd</string>
   <string name="wrong_vcode">Netočan vkôd</string>
-  <string name="xiaomi_cloud_service">MiCloud</string>
+  <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="find_device_notice_p4">Kada god se mijenja SIM kartica, registracijski SMS može biti poslan za praćenje telefona</string>
+ 
 </resources>
