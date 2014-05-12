@@ -66,7 +66,7 @@
   <string name="checking_input">Provjera unosa...</string>
   <string name="cloud_messaging">MiCloud slanje poruka</string>
   <string name="cmcc_data_sync_notice">Koristite svoj Xiaomi račun za sinkronizaciju poruka, kontakata i drugih podataka. U međuvremenu, uživajte u Xiaomi cloud uslugama.</string>
-  <string name="cmcc_micloud_dspt">Cloud usluge uključuju Mobile Sync, lokaciju uređaja i druge značajke. Također možete upravljati svojim podacima na internetu u bilo koje vrijeme!</string>
+  <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronalazak svog telefona, i dijeljenje stvari s prijateljima.</string>
   <string name="completed">Završeno</string>
   <string name="confirm">Potvrdi</string>
   <string name="current_account">Trenutan račun</string>
@@ -106,15 +106,20 @@
   <string name="find_device_notice_p3">da ga pronađete, zaključate, ili obrišete sve podatke</string>
   <string name="find_device_success_title">Lociranje uređaja omogućeno</string>
   <string name="find_password_on_web_msg">Molimo vas posjetite račun.xiaomi.com za vraćanje svoje zaporke</string>
-  <string name="forget_password">Zaboravljena zaporka? </string>
+  <string name="forget_password"><u>Zaboravljena zaporka?</u></string>
+  <string name="foreign_login"><u>Država/Predbroj</u></string>
+  <string name="seperator_forget_and_foreign">|</string>
+  <string name="phone_num_hint_text">Broj telefona</string>
   <string name="get_back_pwd">Oporavak zaporke računa</string>
   <string name="header_data_and_synchronization">Podaci &amp; Sinkronizacija</string>
   <string name="i_know">U redu</string>
+  <string name="micloud_area_code_title">Država/Predbroj</string>
+  <string name="micloud_area_code_hot">Vruće</string>
   <string name="input_captcha_hint">Unesite znakove</string>
   <string name="input_password_hint">Unesite zaporku</string>
   <string name="input_vcode_hint">Unesite verifijacijski kôd</string>
   <string name="input_vcode_prompt">Molimo unesite verifijacijski kôd</string>
-  <string name="int_phone_user_notice">Prilikom registracije korištenja brojA izvan Kine unesite kod zemlje, npr. +385xxxxxxxxx</string>
+  <string name="int_phone_user_notice">Prilikom registracije korištenja broja izvan Kine unesite kod zemlje, npr. +385xxxxxxxxx</string>
   <string name="internet_comm">Poslužitelj poruka</string>
   <string name="internet_message">MiCloud poruke</string>
   <string name="login">Prijavite se</string>
@@ -148,7 +153,7 @@
   <string name="micloud_click_email_to_valid">Kliknite na link za aktivaciju u poruci poslan na vaš poštanski sandučić</string>
   <string name="micloud_data_loading">Učitavanje...</string>
   <string name="micloud_delete_account">Izbrisati račun</string>
-  <string name="micloud_dspt">Cloud usluge uključuju MiCloud slanje poruka, Mobile Sync, lociranje uređaja i druge značajke. Također možete upravljati svojim podacima na internetu u bilo koje vrijeme!</string>
+  <string name="micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronalazak svog telefona, i dijeljenje stvari s prijateljima.</string>
   <string name="micloud_email">Adresa E-pošte</string>
   <string name="micloud_error_email">Nevažeća E-pošta</string>
   <string name="micloud_error_empty_captcha_code">Unesite captcha kod.</string>
@@ -167,12 +172,12 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="micloud_gallery_image">MiCloud slike</string>
   <string name="micloud_gallery_video">MiCloud video zapisi</string>
   <string name="micloud_input_password_prompt">Unesite zaporku</string>
-  <string name="micloud_intro_01_part_01">Uštedite cijenu SMS-a</string>
-  <string name="micloud_intro_01_part_02">MIUI vam omogućuje slanje cloud poruka besplatno putem mreže</string>
-  <string name="micloud_intro_02_part_01">Ne morate ništa raditi</string>
-  <string name="micloud_intro_02_part_02">Cloud usluge vam pomažu sinkronizirati kontakte, poruke, fotografije i ostale podatke na različitim mobilnim uređajima.</string>
-  <string name="micloud_intro_03_part_01">Nikada nećete ponovo izgubiti svoje podatke i osigurati se da vaš sadržaj bude siguran</string>
-  <string name="micloud_intro_03_part_02">Upravljanje podacima i lociranje, zaključavanje ili brisanje sadržaja uređaja na i.xiaomi.com</string>
+  <string name="micloud_intro_01_part_01">Uštedite svoje mobilne podatke</string>
+  <string name="micloud_intro_01_part_02">Besplatne poruke putem MiCloud-a</string>
+  <string name="micloud_intro_02_part_01">Prestanite koristiti pogone i račune e-pošte da premjestite datoteke okolo</string>
+  <string name="micloud_intro_02_part_02">Sinkronizacija kontakata, poruka, fotografija i još mnogo toga između uređaja.</string>
+  <string name="micloud_intro_03_part_01">Osigurajte sadržaj svog telefona s bilo kojeg mjesta</string>
+  <string name="micloud_intro_03_part_02">Lociranje na daljinu, zaključavanje ili brisanje sadržaja telefona na i.xiaomi.com</string>
   <string name="micloud_is_what">Što je MiCloud?</string>
   <string name="micloud_more">Saznaj više</string>
   <string name="micloud_none">Ništa</string>
@@ -240,12 +245,27 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="skip_login_u">&lt;u&gt;Preskoči prijavu&lt;/u&gt;</string>
   <string name="skip_setup_account_msg">Koristeći svoj ​​Xiaomi račun, možete sinkronizirati i pohraniti vaše SMS poruke, kontakte, fotografije, bilješke, itd. Nastaviti i postaviti kasnije?</string>
   <string name="skip_setup_account_title">Preskoči postavaljanje</string>
-  <string name="start_micloud">Start</string>
+  <string name="start_micloud">Početak</string>
   <string name="sub_alert_notif_dspt" formatted="false">"Imate %s lokalnih kontakata telefona, %s SMS poruka, %s fotografija, %s bilježaka i ostalih podataka koji nisu sinkronizirani. 
 
  Ako je vaš telefon izgubljen ili izbrisan, ti podaci biti će nepovratno izgubljeni. Preporučljivo je da započnete sinkronizaciju kako bi se osigurala sigurnost podataka"</string>
   <string name="sub_alert_notif_title">Usluga sinkronizacije ključa nije omogućena</string>
   <string name="sync_dspt">Omogući sinkronizaciju</string>
+  <string name="sync_data_merge_warning_desc">Podaci %s telefona koji kad se spoje s cloud podacima su nepovratni, budite oprezni!</string>
+  <string name="sync_data_recover_warning_title">Upozorenje obnnove podataka</string>
+  <string name="sync_data_recover_warning_desc">Podaci %s telefonu će se obnoviti iz cloud-a, budite oprezni!</string>
+  <string name="sync_data_merge_warning_ok">Spoji</string>
+  <string name="sync_data_merge_warning_cancel">Odustani</string>
+  <string name="sync_data_recover_warning_ok">Obnovi</string>
+  <string name="sync_data_recover_warning_cancel">Odustani</string>
+  <string name="sync_data_contact">kontakt</string>
+  <string name="sync_data_mms">SMS</string>
+  <string name="sync_data_cloud_album">cloud album</string>
+  <string name="sync_data_call_log">zapisi poziva</string>
+  <string name="sync_data_notes">bilješke</string>
+  <string name="sync_data_msg_seperate">, </string>
+  <string name="sync_data_loading">Preuzimanje podataka od poslužitelja</string>
+  <string name="sync_data_merge_warning_title">Upozorenje spajanja podataka</string>
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
   <string name="sync_sub_dspt">SMS će biti poslan za aktivaciju usluge</string>
@@ -267,7 +287,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="user_agreement_p5">"Prijavom, slažete se
  s "</string>
   <string name="vcode">Verifikacija koda</string>
-  <string name="vcode_notification_title">Vaš verifikacija prijave je nepotpuna</string>
+  <string name="vcode_notification_title">Vaša prijava verifikacije nije potpuna</string>
   <string name="vcode_prompt_long">Unesite verifikacijski kôd koji je generirao Xiaomi sigurnosni token</string>
   <string name="wipe_data_dialog_msg">%s nije bilo sinkronizirano (ti podaci će biti izgubljeni ako nastavite).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
@@ -276,5 +296,5 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="wrong_vcode">Netočan vkôd</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="find_device_notice_p4">Kada god se mijenja SIM kartica, registracijski SMS može biti poslana za praćenje telefona</string>
+  <string name="find_device_notice_p4">Kada god se mijenja SIM kartica, registracijski SMS može biti poslan za praćenje telefona</string>
 </resources>

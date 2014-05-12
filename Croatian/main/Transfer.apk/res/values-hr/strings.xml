@@ -11,7 +11,7 @@
   <string name="app_name">Prijenos</string>
   <string name="back">Natrag</string>
   <string name="button_last">Započeti sada</string>
-  <string name="button_next">Sljedeće</string>
+  <string name="button_next">Dalje</string>
   <string name="button_pre">Natrag</string>
   <string name="can_not_find_explorer">FileExplorer nije pronađen, dali je aplikacija instalirana?</string>
   <string name="can_not_send_this_file">Neuspjelo slanje datoteke!</string>
@@ -183,7 +183,7 @@ na [ %1$s ]"</string>
   <string name="share_text">MIUI v5 podržava prijenos datoteka bez korištenja mobilnih podataka. Ne-MIUI v5 korisnici preuzmite: %1$s</string>
   <string name="shortmessage">Kratka poruka</string>
   <string name="start">Započni</string>
-  <string name="summary_step_one">Pošsalji slike, glzbu, kontakte i druge različite sadržaje</string>
+  <string name="summary_step_one">Pošalji slike, glzbu, kontakte i druge različite sadržaje</string>
   <string name="summary_step_two">Pozovite prijatelje da instaliraju MiShare</string>
   <string name="support_tip">MiShare će dati upute</string>
   <string name="title_createfolder">Nova mapa</string>
