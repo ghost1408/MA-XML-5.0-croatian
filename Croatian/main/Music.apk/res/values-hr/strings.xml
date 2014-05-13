@@ -43,9 +43,10 @@
   <string name="choose_download_quality">Odaberite kvalitetu preuzimanja</string>
   <string name="choose_stream_quality">Odaberite kvalitetu stream-a</string>
   <string name="click_to_play_all">Reproduciraj sve</string>
-  <string name="click_to_shuffle">Wszystkie losowo</string>
-  <string name="collect_bill_success">Bill added to favorites</string>
-  <string name="collect_topic_success">Album dodany do ulubionych</string>
+  <string name="click_to_shuffle">Nasumično sve</string>
+  <string name="collect_bill_success">Bill dodan u favorite</string>
+  <string name="collect_fm_success">Dodano  u favorite</string>
+  <string name="collect_topic_success">Album dodan u favorite</string>
   <string name="complete">Završeno</string>
   <string name="confirm">Potvrdi</string>
   <string name="correct_id3_by_internet">Automatski ispravi ID3 koristeći mobilni Internet</string>
@@ -71,10 +72,13 @@
   <string name="deselect_all">Odbij sve</string>
   <string name="dirac_mode_earbuds">Xiaomi slušalice</string>
   <string name="dirac_mode_general">Opći način</string>
+  <string name="dirac_mode_general_earbuds">Opće slušalice</string>
   <string name="dirac_mode_in_ear">Xiaomi in-ear slušalice</string>
   <string name="dirac_mode_off">Dirac isključen</string>
   <string name="dirac_mode_piston_100">Xiaomi Piston slušalice</string>
-  <string name="disconnect">Odspojiti</string>
+  <string name="dirac_mode_piston_2">Xiaomi Piston v2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi Piston Youth</string>
+  <string name="disconnect">Isključeno</string>
   <string name="download">Preuzmi</string>
   <string name="download_album_settings">Automatski preuzmi omot albuma</string>
   <string name="download_album_summary">Može koštati više kada se koristi mobilna mreža, stoga razmislite o korištenju WLAN-a</string>
@@ -318,6 +322,8 @@
   <string name="start_to_download_album">Preuzimanje omota albuma za svoje pjesme</string>
   <string name="start_to_download_avatar">Preuzimanje slika izvođača za vašu glazbenu biblioteku</string>
   <string name="streamloadingtext">Povezivanje na %s</string>
+  <string name="sync_alert_title">Sinkronizacija glazbe</string>
+  <string name="sync_alert_message">Sinkronizirajte vaše omiljene pjesme na svim uređajima s Mi računom.</string>
   <string name="synchronize_guide_toast">Da biste omogućili sinkronizaciju, idite na Postavke &gt; Sinkronizacija popisa pjesama</string>
   <string name="synchronize_playlist_setting">Sinkronizacija popisa pjesama</string>
   <string name="sync_disable_toast">Uvijek možete omogućite sinkronizaciju kasnije u Postavke > Računi > Xiaomi</string>
@@ -346,15 +352,10 @@
   <string name="vip_recommend_main_title">Neograničena CD kvaliteta (320 kbps)</string>
   <string name="vip_recommend_rebuy">Obnova VIP pristupa za 30 dana iznosi 5 MiCredita</string>
   <string name="vip_recommend_sub_title">Samo 5 RMB mjesečno</string>
-  <string name="vip_recommend_summary">Stream ili preuzimanje svih vaših omiljenih umjetnikeizvođača iz Baidu Music na 320 kbps.
+  <string name="vip_recommend_summary">Stream ili preuzimanje svih vaših omiljenih izvođača iz Baidu Music na 320 kbps.
   Za uplate možete koristiti MiKredite</string>
   <string name="vip_recommend_title">Visoko kvalitetna glazba</string>
   <string name="where_is_barcode">"Gdje je QR kod?"</string>
   <string name="xiaomi_account_setting">Xiaomi račun</string>
-  <string name="dirac_mode_general_earbuds">Opće slušalice</string>
   <string name="dirac_mode_general_inear">Opće slušalice za umetanje u uho</string>
-  <string name="dirac_mode_piston_2">Xiaomi klipne slušalice-2</string>
-  <string name="dirac_mode_piston_youth">Xiaomi klipne slušalice-youth</string>
-  <string name="sync_alert_title">Sinkronizacija glazbe</string>
-  <string name="sync_alert_message">Sinkronizirajte vaše omiljene pjesme na svim uređajima s Mi računom.</string>
 </resources>
