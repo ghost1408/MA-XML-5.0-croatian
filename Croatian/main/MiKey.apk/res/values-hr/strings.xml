@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about">O</string>
   <string name="action_capture_video">Snimi videozapis</string>
   <string name="action_clear_call_list">Izbriši povijest poziva</string>
   <string name="action_clear_memory">Isprazni RAM</string>
   <string name="action_clear_sms_inbox">Izbriši dolazne SMS poruke</string>
   <string name="action_close">Zatvori</string>
+  <string name="action_home">HOME</string>
   <string name="action_lock_screen">Zaklj. zaslon</string>
   <string name="action_open_camera">Fotoaparat</string>
+  <string name="action_open_camera2">Fotoaparat</string>
   <string name="action_open_flashlight">Svjetiljka</string>
   <string name="action_open_or_close_motion">Uključi/Isključi pokret</string>
   <string name="action_open_other_app">Druga aplikacija</string>
@@ -15,11 +18,15 @@
   <string name="action_phone">Telefon</string>
   <string name="action_screen_shot">Snimak zaslona</string>
   <string name="action_send_text_message">Pošalji SMS</string>
+  <string name="action_share_to_miliao">MiTalk</string>
+  <string name="action_share_to_miliao_wall">MiTalk Wall</string>
   <string name="action_share_to_moment">Dijeli trenutke putem WeChat</string>
   <string name="action_share_to_wechat">Dijeli putem  WeChat</string>
   <string name="action_share_to_weibo">Dijeli putem Weibo</string>
+  <string name="action_zero_volume">Utišaj</string>
   <string name="add">Dodaj</string>
   <string name="app_name">MiKey</string>
+  <string name="back_camera">Zadnja kamera</string>
   <string name="call_to">Poziv</string>
   <string name="cancel">Odustani</string>
   <string name="category_app">Aplikacije</string>
@@ -27,6 +34,7 @@
   <string name="clean_memory">Očisti memoriju</string>
   <string name="click_to_open">Otvori</string>
   <string name="close_all">Zatvori sve</string>
+  <string name="close_recorder">Zatvori snimač</string>
   <string name="cn_0">0</string>
   <string name="cn_1">1</string>
   <string name="cn_10">10</string>
@@ -43,19 +51,49 @@
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
   <string name="confirm">U redu</string>
+  <string name="default_action_title">Zadana radnja</string>
   <string name="delete">Izbriši</string>
   <string name="delete_confirm">Izbrisati?</string>
   <string name="delete_gesture">Izbrisati postavke?</string>
   <string name="device_not_recognized">Uređaj nije prepoznat. Pokušajte ponovo</string>
   <string name="earphone">Slušalice</string>
+  <string name="file_delimiter">／</string>
+  <string name="front_camera">Prednja kamera</string>
   <string name="input_phone">Unesi uređaj</string>
   <string name="long_click">Pritisni i drži</string>
+  <string name="message_photo_end">Slika spremljena</string>
   <string name="no_usage">...</string>
+  <string name="notification_control_play">Reproduciraj</string>
+  <string name="notification_control_stop">Zaustavi</string>
+  <string name="notification_recorder_file_location">Lokacija datoteke:</string>
+  <string name="notification_recorder_start">Pokreni snimač...</string>
   <string name="rank_prefix">"Rejting: "</string>
   <string name="rank_suffix">poena</string>
   <string name="recommend">Preporuka</string>
   <string name="running_notification">Xiaomi MiKey</string>
+  <string name="sdcard">sdkartica</string>
+  <string name="select_camera">Odabrati kameru?</string>
   <string name="select_device">Odabrati uređaj?</string>
+  <string name="setting_feedback">Feedback</string>
+  <string name="setting_instant_photo_desc">"Fokusiraj prije snimanja fotografije"</string>
+  <string name="setting_instant_photo_text">Fokusiraj prije</string>
+  <string name="setting_keeplive_desc">"Dopustiti aplikaciji rad u pozadini.
+To može uzrokovati veću potrošnju baterije"</string>
+  <string name="setting_keeplive_text">Rad u pozadini</string>
+  <string name="setting_silent_mode">Bez zvuka</string>
+  <string name="setting_speed_desc">Brzina pritiska gumba</string>
+  <string name="setting_speed_max_time">1000</string>
+  <string name="setting_speed_middle_time">500ms</string>
+  <string name="setting_speed_min_time">0</string>
+  <string name="setting_speed_quick">Brzo</string>
+  <string name="setting_speed_slow">Sporo</string>
+  <string name="setting_speed_text">Brzina</string>
+  <string name="setting_vibrate_desc">"Sposobnost da se osjećaju provedbe funkcija neponavljajući povratne informacije vibracija 
+Funkcija povratne informacije ne može biti isporučena, kao što su "flash shot", "Bez zvuka" kroz vibraciju
+Provedba povratne informacije. 
+Korisnici mogu koristiti taj argumenat da se u potpunosti isključi anti-vibracija"</string>
+  <string name="setting_vibrate_text">Vibracija</string>
+  <string name="settings">Postavke</string>
   <string name="short_click_1">1x</string>
   <string name="short_click_10">10x</string>
   <string name="short_click_2">2x</string>
@@ -66,10 +104,14 @@
   <string name="short_click_7">7x</string>
   <string name="short_click_8">8x</string>
   <string name="short_click_9">9x</string>
+  <string name="showSlip">Prikaži padajuće</string>
+  <string name="silent_mode_tip_main">Gumb isključivanja zvuka je onemogućen</string>
+  <string name="silent_mode_tip_sub">Uključite ga u postavkama</string>
   <string name="sms_sent_done">SMS poslan</string>
   <string name="sms_template">SMS predložak</string>
   <string name="sms_to">Pošalji SMS na:</string>
   <string name="splash_tip">Poveži MiKey</string>
-  <string name="task_title_prefix">"Zadatak: "</string>
+  <string name="task_title_prefix">"Zadatak N: "</string>
   <string name="times">puta</string>
+  <string name="write_pic_fail">Neuspjelo spremanje slike</string>
 </resources>

@@ -42,7 +42,11 @@
   <string name="channel_postfix">MHZ</string>
   <string name="choose_download_quality">Odaberite kvalitetu preuzimanja</string>
   <string name="choose_stream_quality">Odaberite kvalitetu stream-a</string>
+  <string name="click_to_play_all">Reproduciraj sve</string>
+  <string name="click_to_shuffle">Wszystkie losowo</string>
+  <string name="collect_bill_success">Bill added to favorites</string>
   <string name="click_to_shuffle">Dodirni za nasumičnu reprodukciju svega</string>
+  <string name="collect_topic_success">Album dodany do ulubionych</string>
   <string name="complete">Završeno</string>
   <string name="confirm">Potvrdi</string>
   <string name="correct_id3_by_internet">Automatski ispravi ID3 koristeći mobilni Internet</string>
@@ -66,7 +70,7 @@
   <string name="delete_playlist_menu">Izbriši</string>
   <string name="delete_song_desc">Pjesma \"%s\" bit će trajno izbrisana sa SD kartice.</string>
   <string name="deselect_all">Odbij sve</string>
-  <string name="dirac_mode_earbuds">Xiaomi headphones</string>
+  <string name="dirac_mode_earbuds">Xiaomi slušalice</string>
   <string name="dirac_mode_general">Opći način</string>
   <string name="dirac_mode_in_ear">Xiaomi in-ear slušalice</string>
   <string name="dirac_mode_off">Dirac isključen</string>
@@ -152,7 +156,8 @@
   <string name="impunity_declaration_title">Deklaracija</string>
   <string name="keep_quit_position_settings">Spremi zadnju poziciju</string>
   <string name="keep_quit_position_summary">Pohranjuje praćenje zadnje pozicije nakon ponovnog pokretanja aplikacije</string>
-  <string name="ktv_alert_message">"Dodirnite Koristi telefon za dodavanje pjesama na glavnoj stranici KTV konzole za pregled odgovarajućeg QR koda"</string>
+  <string name="ktv_alert_message">"Dodirnite Koristi telefon za dodavanje pjesama na glavnoj stranici KTV konzole za pregled odgovarajućeg QR koda
+  Usluga dostupna samo u Kini"</string>
   <string name="ktv_alert_title">Samo podržani uređaji mogu dodati pjesme</string>
   <string name="ktv_and_room">%1$s %2$s</string>
   <string name="ktv_connected_alert_message">Pjesma koju ste odabrali biti će dodana na popis pjesama naziva My KTV</string>
@@ -177,6 +182,7 @@
   <string name="load_channel_in_process">Učitaj popis kanala</string>
   <string name="loading">Učitavanje</string>
   <string name="login">Prijava</string>
+  <string name="login_and_enable">Prijavite se i sinkronizirajte</string>
   <string name="login_first">Prvo se trebate prijaviti u svoj Xiaomi račun</string>
   <string name="lrc_progress_modify">Prilagodite brzinu pomicanja stihova</string>
   <string name="lrc_progress_modify_helper">Prilagodite brzinu pomicanja stihova povlačenjem prema gore ili prema dolje</string>
@@ -216,9 +222,11 @@
   <string name="new_playlist">Novo</string>
   <string name="new_playlist_name_template">Novi popis pjesama %d</string>
   <string name="no_effect">Nema efekta</string>
+  <string name="no_music_to_play">Nema glazbenih datoteka</string>
   <string name="no_song_downloaded">Pjesma ne može biti preuzeta</string>
   <string name="normal_quality">Normalna kvaliteta</string>
   <string name="not_login">Prijava</string>
+  <string name="not_now">Nie teraz</string>
   <string name="not_selected">Odaberi pjesmu</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
   <string name="online_search_hint">Pretraživanje online glazbe</string>
@@ -273,7 +281,8 @@
   <string name="ringtone_not_support">Format zvuka zvona nije podržan.</string>
   <string name="ringtone_set">\"%s\" postavi kao zvuk zvona telefona.</string>
   <string name="save">Spremi</string>
-  <string name="scan_barcode_to_connect">"Poravnajte QR kodove KTV konzole u okvir za skeniranje"</string>
+  <string name="scan_barcode_to_connect">"Poravnajte QR kodove KTV konzole u okvir za skeniranje
+  Usluga dostupna samo u Kini"</string>
   <string name="scanning">Skeniranje SD kartice...</string>
   <string name="scanning_nosdcard">Skeniranje USB memorije...</string>
   <string name="screen_bright_wake">Zaslon ostaje upaljen</string>
@@ -306,12 +315,15 @@
   <string name="sort_by_album">Albumi</string>
   <string name="sort_by_artist">Izvođači</string>
   <string name="sort_by_track">Pjesme</string>
+  <string name="source_from">Izvor : %1$s</string>
   <string name="start_to_download_album">Preuzimanje omota albuma za svoje pjesme</string>
   <string name="start_to_download_avatar">Preuzimanje slika izvođača za vašu glazbenu biblioteku</string>
   <string name="streamloadingtext">Povezivanje na %s</string>
   <string name="synchronize_guide_toast">Da biste omogućili sinkronizaciju, idite na Postavke &gt; Sinkronizacija popisa pjesama</string>
   <string name="synchronize_playlist_setting">Sinkronizacija popisa pjesama</string>
-  <string name="synchronize_playlist_summary">Sinkronizacija popisa pjesama na MiCloud.</string>
+  <string name="sync_disable_toast">Uvijek možete omogućite sinkronizaciju kasnije u Postavke > Računi > Xiaomi</string>
+  <string name="sync_enable_toast">Možete promijeniti ove postavke u Postavke > Računi > Xiaomi</string>
+  <string name="synchronize_playlist_summary">Sinkronizacija popisa pjesama na Xiaomi.</string>
   <string name="synchronize_to_baidu_cloud">Napravi Sigurnosno pohranu online pjesama vašeg popisa pjesama koristeći Baidu Cloud</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">Visoko</string>
@@ -321,6 +333,7 @@
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">Sve pjesme</string>
   <string name="ultra_high_quality">Najviša kvaliteta</string>
+  <string name="uncollect_success">Usunięto z ulubionych</string>
   <string name="unknown_album_name">Nepoznat album</string>
   <string name="unknown_artist_name">Nepoznat izvođač</string>
   <string name="use_local_album">Koristite spremljen omota albuma</string>
@@ -334,7 +347,8 @@
   <string name="vip_recommend_main_title">Neograničena CD kvaliteta (320 kbps)</string>
   <string name="vip_recommend_rebuy">Obnova VIP pristupa za 30 dana iznosi 5 MiCredita</string>
   <string name="vip_recommend_sub_title">Samo 5 RMB mjesečno</string>
-  <string name="vip_recommend_summary">Stream ili preuzimanje svih vaših omiljenih umjetnikeizvođača iz Baidu Music na 320 kbps.</string>
+  <string name="vip_recommend_summary">Stream ili preuzimanje svih vaših omiljenih umjetnikeizvođača iz Baidu Music na 320 kbps.
+  Za uplate možete koristiti MiKredite</string>
   <string name="vip_recommend_title">Visoko kvalitetna glazba</string>
   <string name="where_is_barcode">"Gdje je QR kod?"</string>
   <string name="xiaomi_account_setting">Xiaomi račun</string>
@@ -345,7 +359,4 @@
   <string name="sync_alert_title">Sinkronizacija glazbe</string>
   <string name="sync_alert_message">Sinkronizirajte vaše omiljene pjesme na svim uređajima s Mi računom.</string>
   <string name="not_now">Ne sad</string>
-  <string name="sync_disable_toast">Uvijek možete omogućite sinkronizaciju kasnije u Postavke > Računi > Mi Cloud</string>
-  <string name="login_and_enable">Prijavite se i sinkronizirajte</string>
-  <string name="sync_enable_toast">Možete promijeniti ove postavke u Postavke > Računi > Mi Cloud</string>
 </resources>
