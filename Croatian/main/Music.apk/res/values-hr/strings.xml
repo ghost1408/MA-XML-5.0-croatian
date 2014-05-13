@@ -278,7 +278,7 @@
   <string name="retry">Pokušaj ponovo</string>
   <string name="ringtone_menu">Koristi kao zvuk zvona</string>
   <string name="ringtone_not_support">Format zvuka zvona nije podržan.</string>
-  <string name="ringtone_set">\"%s\" postavi kao zvuk zvona telefona.</string>
+  <string name="ringtone_set">\"%s\" podešeno za zvuk zvona telefona.</string>
   <string name="save">Spremi</string>
   <string name="scan_barcode_to_connect">"Poravnajte QR kodove KTV konzole u okvir za skeniranje
   Usluga dostupna samo u Kini"</string>
@@ -299,7 +299,7 @@
   <string name="select_all">Odaberi sve</string>
   <string name="select_folder">Odaberi mapu</string>
   <string name="select_quit_time">Postavi timer za zaustavljanje reprodukcije (u min)</string>
-  <string name="send_to">Pošalji na</string>
+  <string name="send_to">Pošalji...</string>
   <string name="send_to_application">Pošalji drugoj aplikaciji</string>
   <string name="server_error">Greška poslužitelja!</string>
   <string name="shake_and_skip">Protresite za preskakanje</string>

@@ -14,7 +14,6 @@
   <string name="abc_searchview_description_voice">Glasovna pretraga</string>
   <string name="abc_shareactionprovider_share_with">Dijeli s</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli s %s</string>
-  <string name="account_cache_provider">Davatelj računa memorije</string>
   <string name="account_duplicate_dlg_message_fmt">"Korisničko ime već postoji za ovaj \"%s\" račun."</string>
   <string name="account_duplicate_dlg_title">Kopiraj račun</string>
   <string name="account_folder_list_summary_drafts">Skice</string>
@@ -269,7 +268,6 @@
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="colon">:</string>
   <string name="compose">Nova poruka</string>
-  <string name="compose_help_context">nova poruka</string>
   <string name="confirm">potvrdi</string>
   <string name="confirm_discard_text">Odbaciti ovu poruku?</string>
   <string name="confirm_response">Slanje odgovora…</string>
@@ -297,7 +295,6 @@
   <string name="contextmenu_send_mail">Pošalji e-poštu</string>
   <string name="contextmenu_sharelink">Dijeli vezu</string>
   <string name="contextmenu_sms_dot">SMS...</string>
-  <string name="conversation_content_provider">Razgovor s davateljem sadržaja</string>
   <string name="conversation_folder_moved">Premješteno u mapu %1$s</string>
   <string name="conversation_item_mark_unread">Nepročitano</string>
   <string name="conversation_photo_welcome_text">Dodirnite sliku pošiljatelja da biste odabrali taj razgovor.</string>
@@ -320,7 +317,7 @@
   <string name="debug_title">Otklanjanje pogrešaka</string>
   <string name="default_">ZADANO</string>
   <string name="debug_version_fmt">Verzija: %s</string>
-  <string name="default_signature">Pošalji s telefona</string>
+  <string name="default_signature">Poslano s telefona</string>
   <string name="delete_action">Obrisati</string>
   <string name="default_setup">ZADANE POSTAVKE</string>
   <string name="delete_quick_response_action">Obrisati</string>
@@ -385,7 +382,6 @@
   <string name="forward_attribution_no_headers">---------- Proslijeđena poruka ----------</string>
   <string name="forward_download_failed_ticker">"Jedan ili više privitaka nije bilo moguće proslijediti."</string>
   <string name="forward_download_failed_title">Privitak nije proslijeđen</string>
-  <string name="forward_subject_label">Pros:</string>
   <string name="from">Šalje</string>
   <string name="from_heading">"Šalje: "</string>
   <string name="general_preference_confirm_delete_label">Potvrdite prije brisanja</string>
@@ -436,14 +432,6 @@
   <string name="mailbox_name_display_sent">Poslano</string>
   <string name="mailbox_name_display_trash">Smeće</string>
   <string name="mailbox_name_display_unread">Nepročitano</string>
-  <string name="mailbox_name_server_all_unread">Nepročitano</string>
-  <string name="mailbox_name_server_drafts">Skice</string>
-  <string name="mailbox_name_server_inbox">Dolazna pošta</string>
-  <string name="mailbox_name_server_junk">Smeće</string>
-  <string name="mailbox_name_server_outbox">Odlazna pošta</string>
-  <string name="mailbox_name_server_sent">Poslano</string>
-  <string name="mailbox_name_server_starred">Favoriti</string>
-  <string name="mailbox_name_server_trash">Smeće</string>
   <string name="mailbox_settings_activity_title">Mogućnosti sinkronizacije</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Mogućnosti sinkronizacije (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Broj dana pošte za sinkronizaciju</string>
@@ -513,7 +501,6 @@ Kopija: %4$s
   <string name="message_invite_title">Kalendarska pozivnica</string>
   <string name="message_saved">Poruka je spremljena kao skica.</string>
   <string name="message_view_attachment_background_load">Jedan ili više privitaka u proslijeđenoj poruci preuzet će se prije slanja.</string>
-  <string name="mock_content_provider">Mock Davatelj sadržaja</string>
   <string name="more_atts_total">%1$d privitaka ukupno</string>
   <string name="more_info_attachment">Informacije</string>
   <string name="more_string">+%1$s</string>
@@ -643,14 +630,9 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="reply">Odgovor</string>
   <string name="reply_all">Odgovori svima</string>
   <string name="reply_attribution" formatted="false">Dana %s osoba %s napisala je:</string>
-  <string name="reply_subject_label">Odgovor:</string>
   <string name="replyto_heading">"Odgovori: "</string>
   <string name="report">Prijava</string>
   <string name="report_phishing">Prijavite krađu identiteta</string>
-  <string name="report_rendering_improvement">Izgleda dobro</string>
-  <string name="report_rendering_improvement_desc">Ova poruka izgleda dobro.</string>
-  <string name="report_rendering_problem">Izgleda loše</string>
-  <string name="report_rendering_problem_desc">Ova poruka izgleda loše.</string>
   <string name="report_spam">Prijavite neželjenu poštu</string>
   <string name="require_manual_sync_message">Pozadinska sinkronizacija za ovaj račun onemogućena je u roamingu.</string>
   <string name="respond_inline">Odgovori u tekstu</string>
@@ -760,7 +742,6 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Povucite prst od vrha do dna kako bi se dobili obavijesti. Kliknite za dovršetak postavke.</string>
   <string name="wait_for_sync_title">Čekanje na sinkronizaciju</string>
-  <string name="wait_help_context">čekaj</string>
   <string name="widget_all_mail">Sva E-pšta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
