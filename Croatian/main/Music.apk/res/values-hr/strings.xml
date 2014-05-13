@@ -45,7 +45,6 @@
   <string name="click_to_play_all">Reproduciraj sve</string>
   <string name="click_to_shuffle">Wszystkie losowo</string>
   <string name="collect_bill_success">Bill added to favorites</string>
-  <string name="click_to_shuffle">Dodirni za nasumičnu reprodukciju svega</string>
   <string name="collect_topic_success">Album dodany do ulubionych</string>
   <string name="complete">Završeno</string>
   <string name="confirm">Potvrdi</string>
@@ -358,5 +357,4 @@
   <string name="dirac_mode_piston_youth">Xiaomi klipne slušalice-youth</string>
   <string name="sync_alert_title">Sinkronizacija glazbe</string>
   <string name="sync_alert_message">Sinkronizirajte vaše omiljene pjesme na svim uređajima s Mi računom.</string>
-  <string name="not_now">Ne sad</string>
 </resources>
