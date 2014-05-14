@@ -688,7 +688,6 @@ da biste ovaj račun postavili za automatsku sinkronizaciju pošte.</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Povucite prst od vrha do dna kako bi se dobili obavijesti. Kliknite za dovršetak postavke.</string>
   <string name="wait_for_sync_title">Čekanje na sinkronizaciju</string>
-  <string name="wait_help_context">čekaj</string>
   <string name="widget_all_mail">Sva E-pšta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
