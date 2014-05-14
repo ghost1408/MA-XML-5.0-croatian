@@ -20,30 +20,26 @@
   <string name="account_folder_list_summary_inbox">Pristigla pošta</string>
   <string name="account_folder_list_summary_outbox">Odlazna pošta</string>
   <string name="account_folder_list_summary_starred">Započeto</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_password_spaces_error">"Ova zaporka počinje ili završava jednim ili više znakova razmaka. Mnogi poslužitelji ne podržavaju zaporke s razmacima."</string>
   <string name="account_security_dialog_content_fmt">Račun %s zahtijeva da ažurirate svoje sigurnosne postavke.</string>
   <string name="account_security_dialog_title">Sigurnosno ažuriranje</string>
   <string name="account_security_policy_explanation_fmt">Poslužitelj %s zahtijeva da mu omogućite daljinsko upravljanje nekim sigurnosnim značajkama vašeg Android uređaja.</string>
   <string name="account_security_title">Sigurnost uređaja</string>
-  <string name="account_security_waiting_policy_key_message">%s treba informacije postavki sigurnosti sa poslužitelja，molimo pričekajte...</string>
+  <string name="account_set_up_change_type_note">Za promjenu računa od POP3 i IMAP, morate izbrisati i ponovno postaviti vaš račun.</string>
+  <string name="account_set_up_notice">U samo par koraka, postavite račun e-pošte</string>
   <string name="account_settings_action">Postavke računa</string>
   <string name="account_settings_background_attachments_label">Preuzimanje privitaka</string>
   <string name="account_settings_background_attachments_summary">Automatsko preuzimanje privitaka uz nedavne poruke WLAN mrežom</string>
-  <string name="account_settings_category_delete_account">Brisanje računa</string>
   <string name="account_settings_data_usage">Potrošnja podataka</string>
-  <string name="account_settings_default_label">Zadani račun</string>
-  <string name="account_settings_default_summary">Pošalji e-poštu a ovog računa kao zadano</string>
-  <string name="account_settings_delete_account_label">Brisanje računa</string>
   <string name="account_settings_description_label">Naziv računa</string>
   <string name="account_settings_edit_quick_responses_label">Brzi odgovor</string>
   <string name="account_settings_edit_quick_responses_summary">Uredite tekst koji često umećete prilikom pisanja e-pošte</string>
+  <string name="account_settings_enforced_label">Pravila provedena</string>
+  <string name="account_settings_enforced_summary">Ništa</string>
   <string name="account_settings_exit_server_settings">Odbaciti nespremljene promjene?</string>
-  <string name="account_settings_incoming_label">Postavke dolazne pošte</string>
+  <string name="account_settings_incoming_label">Dolazne postavke</string>
   <string name="account_settings_incoming_summary">Korisničko ime, zaporka i ostale postavke dolaznog poslužitelja</string>
+  <string name="account_settings_list_title">Odaberite davatelja usluge:</string>
   <string name="account_settings_login_dialog_content_fmt">Korisničko ime ili zaporka za %s je netočna. Ažurirati sada?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Nije uspjela vaša prijava na račun %s; ovo je poruka poslužitelja: %s Želite li ažurirati korisničko ime i/ili zaporku?</string>
   <string name="account_settings_login_dialog_title">"Neupjela prijava"</string>
@@ -74,12 +70,8 @@
   <string name="account_setup_account_type_instructions">Koja je ovo vrsta računa?</string>
   <string name="account_setup_account_type_title">Postavljanje računa</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Potvrdite točnost korisničkog imena, zaporke i postavki računa.</string>
-  <string name="account_setup_basic_label">Unesite podatke za %s dolaznu poštu :</string>
-  <string name="account_setup_basic_name_label">Vaše ime</string>
-  <string name="account_setup_basics_default_label">Pošaljite e-poštu s ovog računa prema zadanim postavkama.</string>
+  <string name="account_setup_autodiscover_dlg_authfail_title">Problem s računom</string>
   <string name="account_setup_basics_email_label">Adresa e-pošte</string>
-  <string name="account_setup_basics_exchange_title">Dodaj račun razmjene</string>
-  <string name="account_setup_basics_exchange_title_alternate">Dodaj Exchange ActiveSync račun</string>
   <string name="account_setup_basics_headline">Račun e-pošte</string>
   <string name="account_setup_basics_manual_setup_action">Ručno postavljanje</string>
   <string name="account_setup_basics_password_label">Zaporka</string>
@@ -87,18 +79,13 @@
   <string name="account_setup_check_settings_check_incoming_msg">Provjeravanje postavki dolaznog poslužitelja…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Provjeravanje postavki odlaznog poslužitelja…</string>
   <string name="account_setup_check_settings_retr_info_msg">Učitavanje podataka o računu…</string>
+  <string name="account_setup_creating_account_msg">Stvaranje računa u tijeku...</string>
   <string name="account_setup_exchange_certificate_title">Certifikat klijenta</string>
   <string name="account_setup_exchange_device_id_label">ID mobilnog uređaja</string>
-  <string name="account_setup_exchange_headline">Postavke poslužitelja</string>
   <string name="account_setup_exchange_no_certificate">Ništa</string>
   <string name="account_setup_exchange_remove_certificate">Ukloni</string>
   <string name="account_setup_exchange_select_certificate">Odaberi</string>
-  <string name="account_setup_exchange_server_label">Poslužitelj</string>
-  <string name="account_setup_exchange_ssl_label">Upotrijebi osigurano povezivanje (SSL)</string>
-  <string name="account_setup_exchange_title">Postavljanje računa</string>
-  <string name="account_setup_exchange_trust_certificates_label">Prihvati sve SSL certifikate</string>
   <string name="account_setup_exchange_use_certificate">Upotrijebi certifikat klijenta</string>
-  <string name="account_setup_exchange_username_label">Domena\\Korisničko ime</string>
   <string name="account_setup_failed_access_denied">"Nemate dopuštenje za sinkronizaciju s ovim poslužiteljem. Za više informacija kontaktirajte administratora svog poslužitelja."</string>
   <string name="account_setup_failed_auth_required">"Poslužitelj ne podržava načine autentifikacije."</string>
   <string name="account_setup_failed_certificate_inaccessible">Potvrda je neispravna ili nedostupna.</string>
@@ -124,11 +111,9 @@
   <string name="account_setup_incoming_delete_policy_label">Izbriši e-poštu s poslužitelja</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nikad</string>
   <string name="account_setup_incoming_headline">Postavke dolaznog poslužitelja</string>
-  <string name="account_setup_incoming_imap_path_prefix_hint">Opcionalno</string>
+  <string name="account_setup_incoming_imap_path_prefix_hint">Opcija</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Prefiks IMAP putanje</string>
-  <string name="account_setup_incoming_imap_server_label">IMAP poslužitelj</string>
   <string name="account_setup_incoming_password_label">Zaporka</string>
-  <string name="account_setup_incoming_pop_server_label">POP3 poslužitelj</string>
   <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Vrsta sigurnosti</string>
   <string name="account_setup_incoming_security_none_label">Ništa</string>
@@ -137,9 +122,9 @@
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (prihvati sve certifikate)</string>
   <string name="account_setup_incoming_server_label">Poslužitelj</string>
-  <string name="account_setup_incoming_title">Postavljanje račun</string>
+  <string name="account_setup_incoming_title">Postavljanje računa</string>
   <string name="account_setup_incoming_username_label">Korisničko ime</string>
-  <string name="account_setup_names_account_name_label">Dodijelite ovom računu naziv (opcionalno)</string>
+  <string name="account_setup_names_account_name_label">Dodijelite ovom računu naziv (opcija)</string>
   <string name="account_setup_names_headline">Vaš je račun postavljen, a e-pošta stiže!</string>
   <string name="account_setup_names_title">Postavljanje računa</string>
   <string name="account_setup_names_user_name_empty_error">"Ovo polje ne može biti prazno."</string>
@@ -183,9 +168,6 @@
   <string name="account_setup_username_password_toast">Upišite važeću adresu e-pošte i zaporku.</string>
   <string name="account_setup_username_uneditable_error">"Ne možete promijeniti korisničko ime računa. Da biste dodali račun s nekim drugim korisničkim imenom, dodirnite \"Dodaj račun\".</string>
   <string name="account_sync_off">Sinkronizacija računa nije uključena.</string>
-  <string name="account_type_exchange">Exchange</string>
-  <string name="account_type_imap">Imap</string>
-  <string name="account_type_pop3">Pop3</string>
   <string name="account_waiting_for_folders_msg">Učitavanje popisa mapa…</string>
   <string name="accounts_welcome">Možete postaviti svoj korisnički račun u samo nekoliko koraka.</string>
   <string name="actionbar_large_unread_count">%1$d+ nepročitano</string>
@@ -194,8 +176,8 @@
   <string name="activity_mailbox_selection">Odaberi račun</string>
   <string name="add_account">Dodaj račun</string>
   <string name="add_attachment">Priloži datoteke</string>
-  <string name="add_bcc_label">Priloži Bcc</string>
-  <string name="add_cc_label">Priloži Cc/Bcc</string>
+  <string name="add_bcc_label">Dodaj skrivenu kopiju</string>
+  <string name="add_cc_label">Dodaj kopiju/skrivenu kopiju</string>
   <string name="add_file_attachment">Priloži daoteku</string>
   <string name="add_label">Dodaj mapu</string>
   <string name="add_photo_attachment">Priloži sliku</string>
@@ -209,7 +191,6 @@
   <string name="always_show_images_toast">Slike ovog pošiljatelja automatski će se prikazati.</string>
   <string name="annex_size">privitci</string>
   <string name="app_name">E-pošta</string>
-  <string name="application_mime_type">application/email-ls</string>
   <string name="archive">Arhiva</string>
   <string name="archived">Arhivirano</string>
   <string name="att_mgr_no_attachment">Nema privitaka!</string>
@@ -234,7 +215,6 @@
   <string name="attachments_header">Privitci</string>
   <string name="auth_error_notification_text">Dodirnite za uređivanje postavki računa za %s</string>
   <string name="auth_error_notification_title">Pogreška provjere autentičnosti</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">"Postavite automatski prelazak na sljedeće
 (nakon brisanja, itd.)"</string>
   <string name="auto_advance_label">Automatski prijeđi na sljedeće</string>
@@ -251,11 +231,11 @@
   <string name="cannot_move_multiple_accounts_toast">"Premještanje nije moguće jer odabir sadrži više računa"</string>
   <string name="cannot_move_protocol_not_supported_toast">"Premještanje nije podržano na računima POP3"</string>
   <string name="cannot_move_special_mailboxes_toast">"Poruke u mapama Nacrti, Izlazni spremnik i Poslano ne mogu se premjestiti"</string>
-  <string name="category_general_preferences">PREDNOSTI</string>
+  <string name="cant_move_or_change_labels">Premještanje nije moguće jer odabir sadrži više računa.</string>
   <string name="cc">Kopija</string>
   <string name="cc_attribution">Kopija: %1$s&lt;br&gt;</string>
   <string name="cc_heading">"Kopija: "</string>
-  <string name="change_account_confirm">Račun \"%1$s\" će biti uklonjen iz WPSMail.</string>
+  <string name="change_account_confirm">Račun \"%1$s\" će biti uklonjen iz WPSMail-a.</string>
   <string name="change_account_type">Promijenite vrstu računa</string>
   <string name="change_folders_selection_dialog_title">Promjena mapa</string>
   <string name="change_sync_settings">Promjena postavki sinkronizacije</string>
@@ -266,7 +246,6 @@
   <string name="clear_display_images_whitelist_dialog_title">Želite li izbrisati odobrenja za slike?</string>
   <string name="clear_display_images_whitelist_title">Brisanje odobrenja za slike</string>
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
-  <string name="colon">:</string>
   <string name="compose">Nova poruka</string>
   <string name="confirm">potvrdi</string>
   <string name="confirm_discard_text">Odbaciti ovu poruku?</string>
@@ -296,31 +275,19 @@
   <string name="contextmenu_sharelink">Dijeli vezu</string>
   <string name="contextmenu_sms_dot">SMS...</string>
   <string name="conversation_folder_moved">Premješteno u mapu %1$s</string>
+  <string name="conversation_item_mark_read">Pročitano</string>
   <string name="conversation_item_mark_unread">Nepročitano</string>
   <string name="conversation_photo_welcome_text">Dodirnite sliku pošiljatelja da biste odabrali taj razgovor.</string>
   <string name="copy_email">Kopiranje e-adrese</string>
   <string name="copy_number">Kopiranje telefonskog broja</string>
   <string name="create_action">Izradi novi</string>
   <string name="custom_from_account_label">Pošalji kao:</string>
-  <string name="date">2888/88/88</string>
   <string name="date_heading">"Datum: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Danas, %1$s</string>
   <string name="date_message_received_yesterday">Jučer, %1$s</string>
-  <string name="debug_clear_webview_cache">Očisti WebView memoriju</string>
-  <string name="debug_disable_graphics_acceleration_label">Onemogući grafičku akceleraciju hardvera</string>
-  <string name="debug_enable_debug_logging_label">Omogućiti dodatni zapis ispravljanja grešaka?</string>
-  <string name="debug_enable_exchange_file_logging_label">Omogućiti zapis razmjena SD kartice?</string>
-  <string name="debug_enable_exchange_logging_label">Omogućiti zapis razmjenu raščlanjivanja? (iznimno preopširno)</string>
-  <string name="debug_enable_strict_mode_label">Omogući striktan način (s zapisom)</string>
-  <string name="debug_force_one_minute_refresh_label">Forsiraj minutno osvježavanje za POP/IMAP</string>
-  <string name="debug_title">Otklanjanje pogrešaka</string>
-  <string name="default_">ZADANO</string>
-  <string name="debug_version_fmt">Verzija: %s</string>
-  <string name="default_signature">Poslano s telefona</string>
-  <string name="delete_action">Obrisati</string>
   <string name="default_setup">ZADANE POSTAVKE</string>
-  <string name="delete_quick_response_action">Obrisati</string>
+  <string name="default_signature">Poslano s MIUI telefona</string>
   <string name="delete">Obrisati</string>
   <string name="deleted">Obrisano</string>
   <string name="device_admin_description">Omogućuje sigurnosna pravila određena poslužiteljem</string>
@@ -345,10 +312,6 @@
   <string name="drawer_close">Zatvaranje pretinca za navigaciju</string>
   <string name="drawer_open">Otvaranje pretinca za navigaciju</string>
   <string name="edit_quick_response_dialog">Uredi Brzi odgovor</string>
-  <string name="elided_padding_token"> </string>
-  <string name="email_feedback_uri"/>
-  <string name="eml_view_title">Prikazujem %s</string>
-  <string name="error_loading_message_body">"Neuspjelo učitavanje teksta poruke. Poruka je prevelika za prikaz."</string>
   <string name="empty_email_tip">Ne mogu poslati praznu e-poštu</string>
   <string name="empty_spam">Pražnjenje neželjenih sadržaja</string>
   <string name="empty_spam_dialog_title">Želite li isprazniti neželjene sadržaje?</string>
@@ -374,8 +337,6 @@
   <string name="folder_picker_title">Alat za odabir mape</string>
   <string name="folder_removed">Uklonjeno iz mape %1$s</string>
   <string name="folder_shortcut_widget_label">Mapa e-pošte</string>
-  <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s%2$s</string>
   <string name="forward">Proslijedi</string>
   <string name="forward_attachment">Proslijedi</string>
   <string name="forward_attribution">---------- Proslijeđena poruka ----------&lt;br&gt;Šalje: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Predmet: %3$s&lt;br&gt;Prima: %4$s&lt;br&gt;</string>
@@ -400,18 +361,12 @@
   <string name="help_and_info">Pomoć</string>
   <string name="hide_elided">▼ Sakrij citirani tekst</string>
   <string name="hide_folders">Sakrij mape</string>
-  <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-  <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
-  <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Odgovori svima ovdje</string>
   <string name="ignore_spam_warning">Zanemari, poruka je pouzdana</string>
   <string name="imap_name">IMAP</string>
   <string name="inbox_folders_heading">Lokalne mape</string>
-  <string name="info">Info</string>
+  <string name="info">Informacije</string>
   <string name="input_password_prompt">Molimo unesite zaporku:</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">Adresa %s nije važeća.</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
@@ -423,13 +378,13 @@
   <string name="login_failed_ticker">Prijava računa %s neuspješna.</string>
   <string name="login_failed_title">"Neuspjela prijava"</string>
   <string name="long_press_to_select_tip">Dodirnite &amp; zadržite za odabir jednog razgovora, zatim dodirnite da ih odaberete više.</string>
-  <string name="long_string">duuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuugo</string>
-  <string name="mailbox_list_user_mailboxes">Sve mape</string>
+  <string name="mailbox_list_account_selector_combined_view">Kombinirani prikaz</string>
   <string name="mailbox_name_display_drafts">Skice</string>
   <string name="mailbox_name_display_inbox">Pristigla pošta</string>
   <string name="mailbox_name_display_junk">Otpad</string>
   <string name="mailbox_name_display_outbox">Izlazna pošta</string>
   <string name="mailbox_name_display_sent">Poslano</string>
+  <string name="mailbox_name_display_starred">Oznaczone gwiazdką</string>
   <string name="mailbox_name_display_trash">Smeće</string>
   <string name="mailbox_name_display_unread">Nepročitano</string>
   <string name="mailbox_settings_activity_title">Mogućnosti sinkronizacije</string>
@@ -437,8 +392,7 @@
   <string name="mailbox_settings_mailbox_sync_window_label">Broj dana pošte za sinkronizaciju</string>
   <string name="mailbox_settings_sync_enabled_label">Sinkroniziraj ovu mapu</string>
   <string name="mailbox_settings_sync_enabled_summary">Poruke će se preuzeti prilikom povezivanja</string>
-  <string name="main_help_context">ttl</string>
-  <string name="manual_sync">Sink. sada</string>
+  <string name="manual_sync">Sinkroniziraj</string>
   <string name="mark_important">Označi kao važno</string>
   <string name="mark_not_important">Označi kao nevažno</string>
   <string name="mark_not_spam">Prijavi da nije neželj. pošta</string>
@@ -489,9 +443,7 @@ Kopija: %4$s
   <string name="message_compose_insert_quick_response_menu_title">Umetanje brzog odgovora</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">Došlo je do pogreške prilikom dekodiranja poruke.</string>
-  <string name="message_details_title">Pojedinosti poruke</string>
-
-
+  <string name="message_details_title">Pojedinosti poruke</string> 
   <string name="message_discarded">Poruka je odbačena.</string>
   <string name="message_invite_accept">Da</string>
   <string name="message_invite_calendar_view">Prikaži u Kalendaru</string>
@@ -514,7 +466,7 @@ Kopija: %4$s
   <string name="new_incoming_messages_one">Novu poruku šalje %s. Prikaži.</string>
   <string name="new_messages">Novih poruka: %1$d</string>
   <string name="next_action">Dalje</string>
-  <string name="no">No</string>
+  <string name="no">Ne</string>
   <string name="no_application_found">Nijedna aplikacija ne može otvoriti i prikazati ovaj privitak.</string>
   <string name="no_conversations">Nema poruka.</string>
   <string name="no_mails">Nema e-pošte</string>
@@ -587,6 +539,7 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="policy_require_smime">Zahtijeva SMIME poruke</string>
   <string name="policy_screen_timeout">Zahtijeva stanjemirovanja uređaja za zaključavanje svog ​​zaslona</string>
   <string name="policy_text_truncation">Ograničiti veličinu teksta e-pošte</string>
+  <string name="pop3_name">POP3</string>
   <string name="prefDialogTitle_conversationListIcon">Slika pošiljatelja</string>
   <string name="prefDialogTitle_removal_action">Radnje arhiviranja &amp; brisanja</string>
   <string name="preference_removal_action_title">Radnje arhiviranja &amp; brisanja</string>
@@ -612,7 +565,6 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="quick_3">"Pročitat ću to kasnije i javiti vam se."</string>
   <string name="quick_4">"Hajdemo dogovoriti sastanak na kojem ćemo raspraviti o tome."</string>
   <string name="quick_responses_empty_view">Nema brzih odgovora.</string>
-  <string name="quote_begin">&lt;div class=\"quote\"&gt;</string>
   <string name="quoted_text">Obuhvati citirani tekst</string>
   <string name="quoted_text_label">Citirani tekst</string>
   <string name="read_string">razgovor je pročitan</string>
@@ -634,6 +586,7 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="report">Prijava</string>
   <string name="report_phishing">Prijavite krađu identiteta</string>
   <string name="report_spam">Prijavite neželjenu poštu</string>
+  <string name="request_entity_large">Požadovaný súbor je príliš veľký!</string>
   <string name="require_manual_sync_message">Pozadinska sinkronizacija za ovaj račun onemogućena je u roamingu.</string>
   <string name="respond_inline">Odgovori u tekstu</string>
   <string name="resume_draft">Uredi</string>
@@ -647,9 +600,8 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="search_hint">Pretraži e-poštu</string>
   <string name="search_result">Rezultat pretrage :</string>
   <string name="search_results_header">Rezultati</string>
-  <string name="search_results_loaded">%1$d</string>
   <string name="search_results_searching_header">Pretraživanje…</string>
-  <string name="search_title">Unificirana E-pošta</string>
+  <string name="search_title">Neodređena E-pošta</string>
   <string name="search_unsupported">Pretraživanje nije podržano na ovom računu.</string>
   <string name="security_changed_ticker_fmt">Račun \"%s\" promijenio je sigurnosne postavke, korisnik ne mora poduzimati ništa.</string>
   <string name="security_needed_ticker_fmt">Račun \"%s\" zahtijeva ažuriranje sigurnosnih postavki.</string>
@@ -662,7 +614,6 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="send">Pošalji</string>
   <string name="send_failed">"Poruka nije poslana."</string>
   <string name="sender_whitelist_cleared">"Slike se neće prikazivati automatski."</string>
-  <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">Slanje…</string>
   <string name="sending_message">Slanje poruke…</string>
@@ -682,14 +633,12 @@ Ograničite svoju pristiglu poštu"</string>
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sort_attachment">Poredaj po</string>
-  <string name="spaceChar">" "</string>
   <string name="status_network_error">Greška mreže</string>
   <string name="storage">Pohrana</string>
   <string name="str_select_all">Odabri sve</string>
   <string name="str_select_none">Poništi odabir za sve</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Predmet</string>
-  <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="swipe_down_to_refresh">Prijeđite prstom prema dolje za osvježivanje</string>
   <string name="sync_error">"Sinkronizacija nije bila moguća."</string>
   <string name="sync_error_message">"Uređaj nema dovoljno prostora za pohranu za sinkronizaciju"</string>
@@ -712,10 +661,6 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="too_large_to_attach_multiple">Jedna ili više datoteka nije priloženo. Ograničenje je %1$s.</string>
   <string name="too_large_to_attach_single">"Nije moguće priložiti datoteku veću od %1$s."</string>
   <string name="trash_folder_selection_title">Odaberite mapu za otpad poslužitelja za %s</string>
-  <string name="trigger_compose_char">c</string>
-  <string name="trigger_refresh_char">u</string>
-  <string name="trigger_save_char">s</string>
-  <string name="trigger_y_char">y</string>
   <string name="turn_auto_sync_on_dialog_body">Promjene koje unesete na svim aplikacijama i računima, a ne samo na Gmailu, sinkronizirat će se na webu, vašim ostalim uređajima i vašem uređaju %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Uključi</string>
   <string name="turn_auto_sync_on_dialog_title">Želite li uključiti automatsku sinkronizaciju?</string>
@@ -732,7 +677,8 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="via_domain">putem %1$s</string>
   <string name="view_more_conversations">Prikaži više razgovora</string>
   <string name="wait_for_manual_sync_body">"Ovaj račun nije postavljen za automatsku sinkronizaciju.
-Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali jednom ili &lt;b&gt;Promjena postavki sinkronizacije&lt;/b&gt; da biste ovaj račun postavili za automatsku sinkronizaciju pošte.</string>
+Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali jednom ili &lt;b&gt;Promjena postavki sinkronizacije&lt;/b&gt; 
+da biste ovaj račun postavili za automatsku sinkronizaciju pošte.</string>
   <string name="wait_for_sync_body">Vaša će se e-pošta uskoro pojaviti.</string>
   <string name="wait_for_sync_body_2">Poslužitelj razmjena će vas zatražiti u roku 1-30 sekundi.</string>
   <string name="wait_for_sync_body_txt_array_1">Poslužitelj razmjena će vas zatražiti u roku</string>
@@ -742,6 +688,7 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Povucite prst od vrha do dna kako bi se dobili obavijesti. Kliknite za dovršetak postavke.</string>
   <string name="wait_for_sync_title">Čekanje na sinkronizaciju</string>
+  <string name="wait_help_context">čekaj</string>
   <string name="widget_all_mail">Sva E-pšta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>

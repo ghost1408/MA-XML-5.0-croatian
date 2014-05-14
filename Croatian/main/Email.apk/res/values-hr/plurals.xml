@@ -20,6 +20,10 @@
         <item quantity="other">%dGB</item>
         <item quantity="one">%dGB</item>
     </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d odabrano</item>
+        <item quantity="one">1 odabran</item>
+    </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d odabrano</item>
         <item quantity="one">1 odabran</item>

@@ -3,11 +3,8 @@
   <string name="activate">Aktiviraj</string>
   <string name="activate_fail_notification_title">Reaktivirajte Xiaomi Servis sinkronizacije</string>
   <string name="activating">Aktiviram...</string>
-  <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Zapamti ovaj izbor</string>
   <string name="android_lockscreen_glogin_instructions">Za otključati, prijavite se vašim računom </string>
-  <string name="anniversary_of_lifting_martial_law"/>
-  <string name="anti_aggression_day"/>
   <string name="app_no_notification">nema obavijesti</string>
   <string name="app_notificaiton_on_notificationBar">Traka obavijesti</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Traka obavijesti i statusa</string>
@@ -27,11 +24,15 @@
   <string name="clear_and_bright">Jasno i bistro</string>
   <string name="cold_dews">Hladno s rosom</string>
   <string name="contact_carrier_message">Pitajte davatelja usluga za ostala pitanja</string>
+  <string name="day_following_good_friday"/>
+  <string name="day_of_month">" %d"</string>
   <string name="days">dana</string>
   <string name="delete">Obrisati</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_hongmi">Hongmi telefon</string>
   <string name="device_xiaomi">Xiaomi telefon</string>
+  <string name="double_seventh_day"/>
+  <string name="easter">Uskrs</string>
   <string name="emergency_call_string">Hitan poziv</string>
   <string name="err_resource_leak">Na žalost, %1$s je prekinut zbog gubljenja reursa.</string>
   <string name="error_forbidden">Vaš račun ima pogrešku. Sinkronizacija onemogućena.</string>
@@ -48,9 +49,11 @@
   <string name="experimental_validate_warning">Vaše svakodnevo istraživanje pomaže da MIUI bude sve bolji!</string>
   <string name="find_device_check_sim">Provjeravam SIM karticu…</string>
   <string name="find_device_sim_change_instructions">"Vaš uređaj je zaključan. Unesite ispravnu SIM karticu ili unesite zaporku Xiaomi računa"</string>
-  <string name="find_device_sim_change_instructions_no_network">"Vaš uređaj je zaključan na mrežu , unesite ispravnu SIM karticu"</string>
+  <string name="find_device_sim_change_instructions_no_network">"Vaš uređaj je zaključan na mrežu.
+Unesite ispravnu SIM karticu da ga otključate"</string>
   <string name="find_device_turn_off_flight_mode">Isključite način rada u zrakoplovu</string>
-  <string name="find_device_turn_off_flight_mode_instructions">"Vaš uređaj je zaključan, isključite način rada u zrakoplovu"</string>
+  <string name="find_device_turn_off_flight_mode_instructions">"Vaš uređaj je zaključan.
+Isključite način rada u zrakoplovu da ga otključate"</string>
   <string name="firewall_setting">Vatrozid</string>
   <string name="first_back_long_press_message">"Dugim pritiskom tipke "Natrag"  možete ugasiti pokrenute procesa/pozadinske servise?
   
@@ -63,7 +66,7 @@ Omogućite to Postavke &gt; Sustav &gt; Gumbi &amp; tipke"</string>
   <string name="global_action_privacy_mode_dialog_message">U Čuvar načinu, pozivi, bilješke, galerija i SMS poruke će biti skrivene i Pokretač neće moći ući u način uređivanja. Možete postaviti lozinku za zaštitu Guard moda kroz Postavke kontrole upravljanja</string>
   <string name="global_action_toggle_privacy_mode">Čuvar</string>
   <string name="grain_buds"/>
-  <string name="grain_in_ear"/>
+  <string name="good_friday">MIUI Petak!</string>
   <string name="grain_rain"/>
   <string name="grant_permissions_account">Dozvoli pristup računu</string>
   <string name="grant_permissions_apps">Dozvoli pristup aplikaciji</string>
@@ -84,7 +87,6 @@ Omogućite to Postavke &gt; Sustav &gt; Gumbi &amp; tipke"</string>
   <string name="input_pin_code_to_unlock">Unesite PIN kôd da otključate uređaj</string>
   <string name="input_puk_code">Unesite PUK kôd</string>
   <string name="input_puk_code_to_unlock">Unesite PUK kôd da otključate uređaj</string>
-  <string name="insects_awaken"/>
   <string name="international_womens_day"/>
   <string name="labour_day"/>
   <string name="lantern_festival"/>
@@ -107,29 +109,29 @@ Pokušajte ponovno za %d s."</string>
   <string name="lockscreen_transport_prev_description">Prethodna pjesma</string>
   <string name="lockscreen_unlock_sim_via_puk">Unesite PUK kôd za otključavanje SIM kartice</string>
   <string name="login_website_in_case_forget_password">Posjetite http://i.xiaomi.com za resetiranje zaporke</string>
-  <string name="lunar_ba"/>
-  <string name="lunar_calendar"/>
-  <string name="lunar_chu"/>
-  <string name="lunar_chu_shi"/>
-  <string name="lunar_er"/>
-  <string name="lunar_er_shi"/>
-  <string name="lunar_jiu"/>
-  <string name="lunar_leap"/>
-  <string name="lunar_ling"/>
-  <string name="lunar_liu"/>
-  <string name="lunar_nian"/>
-  <string name="lunar_qi"/>
-  <string name="lunar_san"/>
-  <string name="lunar_san_shi"/>
-  <string name="lunar_shi"/>
-  <string name="lunar_shi_er"/>
-  <string name="lunar_shi_yi"/>
-  <string name="lunar_si"/>
-  <string name="lunar_wu"/>
-  <string name="lunar_year"/>
-  <string name="lunar_yi"/>
-  <string name="lunar_yue"/>
-  <string name="lunar_zheng"/>
+  <string name="lunar_ba">" "</string>
+  <string name="lunar_calendar">Mjesečev Kalendarz</string>
+  <string name="lunar_chu">" "</string>
+  <string name="lunar_chu_shi">" "</string>
+  <string name="lunar_er">" "</string>
+  <string name="lunar_er_shi">" "</string>
+  <string name="lunar_jiu">" "</string>
+  <string name="lunar_leap">" "</string>
+  <string name="lunar_ling">" "</string>
+  <string name="lunar_liu">" "</string>
+  <string name="lunar_nian">" "</string>
+  <string name="lunar_qi">" "</string>
+  <string name="lunar_san">" "</string>
+  <string name="lunar_san_shi">" "</string>
+  <string name="lunar_shi">" "</string>
+  <string name="lunar_shi_er">" "</string>
+  <string name="lunar_shi_yi">" "</string>
+  <string name="lunar_si">" "</string>
+  <string name="lunar_wu">" "</string>
+  <string name="lunar_year">": Rok Księżycowy"</string>
+  <string name="lunar_yi">" "</string>
+  <string name="lunar_yue">" "</string>
+  <string name="lunar_zheng">" "</string>
   <string name="memory_clear_nothing_result">Memorija već optimizirana</string>
   <string name="memory_clear_result">"%1$s Slobodno | %2$s dostupno"</string>
   <string name="minutes">%d minuta</string>
@@ -154,6 +156,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="month_of_september">Lis</string>
   <string name="multi_select_title"> %1$s odabrano</string>
   <string name="national_day"/>
+  <string name="national_father_day"/>
   <string name="never">Nikad</string>
   <string name="new_years_day"/>
   <string name="no_sim">Nema SIM-a, mreža nedostupna</string>
@@ -186,8 +189,10 @@ Pokušajte ponovno za %d s."</string>
   <string name="reverse_all">Obriši sve</string>
   <string name="screen_button_notification_text">"Držite tipke 'Home'+'Power' da omogućite"</string>
   <string name="screen_button_notification_title">Tipke zaslona su onemogućene</string>
-  <string name="screen_on_proximity_sensor_hint">"Prisilno zatvaranje: Drži 'Natrag'+'Volume Up' tipku"</string>
-  <string name="screen_on_proximity_sensor_summary">"Zlouporabni način omogućen. Funkcije telefona trenutno onemogućene!"</string>
+  <string name="screen_on_proximity_sensor_hint">"Prisilno zatvaranje: 
+  Drži 'Natrag'+'Volume Up' tipku"</string>
+  <string name="screen_on_proximity_sensor_summary">"Zlouporabni način omogućen. 
+  Funkcije telefona trenutno onemogućene!"</string>
   <string name="screen_on_proximity_sensor_title">Spriječite zloupotrebu telefona</string>
   <string name="sd_not_available">SD kartica neučitana ili nedostupna</string>
   <string name="sd_not_available_low_internal_storage">SD kartica neučitana ili nedostupna, unutarnja pohrane sve manje </string>
@@ -217,6 +222,21 @@ Pokušajte ponovno za %d s."</string>
   <string name="stopping_the_heat"/>
   <string name="summer_begins"/>
   <string name="summer_solstice"/>
+  <string name="sync_data_call_log">Nagrań</string>
+  <string name="sync_data_cloud_album">Galerii</string>
+  <string name="sync_data_contact">Kontaktów</string>
+  <string name="sync_data_loading">Ładowanie informacji z serwera</string>
+  <string name="sync_data_merge_warning_cancel">Anuluj</string>
+  <string name="sync_data_merge_warning_desc">Dane %s zostaną połączone z danymi z chmury!</string>
+  <string name="sync_data_merge_warning_ok">Połącz</string>
+  <string name="sync_data_merge_warning_title">Ostrzeżenie o przywracaniu danych</string>
+  <string name="sync_data_mms">Wiadomości SMS</string>
+  <string name="sync_data_msg_seperate">, </string>
+  <string name="sync_data_notes">Notatek</string>
+  <string name="sync_data_recover_warning_cancel">Anuluj</string>
+  <string name="sync_data_recover_warning_desc">Dane %s zostaną odzyskane z chmury!</string>
+  <string name="sync_data_recover_warning_ok">Odzyskaj</string>
+  <string name="sync_data_recover_warning_title">Ostrzeżenie o przywracaniu danych</string>
   <string name="sync_one_time_sync">Dodirni za sinkronizaciju (%1$s)</string>
   <string name="teachers_day"/>
   <string name="text_copied">Tekst kopiran u međuspremnik.</string>
@@ -225,6 +245,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="the_armys_day"/>
   <string name="the_double_ninth_festival"/>
   <string name="the_dragon_boat_festival"/>
+  <string name="the_first_weekday_after_christmas"/>
   <string name="the_laba_rice_porridge_festival"/>
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
@@ -257,7 +278,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="v5_select_all">Odaberi sve</string>
   <string name="v5_time_picker_label_hour">Sati</string>
   <string name="v5_time_picker_label_minute">Min</string>
-  <string name="valentines_day"/>
+  <string name="valentines_day">Valentinovo</string>
   <string name="vernal_equinox"/>
   <string name="volume_alarm">Alarm</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
@@ -270,10 +291,12 @@ Pokušajte ponovno za %d s."</string>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="yellow_page_module_sms_sent">SMS poruka poslana.</string>
-  <string name="yellow_page_sms_disabled_in_privacy_mode">Nemoguće slanje SMS-a u privatnom načinu</string>
-  <string name="yellow_page_sms_send_failed">Neuspješno slanje SMS poruke!</string>
-  <string name="yellow_page_sms_sending">Šaljem…</string>
-  <string name="yellow_page_unable_send_sms">Nemoguće poslati SMS poruku!</string>
-  <string name="yesterday">Jučer</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">"Nemoguće slanje SMS-a u privatnom načinu."</string>
+  <string name="yellow_page_sms_send_failed">Neuspješno slanje SMS poruke.</string>
+  <string name="yellow_page_sms_sending">Šaljem……</string>
+  <string name="yellow_page_unable_send_sms">Neuspješno slanje SMS poruke.</string>
+  <string name="yesterday">Wczoraj</string>
+
 </resources>

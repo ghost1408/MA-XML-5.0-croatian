@@ -328,7 +328,6 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="sync_sub_dspt">SMS će biti poslan za aktivaciju usluge</string>
   <string name="sync_sub_int_dspt">Međunarodni SMS će biti poslan za aktivaciju usluge</string>
   <string name="title_reg">Registracija</string>
-  <string name="title_voucher">Top-up koristeći Mi Credit bon</string>
   <string name="trust_device">Vjeruj uređaju</string>
   <string name="unactivated_user">Deaktivirano</string>
   <string name="unbind">Odveži</string>

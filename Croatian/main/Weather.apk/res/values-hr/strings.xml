@@ -135,6 +135,6 @@ Danas u %1$s je vrijeme %2$s , %3$s, %4$s. %5$s."</string>
   <string name="weather_notification">Obavijest o vremenu</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
-  <string name="weather_unit_with_c">℃</string>
+  <string name="weather_unit_with_c">°C</string>
   <string name="widget_loading">Nema podataka o vremenu</string>
 </resources>

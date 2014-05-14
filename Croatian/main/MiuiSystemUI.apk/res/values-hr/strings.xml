@@ -169,9 +169,6 @@ yyyy.M.d"</string>
     <string name="settings_status_bar">Traka obavijesti</string>
     <string name="settings_show_network_speed">Pokaži brzinu veze</string>
     <string name="settings_expandable_under_fullscreen">Omogući u prikazu cijelog zaslona</string>
-    <string name="settings_expandable_under_fullscreen_summary">Omogućite povlačenje prema dolje za prozor obavijesti na cijeli zaslon</string>
-    <string name="settings_expandable_under_keyguard">Omogući na zaključanom zaslonu</string>
-    <string name="settings_expandable_under_keyguard_summary">Omogućite povlačenje prema dolje za prozor obavijesti na zaključanom zaslonu</string>
     <string name="settings_toggle_position_divider_page">%1$d prečaca iznad ove linije je aktivno</string>
     <string name="settings_toggle_position_divider_list">Prečaci iznad ove linije su aktivni</string>
     <string name="settings_toggle_position_reset">Resetiraj prečace</string>
@@ -247,7 +244,7 @@ yyyy.M.d"</string>
     <string name="notification_icon_filter_show">Prikaži obavijesti na statusnoj traci</string>
     <string name="notification_icon_filter_summary">Onemogućavanje ove opcije, učinit će da se obavijesti o svim aplikacijama prikazuju u gornjem lijevom statusne trake.</string>
     <string name="notification_icon_filter_title">Sakrij obavijesti</string>
-	<string name="notification_otg_mouse_in">Miš povezan</string>
+    <string name="notification_otg_mouse_in">Miš povezan</string>
     <string name="notification_otg_keyboard_in">Tipkovnica povezana</string>
     <string name="notification_otg_gamestick_in">Kontroler igre povezan</string>
     <string name="notification_otg_stylus_in">Stylus povezan</string>
