@@ -312,11 +312,8 @@ d. MMMM yyyy"</string>
     <string name="move_data_to_sdcard_title">Premještanje podataka na SD karticu</string>
     <string name="settings_notification_icon">Obavijest u traci obavijesti</string>
     <string name="settings_toggle">Prekidači</string>
-    <string name="screenshot_failed_title">Nije moguće izraditi snimku zaslona.</string>
-    <string name="settings_expandable_under_fullscreen">Prikaz preko cijelog zaslona</string>
     <string name="settings_expandable_under_fullscreen_summary">povucite prstima preko vrha ekrana prema dolje</string>
     <string name="settings_expandable_under_keyguard_summary">radi samo za neosigurnom zaključanom zaslonu</string>
-    <string name="settings_expanded_view">Izbacivanje trake obavijesti</string>
     <string name="settings_screenshot_notification_disabled">Prikaži detalje snimke zaslona</string>
     <string name="center_clock_title">Sat u sredini</string>
     <string name="cust_carrier_label_text_title">Prilagodite naziv operatera</string>
