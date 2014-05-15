@@ -110,7 +110,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="lockscreen_unlock_sim_via_puk">Unesite PUK kôd za otključavanje SIM kartice</string>
   <string name="login_website_in_case_forget_password">Posjetite http://i.xiaomi.com za resetiranje zaporke</string>
   <string name="lunar_ba">" "</string>
-  <string name="lunar_calendar">Mjesečev Kalendarz</string>
+  <string name="lunar_calendar">Mjesečev Kalendar</string>
   <string name="lunar_chu">" "</string>
   <string name="lunar_chu_shi">" "</string>
   <string name="lunar_er">" "</string>
@@ -222,21 +222,21 @@ Pokušajte ponovno za %d s."</string>
   <string name="stopping_the_heat"/>
   <string name="summer_begins"/>
   <string name="summer_solstice"/>
-  <string name="sync_data_call_log">Nagrań</string>
-  <string name="sync_data_cloud_album">Galerii</string>
-  <string name="sync_data_contact">Kontaktów</string>
-  <string name="sync_data_loading">Ładowanie informacji z serwera</string>
-  <string name="sync_data_merge_warning_cancel">Anuluj</string>
-  <string name="sync_data_merge_warning_desc">Dane %s zostaną połączone z danymi z chmury!</string>
-  <string name="sync_data_merge_warning_ok">Połącz</string>
-  <string name="sync_data_merge_warning_title">Ostrzeżenie o przywracaniu danych</string>
-  <string name="sync_data_mms">Wiadomości SMS</string>
+  <string name="sync_data_call_log">Snimke</string>
+  <string name="sync_data_cloud_album">Galerija</string>
+  <string name="sync_data_contact">Kontakti</string>
+  <string name="sync_data_loading">Učitavanje podataka s poslužitelja</string>
+  <string name="sync_data_merge_warning_cancel">Odustani</string>
+  <string name="sync_data_merge_warning_desc">Podataka %s će se kombinirati s podacima iz oblaka!</string>
+  <string name="sync_data_merge_warning_ok">Spoji</string>
+  <string name="sync_data_merge_warning_title">Upozorenje o vraćanju podataka!</string>
+  <string name="sync_data_mms">SMS vijesti</string>
   <string name="sync_data_msg_seperate">, </string>
-  <string name="sync_data_notes">Notatek</string>
-  <string name="sync_data_recover_warning_cancel">Anuluj</string>
-  <string name="sync_data_recover_warning_desc">Dane %s zostaną odzyskane z chmury!</string>
-  <string name="sync_data_recover_warning_ok">Odzyskaj</string>
-  <string name="sync_data_recover_warning_title">Ostrzeżenie o przywracaniu danych</string>
+  <string name="sync_data_notes">Bilješke</string>
+  <string name="sync_data_recover_warning_cancel">Odustani</string>
+  <string name="sync_data_recover_warning_desc">Podataka %s će biti vraćeno iz oblaka!</string>
+  <string name="sync_data_recover_warning_ok">Oporavak</string>
+  <string name="sync_data_recover_warning_title">Upozorenje o vraćanju podataka</string>
   <string name="sync_one_time_sync">Dodirni za sinkronizaciju (%1$s)</string>
   <string name="teachers_day"/>
   <string name="text_copied">Tekst kopiran u međuspremnik.</string>
@@ -297,6 +297,6 @@ Pokušajte ponovno za %d s."</string>
   <string name="yellow_page_sms_send_failed">Neuspješno slanje SMS poruke.</string>
   <string name="yellow_page_sms_sending">Šaljem……</string>
   <string name="yellow_page_unable_send_sms">Neuspješno slanje SMS poruke.</string>
-  <string name="yesterday">Wczoraj</string>
+  <string name="yesterday">Jučer</string>
 
 </resources>

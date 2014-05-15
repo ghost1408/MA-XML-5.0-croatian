@@ -152,7 +152,7 @@ za za prekid vraćanja"</string>
   <string name="findlost_contact_online">Vrati obrisane kontakte s oblaka</string>
   <string name="guarded_mode_dialog_message">Ne može se sigurnosno pohraniti/obnoviti u čuvanom načinu </string>
   <string name="guarded_mode_dialog_title">Čuvani način</string>
-  <string name="import_from_xiaomi_account_hint1">1.Instaliraj MiTalk i prijavite se.\n http://www.miliao.com\n\n3.  Uđite u MiTalk postavke i izaberite ”sig. pohrana kontakata na Xiaomi račun”</string>
+  <string name="import_from_xiaomi_account_hint1">1.Instaliraj MiTalk i prijavite se.\n http://www.miliao.com\n\n3.  Uđite u MiTalk postavke i izaberite ”Sig. pohrana kontakata na Xiaomi račun”</string>
   <string name="import_from_xiaomi_account_hint2">Napomena: Idi na idući korak ako sigurnosna pohrana postoji</string>
   <string name="import_from_xiaomi_account_hint_title">Koristi MiTalk za sigurnosno kopiranje kontakata na drugim uređajima, ne na MI-ONE</string>
   <string name="just_support_op_with_wifi_connected">Samo kada se koristi WLAN</string>
@@ -171,7 +171,8 @@ za za prekid vraćanja"</string>
   <string name="multi_select_title">%1$s odabrano</string>
   <string name="my_phone">Moj uređaj</string>
   <string name="no_encrypt_password">Nema šifriranih zaporki</string>
-  <string name="no_network">"Ne mogu se spojiti na mrežu"</string>
+  <string name="no_network">"Mrežna veza nije dostupna. 
+Molimo provjerite vezu i pokušajte ponovno"</string>
   <string name="note_title">Bilješke</string>
   <string name="nothing_searched">Nema rezultata pretraživanja</string>
   <string name="progress_backup_hint">"Stvaranje sigurnosnih kopija: "</string>
@@ -194,7 +195,7 @@ za za prekid vraćanja"</string>
   <string name="restore_report">Izvještaj vraćanja</string>
   <string name="restore_telephony_hit">Napomena: Postupak oporavka će ponovno pokrenuti aplikaciju telefona</string>
   <string name="retry">Pokušaj ponovo</string>
-  <string name="reverse_all">Očisti sve</string>
+  <string name="reverse_all">Poništiti sve</string>
   <string name="sc_bad_request">Loš zahtjev</string>
   <string name="sc_internal_server_error">Interna greška servera</string>
   <string name="sc_network_unavailable">Greška mrežne veze</string>
@@ -216,9 +217,9 @@ za za prekid vraćanja"</string>
   <string name="start_backup">Započni stvaranje sig.pohrane</string>
   <string name="start_restore">Vrati</string>
   <string name="succeed">Uspješno</string>
-  <string name="system_backup">Sigurnosna pohrana</string>
+  <string name="system_backup">Pohrana</string>
   <string name="system_backup_info">Postavke sistema, početnog zaslona itd.</string>
-  <string name="task_backup_cancel_progress">Otkazujem stvaranje sig kopije...</string>
+  <string name="task_backup_cancel_progress">Otkazujem stvaranje sig.kopije...</string>
   <string name="task_backup_finished_local">Sigurnosna pohrana završena</string>
   <string name="task_canceled">Otkazano</string>
   <string name="task_canceled_all_local">Otkaži sve zadatke</string>

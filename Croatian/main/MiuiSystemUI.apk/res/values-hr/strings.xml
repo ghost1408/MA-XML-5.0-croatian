@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-    <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="app_label">UI sistema</string>
     <string name="status_bar_recent_remove_item_title">Ukloni s popisa</string>
@@ -119,10 +117,8 @@ Ako ponovo omogućite podatke, operator će vam to možda dodatno naplatiti."</s
     <string name="description_target_search">Traži</string>
     <string name="tab_notifications_lable">Obavijesti</string>
     <string name="tab_toggles_lable">Prečaci</string>
-    <string name="status_bar_time_format_12">h:mma</string>
-    <string name="status_bar_time_format_24">HH:mm</string>
-    <string name="status_bar_date_format">"E
-yyyy.M.d"</string>
+    <string name="status_bar_date_format">"EEEE
+d. MMMM yyyy"</string>
     <string name="status_bar_recent_memory_info">%1$s / %2$s dostupno</string>
     <string name="usb_mode_notification">USB Pohrana</string>
     <string name="usb_mode_dont_ask">Zapamti ovaj izbor</string>
@@ -156,7 +152,6 @@ yyyy.M.d"</string>
     <string name="filter_item_description">Za podešavanje obavijesti, idite u Opće postavke > Obavijesti > Upravljanje obavijestima</string>
     <string name="settings_notification_bar">Prozor obavijesti</string>
     <string name="settings_toggle_position">Upravljanje prečacima</string>
-    <string name="settings_show_screenshot_notification">Prikaži obavijest snimke zaslona</string>
     <string name="settings_toggle_collapse_after_clicked">Sažmi nakon klika</string>
     <string name="settings_custom_carrier">Uredi naziv davatelja usluga</string> 
     <string name="settings_no_carrier">Ništa</string>	  
@@ -237,10 +232,10 @@ yyyy.M.d"</string>
     <string name="notification_icon_filter_menu_item_show">Pokaži obavijesti o ovoj aplikaciji u statusnoj traci</string>
     <string name="notification_icon_filter_mode">Način rada kontrole</string>
     <string name="notification_icon_filter_mode_black_list">Lista blokiranih</string>
-    <string name="notification_icon_filter_mode_white_list">Lista dipuštenih</string>
+    <string name="notification_icon_filter_mode_white_list">Lista dopuštenih</string>
     <string name="notification_icon_filter_other_list">Lista aplikacija</string>
     <string name="notification_icon_filter_settings">Obavijesti</string>
-    <string name="notification_icon_filter_settings_loading">Učitavanje , pričekajte...</string>
+    <string name="notification_icon_filter_settings_loading">Učitavanje, pričekajte...</string>
     <string name="notification_icon_filter_show">Prikaži obavijesti na statusnoj traci</string>
     <string name="notification_icon_filter_summary">Onemogućavanje ove opcije, učinit će da se obavijesti o svim aplikacijama prikazuju u gornjem lijevom statusne trake.</string>
     <string name="notification_icon_filter_title">Sakrij obavijesti</string>
@@ -272,9 +267,6 @@ yyyy.M.d"</string>
     <string name="headset_settings">Slušalice priključene</string>
     <string name="headset_info">Prilagodi funkcije tipaka</string>
     <string name="headset_custom">Prilagodi</string>
-    <string name="oldman_status_bar_time_format">HH:mm</string>
-    <string name="oldman_airplane_mode_text">Zrakoplov</string>
-    <string name="oldman_incall_text">upozivu</string>
     <string name="audio_effect_settings">Podesi tip slušalica</string>
     <string name="audio_effect_info">Optimiziraj zvuk</string>
     <string name="audio_effect_custom">Konfiguriraj</string>
@@ -312,24 +304,22 @@ yyyy.M.d"</string>
     <string name="status_bar_toggle_power_low">Čuvanje</string>
     <string name="status_bar_toggle_power_mid">Normalno</string>
     <string name="status_bar_toggle_power_high">Izvršiti</string>
-    <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-    <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
-    <string name="status_bar_toggle_divider_action">com.android.systemui/.settings.StyleSettings</string>
-    <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
-    <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
-    <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.MiuiSettings</string>
-    <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
-    <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-    <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
-    <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-    <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-    <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-    <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
-    <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
-    <string name="status_bar_toggle_drive_mode_action">com.android.settings/com.android.settings.MiuiDriveModeSettings</string>
-    <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
-    <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
-    <string name="screen_rotation_freeze_message">Autmatsko zakretanje onemogućeno.</string>
-    <string name="screen_button_disabled_message">Navigacijske tipke onemogućene. za ponovno uključivanje, dodirnite Home i Power gumb istovremeno.</string>
-    <string name="screen_button_enabled_message">Navigacijske tipke omogućene.</string>
+    <string name="screen_rotation_freeze_message">Rotirajući zaslon zaključan u vodoravnom položaju</string>
+    <string name="screen_button_disabled_message">Tipke ispod zaslona su isključene. Možete ih omogućiti pritiskom \"Home\" i \"Power\"</string>
+    <string name="screen_button_enabled_message">Tipke ispod zaslona su uključene</string>
+    <string name="toast_rotation_locked">Zaslon je zaključan u vodoravnom položaju</string>
+    <string name="move_data_to_sdcard_message">To će premjestiti podatke kao što su snimke zaslona, slike itd. iz interne memorije na SD karticu. Najbolje je držati SD karticu u telefonu za svakodnevnu uporabu</string>
+    <string name="move_data_to_sdcard_title">Premještanje podataka na SD karticu</string>
+    <string name="settings_notification_icon">Obavijest u traci obavijesti</string>
+    <string name="settings_toggle">Prekidači</string>
+    <string name="screenshot_failed_title">Nije moguće izraditi snimku zaslona.</string>
+    <string name="settings_expandable_under_fullscreen">Prikaz preko cijelog zaslona</string>
+    <string name="settings_expandable_under_fullscreen_summary">povucite prstima preko vrha ekrana prema dolje</string>
+    <string name="settings_expandable_under_keyguard_summary">radi samo za neosigurnom zaključanom zaslonu</string>
+    <string name="settings_expanded_view">Izbacivanje trake obavijesti</string>
+    <string name="settings_screenshot_notification_disabled">Prikaži detalje snimke zaslona</string>
+    <string name="center_clock_title">Sat u sredini</string>
+    <string name="cust_carrier_label_text_title">Prilagodite naziv operatera</string>
+    <string name="cust_carrier_label_title">Promjena naziva operatera</string>
+    <string name="settings_statusbar_style">Postavljanje trake statusa</string>
 </resources>
