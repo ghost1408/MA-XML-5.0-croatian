@@ -88,6 +88,7 @@ Omogućite to Postavke &gt; Sustav &gt; Gumbi &amp; tipke"</string>
   <string name="input_puk_code">Unesite PUK kôd</string>
   <string name="input_puk_code_to_unlock">Unesite PUK kôd da otključate uređaj</string>
   <string name="international_womens_day"/>
+     <string name="international_womens_day">Međunarodni dan žena</string>
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
@@ -133,7 +134,8 @@ Pokušajte ponovno za %d s."</string>
   <string name="lunar_yue">" "</string>
   <string name="lunar_zheng">" "</string>
   <string name="memory_clear_nothing_result">Memorija već optimizirana</string>
-  <string name="memory_clear_result">"%1$s Slobodno | %2$s dostupno"</string>
+  <string name="memory_clear_result">"Slobodno %1$s
+ Dostupno: %2$s"</string>
   <string name="minutes">%d minuta</string>
   <string name="miui_copyright_title">Autorsko pravo</string>
   <string name="miui_device_name">Android</string>
@@ -183,10 +185,10 @@ Pokušajte ponovno za %d s."</string>
   <string name="reboot_confirm">Telefon će se ponovno pokrenuti</string>
   <string name="reboot_confirm_title">Sigurno želite ponovno pokretanje?</string>
   <string name="reboot_progress">Ponovno pokretanje...</string>
-  <string name="safetylegal_activity_unreachable">"Ne mogu se spojiti na mrežu. Možete vidjeti ovu informaciju online  %s."</string>
   <string name="retrocession_day"/>
   <string name="return_to_me_message">Vratite telefon vlasniku.</string>
   <string name="reverse_all">Obriši sve</string>
+  <string name="safetylegal_activity_unreachable">"Ne mogu se spojiti na mrežu. Možete vidjeti ovu informaciju online  %s."</string>
   <string name="screen_button_notification_text">"Držite tipke 'Home'+'Power' da omogućite"</string>
   <string name="screen_button_notification_title">Tipke zaslona su onemogućene</string>
   <string name="screen_on_proximity_sensor_hint">"Prisilno zatvaranje: 

@@ -2,7 +2,7 @@
 <resources>
     <string name="category_default_number_text">(0)</string>
     <string name="download_current_progress">%1$d/100</string>
-    <string name="app_name">Explorer</string>
+    <string name="app_name">Datoteke</string>
     <string name="confirm">Potvrdi</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_cleanup">Očisti</string>
@@ -106,7 +106,7 @@
     <string name="ui_main_toast_operation_failed">Odznačivanje neuspješno %1$s</string>
     <string name="user_guide">Uvod u KuaiPan</string>
     <string name="user_guide_summary">Kratak pregled</string>
-    <string name="rename_failed">Neuspješno preuzimanje %1$s</string>
+    <string name="rename_failed">Neuspješno preimenovanje %1$s</string>
     <string name="directory_no_item">Prazna mapa</string>
     <string name="error_open_file_failed_no_app_found">Nema aplikacija za obraditi ovu zadaću.</string>
     <string name="no_enough_space">Nedovoljno prostora</string>
