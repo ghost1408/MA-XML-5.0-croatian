@@ -260,7 +260,6 @@
   <string name="playlist_renamed_message">Popis pjesama preimenovan.</string>
   <string name="playlists_title">Popis pjesama</string>
   <string name="powered_by">Powered by</string>
-  <string name="project_device">Xiaomi MiBox</string>
   <string name="project_device_mobile">Mobilni uređaj</string>
   <string name="queue">Trenutan popis pjesama</string>
   <string name="quit_player">Izlaz</string>
@@ -301,6 +300,7 @@
   <string name="search_suggestion">Prijedlozi pretraživanja:</string>
   <string name="search_title">Traži</string>
   <string name="select_all">Odaberi sve</string>
+  <string name="select_device">Odaberite uređaj</string>
   <string name="select_folder">Odaberi mapu</string>
   <string name="select_quit_time">Postavi timer za zaustavljanje reprodukcije (u min)</string>
   <string name="send_to">Pošalji...</string>

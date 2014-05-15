@@ -37,7 +37,7 @@
   <string name="allow">Dopusti</string>
   <string name="already_in_top_level">Oznaka je već na najvišoj razini</string>
   <string name="app_new_version">Već imate preuzetu najnoviju verziju</string>
-  <string name="app_update_install">Nova verzija preuzeta i spreman za ugradnju</string>
+  <string name="app_update_install">Nova verzija preuzeta i spremna za ugradnju</string>
   <string name="application_name">Preglednik</string>
   <string name="autofill_profile_editor_address_line_1">1. red adrese:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Ulica, poštanski pretinac, na ruke</string>
@@ -261,8 +261,14 @@
   <string name="loading_rest_candidates">Učitavanje ostalih kandidata</string>
   <string name="loading_video">Učitavanje video zapisa…</string>
   <string name="local_bookmarks">Lokalno</string>
+  <string name="low_memory_error">Nije moguće dovršiti postupak zbog nedostatka memorije</string>
   <string name="location">Adresa</string>
   <string name="max_tabs_warning">Nema dostupnih kartica</string>
+  <string name="media_player_error_button">U redu</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Ovaj videozapis nije valjan za streaming na ovom uređaju.</string>
+  <string name="media_player_error_text_unknown">Videozapis se ne može reproducirati.</string>
+  <string name="media_player_error_title">Reprodukcija videozapisa nije moguća</string>
+  <string name="media_player_loading_video">Preuzimanje videozapisa</string>
   <string name="menu_addtodesk">Dodaj na početni zaslon</string>
   <string name="menu_disable_night_mode">Onemogući noćni način</string>
   <string name="menu_disable_save_bandwidth_mode">Disable mobile data cap</string>
@@ -336,6 +342,7 @@
   <string name="pref_content_autofit_summary">Formatiranje web-stranica kako bi odgovarale zaslonu</string>
   <string name="pref_content_block_float_popups">Blokiraj skočne prozore</string>
   <string name="pref_content_block_popups">Blokiraj skočne prozore</string>
+  <string name="pref_content_cloud_speedup">Omogućite predmemoriju u oblaku</string>
   <string name="pref_content_fontsize_setting">Postavke fonta</string>
   <string name="pref_content_homepage">Postavi početnu stranicu</string>
   <string name="pref_content_javascript">Omogući JavaScript</string>
@@ -577,8 +584,8 @@
   <string name="too_many_subwindows_dialog_title">Skočni prozor već otvoren</string>
   <string name="too_many_windows_dialog_message">"Ne mogu otvoriti novu karticu dok ne zatvorite jednu."</string>
   <string name="too_many_windows_dialog_title">Dostignuto ograničenje kartica</string>
-  <string name="ua_switcher_desktop">Potreban zaslon stranice</string>
-  <string name="uploads_disabled">Prijenosi datoteka onemogućeni su.</string>
+  <string name="ua_switcher_desktop">Promijeni na PC mod</string>
+  <string name="uploads_disabled">Kopiranje datoteka isključeno.</string>
   <string name="url_copy_done">URL kopiran u međuspremnik</string>
   <string name="url_hint">Traži ili upišite URL</string>
   <string name="user_defined_webpage">Dodaj na početnu stranicu</string>
@@ -599,6 +606,9 @@
   <string name="webapp_splashview_loading">Učitavanje, pričekajte…</string>
   <string name="webapp_web_forward">Proslijedi</string>
   <string name="webapp_web_goback">Natrag</string>
+  <string name="webview_today">Danas</string>
+  <string name="webview_yesterday">Jučer</string>
+  <string name="week_picker_dialog_title">Odaberite tjedan</string>
   <string name="website_settings_clear_all">Izbriši sve</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Odustani</string>
   <string name="website_settings_clear_all_dialog_message">Izbrisati sve podatke web-lokacije i dopuštenja lokacija?</string>
@@ -610,5 +620,6 @@
   <string name="webstorage_origin_summary_mb_stored">MB spremljeno na telefonu</string>
   <string name="webstorage_outofspace_notification_text">Dodirnite za oslobađanje prostora.</string>
   <string name="webstorage_outofspace_notification_title">Pohrana preglednika puna</string>
+  <string name="xiaomi_bookmark_title">Xiaomi</string>
   <string name="yes">Da</string>
 </resources>

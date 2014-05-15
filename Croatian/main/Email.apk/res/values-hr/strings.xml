@@ -20,6 +20,7 @@
   <string name="account_folder_list_summary_inbox">Pristigla pošta</string>
   <string name="account_folder_list_summary_outbox">Odlazna pošta</string>
   <string name="account_folder_list_summary_starred">Započeto</string>
+  <string name="account_name_toast">Naziv već postoji.</string>
   <string name="account_password_spaces_error">"Ova zaporka počinje ili završava jednim ili više znakova razmaka. Mnogi poslužitelji ne podržavaju zaporke s razmacima."</string>
   <string name="account_security_dialog_content_fmt">Račun %s zahtijeva da ažurirate svoje sigurnosne postavke.</string>
   <string name="account_security_dialog_title">Sigurnosno ažuriranje</string>
@@ -186,7 +187,8 @@
   <string name="address_display_format">%1$s | %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s%2$s putem %3$s</string>
   <string name="all_folders_heading">Dodaj mape</string>
-  <string name="always_bcc_myself">Uvijek šalji Bcc sebi</string>
+  <string name="allread">Pročitano</string>
+  <string name="always_bcc_myself">Uvijek šalji skrivenu kopiju sebi</string>
   <string name="always_show_images">Uvijek prikaži slike ovog pošiljatelja</string>
   <string name="always_show_images_toast">Slike ovog pošiljatelja automatski će se prikazati.</string>
   <string name="annex_size">privitci</string>
@@ -240,6 +242,7 @@
   <string name="change_folders_selection_dialog_title">Promjena mapa</string>
   <string name="change_sync_settings">Promjena postavki sinkronizacije</string>
   <string name="checking_for_mail">Provjeravanje pošte</string>
+  <string name="checking_message">Provjera ažuriranja…</string>
   <string name="choosertitle_sharevia">Dijeli putem</string>
   <string name="clear">Obriši</string>
   <string name="clear_display_images_whitelist_dialog_message">Prestani prikazivati slike u tekstu od pošiljatelja koji su prethodno bili dopušteni.</string>
@@ -247,9 +250,15 @@
   <string name="clear_display_images_whitelist_title">Brisanje odobrenja za slike</string>
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="compose">Nova poruka</string>
-  <string name="confirm">potvrdi</string>
+  <string name="compose_help_context">Stvaranje poruke</string>
+  <string name="compose_send">E-pošta</string>
+  <string name="compose_sent">Poruka poslana</string>
+  <string name="confirm">Potvrdi</string>
   <string name="confirm_discard_text">Odbaciti ovu poruku?</string>
   <string name="confirm_response">Slanje odgovora…</string>
+  <string name="confirm_save_message_no">Ne</string>
+  <string name="confirm_save_message_title">Spremiti poruku kao skicu?</string>
+  <string name="confirm_save_message_yes">Da</string>
   <string name="confirm_send_message">Poslati ovu poruku?</string>
   <string name="confirm_send_message_with_no_body">"Nema teksta u tijelu poruke."</string>
   <string name="confirm_send_message_with_no_subject">"Nema teksta u predmetu poruke."</string>
@@ -301,17 +310,22 @@
   <string name="downlaod_cancel_confirm_download">Prekini preuzimanje</string>
   <string name="downlaod_cancel_continue_download">Prekini</string>
   <string name="downlaod_confirm_download">Prekini</string>
+  <string name="downlaod_nonWifi_confirm_message">Preuzimanje korištenjem mobilnog prijenosa podataka. Potvrdi korištenje</string>
   <string name="download_again">Preuzmi ponovo</string>
   <string name="download_before_sharing">" još nije preuzeto, molimo vas da ga preuzmete prije dijeljenja!"</string>
   <string name="download_cancel_confirm_title">Otkazati preuzimanje?</string>
   <string name="download_complete_not_cancel">Preuzimanje završeno, odustajanje nije uspjelo!</string>
+  <string name="download_complete_title">Preuzimanje završeno</string>
   <string name="download_confirm_message">Da biste otvorili ovu datoteku, morate preuzeti veličinu privitka od 180K %1$s</string>
   <string name="download_confirm_title">Potvrda preuzimanja</string>
   <string name="download_failed">"Neuspjelo preuzimanje. Dodirnite za ponovni pokušaj."</string>
+  <string name="download_now">Preuzeti sada</string>
+  <string name="downloading">Preuzimanje</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zatvaranje pretinca za navigaciju</string>
   <string name="drawer_open">Otvaranje pretinca za navigaciju</string>
   <string name="edit_quick_response_dialog">Uredi Brzi odgovor</string>
+  <string name="empty_account_tip">Ne mogu naći račun</string>
   <string name="empty_email_tip">Ne mogu poslati praznu e-poštu</string>
   <string name="empty_spam">Pražnjenje neželjenih sadržaja</string>
   <string name="empty_spam_dialog_title">Želite li isprazniti neželjene sadržaje?</string>
@@ -461,10 +475,15 @@ Kopija: %4$s
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Isključi zvuk</string>
   <string name="name_or_number_is_error">Pogreška Korisničkog imena ili zaporke</string>
-  <string name="net_check_title">Anomalija mreže, provjerite mrežu。</string>
+  <string name="net_check_title">Anomalija mreže, provjerite mrežu.</string>
   <string name="network_error">Nema veze</string>
+  <string name="new_down_desc1">温馨提示：</string>
+  <string name="new_down_desc2">会保存上一版本的使用记录</string>
+  <string name="new_down_desc3">升级使用流量较多，建议使用Wifi</string>
+  <string name="new_feature_desc">改进信息：</string>
   <string name="new_incoming_messages_one">Novu poruku šalje %s. Prikaži.</string>
   <string name="new_messages">Novih poruka: %1$d</string>
+  <string name="new_version">最新版本：</string>
   <string name="next_action">Dalje</string>
   <string name="no">Ne</string>
   <string name="no_application_found">Nijedna aplikacija ne može otvoriti i prikazati ovaj privitak.</string>
@@ -491,6 +510,7 @@ Kopija: %4$s
   <string name="outbox_alert_description_sent_failed">"Razlog: Privitak premašuje
 Ograničite svoju pristiglu poštu"</string>
   <string name="outbox_alert_title_sent_failed">Neuspjelo slanje E-pošte</string>
+  <string name="parase_setup_data">Dobivanje podataka konfiguracije...</string>
   <string name="password_changed_prompt">"Ne mogu se prijaviti."</string>
   <string name="password_expire_warning_content_title">Istječe zaporka zaklj.zaslona</string>
   <string name="password_expire_warning_dialog_content_fmt">Uskoro trebate promijeniti PIN/zaporku zaklj.zaslona, ili će podaci%s biti obrisani. Želite li promijeniti sada?</string>
@@ -582,6 +602,7 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="reply">Odgovor</string>
   <string name="reply_all">Odgovori svima</string>
   <string name="reply_attribution" formatted="false">Dana %s osoba %s napisala je:</string>
+  <string name="reply_subject_label">Odgovor:</string>
   <string name="replyto_heading">"Odgovori: "</string>
   <string name="report">Prijava</string>
   <string name="report_phishing">Prijavite krađu identiteta</string>
@@ -602,6 +623,7 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="search_results_header">Rezultati</string>
   <string name="search_results_searching_header">Pretraživanje…</string>
   <string name="search_title">Neodređena E-pošta</string>
+  <string name="search_txt_size_limit_prompt">Pretraga smije sadržavati više od 3 znaka</string>
   <string name="search_unsupported">Pretraživanje nije podržano na ovom računu.</string>
   <string name="security_changed_ticker_fmt">Račun \"%s\" promijenio je sigurnosne postavke, korisnik ne mora poduzimati ništa.</string>
   <string name="security_needed_ticker_fmt">Račun \"%s\" zahtijeva ažuriranje sigurnosnih postavki.</string>

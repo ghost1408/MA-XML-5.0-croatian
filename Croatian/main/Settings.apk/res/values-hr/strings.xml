@@ -2776,6 +2776,7 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
     <string name="track_frame_time_summary">Mjeri vrijeme rendiranja u adb shell dumpsys gfxinfo</string>
     <string name="window_animation_scale_title">Razmjer animacije prozora</string>
     <string name="transition_animation_scale_title">Razmjer animacije prijelaza</string>
+	<string name="translation_contributors_title">Autori prijevoda</string>
     <string name="animator_duration_scale_title">Skala trajanja animacije</string>
     <string name="overlay_display_devices_title">Simuliraj sekundarni zaslon</string>
     <string name="debug_applications_category">Aplikacije</string>

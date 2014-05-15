@@ -169,6 +169,7 @@
     <string name="free_style_edit_app">Aplikacija</string>
     <string name="free_style_edit_drawer">Crtač</string>
     <string name="free_style_drawer_title">Sve aplikacije</string>
+	<string name="global_search_hint"/>
     <string name="guide_install_app_title">Instalirajte aplikaciju</string>
     <string name="guide_install_app_msg">Aplikacija nije instalirana. Potražiti je na Trg. Play?</string>
     <string name="menu_customize">Postavke</string>
