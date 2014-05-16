@@ -41,7 +41,26 @@
         <item quantity="one">Govorna pošta</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d odabrano</item>
+        <item quantity="other">" %1$d odabrano"</item>
+        <item quantity="zero">%1$d odabrano</item>
+        <item quantity="one">%1$d odabran</item>
+    </plurals>
+    <plurals name="picker_multi_title">
+        <item quantity="other">" %1$d odabrano"</item>
+        <item quantity="zero">%1$d odabrano</item>
+        <item quantity="one">%1$d odabran</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" dodano %1$d kontakata "</item>
+        <item quantity="one">dodan %1$d kontakt</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d ljudi</item>
+        <item quantity="one">1 osoba</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d odabrano"</item>
+        <item quantity="zero">%1$d odabrano</item>
         <item quantity="one">%1$d odabran</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
@@ -83,10 +102,5 @@
     <plurals name="device_import_done_toast">
         <item quantity="other">uvezeno %1$d kontakata</item>
         <item quantity="one">uvezen %1$d kontakt</item>
-    </plurals>
-    <plurals name="numSelectedSimContacts">
-        <item quantity="other">" %1$d odabrano"</item>
-        <item quantity="zero">%1$d odabrano</item>
-        <item quantity="one">%1$d odabran</item>
     </plurals>
 </resources>

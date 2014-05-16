@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Detalji popisa poziva</string>
+  <string name="account_abnormal_state">Pogreška u podacima o računu korisnika, pokušajte se ponovno prijaviti.</string>
   <string name="account_container_title">Uvezen iz</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">Samo telefon, bez sinkronizacije</string>
@@ -211,7 +212,6 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="deleteConfirmation">Ovaj će kontakt biti izbrisan.</string>
   <string name="deleteConfirmationDetail">Izbrisati \"%s\"?</string>
   <string name="deleteConfirmation_title">Izbrisati</string>
-  <string name="delete_call_log_selected_title">Izbrisati odabrani popis poziva?</string>
   <string name="delete_call_log_title">Odaberite popis za brisanje</string>
   <string name="delete_contact_calllog_title">Izbrisati?</string>
   <string name="delete_dial_input">Izbrisati</string>
@@ -219,6 +219,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="delete_duplicate_message">"Spajanje kontakata..."</string>
   <string name="delete_group_dialog_message">Izbrisati grupu \"%1$s\"? (Sami kontakti neće biti izbrisani.)</string>
   <string name="delete_group_dialog_title">Izbrisati grupu</string>
+  <string name="delete_selected_sim_entry_miui">Izbrisati odabrane kontakte?</string>
   <string name="delete_sim_entries_finish">Uspješno izbrisan odabrani SIM kontakt</string>
   <string name="delete_sim_entry_miui">Izbrisati SIM kontakte</string>
   <string name="delete_unknown_contact_calllog_title">"Jeste li sigurni da želite izbrisati popis poziva nepoznatih kontakata?"</string>
@@ -492,6 +493,8 @@ Razlog: \"%s\""</string>
   <string name="local_profile_title">Moj lokalni profil</string>
   <string name="local_search_label">Svi kontakti</string>
   <string name="locale_change_in_progress">Popis kontakata se ažurira prema promjeni jezika.</string>
+  <string name="login_before_recharging">Prvo se se morate prijaviti.</string>
+  <string name="login_ok">Prijavite se</string>
   <string name="lunarBirthdayLabelsGroup">Mjesečev rođendan</string>
   <string name="make_primary">Zapamti ovaj odabir</string>
   <string name="map_custom">Prikaži %s adresu</string>
@@ -517,6 +520,7 @@ Razlog: \"%s\""</string>
   <string name="menu_create_contact_shortcut">Mjesto na početnom zaslonu</string>
   <string name="menu_deleteContact">Izbriši</string>
   <string name="menu_deleteGroup">Izbriši</string>
+  <string name="menu_dial_ip_number">IP poziv</string>
   <string name="menu_dialpad_text">Tipkovnica</string>
   <string name="menu_discard">Odbaci</string>
   <string name="menu_display_all">Pokaži sve</string>
@@ -534,6 +538,7 @@ Razlog: \"%s\""</string>
   <string name="menu_new_group_action_bar">Novo</string>
   <string name="menu_not_redirect_calls_to_vm">Govorna pošta nije u uporabi</string>
   <string name="menu_redirect_calls_to_vm">Svi pozivi u govornu poštu</string>
+  <string name="menu_refresh">Osvježiti</string>
   <string name="menu_removeStar">Ukloni iz Favorita</string>
   <string name="menu_search">Traži</string>
   <string name="menu_select_all">Odaberi sve</string>
@@ -954,9 +959,12 @@ Sadržaj koji tražite trenutno nije dostupan u vašoj regiji."</string>
 "</string>
   <string name="returnCall">Povratni poziv</string>
   <string name="ringLabelsGroup">Zvuk zvona</string>
+  <string name="ringtone_volume_mute">Vaš zvuk zvona trenutno je isključen.</string>
+  <string name="save">Spremi</string>
   <string name="save_photo_progress">Spremanje slike…</string>
   <string name="savingContact">Spremanje kontakta…</string>
   <string name="savingDisplayGroups">Spremanje opcije prikaza…</string>
+  <string name="scan">Pregled proizvoda</string>
   <string name="scan">Skeniraj</string>
   <string name="scan_duplicate_message">%1$d kontakata s istim informacijama</string>
   <string name="scan_merge">Pretraživanje duplih kontakata…</string>
@@ -966,6 +974,9 @@ Sadržaj koji tražite trenutno nije dostupan u vašoj regiji."</string>
   <string name="sdcard_not_mounted_dialog_message">"Umetnite SD karticu.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Nema SD kartice</string>
+  <string name="sdcard_status_changed_dialog_message">"Odustajem.
+Molimo otvoriti ovaj program radi obnove resursa."</string>
+  <string name="sdcard_status_changed_dialog_title">Status SD kartice promijenjen</string>
   <string name="searchHint">Pretraži kontakte</string>
   <string name="search_results_searching">Pretraživanje…</string>
   <string name="search_settings_description">Nazivi vaših kontakata</string>
@@ -1139,7 +1150,10 @@ Odaberite jednu od sljedećih opcija:"</string>
   <string name="wipe_data">Brisanje podataka</string>
   <string name="yellowPageNavigationLabel">Direktorij</string>
   <string name="yellowPageNavigationIconLabel">Direktorij</string>
-  <string name="login_ok">Prijavi se</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Dopustiti lokaciju od strane mreže</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Popis brojeva usluga i trgovina u okviru vašeg položaja može poboljšati funkciju.</string>
+  <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Poslije</string>
   <string name="yellowpage_navigation_search_hint">Traži</string>
   <string name="yellowpage_navigation_no_content">"Nema rezultata pretraživanja"</string>
   <string name="yellowpage_navigation_search_offline_hint">"Niste povezani na mrežu"</string>
@@ -1153,4 +1167,12 @@ Odaberite jednu od sljedećih opcija:"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na početni zaslon</string>
   <string name="imei_invalid">Nevaljani IMEI</string>
   <string name="meid_invalid">Nevaljani MEID</string>
+  <string name="callrecordview_menu_batch_delete">Izaberite unos koji se briše</string>
+  <string name="delete_call_log_selected_title">Brisanje odabranih zapisa poziva?</string>
+  <string name="import_from_sim2">Uvoz iz SIM 2</string>
+  <string name="export_to_sim2">Izvoz na SIM 2</string>
+  <string name="pref_key_sim_manage2">Postavljanje SIM 2</string>
+  <string name="account_sim2">SIM kartica %d</string>
+  <string name="sim_contact_number_missing">Nedostaje kontakt broj na SIM kartici</string>
+  <string name="zero_items_selected">Ništa nije odabrano</string>
   </resources>

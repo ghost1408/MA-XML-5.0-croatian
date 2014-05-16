@@ -30,7 +30,7 @@
   <string name="delete">Obrisati</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_hongmi">Hongmi telefon</string>
-  <string name="device_xiaomi">Xiaomi telefon</string>
+  <string name="device_xiaomi">Xiaomi</string>
   <string name="double_seventh_day"/>
   <string name="easter">Uskrs</string>
   <string name="emergency_call_string">Hitan poziv</string>
@@ -55,7 +55,7 @@ Unesite ispravnu SIM karticu da ga otključate"</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Vaš uređaj je zaključan.
 Isključite način rada u zrakoplovu da ga otključate"</string>
   <string name="firewall_setting">Vatrozid</string>
-  <string name="first_back_long_press_message">"Dugim pritiskom tipke "Natrag"  možete ugasiti pokrenute procesa/pozadinske servise?
+  <string name="first_back_long_press_message">"Dugim pritiskom tipke "Natrag"  možete ugasiti pokrenute procese/pozadinske servise!
   
 Omogućite to Postavke &gt; Sustav &gt; Gumbi &amp; tipke"</string>
   <string name="fm_record_smaple_prefix_miui">Snimanje radia</string>
@@ -128,13 +128,13 @@ Pokušajte ponovno za %d s."</string>
   <string name="lunar_shi_yi">" "</string>
   <string name="lunar_si">" "</string>
   <string name="lunar_wu">" "</string>
-  <string name="lunar_year">": Rok Księżycowy"</string>
+  <string name="lunar_year">": Prvo lunarni"</string>
   <string name="lunar_yi">" "</string>
   <string name="lunar_yue">" "</string>
   <string name="lunar_zheng">" "</string>
-  <string name="memory_clear_nothing_result">Memorija već optimizirana</string>
+  <string name="memory_clear_nothing_result">Upotreba memorije već optimizirana</string>
   <string name="memory_clear_result">"Slobodno %1$s
- Dostupno: %2$s"</string>
+Dostupno: %2$s"</string>
   <string name="minutes">%d minuta</string>
   <string name="miui_copyright_title">Autorsko pravo</string>
   <string name="miui_device_name">Android</string>
