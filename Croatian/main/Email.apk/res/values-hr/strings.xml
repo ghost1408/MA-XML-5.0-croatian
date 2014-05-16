@@ -250,7 +250,6 @@
   <string name="clear_display_images_whitelist_title">Brisanje odobrenja za slike</string>
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="compose">Nova poruka</string>
-  <string name="compose_help_context">Stvaranje poruke</string>
   <string name="compose_send">E-pošta</string>
   <string name="compose_sent">Poruka poslana</string>
   <string name="confirm">Potvrdi</string>
@@ -602,7 +601,6 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="reply">Odgovor</string>
   <string name="reply_all">Odgovori svima</string>
   <string name="reply_attribution" formatted="false">Dana %s osoba %s napisala je:</string>
-  <string name="reply_subject_label">Odgovor:</string>
   <string name="replyto_heading">"Odgovori: "</string>
   <string name="report">Prijava</string>
   <string name="report_phishing">Prijavite krađu identiteta</string>
