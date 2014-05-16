@@ -99,7 +99,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="callrecordview_item_op_time_short_incoming">"Dolazni: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Odlazni: "</string>
   <string name="callrecordview_menu_add_call_note">Dodaj bilješku pozivu</string>
-  <string name="callrecordview_menu_batch_delete">Obrisati seriju</string>
+  <string name="callrecordview_menu_batch_delete">Izaberite unos koji se briše</string>
   <string name="callrecordview_menu_delete">Obrisati popis poziva</string>
   <string name="callrecordview_menu_delete_accepted">Obrisati popis dolaznih poziva</string>
   <string name="callrecordview_menu_delete_all">Dodaj biljšku pozivu</string>
@@ -192,7 +192,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="contact_unfavorite_toast">Kontakt uklonjen iz Favorita</string>
   <string name="contactsAllLabel">Kontakti</string>
   <string name="contactsFavoritesLabel">Favoriti</string>
-  <string name="contactsGroupsLabel">Groupe</string>
+  <string name="contactsGroupsLabel">Grupe</string>
   <string name="contactsJoinedMessage">Spojeni kontakti</string>
   <string name="contactsList">Kontakti</string>
   <string name="contacts_unavailable_add_account">Prijavi se u račun</string>
@@ -965,7 +965,6 @@ Sadržaj koji tražite trenutno nije dostupan u vašoj regiji."</string>
   <string name="savingContact">Spremanje kontakta…</string>
   <string name="savingDisplayGroups">Spremanje opcije prikaza…</string>
   <string name="scan">Pregled proizvoda</string>
-  <string name="scan">Skeniraj</string>
   <string name="scan_duplicate_message">%1$d kontakata s istim informacijama</string>
   <string name="scan_merge">Pretraživanje duplih kontakata…</string>
   <string name="scanning">Skeniranje</string>
@@ -1167,7 +1166,6 @@ Odaberite jednu od sljedećih opcija:"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na početni zaslon</string>
   <string name="imei_invalid">Nevaljani IMEI</string>
   <string name="meid_invalid">Nevaljani MEID</string>
-  <string name="callrecordview_menu_batch_delete">Izaberite unos koji se briše</string>
   <string name="delete_call_log_selected_title">Brisanje odabranih zapisa poziva?</string>
   <string name="import_from_sim2">Uvoz iz SIM 2</string>
   <string name="export_to_sim2">Izvoz na SIM 2</string>
