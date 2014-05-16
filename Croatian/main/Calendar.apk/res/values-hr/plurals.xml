@@ -20,8 +20,8 @@
         <item quantity="other">Tjedan %d</item>
     </plurals>
     <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+1</item>
+        <item quantity="other">+%d događaja</item>
+        <item quantity="one">+1 događaj</item>
     </plurals>
     <plurals name="Nevents">
         <item quantity="other">%d događaja</item>

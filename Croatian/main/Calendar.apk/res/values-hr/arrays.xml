@@ -6,27 +6,20 @@
         <item>SMS</item>
         <item>Alarm</item>
     </string-array>
-    <string-array name="reminder_minuta_labels">
-        <item>Ništa</item>
+    <string-array name="reminder_minutes_labels">
+        <item>Bez podsjetnika</item>
         <item>0 minuta</item>
-        <item>1 minuta</item>
         <item>5 minuta</item>
         <item>10 minuta</item>
         <item>15 minuta</item>
-        <item>20 minuta</item>
-        <item>25 minuta</item>
         <item>30 minuta</item>
-        <item>45 minuta</item>
         <item>1 sat</item>
-        <item>2 sata</item>
-        <item>3 sata</item>
-        <item>12 sati</item>
-        <item>24 sata</item>
+        <item>1 dan</item>
         <item>2 dana</item>
         <item>1 tjedan</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>No reminder</item>
+        <item>Bez podsjetnika</item>
         <item>0 minuta</item>
         <item>5 minuta</item>
         <item>10 minuta</item>

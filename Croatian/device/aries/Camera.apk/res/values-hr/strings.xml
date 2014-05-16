@@ -211,7 +211,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_focusmode_entry_macro">Makro</string>
   <string name="pref_camera_focusmode_entry_normal">Normalno</string>
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
-  <string name="pref_camera_hand_night_title">HHT</string>
+  <string name="pref_camera_hand_night_title">Noćni način</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
@@ -272,7 +272,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_preview_value_off">Isključeno</string>
   <string name="pref_camera_recordlocation_entry_off">Isključeno</string>
   <string name="pref_camera_recordlocation_entry_on">Uključeno</string>
-  <string name="pref_camera_recordlocation_title">Pohraniti detalje lokaciju fotografija</string>
+  <string name="pref_camera_recordlocation_title">Pohraniti detalje lokacije fotografija</string>
   <string name="pref_camera_redeyereduction_entry_auto">Automatski</string>
   <string name="pref_camera_redeyereduction_entry_disable">Onemogući</string>
   <string name="pref_camera_redeyereduction_entry_enable">Omogući</string>
@@ -443,8 +443,8 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="title">Naziv</string>
   <string name="toast_burst_snap_finished_end">Fotografija snimljena</string>
   <string name="toast_burst_snap_finished_start">Brzo uzastopno snimanje završeno</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Brzo uzastopno snimanje nije podržana kada je snimanje zvuka UKLJUČENO.</string>
-  <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržana kada je HDR UKLJUČEN.</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Brzo uzastopno snimanje nije podržano kada je snimanje zvuka UKLJUČENO.</string>
+  <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržano kada je HDR UKLJUČEN.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Brzo uzastopno snimanje nije podržano kada ISO nije 'automatski'."</string>
   <string name="toast_start_audio_capture">Napravite zvuk na okidanju</string>
   <string name="undo">VRATI</string>
