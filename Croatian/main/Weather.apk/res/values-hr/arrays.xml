@@ -16,7 +16,7 @@
     </string-array>
     <string-array name="act_weather_main_listview_key">
         <item>Vjetar:</item>
-        <item>UV indeks:　</item>
+        <item>UV index:</item>
         <item>Odjeća:</item>
         <item>Komfor:</item>
         <item>Indeks autopraonica:</item>
@@ -142,7 +142,7 @@
     </string-array>
     <string-array name="weather_sms_addons">
         <item>"Današnja prognoza @: $."</item>
-        <item>Temp.: % stupnjeva</item>
+        <item>Min~Max: %.</item>
         <item>Ne zaboravite ponijeti kišobran!</item>
         <item>Pokušajte ostati suhi</item>
         <item>Ukoliko sušite odjeću vani, ne zaboravite je pospremiti! :)"</item>
@@ -291,7 +291,7 @@
         <item>Zaštitite se!</item>
         <item>Povjetarac</item>
         <item>Udobno</item>
-        <item>暂缺</item>
+        <item>N</item>
         <item>Nedostupno</item>
     </string-array>
 </resources>
