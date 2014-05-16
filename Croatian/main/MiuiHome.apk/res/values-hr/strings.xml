@@ -108,7 +108,6 @@
     <string name="emptyplaylist">Dodirnite za dodavanje pjesama</string>
     <string name="unknown_artist_name">Nepoznati izvođač</string>
     <string name="gadget_search_label">Traženje</string>
-    <string name="global_search_hint">Traženje</string>
     <string name="widget_global_search">Traženje</string>
     <string name="gadget_clear_button_label">Čistač</string>
     <string name="gadget_clock_label">Sat</string>
