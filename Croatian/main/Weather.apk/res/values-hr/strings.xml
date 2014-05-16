@@ -81,7 +81,6 @@
   <string name="location_allow_err">Neuspješno lociranje.</string>
   <string name="location_management">Mjesta</string>
   <string name="location_notification">Upozorenja vremena</string>
-  <string name="location_tag">Locirajte</string>
   <string name="menu_about">Oko</string>
   <string name="menu_add">Dodaj grad</string>
   <string name="menu_around">Okolni</string>
@@ -96,7 +95,6 @@
   <string name="menu_settings">Postavke</string>
   <string name="menu_share">Dijeli</string>
   <string name="menu_trend">Trend</string>
-  <string name="network_unavailable">Nema mreže</string>
   <string name="save_screen_shot_failed">Neuspjelo spremanje snimke zaslona.</string>
   <string name="selected_format">Odabrana %d stavka(e)</string>
   <string name="send_sms_notification">Proslijedi obavijest o vremenu</string>
@@ -133,7 +131,6 @@ Danas u %1$s je vrijeme %2$s, %3$s, %4$s. %5$s."</string>
   <string name="tip_weather_info_title_2">U %1$s današnja temperatura procjenjuje se na %2$s</string>
   <string name="trend_weather_today">Danas</string>
   <string name="trend_weather_tomorrow">Sutra</string>
-  <string name="weather_data_unreachable">"Nije moguće dobiti podatke o vremenu. Pokušajte ponovno kasnije."</string>
   <string name="weather_notification">Obavijest o vremenu</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
