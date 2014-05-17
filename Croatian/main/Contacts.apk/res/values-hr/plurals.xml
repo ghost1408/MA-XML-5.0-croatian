@@ -50,14 +50,6 @@
         <item quantity="zero">%1$d odabrano</item>
         <item quantity="one">%1$d odabran</item>
     </plurals>
-    <plurals name="group_add_success_toast">
-        <item quantity="other">" dodano %1$d kontakata "</item>
-        <item quantity="one">dodan %1$d kontakt</item>
-    </plurals>
-    <plurals name="smart_group_member_count">
-        <item quantity="other">%d ljudi</item>
-        <item quantity="one">1 osoba</item>
-    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">" %1$d odabrano"</item>
         <item quantity="zero">%1$d odabrano</item>
