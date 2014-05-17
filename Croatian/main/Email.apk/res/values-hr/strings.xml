@@ -19,7 +19,7 @@
   <string name="account_folder_list_summary_drafts">Skice</string>
   <string name="account_folder_list_summary_inbox">Pristigla pošta</string>
   <string name="account_folder_list_summary_outbox">Odlazna pošta</string>
-  <string name="account_folder_list_summary_starred">Započeto</string>
+  <string name="account_folder_list_summary_starred">Označeno zvjezdicom</string>
   <string name="account_name_toast">Naziv već postoji.</string>
   <string name="account_password_spaces_error">"Ova zaporka počinje ili završava jednim ili više znakova razmaka. Mnogi poslužitelji ne podržavaju zaporke s razmacima."</string>
   <string name="account_security_dialog_content_fmt">Račun %s zahtijeva da ažurirate svoje sigurnosne postavke.</string>
@@ -397,7 +397,7 @@
   <string name="mailbox_name_display_junk">Otpad</string>
   <string name="mailbox_name_display_outbox">Izlazna pošta</string>
   <string name="mailbox_name_display_sent">Poslano</string>
-  <string name="mailbox_name_display_starred">Oznaczone gwiazdką</string>
+  <string name="mailbox_name_display_starred">Označeno zvjezdicom</string>
   <string name="mailbox_name_display_trash">Smeće</string>
   <string name="mailbox_name_display_unread">Nepročitano</string>
   <string name="mailbox_settings_activity_title">Mogućnosti sinkronizacije</string>
@@ -432,7 +432,7 @@
   <string name="menu_att_mgr_order_sender">Poredaj po pošiljatelju</string>
   <string name="menu_att_mgr_order_size">Poredaj po veličini</string>
   <string name="menu_change_folders">Promijeni mape</string>
-  <string name="menu_compose">Sastavi</string>
+  <string name="menu_compose">Nova poruka</string>
   <string name="menu_folder_options">Opcije sinkronizacije</string>
   <string name="menu_manage_folders">Postavke mapa</string>
   <string name="menu_move_to">Premjesti u</string>
@@ -471,7 +471,7 @@ Kopija: %4$s
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Premještanje u drugu mapu</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
+  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;" %2$s"</string>
   <string name="mute">Isključi zvuk</string>
   <string name="name_or_number_is_error">Pogreška Korisničkog imena ili zaporke</string>
   <string name="net_check_title">Anomalija mreže, provjerite mrežu.</string>
@@ -605,7 +605,7 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="report">Prijava</string>
   <string name="report_phishing">Prijavite krađu identiteta</string>
   <string name="report_spam">Prijavite neželjenu poštu</string>
-  <string name="request_entity_large">Požadovaný súbor je príliš veľký!</string>
+  <string name="request_entity_large">Potrebna je datoteka prevelika!</string>
   <string name="require_manual_sync_message">Pozadinska sinkronizacija za ovaj račun onemogućena je u roamingu.</string>
   <string name="respond_inline">Odgovori u tekstu</string>
   <string name="resume_draft">Uredi</string>
