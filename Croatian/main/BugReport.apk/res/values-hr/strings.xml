@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_submit">Podnijeti</string>
-  <string name="app_label">Korisničko mišljenje</string>
+  <string name="app_label">Mišljenja</string>
   <string name="btn_send">Pošalji</string>
   <string name="bugreport_feedback_from">Od: %s</string>
   <string name="description">Opis (potreban)</string>

@@ -656,7 +656,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="seventy">70</string>
     <string name="valuation">Potrebno čišćenje</string>
     <string name="virus_scan">Skeniranje Virusa</string>
-    <string name="network_assistant">Potrošnja pod.</string>
+    <string name="network_assistant">Podaci</string>
     <string name="anti_spam">Lista blokiranih</string>
     <string name="permission_mgr">Dopuštenja</string>
     <string name="cleaner">Čistač</string>
@@ -1573,7 +1573,7 @@ Unesite PIN za uparivanje s \"%1$s"\. [Omogućena Visoka Sigurnost: Potreban klj
     <string name="wifi_unspecified">(nije određeno)</string>
     <string name="wifi_remembered">Spremljeno</string>
     <string name="wifi_disabled_generic">Onemogućeno</string>
-   <string name="wifi_disabled_network_failure">Izbjegavanje slabe internetske veze</string>
+    <string name="wifi_disabled_network_failure">Izbjegavanje slabe internetske veze</string>
     <string name="wifi_disabled_password_failure">Problem u autentifikaciji</string>
     <string name="wifi_not_in_range">Nije u rasponu</string>
     <string name="wifi_wps_available_first_item">WPS dostupan</string>

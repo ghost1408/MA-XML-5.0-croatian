@@ -12,7 +12,7 @@
         <item>Promet ovaj mjesec</item>
     </string-array>
     <string-array name="date_of_app_all">
-       <item>Jučer na 2G/3G</item>
+        <item>Jučer na 2G/3G</item>
         <item>Danas na 2G/3G</item>
         <item>Ovaj mjesec na 2G/3G</item>
         <item>Jučer na WLAN-u</item>
