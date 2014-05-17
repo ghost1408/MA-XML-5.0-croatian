@@ -1286,7 +1286,7 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
     <string name="dialog_title_auto_start_tips">O automatskom pokretanju</string>
     <string name="dialog_message_auto_start_tips">Neke sigurnosne aplikacije mogu pogrešno upućivati na to da im je MIUI spriječio pokretanje. Za provjeru odobrenih dopuštenja za pojedine aplikacije, idite na Postavke -> Aplikacije.</string>
     <string name="button_text_known">Znam</string>
-	<string name="date_picker_title">Datum</string>
+    <string name="date_picker_title">Datum</string>
     <string name="time_picker_title">Vrijeme</string>
     <string name="biometric_weak_improve_matching_title">Poboljšanje podudaranja lica</string>
     <string name="biometric_weak_liveliness_title">Provjera živosti</string>
@@ -2417,8 +2417,6 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
     <string name="print_printing_state_title_template">Ispis %1$s</string>
     <string name="print_cancelling_state_title_template">Otkazivanje %1$s</string>
     <string name="print_failed_state_title_template">Greška pisača %1$s</string>
-    <string name="accessibility_script_injection_security_warning_summary">Želite li da aplikacije instaliraju skripte iz Googlea da bi im web sadržaj bio pristupačniji?</string>
-    <string name="settings_button">Postavke</string>
     <string name="print_search_box_hidden_utterance">Okvir za pretraživanje sakriven</string>
     <string name="power_usage_summary_title">Baterija</string>
     <string name="power_usage_summary">Što troši bateriju</string>
@@ -2696,6 +2694,7 @@ Dodirni "<b>Natrag</b> za povezivanje s drugom WLAN mrežom.</string>
     <string name="sync_in_progress">Sinkronizacija u tijeku…</string>
     <string name="settings_backup">Sigurnosna kopija postavki</string>
     <string name="settings_backup_summary">Stvori sigurnosnu kopiju mojih postavki</string>
+    <string name="settings_button">Postavke</string>
     <string name="sync_menu_sync_now">Sinkroniziraj sada</string>
     <string name="sync_menu_sync_cancel">Otkaži sinkronizaciju</string>
     <string name="sync_one_time_sync">"Dodirnite da biste odmah sinkronizirali
@@ -2720,7 +2719,7 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
     <string name="cant_sync_dialog_title">"Nije moguća ručna sinkronizacija"</string>
     <string name="cant_sync_dialog_message">Sinkronizacija za tu stavku trenutačno je onemogućena. Da biste promijenili tu postavku, privremeno uključite pozadinske podatke i automatsku sinkronizaciju.</string>
     <string name="wimax_settings">4G</string>
-    <string name="wimax_settings_summary">Set up &amp; manage 4G network and modem</string>
+    <string name="wimax_settings_summary">Postavljanje &amp; upravljanje 4G mreže i modema</string>
     <string name="status_wimax_mac_address">4G MAC adresa</string>
     <string name="enter_password">Unesite zaporku za dešifriranje pohrane</string>
     <string name="try_again">Pokušajte ponovo.</string>
@@ -2766,6 +2765,8 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
     <string name="enable_traces_summary_all">Svi tragovi trenutno omogućeni</string>
     <string name="debug_layout">Prikaži granice izgleda</string>
     <string name="debug_layout_summary">Za isječak prikaži granice, margine itd.</string>
+    <string name="force_rtl_layout_all_locales">Forsiraj RTL smjer izgleda</string>
+    <string name="force_rtl_layout_all_locales_summary">Forsiraj smjer izgleda zaslona na RTL-u za sva mjesta</string>
     <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
     <string name="show_cpu_usage_summary">Dodatni sloj zaslona koji prikazuje trenutačnu upotrebu procesora</string>
     <string name="force_hw_ui">Prisilno GPU renderiranje</string>
@@ -2776,7 +2777,7 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
     <string name="track_frame_time_summary">Mjeri vrijeme rendiranja u adb shell dumpsys gfxinfo</string>
     <string name="window_animation_scale_title">Razmjer animacije prozora</string>
     <string name="transition_animation_scale_title">Razmjer animacije prijelaza</string>
-	<string name="translation_contributors_title">Autori prijevoda</string>
+    <string name="translation_contributors_title">Autori prijevoda</string>
     <string name="animator_duration_scale_title">Skala trajanja animacije</string>
     <string name="overlay_display_devices_title">Simuliraj sekundarni zaslon</string>
     <string name="debug_applications_category">Aplikacije</string>
@@ -3264,7 +3265,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="headset_calibrate_wrong_key">"To je krivi gumb"</string>
     <string name="sim_change_failed_enable_sim_lock">Omogući zaključavanje SIM kartice</string>
     <string name="sim_lock_change_not_supported">"Nemoguće promijeniti zaključavanje SIM kartice.
-     SIM ne podržava promjenu."</string>
+SIM ne podržava promjenu."</string>
     <string name="apn_new">Nova pristupna točka</string>
     <string name="apn_save">Spremi?</string>
     <string name="apn_save_msg">Spremiti promjene za APN?</string>
@@ -3388,14 +3389,6 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="dirac_mode_piston_2">Xiaomi klipne slušalice-2</string>
     <string name="dirac_mode_piston_youth">Xiaomi klipne slušalice-youth</string>
     <string name="dirac_mode_general">Općenito</string>
-	<string name="msd_pc_system_install_start_summary_vista">"Za Windows Vista i novije verzije sustava Windows, 
-%1$s automatski će se pojaviti kao USB memorija"</string>
-    <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s pojavit će se kao USB uređaj
-za masovnu pohranu kod spajanja na računalo."</string>
-    <string name="msd_pc_system_install_finish_summary_xp">"Nakon što instalirate ovaj upravljački program
-%1$s pojavit će se kao USB uređaj za masovnu pohranu kod spajanja na računalo."</string>
-    <string name="msd_pc_system_install_finish_summary_vista">"Za Windows Vista i novije verzije sustava Windows,
-%1$s Glazbeni player će se pojaviti na vašem računalu automatski"</string>
     <string name="equalizer">EQ</string>
     <string name="wifi_menu_wfd">WLAN zaslon</string>
     <string name="wfd_settings_title">WLAN zaslon</string>
@@ -3420,6 +3413,14 @@ Odaberite operativni sustav vašeg računala:"</string>
     <string name="msd_install_next">Dalje</string>
     <string name="msd_install">Ponovo instaliraj upravljački program.</string>
     <string name="msd_install_finish">U redu</string>
+    <string name="msd_pc_system_install_start_summary_vista">"Za Windows Vista i novije verzije sustava Windows, 
+%1$s automatski će se pojaviti kao USB memorija"</string>
+    <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s pojavit će se kao USB uređaj
+za masovnu pohranu kod spajanja na računalo."</string>
+    <string name="msd_pc_system_install_finish_summary_xp">"Nakon što instalirate ovaj upravljački program
+%1$s pojavit će se kao USB uređaj za masovnu pohranu kod spajanja na računalo."</string>
+    <string name="msd_pc_system_install_finish_summary_vista">"Za Windows Vista i novije verzije sustava Windows,
+%1$s Glazbeni player će se pojaviti na vašem računalu automatski"</string>
     <string name="msd_install_windows_xp_step_2_1">Slijedite korake u Čarobnjaku za postavljanje radi dovršenja instalacije.</string>
     <string name="msd_install_retry_windows_xp">"Ako računalo ne može detektirati vaš uređaj,
 Pokušajte sljedeće:
