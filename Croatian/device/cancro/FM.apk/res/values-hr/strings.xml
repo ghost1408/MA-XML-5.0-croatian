@@ -69,7 +69,6 @@
   <string name="menu_rename_list">Preimenuj popis</string>
   <string name="menu_reorder_list">Poredaj popis</string>
   <string name="menu_save_station_list">Spremi postaju</string>
-  <string name="menu_save_station_list">Dodaj na popis</string>
   <string name="menu_save_station_presets">Dodaj u favorite</string>
   <string name="menu_scan_for_preset">Skeniraj postaje</string>
   <string name="menu_scan_start">Početak</string>
@@ -108,7 +107,6 @@
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Klikni za prikaz datoteke %s</string>
   <string name="record_sucess">Snimanje završeno</string>
-  <string name="record_completed">Snimanje završeno</string>
   <string name="regional_band">Regionalna Frekvencija će izbrisati sve spremljene postaje</string>
   <string name="search_dialog_title">Skeniraj postaje</string>
   <string name="sel_band_menu">Odaberite Regionalnu Frekvenciju</string>
