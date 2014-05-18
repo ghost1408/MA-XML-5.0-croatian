@@ -2,9 +2,9 @@
 <resources>
     <string name="remote_service_stopped">Daljinska usluga je zaustavljena</string>
     <string name="app_name">DS</string>
-    <string name="name_widget_extra_large">DS 6 Profil Widget</string>
-    <string name="name_widget_large">DS 3 Profil Widget</string>
-    <string name="name_widget_small">DS Uklj./Isklj. Widget</string>
+    <string name="name_widget_extra_large">DS 6 Profil</string>
+    <string name="name_widget_large">DS 3 Profil</string>
+    <string name="name_widget_small">DS Uklj./Isklj.</string>
     <string name="movie">Film</string>
     <string name="music">Glazba</string>
     <string name="game">Igra</string>
