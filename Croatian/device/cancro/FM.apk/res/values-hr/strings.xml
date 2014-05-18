@@ -25,7 +25,7 @@
   <string name="context_menu_item_favorite">Dodaj u mem.postaje</string>
   <string name="context_menu_item_unfavorite">Ukloni iz mem.postaja</string>
   <string name="default_audio">Stereo</string>
-  <string name="default_band">Sjedinjene Države</string>
+  <string name="default_band">Europa/Zagreb</string>
   <string name="default_blank"/>
   <string name="default_station">FM</string>
   <string name="delete_station_title">Izbrisati</string>
@@ -105,12 +105,8 @@
   <string name="record_fail">Snimanje nije uspjelo</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Klikni za prikaz datoteke %s</string>
-<<<<<<< HEAD
   <string name="record_sucess">Snimanje uspjelo</string>
   <string name="record_completed">Snimanje završeno</string>
-=======
-  <string name="record_sucess">Snimanje završeno</string>
->>>>>>> 5034b0adaa61113407425e662cea0708df260ab9
   <string name="regional_band">Regionalna Frekvencija će izbrisati sve spremljene postaje</string>
   <string name="search_dialog_title">Skeniraj postaje</string>
   <string name="sel_band_menu">Odaberite Regionalnu Frekvenciju</string>

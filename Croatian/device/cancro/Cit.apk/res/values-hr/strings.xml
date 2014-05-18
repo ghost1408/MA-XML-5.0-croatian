@@ -28,13 +28,8 @@ Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste �
 Okrenite telefon, govorite u gornji mikrofon, trebali biste čuti glas u zvučniku"</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje gornjeg mikrofona povratne informacije zvučnika</string>
     <string name="cit_audio_loopback_check_one_title">Testiranje mikrofona za slušanje</string>
-<<<<<<< HEAD
     <string name="cit_audio_loopback_check_summary_first">Testiranje će se obaviti povratnom petljom glavnog mikrofona
 Držite telefon kao da razgovarate, pričajte u glavni mikrofon i trebali biste čuti glas iz prijemnika."</string>
-  
-=======
-    <string name="cit_audio_loopback_check_summary_first">Testiranje će se obaviti povratnom petljom glavnog mikrofona</string>
->>>>>>> 5034b0adaa61113407425e662cea0708df260ab9
    <string name="cit_audio_loopback_check_summary_second">"Testiranje drugog zvučnika mikrofona.
 
 Uključite telefon, tako da ulaz za slušalice bude okrenut prema dolje. Govorite u prijemnik. Trebali bi čuti vaš glas kroz vanjski zvučnik."</string>
@@ -206,11 +201,7 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_start_calibration">Započni kalibraciju</string>
   <string name="cit_stop_calibration">Zaustavi kalibraciju</string>
   <string name="cit_tool">Alati</string>
-<<<<<<< HEAD
   <string name="cit_tool_bluetooth">Testni alati Bluetootha</string>
-=======
-  <string name="cit_tool_bluetooth">Nástroje Bluetooth</string>
->>>>>>> 5034b0adaa61113407425e662cea0708df260ab9
   <string name="cit_tool_bluetooth_le_tx_h">Bluetooth test (2.480GHz)</string>
   <string name="cit_tool_bluetooth_le_tx_l">Bluetooth test (2.402GHz)</string>
   <string name="cit_tool_bluetooth_mode">Testni način Bluetootha</string>
