@@ -2,7 +2,7 @@
 <resources>
   <string name="cit_OTG_plugin_check_summary">Ovo testiranje će otkriti OTG uređaj.</string>
   <string name="cit_OTG_plugin_check_title"> Pokreni Testiranje OTG-a</string>
-  <string name="cit_OTG_plugout_check_summary"> Ovo testiranje će detektirati stanje priključenog OTG uređaja.</string>
+  <string name="cit_OTG_plugout_check_summary"> Ovo testiranje će otkriti stanje priključenog OTG uređaja.</string>
   <string name="cit_OTG_plugout_check_title">OTG Izvučen</string>
   <string name="cit_OTG_waiting_in">Umetnite USB_OTG uređaj.</string>
   <string name="cit_OTG_waiting_out">Isključite USB_OTG uređaj.</string>
@@ -28,7 +28,7 @@ Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste �
 Okrenite telefon, govorite u gornji mikrofon, trebali biste čuti glas u zvučniku"</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje gornjeg mikrofona povratne informacije zvučnika</string>
     <string name="cit_audio_loopback_check_one_title">Testiranje mikrofona za slušanje</string>
-    <string name="cit_audio_loopback_check_summary_first">Testiranje će se obaviti povratnom petljom glavnog mikrofona</string>
+    <string name="cit_audio_loopback_check_summary_first">Testiranje će se obaviti povratnom petljom glavnog mikrofona
 Držite telefon kao da razgovarate, pričajte u glavni mikrofon i trebali biste čuti glas iz prijemnika."</string>
   
    <string name="cit_audio_loopback_check_summary_second">"Testiranje drugog zvučnika mikrofona.
@@ -82,8 +82,8 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_fm_check_title">Testiranje FM Radio</string>
   <string name="cit_fm_close">Isključite Radio</string>
   <string name="cit_fm_not_supported">Vaš uređaj ne podržava FM Radio</string>
-    <string name="cit_fm_open_1">FM - 88.5</string>
-    <string name="cit_fm_open_2">FM - 107.9</string>
+  <string name="cit_fm_open_1">FM - 88.5</string>
+  <string name="cit_fm_open_2">FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Omogućivanje Bluetootha...</string>
   <string name="cit_fm_start_service">Omogući Radio</string>
   <string name="cit_front_camera_check_summary">"Koraci testiranja:
@@ -98,8 +98,8 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_gps_disabled">"GPS nije omogućen, 
   uključite GPS iz prečaca"</string>
   <string name="cit_gps_satellite_count">GPS Sateliti: %d</string>
-    <string name="cit_gps_satellite_prn">PRN: %s</string>
-    <string name="cit_gps_satellite_snr">SNR: %s</string>
+  <string name="cit_gps_satellite_prn">PRN: %s</string>
+  <string name="cit_gps_satellite_snr">SNR: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Vrijednosti senzora žiroskopa X, Y, Z koordinata</string>
   <string name="cit_gyroscope_sensor_check_title">Testiranje Žiroskopa</string>
   <string name="cit_headset_button_check_summary">Testiranje će prikazati trenutno odabranu tipku na slušalicama kada se pritisne</string>
@@ -109,7 +109,7 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_headset_button_fast_forward">Naprijed</string>
   <string name="cit_headset_button_next">Dalje</string>
   <string name="cit_headset_button_pass">Uspješno</string>
-  <string name="cit_headset_button_play_pause">Reproduciraj / Pauza</string>
+  <string name="cit_headset_button_play_pause">Reproduciraj/Pauza</string>
   <string name="cit_headset_button_previous">Prethodno</string>
   <string name="cit_headset_button_rewind">Natrag</string>
   <string name="cit_headset_button_stop">Zaustavi</string>
@@ -148,7 +148,6 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
  3. Kliknite na popis slika
  4. Kliknite gumb "U redu", to će automatski spremiti sliku
  5. Provjerite da li slika prikazana ispravno, a zatim je izbrišite</string>
-
   <string name="cit_main_camera_check_title">Testiranje Fotoaparata (glavna kamera)</string>
   <string name="cit_name">Otkrivanje Hardvare-a</string>
   <string name="cit_not_available">Korisničko verzija ne podržava ovaj test, jedino je tvornička verzija testiranja dostupna</string>
@@ -166,7 +165,7 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_pressure_sensor_check_summary">Provjerite vrijednost senzor tlaka</string>
   <string name="cit_pressure_sensor_check_title">Testiranje Senzora tlaka</string>
   <string name="cit_proximity_sensor_check_summary">Prekrijte senzor blizine telefona prstom, 
-  informacije prikazane su od 0.0 (pokriveno)) pa naviše po veličini</string>
+informacije prikazane su od 0.0 (pokriveno)) pa naviše po veličini</string>
   <string name="cit_proximity_sensor_check_title">Testiranje senzora blizine</string>
   <string name="cit_reset_check_summary">Ovo testiranje obavlja ponovno pokretanje sustava</string>
   <string name="cit_reset_check_title">Testiranje Resetiranja</string>
@@ -174,8 +173,8 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_sd_fail">Neuspješno čitanje SD kartice, radnja nije uspjela</string>
   <string name="cit_sd_mount">Učitavanje SD kartice</string>
   <string name="cit_sd_mount_sucess">Uspješno učitana SD kartica</string>
-  <string name="cit_sd_mp3_not_existed">"Music.mp3 datoteka se ne može naći u root-u SD kartice, 
-  dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
+  <string name="cit_sd_mp3_not_existed">"Datoteka music.mp3 se ne može naći u root-u SD kartice, 
+dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_sd_plugged_in">SD kartica učitana, uklonite SD kartice</string>
   <string name="cit_sd_plugged_out">SD kartica nije učitana, učitajte SD karticu</string>
   <string name="cit_sd_plugin_check_summary">Ovo testiranje će otkriti učitano stanje SD kartice, na zaslonu će se prikazati "SD kartica je učitana"</string>
@@ -203,7 +202,6 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_start_calibration">Započni kalibraciju</string>
   <string name="cit_stop_calibration">Zaustavi kalibraciju</string>
   <string name="cit_tool">Alati</string>
-  <string name="cit_tool_bluetooth">Nástroje Bluetooth</string>
   <string name="cit_tool_bluetooth">Testni alati Bluetootha</string>
   <string name="cit_tool_bluetooth_le_tx_h">Bluetooth test (2.480GHz)</string>
   <string name="cit_tool_bluetooth_le_tx_l">Bluetooth test (2.402GHz)</string>
@@ -215,7 +213,7 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_tool_bluetooth_tx_l">Bluetooth test（2.402GHz)</string>
   <string name="cit_tool_log">Zapisi</string>
   <string name="cit_tool_log_bugreport">Izvješće grešaka</string>
-    <string name="cit_tool_log_dmesg">DMESG</string>
+  <string name="cit_tool_log_dmesg">DMESG</string>
   <string name="cit_tool_log_file_not_exist">%s ne postoji</string>
   <string name="cit_tool_log_generate_bugreport">Stvaranje izvješće grešaka...</string>
   <string name="cit_tool_log_kmsg">Zapis zadnjeg kernela</string>
@@ -227,85 +225,85 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_tool_log_toast_generate_bugreport">Stvaranje izvješće grešaka može potrajati do 10 sekundi</string>
   <string name="cit_tool_modem">MODEM Test</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
-  <string name="cit_tool_modem_exit_ftm">Ukončiť</string>
-  <string name="cit_tool_modem_offline_log">Otvoriť/Zatvoriť Offline Log</string>
+  <string name="cit_tool_modem_exit_ftm">Zatvori</string>
+  <string name="cit_tool_modem_offline_log">Otvori/Zatvori Offline Log</string>
   <string name="cit_tool_nfc">NFC Test</string>
-    <string name="cit_tool_nfc_st">NFC ST:</string>
-    <string name="cit_tool_nfc_st_confreq">Freq:</string>
-  <string name="cit_tool_nfc_st_run">Spustiť</string>
-  <string name="cit_tool_nfc_st_stop">Zastaviť</string>
+  <string name="cit_tool_nfc_st">NFC ST:</string>
+  <string name="cit_tool_nfc_st_confreq">Freq:</string>
+  <string name="cit_tool_nfc_st_run">Pokreni</string>
+  <string name="cit_tool_nfc_st_stop">Zaustavi</string>
   <string name="cit_tool_wifi">Alati testiranja WLAN-a</string>
-    <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
-    <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
-    <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
-    <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
-    <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
-    <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
-    <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
-    <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
-    <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
-    <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
-    <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
-    <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
-    <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
-    <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
-    <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
-    <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
-  <string name="cit_tool_wifi_band_24">sieť: 2.4G</string>
-  <string name="cit_tool_wifi_band_5">sieť: 5G</string>
-  <string name="cit_tool_wifi_band_change">Ďalej</string>
+  <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
+  <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
+  <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
+  <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
+  <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
+  <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
+  <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
+  <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
+  <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
+  <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
+  <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
+  <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
+  <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
+  <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
+  <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
+  <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
+  <string name="cit_tool_wifi_band_24">mreža: 2.4G</string>
+  <string name="cit_tool_wifi_band_5">mreža: 5G</string>
+  <string name="cit_tool_wifi_band_change">Dalje</string>
   <string name="cit_tool_wifi_exit">Izlaz</string>
-    <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
-    <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
-    <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
-    <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
-    <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
-    <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
-    <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
-    <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
-    <string name="cit_tool_wifi_rx_1">Rx:1</string>
-    <string name="cit_tool_wifi_rx_100">Rx:100</string>
-    <string name="cit_tool_wifi_rx_13">Rx:13</string>
-    <string name="cit_tool_wifi_rx_165">Rx:165</string>
-    <string name="cit_tool_wifi_rx_36">Rx:36</string>
-    <string name="cit_tool_wifi_rx_7">Rx:7</string>
-    <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
+  <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
+  <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
+  <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
+  <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
+  <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
+  <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
+  <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
+  <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
+  <string name="cit_tool_wifi_rx_1">Rx:1</string>
+  <string name="cit_tool_wifi_rx_100">Rx:100</string>
+  <string name="cit_tool_wifi_rx_13">Rx:13</string>
+  <string name="cit_tool_wifi_rx_165">Rx:165</string>
+  <string name="cit_tool_wifi_rx_36">Rx:36</string>
+  <string name="cit_tool_wifi_rx_7">Rx:7</string>
+  <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
   <string name="cit_tool_wifi_rx_ap_name">Naziv pristupne točke</string>
   <string name="cit_tool_wifi_rx_ap_not_null">Naziv pristupne točke ne može biti prazno</string>
   <string name="cit_tool_wifi_rx_ap_type">Vrsta pristupne točke</string>
   <string name="cit_tool_wifi_rx_ap_type_error">Greška pristupne točke, ponovo unesite bss / adhoc detalje</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Kanal</string>
   <string name="cit_tool_wifi_rx_count_error">Izlazna vrijednost nije broj</string>
-    <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
+  <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
   <string name="cit_tool_wifi_rx_error">Došlo je do pogreške</string>
   <string name="cit_tool_wifi_rx_exit">Rx:izlaz</string>
   <string name="cit_tool_wifi_rx_run">Pokreni</string>
   <string name="cit_tool_wifi_rx_stop">Zaustavi</string>
   <string name="cit_tool_wifi_rx_total_format">Preneseno: %s</string>
-    <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
-    <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
-    <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
-    <string name="cit_tool_wifi_rxn_test">Rx:N</string>
-    <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
-    <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
-    <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
+  <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
+  <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
+  <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
+  <string name="cit_tool_wifi_rxn_test">Rx:N</string>
+  <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
+  <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
+  <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
   <string name="cit_tool_wifi_tx_bg_chan">Kanal:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">TX energija:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">Brzina prijenosa:</string>
   <string name="cit_tool_wifi_tx_n">Tx: N</string>
-    <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">propusnost:</string>
   <string name="cit_tool_wifi_tx_n_chan">Kanal:</string>
   <string name="cit_tool_wifi_tx_n_txpr">TX Energija:</string>
   <string name="cit_tool_wifi_tx_n_txrt">MCS:</string>
-    <string name="cit_tool_wifi_tx_st">Tx: ST</string>
-    <string name="cit_tool_wifi_tx_st_chan">Kanál:</string>
+  <string name="cit_tool_wifi_tx_st">Tx: ST</string>
+  <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
   <string name="cit_torch_off">Isključite svjetiljku</string>
   <string name="cit_torch_on">Uključite svjetiljku</string>
-    <string name="cit_touch_calib_fail">Kalibrácia zlyhala</string>
-    <string name="cit_touch_calib_instruction">Kalibrovať</string>
-    <string name="cit_touch_calib_pass">Kalibrácia je úspešne dokončená</string>
-    <string name="cit_touch_calib_summary">Nasledujúce kroky dokončia kalibráciu dotykov, stlačte OK, nedotýkajte sa displeja kým sa kalibrácia nedokončí</string>
-    <string name="cit_touch_calib_title">Kalibrácia dotykov</string>
+  <string name="cit_touch_calib_fail">Kalibracija uspjela</string>
+  <string name="cit_touch_calib_instruction">Kalibracija</string>
+  <string name="cit_touch_calib_pass">Kalibracija je uspješno završena</string>
+  <string name="cit_touch_calib_summary">Sljedeći korak potpune kalibracije na dodir, pritisnite tipku OK, ne dodirujte zaslon dok kalibracija nije dovršena</string>
+  <string name="cit_touch_calib_title">Kalibracija na dodir</string>
   <string name="cit_usb_OTG_in"> USB_OTG uređaj spojen </string>
   <string name="cit_usb_OTG_out"> USB_OTG oprema nije priključena.</string>
   <string name="cit_usb_charger_in">USB punjač priključen</string>
@@ -318,7 +316,7 @@ Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi
   <string name="cit_vga_camera_deleted">Fotografija je izbrisana</string>
   <string name="cit_vibrator_check_summary">Testiranje će obaviti provjeru vibracije (dugo i kratko)</string>
   <string name="cit_vibrator_check_title">Testiranje vibracije</string>
-    <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
+  <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
   <string name="cit_vibrator_haptic">Haptička povratna informacija</string>
   <string name="cit_vibrator_load_down_pattern">Uzorak dolje</string>
   <string name="cit_vibrator_load_up_pattern">Uzorak gore</string>
