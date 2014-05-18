@@ -37,7 +37,7 @@
   <string name="btnplayerselect">Odaberi kanal</string>
   <string name="buffering">Međupohrana…</string>
   <string name="buffering_video_netplay_label_v5">Predmemoriranje…</string>
-  <string name="cancel">Otkaži</string>
+  <string name="cancgel">Otkaži</string>
   <string name="channel_all_empty_hint">"Nema videozapisa"</string>
   <string name="button_film">Film</string>
   <string name="channel_choice_empty_hint">"Nema popularnih videozapisa"</string>
