@@ -2732,7 +2732,6 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
     <string name="disable_overlays_summary">Odaberite omogućene tragove</string>
     <string name="enable_traces_title">Omogućite tragove</string>
     <string name="enable_traces_dialog_title">Odaberite omogućene tragove</string>
-    <string name="show_hw_overdraw_summary">Od najbolje do najgore: plava, zelena, svijetlo crvena, crvena</string>
     <string name="enable_traces_summary_none">Nema trenutno omogućenih tragova</string>
     <string name="enable_traces_summary_num">%1$d trenutno omogućenih tragova</string>
     <string name="enable_traces_summary_all">Svi tragovi trenutno omogućeni</string>
@@ -3472,7 +3471,6 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="wps_category">WPS</string>
     <string name="wps_connect_title">Poveži WPS</string>
     <string name="wps_connect_summary">Provjerite da usmjerivač podržava te ima omogućen WPS</string>
-    <string name="retry">Pokušajte ponovo</string>
     <string name="brightness_auto_adjust_off">Svjetlina zaslona će ostati stalna u svim okruženjima</string>
     <string name="brightness_auto_adjust_on">Svjetlina zaslona će varirati u odnosu na količinu svjetla u vašem okruženju</string>
     <string name="private_sms_need_to_unlock">Potrebna je zaporka:</string>
@@ -3487,7 +3485,6 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="next_button_label">Dalje</string>
     <string name="internal_media_format_final_desc">"Izbrisati unutarnju pohranu? Radnja se ne može poništiti!! Uređaj će se ponovo pokrenuti nakon brisanja unutarnje pohrane!"</string>
     <string name="internal_media_format_desc">Izbrisati unutarnju pohranu? Svi <b>vaši</b> podaci će biti izbrisani, uređaj će se ponovo pokrenuti!</string>
-    <string name="internal_media_format_button_text">Izbrisati unutarnju pohranu</string>
     <string name="internal_media_format_title">Izbriši unutarnju pohranu</string>
     <string name="internal_format">Izbriši unutarnju pohranu</string>
     <string name="internal_format_summary">Izbriši sve podatke s unutarnje pohrane, npr. glazbu,slike</string>
@@ -3514,10 +3511,6 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="wifi_signal_found_msg">Trenutni signal veza je slab, želite koristiti neki drugi WLAN mrežu?</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Uvjerite se da se uređaji dodiruju, zatim dodirnite sadržaj koji želite poslati.</string>
-    <string name="bt_hci_snoop_log">Enable Bluetooth HCI snoop log</string>
-    <string name="bt_hci_snoop_log_summary">Capture all bluetooth HCI packets in a file</string>
-    <string name="bt_trace_log">Enable Bluetooth Trace log</string>
-    <string name="bt_trace_log_summary">Enable Bluetooth trace log</string>
     <string name="wifi_share">Dijeli WLAN</string>
     <string name="wifi_share_turn_on">Uključeno</string>
     <string name="wifi_share_turn_off">Isključeno</string>
@@ -3626,7 +3619,6 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="preferred_app_settings">Postavke zadane aplikacije</string>
     <string name="preferred_app_settings_default">Zadano</string>
     <string name="preferred_app_settings_reset">Obnovi zadano</string>
-    <string name="preferred_app_settings_reset_message">Sve zadane aplikacija će se vratiti na MIUI podešavanja</string>
     <string name="preferred_app_settings_reset_message">Sve zadane aplikacija će se vratiti na MIUI podešavanja</string>
     <string name="miracast_settings_category">Postavke prikaza WLAN-a</string>
     <string name="miracast_display_category">Zasloni</string>
