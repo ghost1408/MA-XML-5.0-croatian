@@ -123,7 +123,7 @@
   <string name="have_no_cameravideo">Nema videozapisa</string>
   <string name="have_no_offlinemedia">Prazno</string>
   <string name="hide_media">Skriveno</string>
-  <string name="hided_cannot_favorite">"Neie moguće označiti skrivene stavke"</string>
+  <string name="hided_cannot_favorite">"Nije moguće označiti skrivene stavke"</string>
   <string name="hint_can_not_get_source_info">"Nije moguće pronaći informacije o videozapisu</string>
   <string name="hint_without_selected_set">Nema odabranog izvora, automatsko pronalaženje izvora...</string>
   <string name="icntv">iCNTV</string>
