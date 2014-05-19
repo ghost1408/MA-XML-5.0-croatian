@@ -43,6 +43,7 @@
   <string name="channel_choice_empty_hint">"Nema popularnih videozapisa"</string>
   <string name="button_show">Prikaži</string>
   <string name="button_sport">Sport</string>
+  <string name="cancel">Odustani</string>
   <string name="cancel_favorite">Odznači</string>
   <string name="cancel_hide">Prikaži</string>
   <string name="cancel_select_all">Poništiti sve</string>
@@ -254,6 +255,8 @@
   <string name="quarter_bell_alert_message_cancel">"Nakon ukidanja rezervacije, nećete dobiti podsjetnik prije početka programa"</string>
   <string name="quarter_bell_alert_title">upozorenje</string>
   <string name="rank">Ocjena</string>
+  <string name="receive_ad_notify">Funkcija obavijesti/push poruka</string>
+  <string name="receive_ad_notify_summary">Nakon otvaranja, obavijest za primanje najnovijih i popularnih videozapisa</string>
   <string name="recentplay">Zadnje reproducirano</string>
   <string name="recommendation">Što vam se sviđa</string>
   <string name="reloading_tip">"Nije moguće povezivanje s mrežom"</string>
@@ -314,6 +317,8 @@
   <string name="video_info_length_label">Trajanje:</string>
   <string name="video_info_resolution_label">Rezolucija:</string>
   <string name="video_info_video_coding_label">Format kodiranja video zapisa:</string>
+  <string name="video_library">Video</string>
+  <string name="view_all_reviews">Prikaži %d komentar</string>
   <string name="vp_VideoView_error_button">U redu</string>
   <string name="vp_VideoView_error_network_not_available">Mreža nije dostupna</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Nažalost, ovaj videozapis nije moguće prikazati na vašem uređaju</string>
