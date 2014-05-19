@@ -45,4 +45,9 @@
         <item>Veliki tekst</item>
         <item>Ogroman tekst</item>
 	</string-array>
+	<string-array name="general_preference_auto_advance_summary_array">
+        <item>Idi na noviju poruku nakon brisanja poruke</item>
+        <item>Idi na stariju poruku nakon brisanja poruke</item>
+        <item>Idi na pristiglu poštu nakon brisanja poruke</item>
+    </string-array>
 </resources>
