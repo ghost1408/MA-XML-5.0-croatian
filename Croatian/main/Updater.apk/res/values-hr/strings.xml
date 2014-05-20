@@ -41,7 +41,7 @@
   <string name="dialog_no">Ne</string>
   <string name="dialog_ok">U redu</string>
   <string name="dialog_yes">Da</string>
-  <string name="download_current_rom">Preuzmite zadnji gotovi ROM</string>
+  <string name="download_current_rom">Preuzmite zadnju MIUI verziju</string>
   <string name="download_ota_rom">Preuzmite OTA ažuriranje (%s)</string>
   <string name="download_whole_rom">Pruzimanje gotovog ROM-a (%s)</string>
   <string name="downloading_description">Preuzimanje...</string>
@@ -56,11 +56,11 @@
   <string name="finish">Završeno</string>
   <string name="finish_download">Preuzimanje završeno</string>
   <string name="fourgrid_hint_text">Hvala vam na korištenju developer izdanja MIUI-a.Kažite nam svoje mišljenje i pomozite nam da MIUI bude bolji Android ROM!</string>
-  <string name="fourgrid_no_notificaiont">"Ne prikazati u status baru"</string>
-  <string name="fourgrid_notificaiont">Pokaži u status baru</string>
+  <string name="fourgrid_no_notificaiont">"Ne prikazuj u status baru"</string>
+  <string name="fourgrid_notificaiont">Prikaži u status baru</string>
   <string name="get_update_error">Neuspjelo dobivanje informacije ažuriranja</string>
   <string name="install_email">Instaliraj program E-pošte</string>
-  <string name="install_file_explorer">instalirajte explorer datoteka</string>
+  <string name="install_file_explorer">Instalirajte MIUI explorer datoteka</string>
   <string name="install_qq">Instaliraj QQ aplikaciju</string>
   <string name="install_rom_from_sd">Odaberite instalacijski paket</string>
   <string name="install_whole_rom">Preporuka je preuzimanje gotovog ROM paketa</string>
@@ -90,9 +90,9 @@
   <string name="new_updates_found_notification_title">Otkriveno je ažuriranje sustava!</string>
   <string name="new_updates_found_title">Dostupna nova ažuriranja</string>
   <string name="next">Sljedeće</string>
-  <string name="no_proper_updates">Nema dostupnih ažuriranja za trenutno instaliranu verziju</string>
+  <string name="no_proper_updates">Nema dostupnih ažuriranja za trenutno instaliranu MIUI verziju</string>
   <string name="no_updatecheck_executed">Provjera ažuriranja nije provedena</string>
-  <string name="no_updates_found">Već imate instaliranu najnoviju verziju MIUI :-)</string> 
+  <string name="no_updates_found">Već imate instaliranu najnoviju verziju MIUI</string> 
   <string name="no_updates_warning">Nema dostupnih ažuriranja za vaš telefon</string>
   <string name="no_updates_warning2">Aplikacija će vas obavijestiti o budućim ažuriranjima</string>
   <string name="not_recommend">"Nije preporučljivo"</string>
@@ -119,16 +119,19 @@
   <string name="share_update">Dijeli informaciju ažuriranja sustava</string>
   <string name="share_update_content_sign">Nadogradio sam MIUI na %1$s! Korisnički nivo mog ažuriranja je %2$s. Za detaljnije informacije, posjetite %3$s</string>
   <string name="share_update_content_unsign">Nadogradio sam MIUI na %1$s! Za detaljnije informacije, posjetite %2$s</string>
-  <string name="sign_in_add_account">Molimo da aktivirate svoj ​​Xiaomi račun</string>
-  <string name="sign_in_add_account_helper">Vaš telefon nema aktivan MIUI račun, dodajte jedan za primanje korisničkih bodova</string>
-  <string name="sign_in_info">"Vaš nivo ažuriranja je %1$s %2$s korisnika se prijavilo u MIUI %3$s"</string>
-  <string name="sign_in_info_rank_more">"Vaš nivo ažuriranja je nakon %1$s Preko %2$s korisnika se prijavilo u MIUI %3$s"</string>
-  <string name="sign_in_info_total_more">"Vaš nivo ažuriranja je %1$s Preko %2$s korisnika se prijavilo u MIUI %3$s"</string>
+  <string name="sign_in_add_account">Aktivirajte svoj ​​Xiaomi račun</string>
+  <string name="sign_in_add_account_helper">Primite MI bodove kada napravite Xiaomi račun</string>
+  <string name="sign_in_info">"Vaš nivo ažuriranja je %1$s 
+%2$s korisnika se već prijavilo u MIUI %3$s"</string>
+  <string name="sign_in_info_rank_more">"Vaš nivo ažuriranja je %1$s 
+Preko %2$s korisnika se već prijavilo u MIUI %3$s"</string>
+  <string name="sign_in_info_total_more">"Vaš nivo ažuriranja je %1$s 
+Preko %2$s korisnika se već prijavilo u MIUI %3$s"</string>
   <string name="sina_share_fail">Slanje nije uspjelo!</string>
   <string name="sina_share_pendding">Slanje...</string>
   <string name="sina_share_success">Slanje uspjelo!</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao, povežite se ponovo</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid, please reconnect</string>
+  <string name="sina_token_invalid_warning">Weibo račun je istekao, povežite se ponovo</string>
   <string name="stable_build">Stabilno izdanje</string>
   <string name="start_update">Početak ažuriranja</string>
   <string name="submit">Potvrdi</string>
@@ -166,7 +169,7 @@
   <string name="view_install_log">Prikaži zapis grešaka</string>
   <string name="view_upgrade_tutorial">Prikaži tutorijal</string>
   <string name="weekly_build">Tjedno izdanje</string>
-  <string name="wifi_not_available_body">Preporuka je koristiti WLAN za preuzimanje ažuriranja jer datoteka može biti velika. Trenutno ne koristite WLAN, sigurno želite nastaviti?</string>
+  <string name="wifi_not_available_body">Preporuka je koristiti WLAN za preuzimanje MIUI ažuriranja jer datoteka može biti velika a mogu potrošiti puno mobilnih podataka.</string>
   <string name="wifi_not_available_title">WLAN nije povezan</string>
   <string name="worst_update">3. Najgore ažuriranje</string>
 </resources>
