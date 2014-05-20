@@ -94,7 +94,7 @@
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Odmah</item>
-	<item>5 sekundi</item>
+	    <item>5 sekundi</item>
         <item>15 sekundi</item>
         <item>30 sekundi</item>
         <item>1 minuta</item>
@@ -143,7 +143,7 @@
         <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
         <item>Questo è un esempio di sintesi vocale in italiano.</item>
         <item>Este es un ejemplo de síntesis de voz en español.</item>
-	 <item>Ovo je primjer sinteze govora na hrvatskom jeziku.</item>
+	    <item>Ovo je primjer sinteze govora na hrvatskom jeziku.</item>
     </string-array>
 	<string-array name="tts_demo_string_langs">
         <item>eng</item>
@@ -560,9 +560,9 @@ telefon će se automatski otvoriti kada je spojen na računalo."</item>
         <item>Zaporka</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
-        <item>Automatically connect</item>
-        <item>Manually connect</item>
-        <item>Always ask</item>
+        <item>Automatski poveži</item>
+        <item>Ručno poveži</item>
+        <item>Uvijek pitaj</item>
     </string-array>
     <string-array name="wifi_connect_type_values">
         <item>0</item>
@@ -587,23 +587,23 @@ telefon će se automatski otvoriti kada je spojen na računalo."</item>
         <item>E-pošta</item>
     </string-array>
     <string-array name="gemini_sim_info_number_display_format_entries">
-        <item>First 4 digits</item>
-        <item>Last 4 digits</item>
-        <item>Do not display</item>
+        <item>Prve 4 znamenke</item>
+        <item>Zadnje 4 znamenke</item>
+        <item>Ne prikazuj</item>
     </string-array>
     <string-array name="gemini_sim_roaming_reminder_entries">
-        <item>Once</item>
-        <item>Always</item>
-        <item>Never</item>
+        <item>Jednom</item>
+        <item>Uvijek</item>
+        <item>Nikad</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
-        <item>GSM/WCDMA (auto mode)</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
+        <item>GSM/WCDMA (auto način)</item>
+        <item>WCDMA samo</item>
+        <item>GSM samo</item>
     </string-array>
     <string-array name="network_use_entry">
-        <item>Only Home</item>
-        <item>Home + Roaming</item>
+        <item>Samo kuća</item>
+        <item>Kuća + Roaming</item>
     </string-array>
     <string-array name="auto_time_entries">
         <item>Use network-provided time</item>
@@ -635,14 +635,14 @@ telefon će se automatski otvoriti kada je spojen na računalo."</item>
         <item>tethering</item>
     </string-array>
     <string-array name="hdmi_video_mode_entries">
-        <item>Full screen</item>
-        <item>Best fit</item>
-        <item>Original size</item>
+        <item>Puni zaslon</item>
+        <item>Najbolja prilagodba</item>
+        <item>Originalna veličina</item>
     </string-array>
     <string-array name="sim_slot">
-        <item>(unspecified)</item>
-        <item>Sim Slot 1</item>
-        <item>Sim Slot 2</item>
+        <item>(neodređeno)</item>
+        <item>Sim utor 1</item>
+        <item>Sim utor 2</item>
     </string-array>
     <string-array name="wifi_WEP_security_type">
         <item>Auto</item>
@@ -650,9 +650,9 @@ telefon će se automatski otvoriti kada je spojen na računalo."</item>
         <item>WEP hexadecimal</item>
     </string-array>  
     <string-array name="wifi_hotspot_disable_policy_entries">
-        <item>Always</item>
-        <item>Turn off when idle for 5 min</item>
-        <item>Turn off when idle for 10 min</item>
+        <item>Uvijek</item>
+        <item>Isključi kad je stanje mirovanja za 5 min</item>
+        <item>Isključi kad je stanje mirovanja za 10 min</item>
     </string-array>
     <string-array name="tethered_ipv6_entries">
         <item>IPv4</item>
@@ -667,8 +667,8 @@ telefon će se automatski otvoriti kada je spojen na računalo."</item>
         <item>Linux/Mac OS(EEM)</item>
     </string-array>
     <string-array name="wifi_ap_wps_mode_entries">
-        <item>Push button</item>
-        <item>PIN from client</item>
+        <item>Push gumb</item>
+        <item>PIN od klijenta</item>
     </string-array>
     <string-array name="wifi_ap_max_connection_entries">
         <item>1 korisnik</item>

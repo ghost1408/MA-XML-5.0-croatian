@@ -2320,10 +2320,10 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
 	<string name="accessibility_toggle_screen_magnification_preference_title">Uvećanje zaslona</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Automatski ažuriraj uvećanje zaslona</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Ažuriraj uvećanje zaslona kod prijelaza aplikacije</string>
-    <string name="accessibility_power_button_ends_call_title">Tipka uključivanja završava poziv</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Tipka uključivanja završava poziv</string>
     <string name="accessibility_speak_password_title">Izgovorite zaporke</string>
     <string name="accessibility_long_press_timeout_title">Dodirni &amp; drži odgodu</string>
-    <string name="accessibility_script_injection_title">Poboljšajte web pristupačnost</string>
+    <string name="accessibility_toggle_script_injection_preference_title">Poboljšajte web pristupačnost</string>
     <string name="accessibility_toggle_speak_password_preference_title">Izgovorite zaporke</string>
     <string name="accessibility_long_press_timeout_preference_title">Dodirni &amp; drži odgodu</string>
     <string name="accessibility_menu_item_settings">Postavke</string>
@@ -3985,7 +3985,7 @@ Dodirnite gumb Dodaj kontakte za odabir kontakata koje želite da se vežu za ov
     <string name="dlg_mount_external_sd_summary">Ako učitate SD karticu, neke aplikacije koje koristite će se zaustaviti.</string>
     <string name="tethered_ipv6_title">Postavke dijeljenja &amp; hotspot-a</string>
     <string name="tethered_ipv4v6">(IPv6 dostupno)</string>
-    <string name="tethered_ipv6">(Only IPv6 dostupno)</string>
+    <string name="tethered_ipv6">(Samo IPv6 dostupno)</string>
     <string name="tethered_ipv4">(IPv6 nedostupno)</string>
     <string name="tethering_apn_settings_title">Postavke APN-a</string>
     <string name="tethering_apn_settings_summary">Konfiguriraj APN za dijeljenje</string>
