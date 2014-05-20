@@ -4018,7 +4018,7 @@ Dodirnite gumb Dodaj kontakte za odabir kontakata koje želite da se vežu za ov
     <string name="wifi_ap_bandwidth_enable">Omogućite ograničavanje propusnosti</string>
     <string name="wifi_ap_bandwidth_chart_title">Brzina podataka u realnom vremenu</string>
     <string name="wifi_ap_bandwidth_chart_summary">"Mjereno vašim telefonom, brzina prijenosa podataka vašeg davatelja usluga može se razlikovati."</string>
-    <string name="wifi_wps_fail_error">WLAN zaštićenoo postavljanje neuspjelo, pokušajte ponovo.</string>
+    <string name="wifi_wps_fail_error">WLAN zaštićeno postavljanje neuspjelo, pokušajte ponovo.</string>
     <string name="wifi_ap_title">Statistika</string>
     <string name="wifi_ap_time_duration">Vrijeme trajanja:%1$s</string>
     <string name="wifi_ap_total_data">Ukupno iskorištenih podataka:%1$s</string>
