@@ -378,23 +378,18 @@
         <item>Monkey</item>
     </string-array>
     <string-array name="multi_sim_entries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
+        <item>Pretplata 1</item>
+        <item>Pretplata 2</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
-        <item>Ask</item>
-        <item>Never allow</item>
-        <item>Always allow</item>
-    </string-array>
-    <string-array name="haptic_feedback_level_entries">
-        <item>Strong</item>
-        <item>Medium</item>
-        <item>Light</item>
+        <item>Pitaj</item>
+        <item>Nikad ne dopusti</item>
+        <item>uvijek dospusti</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
-        <item>Strong</item>
-        <item>Medium</item>
-        <item>Light</item>
+        <item>Jako</item>
+        <item>Srednja</item>
+        <item>Lagano</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Jako</item>
@@ -626,9 +621,9 @@ telefon će se automatski otvoriti kada je spojen na računalo."</item>
         <item>Kuća + Roaming</item>
     </string-array>
     <string-array name="auto_time_entries">
-        <item>Use network-provided time</item>
-        <item>Use GPS-provided time</item>
-        <item>Off</item>
+        <item>Koristi predviđeno vrijeme mreže</item>
+        <item>Koristi predviđeno vrijeme GPS-a</item>
+        <item>Isključeno</item>
     </string-array>
     <string-array name="apn_type_generic">
         <item>default</item>
