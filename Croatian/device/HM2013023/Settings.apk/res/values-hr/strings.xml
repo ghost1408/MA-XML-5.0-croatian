@@ -14,7 +14,6 @@
   <string name="AGPS_CAUSE_USER_DENY">Korisnik se ne slaže s potvrdom</string>
   <string name="AGPS_CAUSE_NO_POSITION">Samo za NE položaj</string>
   <string name="AGPS_CAUSE_TLS_AUTH_FAIL">TLS provjera autentičnosti neuspjela</string>
-  <string name="USER_RESPONSE_TIMEOUT">Čekanje isteka vremena verifikacija</string>
   <string name="AGPS_MODEM_RESET_HAPPEN">Desilo se resetiranje modema</string>
   <string name="AGPS_EM_RECV_SI_REQ">Primljen SI zahtjev</string>
   <string name="AGPS_EM_POS_FIXED">Pozicija popravljena</string>
