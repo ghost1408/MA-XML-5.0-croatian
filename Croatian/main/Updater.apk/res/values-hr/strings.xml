@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device">O telefonu</string>
-  <string name="active_xiaomi_account">Aktivan</string>
-  <string name="active_xiaomi_account_msg">"Molimo vas da odete na MIUI forum i aktivirate Xiaomi račun:"</string>
+  <string name="active_xiaomi_account">Aktivirajte</string>
+  <string name="active_xiaomi_account_msg">"Molimo vas da odete na MIUI forum i aktivirate Xiaomi račun:
+https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="active_xiaomi_account_title">Aktivirajte Xiaomi račun</string>
   <string name="app_name">Ažuriranje</string>
   <string name="apply_buddy_update_info_message">Kliknite "Ažuriraj sada", i telefon će početi proces nadogradnje</string>
@@ -63,6 +64,7 @@
   <string name="install_file_explorer">Instalirajte MIUI explorer datoteka</string>
   <string name="install_qq">Instaliraj QQ aplikaciju</string>
   <string name="install_rom_from_sd">Odaberite instalacijski paket</string>
+  <string name="install_sina">Instaliraj Sina app</string>
   <string name="install_whole_rom">Preporuka je preuzimanje gotovog ROM paketa</string>
   <string name="internal_build">Interno izdanje</string>
   <string name="kernel_upgrade_link"/>
@@ -84,6 +86,7 @@
   <string name="my_update_feel">Moji osjećaji</string>
   <string name="my_worst_update">Moj izbor najgoreg ažuriranja</string>
   <string name="network_error">Došlo je do pogreške mreže, molimo pokušajte ponovno</string>
+  <string name="new_update_content_notification_shade"/>
   <string name="new_update_content_title">Nađena nova verzija</string>
   <string name="new_update_download_complete_body">Promjenljiva nova vezija:%s</string>
   <string name="new_update_downloading_body">Preuzimanje nove verzije:%s</string>
@@ -159,7 +162,7 @@ Preko %2$s korisnika se već prijavilo u MIUI %3$s"</string>
   <string name="update_sad">Tužno</string>
   <string name="update_success">Čestitamo, ažuriranje uspješno primijenjeno!</string>
   <string name="update_success_body">Sustav uspješno ažuriran na %s</string>
-  <string name="update_success_title">Čestitamo. Ažuriranje završeno</string>
+  <string name="update_success_title">MIUI je ažuriran</string>
   <string name="updater_finish_download">Preuzimanje ROM-a završeno</string>
   <string name="upgrade_close">Zatvori</string>
   <string name="upgrade_kernel">Trenutan kernel zahtjeva ažuriranje</string>
