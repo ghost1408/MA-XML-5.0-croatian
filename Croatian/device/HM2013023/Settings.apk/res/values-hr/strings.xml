@@ -227,7 +227,7 @@ Ova postavka utječe na sve korisnike ovog uređaja."</string>
   <string name="enable_wifi_display">Omogućiti bežični zaslon</string>
   <string name="enable_wifi_tether">Omogućiti WLAN hotspot</string>
   <string name="epo_about_message">\u0009EPO (Extended Prediction Orbit) je jedan od MediaTekovih inovativnih vlasničkih izvanmrežnih poslužitelja temeljen na A-GPS tehnologiji.
-\u0009Podržava i do 30 dana predviđanja satelitske orbite, koji se može koristiti kako bi SE uveliko unaprijedilo korisničko iskustvo poboljšavanjem GPS Time To First Fix (TTFF)."</string>
+\u0009Podržava i do 30 dana predviđanja satelitske orbite, koji se može koristiti kako bi se uveliko unaprijedilo korisničko iskustvo poboljšavanjem GPS Time To First Fix (TTFF)."</string>
   <string name="epo_about_title">Više o EPO</string>
   <string name="epo_auto_download_summary">Automatsko preuzimanje podataka položaja satelita</string>
   <string name="epo_auto_download_title">Automatsko preuzimanje</string>
