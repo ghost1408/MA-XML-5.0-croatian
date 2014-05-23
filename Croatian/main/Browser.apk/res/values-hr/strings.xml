@@ -557,6 +557,7 @@
   <string name="sign_in_to" formatted="false">Prijavite se na %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Spremanje za izvanmrežno čitanje nije uspjelo."</string>
   <string name="snapshot_go_live">Idi uživo</string>
+  <string name="snapshot_successed">Uspješno spremljeno za vanmrežno čitanje</string>
   <string name="ssl_continue">Nastavi</string>
   <string name="ssl_date_invalid">Ovaj certifikat ima nevažeći datum.</string>
   <string name="ssl_expired">Ovaj je certifikat istekao.</string>

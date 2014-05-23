@@ -48,7 +48,8 @@
     <string name="info_unantispam_phone">Dopusti pozive</string>
     <string name="info_unantispam_phone_sms">Dopusti pozive i poruke</string>
     <string name="st_antispam_delete">Izbrisati</string>
-    <string name="baidu_thanks">Powered By Baidu</string>
+    <string name="backsound_set_hint">Postaviti audio priključke na %s?</string>
+	<string name="baidu_thanks">Powered By Baidu</string>
     <string name="note_list_none">Nema liste za uređivanje</string>
     <string name="note_sms_none">Nema poruka za uređivanje</string>
     <string name="note_call_none">Nema poziva za uređivanje</string>
@@ -101,9 +102,11 @@
     <string name="dlg_add_blacklist_warn_conflict_title">Oprezno</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$si %2$sostali kontakti su već na popisu iznimaka.</string>
     <string name="dlg_remove_blacklist">Odblokirati ovaj broj?</string>
+	<string name="dlg_remove_blacklist_ing">Uklanjanje s liste blokiranih…</string>
     <string name="dlg_remove_whitelist">Ukloniti ove brojeve iz iznimaka?</string>
     <string name="dlg_remove_address_blacklist">Ukloniti ovu lokaciju s liste blokiranih i vratiti dolazne poruke?</string>
     <string name="dlg_remove_address_whitelist">Ukloniti ovu lokaciju iz iznimaka?</string>
+	<string name="dlg_remove_whitelist_ing">Uklanjanje s liste dopuštenih…</string>
     <string name="dlg_remove_blacklist_ok">Odblokiraj</string>
     <string name="dlg_clear_blacklist">Obrisati listu zabranjenih?</string>
     <string name="dlg_clear_blacklist_ok">Obriši</string>
@@ -170,8 +173,10 @@
     <string name="label_callwait">Poziv na čekanju</string>
     <string name="open_callwait">Uključeno</string>
     <string name="close_callwait">Isključeno</string>
+	<string name="sms_delete_hint">Ukloniti sve blokirane poruke s odabranog broja?</string>
     <string name="sure">Potvrdi</string>
-    <string name="cancle">Odustani</string>
+    <string name="call_delete_hint">Ukloniti sve blokirane pozive s tog broja?</string>
+	<string name="cancle">Odustani</string>
     <string name="addwhitelist">Dodaj u iznimke</string>
     <string name="st_hint_add_phonenumber">Unesi broj telefona</string>
     <string name="st_hint_add_head_number">Uneseni predbroj (\"*\" bit će dodan automatski)</string>
@@ -182,7 +187,8 @@
     <string name="st_message_SMS_AntiSpam">Blokiraj poruke</string>
     <string name="st_message_phone_AntiSpam">Blokiraj pozive</string>
     <string name="ACaddnumtitle">Dodati predbroj broja telefona u iznimke</string>
-    <string name="NACaddnumtitle">Dodati broj telefona u iznimke</string>
+    <string name="NACaddnumcontent">Upišite broj telefona</string>
+	<string name="NACaddnumtitle">Dodati broj telefona u iznimke</string>
     <string name="st_title_addblacklist">Dodano na listu blokiranih</string>
     <string name="st_title_editblacklist">Uredi listu blokiranih</string>
     <string name="st_title_addwhitelist">Dodano u iznimke</string>
@@ -211,6 +217,7 @@
     <string name="st_title_adress">Odaberi lokalno</string>
     <string name="st_title_adress_num">%d odabrano</string>
     <string name="SMS_BLACKLIST">Lista blokiranih poruka</string>
+    <string name="SMS_DEFAULT">Pametno blokiranje</string>
     <string name="SMS_PREFIX">Lista blokiranih predbrojeva</string>
     <string name="SMS_MODENAME">Zadana lista blokiranih</string>
     <string name="SMS_KEYWORDS">Lista blokiranih ključnih riječi</string>
@@ -220,7 +227,8 @@
     <string name="Call_MODENAME">Zadana lista blokiranih</string>
     <string name="Call_ADRESS">Lokalna lista blokiranih</string>
     <string name="Call_PRIVATE_CALL">Privatni pozivi</string>
-    <string name="PAST_BLOCK">Prethodno blokirano</string>
+    <string name="Call_DEFAULT">Pametno blokiranje</string>
+	<string name="PAST_BLOCK">Prethodno blokirano</string>
     <string name="AD_AntiSpam">Blokiraj zahtjeve</string>
     <string name="AD_SCANNING">Skeniranje…</string>
     <string name="AD_BLOCK_ALL">Blokiraj sve</string>
