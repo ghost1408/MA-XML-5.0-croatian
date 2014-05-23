@@ -16,7 +16,7 @@
     </string-array>
     <string-array name="act_weather_main_listview_key">
         <item>Vjetar:</item>
-        <item>UV index:</item>
+        <item>UV: </item>
         <item>Odjeća:</item>
         <item>Komfor:</item>
         <item>Indeks autopraonica:</item>

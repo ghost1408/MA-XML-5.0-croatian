@@ -26,10 +26,10 @@
   <string name="contact_carrier_message">Pitajte davatelja usluga za ostala pitanja</string>
   <string name="day_following_good_friday"/>
   <string name="day_of_month">" %d"</string>
-  <string name="days">dana</string>
+  <string name="days">"%d dana"</string>
   <string name="delete">Obrisati</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
-  <string name="device_hongmi">Hongmi telefon</string>
+  <string name="device_hongmi">Redmi</string>
   <string name="device_xiaomi">Xiaomi</string>
   <string name="double_seventh_day"/>
   <string name="easter">Uskrs</string>
@@ -133,8 +133,8 @@ Pokušajte ponovno za %d s."</string>
   <string name="lunar_yue">" "</string>
   <string name="lunar_zheng">" "</string>
   <string name="memory_clear_nothing_result">Upotreba memorije već optimizirana</string>
-  <string name="memory_clear_result">"Slobodno %1$s
-Dostupno: %2$s"</string>
+  <string name="memory_clear_result">"Slobodno: %1$s memorije
+Dostupno: %2$s memorije"</string>
   <string name="minutes">%d minuta</string>
   <string name="miui_copyright_title">Autorsko pravo</string>
   <string name="miui_device_name">Android</string>

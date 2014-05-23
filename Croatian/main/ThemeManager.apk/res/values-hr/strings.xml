@@ -106,9 +106,10 @@
   <string name="resource_comment_upload_success">Komentar poslan! Biti će prikazan nakon pregleda</string>
   <string name="resource_default">Zadana melodija zvona</string>
   <string name="resource_default_name">Resursi</string>
-  <string name="resource_delete_all">Sigurni ste da želite obrisati %1$d odabranih resursa?</string>
-  <string name="resource_delete_confirm">Sigurni ste da želite obrisati odabrane resurse?</string>
-  <string name="resource_delta_update_failed">Ažuriranje zakrpe nije uspjelo! Kompletni resursi bit će sada preuzeti</string>
+  <string name="resource_delete">Izbrisati</string>
+  <string name="resource_delete_all">Sigurni ste da želite obrisati %1$d odabrana elementa?</string>
+  <string name="resource_delete_confirm">Sigurni ste da želite obrisati odabrane elemente?</string>
+  <string name="resource_delta_update_failed">Ažuriranje zakrpe nije uspjelo! Kompletni elementi bit će sada preuzeti</string>
   <string name="resource_delta_update_successful">Ažuriranje zakrpe uspjelo，spremam %1$s.</string>
   <string name="resource_delta_update_total">%1$d ažuriranja zakrpi. Ukupno spremljeno %2$s</string>
   <string name="resource_detail">Detalji</string>
@@ -243,6 +244,7 @@
   <string name="theme_current_using_has_update">Trenutna tema ažurirana, klikni ovdje za podesiti</string>
   <string name="theme_description_title_customized">Uredi</string>
   <string name="theme_description_title_default">Zadano</string>
+  <string name="theme_fresh_man_notifaction">Isprobajte nove teme!</string>
   <string name="theme_immediately_apply_tip">Tema uređena, podesiti odmah?</string>
   <string name="theme_import_activity_label">Tema poboljšana</string>
   <string name="theme_import_from_sdcard">Uvezi s SD kartice</string>
@@ -262,6 +264,4 @@
   <string name="wallpaper_set_as_destop">Podesi za sliku pozadine</string>
   <string name="wallpaper_set_as_lockscreen">Podesi za sliku zaklj.zaslona</string>
   <string name="wallpaper_settings">Postavke slike pozadine</string>
-  <string name="select_all">@miui:string/v5_select_all</string>
-  <string name="deselect_all">@miui:string/v5_deselect_all</string>
 </resources>
