@@ -244,12 +244,11 @@
   <string name="theme_current_using_has_update">Trenutna tema ažurirana, klikni ovdje za podesiti</string>
   <string name="theme_description_title_customized">Uredi</string>
   <string name="theme_description_title_default">Zadano</string>
-  <string name="theme_fresh_man_notifaction">Isprobajte nove teme!</string>
+  <string name="theme_fresh_man_notifaction">Isprobajte neke nove teme!</string>
   <string name="theme_immediately_apply_tip">Tema uređena, podesiti odmah?</string>
   <string name="theme_import_activity_label">Tema poboljšana</string>
   <string name="theme_import_from_sdcard">Uvezi s SD kartice</string>
   <string name="theme_name">%1$s</string>
-  <string name="theme_fresh_man_notifaction">Isprobajte neke nove teme.</string>
   <string name="theme_select_others">Pregledaj</string>
   <string name="third_party_pickers_activity_title">Podesi %1$s</string>
   <string name="title_component">Miks</string>

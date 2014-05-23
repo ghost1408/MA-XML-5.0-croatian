@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="AGPS_DEFAULT_STRING">A-GPS Zadani Niz</string>
   <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Neuspjelo stvaranje mreže</string>
   <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Pogrešan sadržaj PUSH-a</string>
   <string name="AGPS_CAUSE_NOT_SUPPORTED">Nepodržana radnja</string>
