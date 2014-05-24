@@ -293,8 +293,8 @@ Prijavite greške i pošaljite svoje mišljenje Xiaomi-u direktno.”</string>
   <string name="pref_summary_new_message_popup_when_secure">Nema skočnih prozora obavijesti kad je pristup kontroliran</string>
   <string name="pref_summary_notification_body_enabled">Prikaži poruke na zaključanom zaslonu i status baru</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Prikaz poruke onemogućen kada je omogućena kontrola pristupa</string>
-  <string name="pref_summary_off_system_mms_priority">Ostale aplikacije mogu dobiti MMS prije sistemske aplikacije</string>
-  <string name="pref_summary_on_system_mms_priority">MMS aplikacija prva dobija poruku</string>
+  <string name="pref_summary_off_system_mms_priority">Koristite druge aplikacije za slanje i primanje MMS-a</string>
+  <string name="pref_summary_on_system_mms_priority">"Postavite MIUI Messaging aplikaciju kao zadanu aplikaciju za slanje i primanje MMS-a"</string>
   <string name="pref_summary_show_recent_contacts">Prikaži popis nedavnih kontakata kod pisanja nove poruke</string>
   <string name="pref_summary_wake_up_screen">Upali zaslon kad stigne nova poruka</string>
   <string name="pref_system_title">Sustav</string>
