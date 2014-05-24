@@ -156,7 +156,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="beam_share_transfer_fail_dialog_title">Beam dijeljenje neuspješno</string>
   <string name="bluetooth_advanced_settings">Napredne postavke</string>
   <string name="bluetooth_ftp_profile_summary_connected">Povezano za prijenos datoteka</string>
-  <string name="bluetooth_ftp_profile_summary_use_for">Upotrijebi za prijenos dstoteka</string>
+  <string name="bluetooth_ftp_profile_summary_use_for">Upotrijebi za prijenos datoteka</string>
   <string name="bluetooth_profile_ftp">Prijenos dstoteka</string>
   <string name="bugreport_in_power">Izvješća o greškama u izborniku napajanja</string>
   <string name="bugreport_in_power_summary">U izbornik napajanja uključi opciju za izradu izvješća o greškama</string>

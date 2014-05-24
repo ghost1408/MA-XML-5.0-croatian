@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">USIM Toolkit</string>
-    <string name="appI_name">USIM Toolkit1</string>
-    <string name="appII_name">USIM Toolkit2</string>
+    <string name="app_name">Alat SIM-a</string>
+    <string name="appI_name">Alat SIM-a1</string>
+    <string name="appII_name">Alat SIM-a2</string>
     <string name="lable_not_available">"Aplikacija nije instalirana"</string>
     <string name="menu_end_session">Kraj sesije</string>
     <string name="help">Pomoć</string>
@@ -65,6 +65,6 @@
     <string name="main_menu_not_initialized">Glavni izbornik nije inicijaliziran</string>
     <string name="lable_busy_on_call">Telefon je zauzet pozivom, završite prvo poziv</string>
     <string name="lable_on_flight_mode">Ova aplikacija se ne može se koristiti kada je uključen način rada u zrakoplovu</string>
-    <string name="lable_sim_not_ready">SIM Toolkit nije spreman ili nije podržan</string>
-    <string name="cu_usimapp_name">USIM Toolkit</string>
+    <string name="lable_sim_not_ready">Alat SIM-a nije spreman ili nije podržan</string>
+    <string name="cu_usimapp_name">Alat SIM-a</string>
 </resources>

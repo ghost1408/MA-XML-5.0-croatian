@@ -9,16 +9,16 @@
     <string name="numeric_date_format">d. M. yyyy</string>
     <string name="numeric_date_template" formatted="false">%s. %s. %s</string>
     <string name="month_day_year" formatted="false">%-e. %B %Y</string>
-    <string name="time_of_day" formatted="false">%-k:%M:%S</string>
-    <string name="date_and_time" formatted="false">%-k:%M:%S %-e. %-m. %Y</string>
+    <string name="time_of_day" formatted="false">%H:%M:%S</string>
+    <string name="date_and_time" formatted="false">%H:%M:%S %-e.%b.%Y.</string>
     <string name="date_time">%2$s %1$s</string>
     <string name="time_date">%1$s %3$s</string>
-    <string name="abbrev_month_day_year" formatted="false">%-e. %-m. %Y</string>
+    <string name="abbrev_month_day_year" formatted="false">%-e.%b.%Y.</string>
     <string name="month_day" formatted="false">%-e. %B</string>
     <string name="month">%-B</string>
     <string name="month_year" formatted="false">%-B %Y</string>
     <string name="abbrev_month_day" formatted="false">%-e. %b</string>
-    <string name="abbrev_month">%b</string>
+    <string name="abbrev_month">%-b.</string>
     <string name="abbrev_month_year" formatted="false">%-b %Y</string>
     <string name="time1_time2">%1$s - %2$s</string>
     <string name="date1_date2">%2$s - %5$s</string>

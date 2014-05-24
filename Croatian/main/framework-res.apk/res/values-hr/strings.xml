@@ -23,7 +23,7 @@
     <string name="dialog_alert_title">Pažnja</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Ovaj videozapis nije valjan za streaming na ovaj uređaj.</string>
     <string name="selectTextMode">Odabir teksta</string>
-	<string name="month_long_standalone_january">Siječanj</string>
+    <string name="month_long_standalone_january">Siječanj</string>
     <string name="month_long_standalone_february">Veljača</string>
     <string name="month_long_standalone_march">Ožujak</string>
     <string name="month_long_standalone_april">Travanj</string>
@@ -1129,12 +1129,10 @@ Za nastavak dodirnite U redu, a za ostanak na trenutačnoj stranici dodirnite Od
     <string name="perms_hide">
 <b>Sakrij</b>
 </string>
-    <string name="perms_show_all">
-<b>Pokaži sve</b>
-</string>
-    <string name="perms_new_perm_prefix">
-<font fgcolor="#ff900000" size="12">NOVO: </font>
-</string>
+    <string name="perms_show_all">Pokaži sve</string>
+
+    <string name="perms_new_perm_prefix">"NOVO: "</string>
+
     <string name="perm_costs_money">možda ćete morati platiti</string>
     <string name="usb_storage_activity_title">USB masovna pohrana</string>
     <string name="usb_storage_title">USB povezan</string>
@@ -1277,6 +1275,7 @@ za račun %s."</string>
     <string name="sync_do_nothing">Za sada nemoj ništa učiniti</string>
     <string name="choose_account_label">Odaberite račun</string>
     <string name="add_account_label">Dodajte račun</string>
+    <string name="choose_account_text">Koji račun želite koristiti?</string>
     <string name="add_account_button_label">Dodaj račun</string>
     <string name="number_picker_increment_button">Povećavanje</string>
     <string name="number_picker_decrement_button">Smanjivanje</string>
@@ -1294,7 +1293,15 @@ za račun %s."</string>
     <string name="date_picker_decrement_day_button">Smanjenje dana</string>
     <string name="date_picker_increment_year_button">Povećanje godine</string>
     <string name="date_picker_decrement_year_button">Smanjenje godine</string>
-    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="checkbox_checked">postavljeno</string>
+    <string name="checkbox_not_checked">nije postavljeno</string>
+    <string name="radiobutton_selected">odabran</string>
+    <string name="radiobutton_not_selected">nije odabran</string>
+    <string name="switch_on">uklj</string>
+    <string name="switch_off">isklj</string>
+    <string name="togglebutton_pressed">kliknuto</string>
+    <string name="togglebutton_not_pressed">nije kliknuto</string>
+    <string name="keyboardview_keycode_alt">Tipka Alt</string>
     <string name="keyboardview_keycode_cancel">Odustani</string>
     <string name="keyboardview_keycode_delete">Izbriši</string>
     <string name="keyboardview_keycode_done">Gotovo</string>

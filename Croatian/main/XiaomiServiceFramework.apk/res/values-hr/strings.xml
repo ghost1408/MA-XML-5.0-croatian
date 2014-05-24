@@ -177,6 +177,7 @@ Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
    <string name="find_device_notice_p4">Kada god se mijenja SIM kartica, registracijski SMS može biti poslan za praćenje telefona</string>
   <string name="find_device_success_title">Lociranje uređaja omogućeno</string>
   <string name="find_password_on_web_msg">Molimo vas posjetite račun.xiaomi.com za vraćanje svoje zaporke</string>
+  <string name="foreign_login">Država/Pozivni broj</string>
   <string name="forget_password">Zaboravljena zaporka?</string>
   <string name="get_back_pwd">Oporavak zaporke računa</string>
   <string name="header_data_and_synchronization">Podaci &amp; Sinkronizacija</string>
@@ -185,7 +186,7 @@ Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
   <string name="input_password_hint">Unesite zaporku</string>
   <string name="input_vcode_hint">Unesite verifijacijski kôd</string>
   <string name="input_vcode_prompt">Unesite verifijacijski kôd</string>
-  <string name="int_phone_user_notice">Unesite telefonski broj formata: +385xxxxxxxxx</string>
+  <string name="int_phone_user_notice">Unesite broj formata: +385xxxxxxxxx</string>
   <string name="internet_comm">Poslužitelj poruka</string>
   <string name="internet_message">Cloud poruke</string>
   <string name="label_order_name">Naziv proizvoda:</string>
@@ -219,9 +220,12 @@ Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
   <string name="micloud_active_email_sent_2"/>
   <string name="micloud_active_email_visit">Posjetite %s</string>
   <string name="micloud_activing_account">Aktivacija vašeg računa...</string>
-  <string name="micloud_activing_account_delayed">"Potrebno je 30 sekundi za dovršetak aktiviranja. Radite nešto drugo za to vrijeme..."</string>
+  <string name="micloud_activing_account_delayed">"Potrebno je 30 sekundi za dovršetak aktiviranja. 
+  Radite nešto drugo za to vrijeme..."</string>
   <string name="micloud_activing_account_failed">Nije uspjelo aktiviranje vašeg računa</string>
   <string name="micloud_app_data">MiCloud pohrana aplikacija</string>
+  <string name="micloud_area_code_hot">Nepoznato</string>
+  <string name="micloud_area_code_title">Država/Poštanski broj</string>
   <string name="micloud_click_email">Kliknite na link u e-pošti kako bi aktivirali svoj Xiaomi ​​račun </string>
   <string name="micloud_click_email_to_valid">Kliknite na link za aktivaciju u poruci poslan na vaš poštanski sandučić</string>
   <string name="micloud_data_loading">Učitavanje...</string>
@@ -234,6 +238,7 @@ Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
   <string name="micloud_error_empty_username">Prazno korisničko ime</string>
   <string name="micloud_error_empty_vcode">Unesite verifijacijski kod.</string>
   <string name="micloud_error_illegal_pwd">Pogrešna zaporka</string>
+  <string name="micloud_error_invalid_phone_num">Nevažeći broj telefona</string>
   <string name="micloud_full_influence_dspt">"Sve fotografije, video zapisi, bilješke i aplikacije će biti pohranjene na MiCloud.
 
 Ako izgubite ili oštetite telefon, vaši podaci će i dalje biti na sigurnom.
@@ -291,6 +296,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="nobind">Nije odobreno</string>
   <string name="other_settings">Ostale postavke</string>
   <string name="password">Zaporka</string>
+  <string name="phone_num_hint_text">Broj telefona</string>
   <string name="prev">Natrag</string>
   <string name="process_result">Detalji sinkronizacije:</string>
   <string name="quick_login_step2_title">Sigurnost prijave</string>
@@ -314,6 +320,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="service_error">Greška usluge</string>
   <string name="show_password">Prikaži zaporku</string>
   <string name="sim_changed_notification_content">SIM kartica nije aktivirana</string>
+  <string name="sim_unactivated_title">Vaša SIM kartica je neaktivirana</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Preskoči prijavu</string>
   <string name="skip_login_u">Preskoči prijavu</string>
