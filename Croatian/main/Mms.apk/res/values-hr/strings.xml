@@ -72,6 +72,7 @@
   <string name="confirm_restore_all_title">Vratiti sve poruke s ovog broja？</string>
   <string name="confirm_restore_positive">Vraćanje</string>
   <string name="confirm_restore_title">Vratiti sve odabrane poruke?</string>
+  <string name="context_menu_add_calendar">Prikaži u Kalendaru</string>
   <string name="context_menu_add_contact">Dodaj u Kontakte</string>
   <string name="context_menu_add_to_browser_favorite">Dodaj u favorite preglednika</string>
   <string name="context_menu_browse_web">Pretraži</string>

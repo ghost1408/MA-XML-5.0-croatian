@@ -123,14 +123,14 @@
         <item>Tonga</item>
     </string-array> 
     <string-array name="availability">
-        <item>Zauzet(a)</item>
-        <item>Dostupan(na)</item>
+        <item>Zauzet</item>
+        <item>Dostupan</item>
         <item>Privremen</item>
     </string-array>
     <string-array name="visibility">
         <item>Predefinirano</item>
-        <item>Privatna</item>
-        <item>Javna</item>
+        <item>Privatno</item>
+        <item>Javno</item>
     </string-array>
     <string-array name="ordinal_labels">
         <item>prvi</item>
@@ -140,7 +140,7 @@
         <item>zadnji</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>(Nema odziva)</item>
+        <item>Nema odziva</item>
         <item>Da</item>
         <item>Možda</item>
         <item>Ne</item>

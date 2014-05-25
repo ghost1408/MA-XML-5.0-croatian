@@ -474,4 +474,5 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="wifi_security">Sigurnost:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Molimo provjerite sigurnost prije spajanja na ovu WLAN mrežu</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Nije moguće pregledavati fotografije ili video ako je zaslon zaključan.</string>
 </resources>
