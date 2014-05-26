@@ -247,6 +247,8 @@
   <string name="change_pin2">Promijeni PIN2</string>
   <string name="change_pin2_miui">Promijeni PIN2</string>
   <string name="change_pin_miui">Promijeni SIM PIN</string>
+  <string name="cipher_indication_notification_message">Kodiranje govora je isključeno na mreži</string>
+  <string name="cipher_indication_notification_title">Nema kodiranja govora</string>
   <string name="clir_choices_hide_number_miui">Sakrij broj</string>
   <string name="clir_choices_network_default_miui">Mreža određuje</string>
   <string name="clir_choices_show_number_miui">Pokaži broj</string>
@@ -277,6 +279,7 @@
   <string name="confirm_password_label">Potvrdi novu zaporku</string>
   <string name="confirm_pin2_hint_miui">Potvrdi novi PIN2</string>
   <string name="confirm_pin_hint_miui">Potvrdi novi PIN</string>
+  <string name="confirm_save_info_saved_to">Snimka pohranjena u</string>  
   <string name="connect_disconnect_vibrate_none_miui">Bez vibrcije</string>
   <string name="connect_disconnect_vibrate_normal_miui">Vibracija</string>
   <string name="connect_disconnect_vibrate_summary_miui"/>
@@ -393,6 +396,7 @@
   <string name="dtmf_tones_summary_miui">Podesite dužinu DTMF zvukova</string>
   <string name="dtmf_tones_title">DTMF Zvukovi</string>
   <string name="dtmf_tones_title_miui">DTMF Zvukovi</string>
+  <string name="dual_mic_summary">Prikrivanje pozadinske buke tijekom poziva</string>
   <string name="duringcall">Operacija nije dopuštena tijekom razgovora</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">Uredi</string>
@@ -615,6 +619,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="messageCFU">Uvijek koristiti ovaj broj</string>
   <string name="mhh_disable">Zdravstvo onemogućeno</string>
   <string name="mhh_enable">Zdravstvo omogućeno</string>
+  <string name="minutereminder_summary">Upozori 50 sek. svake minute</string>
   <string name="mismatchPin">PIN-ovi koje ste unijeli međusobno se ne podudaraju. Molimo pokušajte ponovno.</string>
   <string name="mismatchPin2">PIN2-ovi koje ste unijeli međusobno se ne podudaraju. Molimo pokušajte ponovno.</string>
   <string name="mismatch_password">Zaporke koje ste unijeli se ne podudaraju. Pokušajte ponovno.</string>
@@ -695,6 +700,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="notification_voicemail_text_format">Biram %s</string>
   <string name="notification_voicemail_title">Nova govorna pošta</string>
   <string name="notification_voicemail_title_count">Nova govorna pošta (%d)</string>
+  <string name="not_show_again">Ne prikazuj ponovo.</string>
   <string name="number">Broj</string>
   <string name="number_format_error_message_miui">%s podržava samo brojeve</string>
   <string name="number_type_jituan_miui">Grupni broj</string>
@@ -1166,11 +1172,11 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="voicemail_settings_number_hint_miui">Unesite broj</string>
   <string name="voicemail_settings_number_label">Broj Govorne pošte Govorne pošte</string>
   <string name="voicemail_settings_number_title_miui">Broj Govorne pošte</string>
-    <string name="vt_init_fail_str">"Nije uspjelo pokretanje VT. Spuštanje poziva na VoLTE
+  <string name="vt_init_fail_str">"Nije uspjelo pokretanje VT. Spuštanje poziva na VoLTE
 "</string>
   <string name="wait_prompt_str">"Poslati sljedeće zvukove?"</string>
   <string name="wild_prompt_str">Zamijeniti znak sa</string>
-    <string name="wrong_password">Neispravna zaporka</string>
+   <string name="wrong_password">Neispravna zaporka</string>
   <string name="xdivert_active">Aktivno</string>
   <string name="xdivert_button">X-Divert postavke</string>
   <string name="xdivert_enternumber_error">Unesite telefonski broj za obje pretplate</string>
@@ -1183,12 +1189,12 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="xdivert_sub_absent">Obje pretplate trebaju biti aktivirane za obradu X-Divert</string>
   <string name="xdivert_summary">CFNRc Postavke</string>
   <string name="xdivert_title">X-Divert</string>
-    <string name="enter_input">Potrebno je upisati nešto, pokušajte ponovno!</string>
-    <string name="managed_roaming_dialog_cancel_button">Odustani</string>
-    <string name="managed_roaming_dialog_content">Mreža uspostavljena s ograničenim uslugama. Odabrati mrežu ručno?</string>
-    <string name="managed_roaming_dialog_ok_button">U redu</string>
-    <string name="managed_roaming_title">Roaming upravljanje</string>
-    <string name="managed_roaming_title_sub1">Roaming upravljanje (SUB1)</string>
-    <string name="managed_roaming_title_sub2">Roaming upravljanje (SUB2)</string>
-    <string name="managed_roaming_title_sub3">Roaming upravljanje (SUB3)</string>
+  <string name="enter_input">Potrebno je upisati nešto, pokušajte ponovno!</string>
+  <string name="managed_roaming_dialog_cancel_button">Odustani</string>
+  <string name="managed_roaming_dialog_content">Mreža uspostavljena s ograničenim uslugama. Odabrati mrežu ručno?</string>
+  <string name="managed_roaming_dialog_ok_button">U redu</string>
+  <string name="managed_roaming_title">Roaming upravljanje</string>
+  <string name="managed_roaming_title_sub1">Roaming upravljanje (SUB1)</string>
+  <string name="managed_roaming_title_sub2">Roaming upravljanje (SUB2)</string>
+  <string name="managed_roaming_title_sub3">Roaming upravljanje (SUB3)</string> 
   </resources>

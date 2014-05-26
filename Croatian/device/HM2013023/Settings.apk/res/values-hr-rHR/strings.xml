@@ -111,7 +111,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="apn_list_category_title">Popis pristupnih točaka</string>
   <string name="apn_predefine_change_dialog_notice">Sigurno to želite spremiti? Promjene na zadanom APN-u može uzrokovati probleme s povezivanjem!</string>
   <string name="app_special_disable_dlg_text">Ako isključite aplikaciju sustava, ostale aplikacije mogu uzrokovati neočekivano ponašanje.
-   Vaši podaci će biti izbrisani.</string>
+Vaši podaci će biti izbrisani.</string>
   <string name="app_special_disable_dlg_title">Brisanje podataka i onemogućiti aplikaciju?</string>
   <string name="audio_profile_add">Dodaj</string>
   <string name="audio_profile_category_custom_title">Korisnik definira profile</string>
@@ -527,6 +527,7 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
   <string name="selinux_status_disabled">Onemogućeno</string>
   <string name="selinux_status_enforcing">Izvršenje</string>
   <string name="selinux_status_permissive">Dopustivo</string>
+  <string name="set_mobile_data_failed">Postavljanje nije uspjelo</string>
   <string name="show_dev_already">Nema potrebe, već ste razvojni programer.</string>
   <string name="show_dev_on">Sad ste razvojni programer!</string>
   <string name="show_hw_layers_updates">Pokaži ažuriranja HW slojeva</string>
@@ -541,6 +542,7 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
   <string name="sim_lock">Zaključano</string>
   <string name="sim_lock_change_not_supported">"Nemoguće promijeniti zaključavanje SIM kartice.
   SIM ne podržava promjenu."</string>
+  <string name="sim_radio_off">Nije aktivirano</string>
   <string name="sim_remain">(Preostalo: %d)</string>
   <string name="sim_slot">SIM Utor</string>
   <string name="sim_status_summary">Povezane informacije SIM-a</string>
@@ -578,6 +580,7 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
   <string name="touch_title">Dodirni</string>
   <string name="touch_sensitive_title">Način rada s rukavicama</string>
   <string name="touch_sensitive_summary">Napravite zaslon osjetljiv na dodatni pritisak</string>
+  <string name="track_frame_time">Profiliraj GPU prikazivanje</string>
   <string name="trust_access_points">Zadane vjerodostojne AP</string>
   <string name="tv_system_title">TV sustav</string>
   <string name="tvout_settings">TV izlaz</string>

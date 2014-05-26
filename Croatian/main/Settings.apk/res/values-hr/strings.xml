@@ -1125,7 +1125,7 @@ Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu desta
     <string name="bluetooth_notif_title">Zahtjev za uparivanje</string>
     <string name="bluetooth_notif_message">Dodirnite za uparivanje s uređajem %1$s.</string>
     <string name="bluetooth_show_received_files">Prikaži primljene datoteke</string>
-    <string name="device_picker">Birač Bluetooth uređaja</string>
+    <string name="device_picker">Odabir Bluetooth uređaja</string>
     <string name="bluetooth_permission_request">Zahtjev za pristup Bluetoothu</string>
     <string name="bluetooth_ask_enablement">Aplikacija želi uključiti Bluetooth. Dopustiti?</string>
     <string name="bluetooth_ask_discovery">Aplikacija želi vaš uređaj učiniti vidljivim drugim Bluetooth uređajima na %1$d s. Dopustiti?</string>
@@ -2986,6 +2986,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
     <string name="user_max_content_rating">Ocjena sadržaja</string>
     <string name="user_system_apps_heading">Sistemske aplikacije</string>
     <string name="user_market_apps_heading">Instalirane aplikacije</string>
+    <string name="user_setup_button_setup_now">Postaviti sada</string>
     <string name="user_discard_user_menu">Ne sada</string>
     <string name="user_cannot_manage_message">"Samo vlasnik telefona može upravljati korisnicima."</string>
     <string name="user_cannot_add_accounts_message">Ograničeni profili ne mogu dodavati račune</string>
@@ -3411,7 +3412,7 @@ SIM ne podržava promjenu."</string>
 Odaberite operativni sustav vašeg računala:"</string>
     <string name="msd_install_succeed">Upravljački program instaliran.</string>
     <string name="msd_install_next">Dalje</string>
-    <string name="msd_install">Ponovo instaliraj upravljački program.</string>
+    <string name="msd_install">Ponovo instalirati upravljački program?</string>
     <string name="msd_install_finish">U redu</string>
     <string name="msd_pc_system_install_start_summary_vista">"Za Windows Vista i novije verzije sustava Windows, 
 %1$s automatski će se pojaviti kao USB memorija"</string>
@@ -3583,7 +3584,7 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="adjust_3d_depth_title">"Prilagodite dubinu 3D igara"</string>
     <string name="hdmi_3d_stereo_separation_label">3D</string>
     <string name="hdmi_3d_help_title">O HDMI 3D Stereoskopskoj podršci</string>
-     <string name="power_mode_balanced_title">Omogući Uravnoteženo Napajanje</string>
+    <string name="power_mode_balanced_title">Omogući Uravnoteženo Napajanje</string>
     <string name="usb_host_mode_text">Omogući USB host način</string>
     <string name="usb_host_mode_subtext">Krištenjem igraćih kontrolora i drugih perifernih uređaja na USB priključku, može smanjiti trajanje baterije</string>
     <string name="title_color_calibration">Način Korekcija boja</string>
@@ -3676,4 +3677,19 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="miracast_PC2THOR_streaming_on">Miracast je nedostupan jer PC streama na ovaj uređaj</string>
     <string name="miracast_disable_dhcp">Onemogući HDCP</string>
     <string name="miracast_enable_dhcp">Omogući HDCP</string>
+	<string name="double_click_tip">Dodirnite dva put</string>
+    <string name="double_click_title">Brzina dvostrukog dodira</string>
+    <string name="international_roaming_summary_title">Postavke Roaminga</string>
+    <string name="mouse_primary_button_dialog_title">Tipka glavnog prekidača</string>
+    <string name="mouse_primary_button_title">Preklapanje tipaka sa strane</string>
+    <string name="nfc_card_emulation">Emulacija kartice</string>
+    <string name="nfc_card_emulation_category_title">Način emulacije kartice</string>
+    <string name="not_show_again">Ne prikazuj ponovo.</string>  
+    <string name="sip_call_summary">Postavite zadani zvuk SIP poziva</string>
+    <string name="sip_call_title">SIP poziv</string>
+    <string name="usb_tethering_select_version">Odaberite verziju OS-a i PC-a</string>
+    <string name="wfd_change_resolution_menu_title">Promjena rezolucije</string>
+    <string name="wifi_hotspot_select_band_title">Odaberite operativni band</string>
+    <string name="wifi_hotspot_suspend_optimizations">Optimizacija W-Fi hotspota</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">Smanjenje potrošnje baterije za vrijeme aktivnog Wi-Fi Hotspota</string>
 </resources>
