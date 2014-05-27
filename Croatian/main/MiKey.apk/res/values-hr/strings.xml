@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about">O</string>
   <string name="action_capture_video">Snimi videozapis</string>
   <string name="action_clear_call_list">Izbriši povijest poziva</string>
   <string name="action_clear_memory">Isprazni RAM</string>
@@ -11,6 +10,7 @@
   <string name="action_open_camera">Fotoaparat</string>
   <string name="action_open_camera2">Fotoaparat</string>
   <string name="action_open_flashlight">Svjetiljka</string>
+  <string name="action_open_mi_route">Zoznam zariadení</string>
   <string name="action_open_or_close_motion">Uključi/Isključi pokret</string>
   <string name="action_open_other_app">Druga aplikacija</string>
   <string name="action_open_sound_recorder">Snimi zvuk</string>
@@ -27,8 +27,12 @@
   <string name="action_toolbox">Alati</string>
   <string name="action_zero_volume">Utišaj</string>
   <string name="add">Dodaj</string>
+  <string name="add_to_contacts">Dodaj u kontakte</string>
+  <string name="address">Adresa:</string>
   <string name="app_name">MiKey</string>
   <string name="back_camera">Zadnja kamera</string>
+  <string name="birthday">Rođendan:</string>
+  <string name="buy">Kupi MiKey</string>
   <string name="call_to">Poziv</string>
   <string name="cancel">Odustani</string>
   <string name="category_app">Aplikacije</string>
@@ -36,6 +40,7 @@
   <string name="clean_memory">Očisti memoriju</string>
   <string name="click_to_open">Otvori</string>
   <string name="close_all">Zatvori sve</string>
+  <string name="close_flash_error">Onemogućavanje bljeskalice nije uspjelo</string>
   <string name="close_recorder">Zatvori snimač</string>
   <string name="cn_0">0</string>
   <string name="cn_1">1</string>
@@ -52,28 +57,65 @@
   <string name="cn_7">7</string>
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
+  <string name="company">Firma:</string>
   <string name="confirm">U redu</string>
+  <string name="copy">Kopírovať</string>
+  <string name="copy_succeed">Kopirano</string>
   <string name="default_action_title">Zadana radnja</string>
   <string name="delete">Izbriši</string>
   <string name="delete_confirm">Izbrisati?</string>
   <string name="delete_gesture">Izbrisati postavke?</string>
   <string name="device_not_recognized">Uređaj nije prepoznat. Pokušajte ponovo</string>
   <string name="earphone">Slušalice</string>
+  <string name="email">Email:</string>
+  <string name="fail_generate_barcode">Generiranje koda nije uspjelo</string>
+  <string name="faq_comp_text">Za uređaje s MIUIv5 i Xiaomi telefone. Aktualnu verziju MiKey aplikaciju možete pronaći na <a href="http://www.miui.cz/mikey">miui.cz/mikey</a></string>
+  <string name="faq_comp_title">Koji uređaji su kompatibilni?</string>
+  <string name="faq_focus_text">Blesk pri fotografovaní predlžuje čas zhotovenia ale výsledna fotografia je ostrejšia. Môžete si ho vypnúť, no fotografia bude rozmazaná.</string>
+  <string name="faq_focus_title">Sporo fotografiranje?</string>
+  <string name="faq_misreq_text">Ako prilikom kontrole glazbe ne reagira na zaslonu zaključavanja, izađite iz aplikacije Glazba, izbrišite je iz RAM-a, priključite ponovo Mikey i odaberite iz izbornika "Mikey". Svjesni smo ove greške i radimo sve da je uklonimo!</string>
+  <string name="faq_misreq_title">Kako riješiti probleme?</string>
+  <string name="faq_plug_text">Ova metoda priključivanja MiKey će pomoći spriječiti potencijalne probleme. Nemojte pritisnuti tipku za vrijeme spajanja MiKey.</string>
+  <string name="faq_plug_title">Kako priključiti MiKey?</string>
+  <string name="faq_quni_text">Tipka će trajati više od 30.000 pritisaka</string>
+  <string name="faq_quni_title">Koliko dugo će trajati?</string>
+  <string name="faq_slow_text">Podesite frekvenciju klikova na "0"</string>
+  <string name="faq_slow_title">Spora reakcija?</string>
+  <string name="faq_speed_text">Razlike između uređaja proizvode različite vrijeme reakcije. Postavite vrijeme između pritiskanja Mikey prema vlastitim potrebama.</string>
+  <string name="faq_speed_title">Nezapažena radnja?</string>
+  <string name="faq_stat_text">Tipka se resetira početkom svakog dana</string>
+  <string name="faq_stat_title">Kako imati ponovo "0" klikova?</string>
+  <string name="faq_title">Upute za uporabu</string>
+  <string name="faq_voice_text">Ponovo priključite MiKey i iz izbornika odaberite "MiKey"</string>
+  <string name="faq_voice_title">Nema zvuka prilikom poziva?</string>
+  <string name="faq_vsm_text">Uvjerite se da ste prije rastavljanja stražnjeg poklpoca uklonili MiKey!</string>
+  <string name="faq_vsm_title">Upozorenje</string>
   <string name="file_delimiter">／</string>
+  <string name="flash_lable">Bljeskalica</string>
   <string name="front_camera">Prednja kamera</string>
   <string name="goto_update">Ažuriranje</string>
   <string name="input_phone">Unesi uređaj</string>
   <string name="long_click">Pritisni i drži</string>
   <string name="message_photo_end">Slika spremljena</string>
+  <string name="name">Ime:</string>
+  <string name="nickname">Nadimak:</string>
   <string name="no_usage">...</string>
+  <string name="note">Bilješka:</string>
   <string name="notification_control_play">Reproduciraj</string>
   <string name="notification_control_stop">Zaustavi</string>
   <string name="notification_recorder_file_location">Lokacija datoteke:</string>
   <string name="notification_recorder_start">Pokreni snimač...</string>
+  <string name="open_flash_error">Uključivanje bljeskalice nije uspjelo</string>
+  <string name="phone">Telefon:</string>
+  <string name="picker_lable">Galerija</string>
+  <string name="place_barcode_into_rectangle">Postavite QR kod ili barkod unutar tražila pravokutnika</string>
   <string name="rank_prefix">"Rejting: "</string>
   <string name="rank_suffix">poena</string>
+  <string name="recognize">Prepoznaj</string>
   <string name="recommend">Preporuka</string>
   <string name="running_notification">Xiaomi MiKey</string>
+  <string name="scan_fail">Skeniranje neuspjelo</string>
+  <string name="scan_result">Rezultati skeniranja</string>
   <string name="sdcard">sdkartica</string>
   <string name="select_camera">Odabrati kameru?</string>
   <string name="select_device">Odabrati uređaj?</string>
@@ -86,18 +128,12 @@ To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_silent_mode">Bez zvuka</string>
   <string name="setting_silent_mode_default">Način rada slušalice (odaberite MiKey)</string>
   <string name="setting_silent_mode_desc">"Za spajanje slušalica, odaberite način rada slušalice i odvojite MiKey. U protivnom to neće raditi ispravno na audio izlaz."</string>
-  <string name="setting_silent_mode_dust_cap">Način rada čepova</string>
   <string name="setting_speed_desc">Brzina pritiska gumba</string>
-  <string name="setting_speed_max_time">1000</string>
-  <string name="setting_speed_middle_time">500ms</string>
-  <string name="setting_speed_min_time">0</string>
+  <string name="setting_silent_mode_dust_cap">Način rada čepova</string>
   <string name="setting_speed_quick">Brzo</string>
   <string name="setting_speed_slow">Sporo</string>
   <string name="setting_speed_text">Brzina</string>
-  <string name="setting_vibrate_desc">"Sposobnost da se osjećaju provedbe funkcija neponavljajući povratne informacije vibracija 
-Funkcija povratne informacije ne može biti isporučena, kao što su "flash shot", "Bez zvuka" kroz vibraciju
-Provedba povratne informacije. 
-Korisnici mogu koristiti taj argumenat da se u potpunosti isključi anti-vibracija"</string>
+  <string name="setting_vibrate_desc">"Sposobnost da se osjećaju provedbe funkcija neponavljajući povratne informacije vibracija</string>
   <string name="setting_vibrate_text">Vibracija</string>
   <string name="settings">Postavke</string>
   <string name="short_click_1">1x</string>
@@ -120,7 +156,10 @@ Korisnici mogu koristiti taj argumenat da se u potpunosti isključi anti-vibraci
   <string name="task_title_prefix">"Zadatak N: "</string>
   <string name="test_user_entry">Test</string>
   <string name="times">puta</string>
+  <string name="title">Titula:</string>
   <string name="toolbox_outer_desc">Pritisnite plus ili postojeću funkciju</string>
   <string name="update_message">Ažurirano!</string>
+  <string name="vcard_prompt">Nije moguće dodati kontakt, jer nema imena</string>
+  <string name="web">Web:</string>
   <string name="write_pic_fail">Neuspjelo spremanje slike</string>
 </resources>
