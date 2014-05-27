@@ -260,7 +260,6 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_focusmode_entry_infinity">Beskonačno</string>
   <string name="pref_camera_focusmode_entry_macro">Makro</string>
   <string name="pref_camera_focusmode_entry_normal">Normalno</string>
-  <string name="pref_camera_focusmode_value_default">continuous-picture</string>
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
   <string name="pref_camera_hand_night_title">Noćni način</string>
   <string name="pref_camera_hdr_type_title">HDR vrsta</string>
@@ -288,17 +287,13 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_jpegquality_entry_superfine">Super fina</string>
   <string name="pref_camera_jpegquality_title">Kvaliteta slike</string>
   <string name="pref_camera_jpegquality_entry_high">Visoka</string>
-  <string name="pref_camera_jpegquality_entry_normal">Standardna</string>
   <string name="pref_camera_jpegquality_entry_low">Niska</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Fokusiranje</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Snimanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Dugi pritisak na tipku okidača</string>
-  <string name="pref_camera_movie_solid_default">uključeno</string>
   <string name="pref_camera_movie_solid_entry_off">Isključeno</string>
   <string name="pref_camera_movie_solid_entry_on">Uključeno</string>
   <string name="pref_camera_movie_solid_title">Film solidan</string>
-  <string name="pref_camera_movie_solid_value_off">isključeno</string>
-  <string name="pref_camera_movie_solid_value_on">uključeno</string>
   <string name="pref_camera_multilevel_entry_lowest">Najniže</string>
   <string name="pref_camera_multilevel_entry_lower">Niže</string>
   <string name="pref_camera_multilevel_entry_low">Nisko</string>
@@ -313,7 +308,6 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_auto_opti_zoom_title">Automatski Opti Zoom kada je omjer veći od 2</string>
   <string name="pref_camera_opti_zoom_title">Opti Zoom</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
-  <string name="pref_camera_picture_format_default">jpeg</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
   <string name="pref_camera_picture_format_title">Odaberite format slike</string>
@@ -527,7 +521,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="toast_burst_snap_finished_start">Brzo uzastopno snimanje završeno</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Brzo uzastopno snimanje nije podržano kada je snimanje zvuka uključeno</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržano kada je HDR uključen</string>
-  <string name="toast_burst_snap_forbidden_when_iso_not_auto">Podesite ISO na 'automatski'</string>
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">Serija snimanja nije podržana ako je ISO podešen na AUTO.</string>
   <string name="toast_start_audio_capture">Napravite zvuk na okidanju</string>
   <string name="ubi_focus_exit_button_text">Izlaz iz Ubi Focus načina</string>
   <string name="undo">VRATI</string>
