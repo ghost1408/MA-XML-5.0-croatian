@@ -21,11 +21,18 @@
     <string-array name="preferences_default_reminder_labels">
         <item>Bez podsjetnika</item>
         <item>0 minuta</item>
+		<item>1 minuta</item>	
         <item>5 minuta</item>
         <item>10 minuta</item>
-        <item>15 minuta</item>
+		<item>15 minuta</item>
+        <item>20 minuta</item>
+		<item>25 minuta</item>
         <item>30 minuta</item>
+		<item>45 minuta</item>
         <item>1 sat</item>
+		<item>2 sata</item>
+		<item>3 sat</item>
+		<item>12 sati</item>
         <item>1 dan</item>
         <item>2 dana</item>
         <item>1 tjedan</item>
@@ -128,7 +135,7 @@
         <item>Privremen</item>
     </string-array>
     <string-array name="visibility">
-        <item>Predefinirano</item>
+        <item>Zadano</item>
         <item>Privatno</item>
         <item>Javno</item>
     </string-array>
@@ -147,11 +154,11 @@
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Samo ovaj događaj</item>
-        <item>Ovaj i buduće događaje</item>
+        <item>Ovaj i budući događaji</item>
         <item>Svi događaji</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Ovaj &amp; budući događaji</item>
+        <item>Ovaj &amp;  budući događaji</item>
         <item>Svi događaji</item>
     </string-array>
     <string-array name="change_response_labels">

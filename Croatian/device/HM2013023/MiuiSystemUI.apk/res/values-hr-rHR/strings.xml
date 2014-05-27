@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="ext_media_nomedia_notification_message">SD Kartica uklonjena. Stavite novi medij.</string>
+  <string name="ext_media_nomedia_notification_title">SD kartica je uklonjena</string>
+  <string name="ext_media_safe_unmount_notification_title">Sigurno uklanjanje SD kartice</string>
+  <string name="ext_media_safe_unmount_notification_message">Sada možete sigurno ukloniti SD karticu.</string>
+  <string name="ext_media_badremoval_notification_title">SD kartica neočekivano uklonjena.</string>
+  <string name="ext_media_badremoval_notification_message">Isključite aktivnu SD karticu prije uklanjanja da izbjegnete gubitak podataka..</string>
+  <string name="ext_media_unmountable_notification_title">Oštećena SD kartica</string>
+  <string name="ext_media_unmountable_notification_message">Oštećena SD kartica. Možda je potrebno formatiranje.</string>
+  <string name="ext_media_nofs_notification_title">Prazna SD kartica</string>
+  <string name="ext_media_nofs_notification_message">SD kartica prazna ili nepodržan datotečni sustav.</string>
+  <string name="ext_media_checking_notification_title">Priprema SD kartice</string>
+  <string name="usb_storage_stop_message">Prije isključivanja SD kartice, zaustavite (s naredbom izbacivanje) Android SD karticu s vašeg računala.</string>
+  <string name="usb_storage_error_message">Greška kod prikaza vaše SD kartice kao uređaja za USB masovnu pohranu.</string>
+  <string name="usb_storage_message">"Povezani ste na računalo s USB-om. Dodirnite gumb ako želite kopirati datoteke između vašeg računala i Android USB pohrane."</string>
+</resources>

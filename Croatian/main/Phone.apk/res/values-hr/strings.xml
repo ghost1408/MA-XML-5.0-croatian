@@ -712,6 +712,11 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="nw_unlock_failed">Otključavanje SIM-a Mreže neuspješno.</string>
   <string name="nw_unlock_success">Otključavanje SIM-a Mreže uspješno.</string>
   <string name="ok">U redu</string>
+  <string name="oldman_answer_call_button_text">odgovori</string>
+  <string name="oldman_reject_call_button_text">odbij</string>
+  <string name="oldman_end_call_button_text">završi</string>
+  <string name="oldman_dialpad_button_text">tipkovnica</string>
+  <string name="oldman_speaker_button_text"></string>
   <string name="oldPin2Label">Stari PIN2</string>
   <string name="oldPinLabel">Stari PIN</string>
   <string name="old_password_label">Stara zaporka (4 znamenke)</string>
@@ -999,12 +1004,14 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="sim_lock_off_miui">Potreban PIN za korištenje telefona</string>
   <string name="sim_lock_on_miui">Potreban PIN za korištenje telefona</string>
   <string name="sim_lock_title_miui">Postavke SIM zaključavanja</string>
-  <string name="sim_slot_alert_title">Utor za SIM karticu</string>
+  <string name="sim_slot_alert_cancel">Nastavi koristeći</string>
   <string name="sim_slot_alert_message">Umetnite %s SIM karticu u prvi utor, koji podržava 3G mreže.</string>
+  <string name="sim_slot_alert_message_3g">"Umetnite %s SIM card karticu u prvi utor, koji podržava 3G mreže."</string>
   <string name="sim_slot_alert_shutdown">Isključiti</string>
-  <string name="sim_slot_alert_cancel">Používať ďalej</string>
+  <string name="sim_slot_alert_title">Utor za SIM karticu</string>
   <string name="sim_ndp_dismiss_text">Odbaciti</string>
   <string name="sim_ndp_unlock_text">Otključaj</string>
+  <string name="sim_picker_timer_miui">"(%1$ds)"</string>
   <string name="sim_pin_change_miui">Promijeni SIM PIN</string>
   <string name="sim_pin_toggle_miui">Zaključaj SIM karticu</string>
   <string name="sim_unlock_failed">SIM SIM otključavanje neuspješno.</string>
@@ -1086,7 +1093,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="sum_xdivert_disabled">X-Divert Onemogućen</string>
   <string name="sum_xdivert_enabled">X-Divert Omogućen</string>
   <string name="summary_manage_subscriptions">Upravljanje mrežnih postavaka svake pretplate</string>
-  <string name="suspect_info">"Ne prihvaćajte pozivatelja, moguć pokušaj prijevare!"</string>
+  <string name="suspect_info">"Budite oprezni: Uvijek biste trebali provjeriti identitet kontakta prvo telefonom/videom prije odgovaranja na bilo kakve poruke koje uključuju vaše osobne financije!"</string>
   <string name="t9_indexing_method_pinyin">PinYin</string>
   <string name="t9_indexing_method_title_miui">T9 postavke pretraživanja</string>
   <string name="t9_indexing_method_zhuyin">ZhuYin</string>

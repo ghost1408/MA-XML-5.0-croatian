@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string-array name="default_smiley_names">
+        <item>Sretan</item>                  
+        <item>Tužan</item>                     
+        <item>Namigivanje</item>                
+        <item>Plaženje jezika</item>    
+        <item>Iznenađen</item>            
+        <item>Poljupci</item>               
+        <item>Vikanje</item>                
+        <item>Cool</item>               
+        <item>Money mouth</item>           
+        <item>Noga u usta</item>        
+        <item>Posramljen</item>            
+        <item>Anđeo</item>              
+        <item>Neodlučan</item>             
+        <item>Plač</item>                
+        <item>Šutim ko zaliven</item>      
+        <item>Smijeh</item>             
+        <item>Zbunjen</item>              
+        <item>Srce</item>                
+        <item>Ljut</item>                   
+        <item>Zlobno smijanje</item>                
+        <item>Poker faca</item>         
+    </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>Jednom</item>
         <item>Dvaput</item>
@@ -29,7 +52,7 @@
         <item>Kroz Cloud poruke</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-       <item>Kroz SMS Poruke</item>
+        <item>Kroz SMS Poruke</item>
         <item>Kroz Cloud poruke</item>
     </string-array>
     <string-array name="select_dialog_items">
@@ -49,5 +72,10 @@
         <item>Uvijek</item>
         <item>Samo u bešumnom načinu</item>
         <item>Nikad</item>
+    </string-array>
+	 <string-array translatable="false" name="prefValues_vibrateWhen">
+        <item>uvijek</item>
+        <item>samo kad je bešumno</item>
+        <item>nikad</item>
     </string-array>
 </resources>

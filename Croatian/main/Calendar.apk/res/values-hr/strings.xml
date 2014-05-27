@@ -3,6 +3,7 @@
   <string name="accessibility_add_attendee">Dodaj sudionika</string>
   <string name="accessibility_add_reminder">Dodaj podsjetnik</string>
   <string name="accessibility_all_day">Događaj za cijeli dan</string>
+  <string name="accessibility_email_notification">E-mail gostima</string>
   <string name="accessibility_pick_end_date">Datum završetka</string>
   <string name="accessibility_pick_end_time">Vrijeme završetka</string>
   <string name="accessibility_pick_start_date">Datum početka</string>
@@ -202,7 +203,7 @@ pričekajte da se završi sinkronizacija i pokušajte ponovo). Ili dodirnite "Od
   <string name="preferences_reminder_title">Obavijesti &amp; podsjetnici</string>
   <string name="preferences_show_week_num_title">Pokaži broj tjedna</string>
   <string name="preferences_title">Postavke</string>
-  <string name="preferences_use_home_tz_descrip">Kod putovanja prikaži kalendare i vremena događaja u toj vremenskoj zoni.</string>
+  <string name="preferences_use_home_tz_descrip">Prikaz kalendara i vremena događaja u domaćoj vremenskoj zoni kad ste na putovanju.</string>
   <string name="preferences_use_home_tz_title">Koristi domaću vremensku zonu</string>
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Tjedan počinje</string>
@@ -223,7 +224,7 @@ e-pošte gostima</string>
   <string name="response_maybe">Možda</string>
   <string name="response_no">Ne</string>
   <string name="response_yes">Da</string>
-  <string name="rest_day_indication"/>
+  <string name="rest_day_indication">:)</string>
   <string name="save_label">Gotovo</string>
   <string name="saving_event">Događaj spremljen.</string>
   <string name="saving_event_with_guest">Ažuriranja će biti poslana.</string>
@@ -232,7 +233,7 @@ e-pošte gostima</string>
   <string name="search_title">Pretraži moj kalendar</string>
   <string name="select_synced_calendars_button">Kalendari za sinkronizaciju</string>
   <string name="select_synced_calendars_title">Kalendari za sinkronizaciju</string>
-  <string name="select_visible_calendars_title">Kalendari za prikazati</string>
+  <string name="select_visible_calendars_title">Kalendari za prikaz</string>
   <string name="show_all_lunar">Pokaži lunarno</string>
   <string name="show_almanac">Pokaži almanah</string>
   <string name="show_controls">Pokaži kontrole</string>
@@ -268,7 +269,7 @@ e-pošte gostima</string>
   <string name="widget_events">Nadolazeći događaji</string>
   <string name="widget_no_events">Nema nadolazećih događaja</string>
   <string name="widget_select_style">Odaberite stil widget-a</string>
-  <string name="work_day_indication"/>
+  <string name="work_day_indication">:(</string>
   <string name="wuxing"/>
   <string name="xingxiu"/>
   <string name="yearly">Godišnje (na %s)</string>

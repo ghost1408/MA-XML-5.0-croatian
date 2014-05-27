@@ -1,9 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Aplikacija nije instalirana.</string>
+  <string name="add_button_miui">Dodaj</string>
   <string name="add_call_reject_number">Dodaj automatsko odbacivanje broja</string>
+  <string name="add_zero_prefix">Dodaj predbroj 0 za mobitel</string>
   <string name="airplane_mode_on">Nije moguće pokrenuti Alat SIM-a dok je uključen način rada u zrakoplovu.</string>
   <string name="alert_device_error">Desila se pogreška audio uređaja.</string>
+  <string name="always_enable_mms_miui">Uvijek primi MMS</string>
+  <string name="always_enable_mms_summary_miui">Primi MMS i kad su mobilni podaci onemogućeni</string>
   <string name="associate_sim_missing_message">SIM %1$s nije dostupan. Želite li uputiti poziv preko %2$s?</string>
   <string name="associate_sim_missing_other">Ostalo</string>
   <string name="auto_reject_sum">Blokirati izravno različite dolazne pozive</string>
@@ -112,6 +116,7 @@
   <string name="gsm_umts_network_preferences_dialogtitle">Mrežni način</string>
   <string name="gsm_umts_network_preferences_title">Mrežni način</string>
   <string name="gsm_umts_network_preferneces_summary">Još nije provedeno!</string>
+  <string name="gprs_state_off">Isključeno</string>
   <string name="imei">IMEI</string>
   <string name="incall_toast_hold">Zadrži</string>
   <string name="incall_toast_unhold">Pusti</string>
@@ -198,6 +203,7 @@ bezuvjetno aktivirano"</string>
   <string name="net_or_simcard_busy">Mreža ili SIM kartica zauzeta.</string>
   <string name="network_forbidden">zabranjen</string>
   <string name="network_id">ID mreže</string>
+  <string name="network_settings">Postavke mreže</string>
   <string name="network_setting_all_forbidden_dialog">Nema dostupnih mreža. Pokušajte prebaciti 3G uslugu, ili kliknite na zabranjenu mrežu da biste ručno registrirali.</string>
   <string name="networksettings_tips_data_disabled">Isključiti podatkovne usluge? Usluge kao što su slanje i primanje MMS-a ili e-pošte neće biti na raspolaganju.</string>
   <string name="networksettings_tips_data_enabled">Omogućiti podatkovne usluge? Može povećati troškove za prijenos podataka!</string>
@@ -255,7 +261,8 @@ Jeste li sigurni da želite omogućiti poželjne mobilne podatke?"</string>
   <string name="select_trash">Smeće</string>
   <string name="selected_item_count">Odabrano: %d</string>
   <string name="service_3g_off">Isključeno</string>
-  <string name="show_always_title">"Ne upozoravaj ponovo</string>
+  <string name="setting_for_3G_service">3G usluga</string>
+  <string name="show_always_title">Ne upozoravaj ponovo</string>
   <string name="simContacts_emptyLoading_ex">Čitanje kontakata iz %s...</string>
   <string name="simContacts_title">Odaberite kontakte za uvoz</string>
   <string name="sim_manage_call_via">Poziv kroz</string>
@@ -263,6 +270,8 @@ Jeste li sigurni da želite omogućiti poželjne mobilne podatke?"</string>
   <string name="sim_manage_sipcall">Internetski poziv</string>
   <string name="sim_manage_suggested">Preporuka</string>
   <string name="sim_permanently_locked">Unos netočnog PUK2 koda više od 10 puta, trajno zaključava SIM karticu</string>
+  <string name="sim_picker_settings">Odaberite SIM karticu za postavke</string>
+  <string name="sim_picker_timer_miui">"(%1$ds)"</string>
   <string name="sim_toolkit">Alat SIM-a</string>
   <string name="simlock_dismiss">Odbiti</string>
   <string name="simlock_emergency">Hitan poziv</string>
@@ -292,6 +301,11 @@ Jeste li sigurni da želite omogućiti poželjne mobilne podatke?"</string>
   <string name="simlock_unlocking">Otključavanje...</string>
   <string name="simlock_unlockmardedcard">Otključaj označeni SIM</string>
   <string name="simlock_wrongcode">Pogrešan kod.</string>
+  <string name="sim_slot_alert_cancel">Nastavi koristeći</string>
+  <string name="sim_slot_alert_message">Umetnite %s SIM karticu u prvi utor, koji podržava 3G mreže.</string>
+  <string name="sim_slot_alert_message_3g">"Umetnite %s SIM card karticu u prvi utor, koji podržava 3G mreže."</string>
+  <string name="sim_slot_alert_shutdown">Isključiti</string>
+  <string name="sim_slot_alert_title">Utor za SIM karticu</string>
   <string name="sip_call_options_title_single_sim">Opcije internetskog poziva</string>
   <string name="start_record">Početak snimanja</string>
   <string name="start_record_vt">Početak snimanja</string>
@@ -305,7 +319,9 @@ Jeste li sigurni da želite omogućiti poželjne mobilne podatke?"</string>
   <string name="sum_video_call">Postavke videopoziva</string>
   <string name="sum_voice_call">Postavke glasovnih poziva</string>
   <string name="sum_voice_mail">Usluga glasovne pošte</string>
+  <string name="suspect_info">"Budite oprezni: Uvijek biste trebali provjeriti identitet kontakta prvo telefonom/videom prije odgovaranja na bilo kakve poruke koje uključuju vaše osobne financije!"</string>
   <string name="turn_on_3g_service_message">3G usluga je isključena, želite li je uključiti?</string>
+  <string name="undefined_miui">Nedefiniran</string>
   <string name="umts_preferred_network_mode_dialogtitle">Mrežni način</string>
   <string name="unblock_pin2">Odblokrati PIN2</string>
   <string name="verifyNewPin">Upišite novi SIM PIN još jednom za potvrdu</string>
@@ -384,7 +400,7 @@ Jeste li sigurni da želite omogućiti poželjne mobilne podatke?"</string>
   <string name="vt_pic_replace_local_description">Postavite sliku za prikaz dok je fotoaparat isključen iz uporabe</string>
   <string name="vt_pic_replace_local_freezeme">Zamrzni me</string>
   <string name="vt_pic_replace_local_mypic">Moja slika</string>
-  <string name="vt_pic_saved_to_sd">Snnimka spremljena na SD karticu</string>
+  <string name="vt_pic_saved_to_sd">Snimka spremljena na SD karticu</string>
   <string name="vt_pic_saved_to_sd_fail">Neuspjelo spremanje snimke</string>
   <string name="vt_recorder_only_peer_video">Samo peer Video</string>
   <string name="vt_recorder_only_voice">Samo glas</string>
