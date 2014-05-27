@@ -10,7 +10,7 @@
   <string name="action_open_camera">Fotoaparat</string>
   <string name="action_open_camera2">Fotoaparat</string>
   <string name="action_open_flashlight">Svjetiljka</string>
-  <string name="action_open_mi_route">Zoznam zariadení</string>
+  <string name="action_open_mi_route">Popis uređaja</string>
   <string name="action_open_or_close_motion">Uključi/Isključi pokret</string>
   <string name="action_open_other_app">Druga aplikacija</string>
   <string name="action_open_sound_recorder">Snimi zvuk</string>
@@ -59,8 +59,8 @@
   <string name="cn_9">9</string>
   <string name="company">Firma:</string>
   <string name="confirm">U redu</string>
-  <string name="copy">Kopírovať</string>
-  <string name="copy_succeed">Kopirano</string>
+  <string name="copy">Kopirati</string>
+  <string name="copy_succeed">Kopiranje uspješno</string>
   <string name="default_action_title">Zadana radnja</string>
   <string name="delete">Izbriši</string>
   <string name="delete_confirm">Izbrisati?</string>
@@ -71,8 +71,8 @@
   <string name="fail_generate_barcode">Generiranje koda nije uspjelo</string>
   <string name="faq_comp_text">Za uređaje s MIUIv5 i Xiaomi telefone. Aktualnu verziju MiKey aplikaciju možete pronaći na <a href="http://www.miui.cz/mikey">miui.cz/mikey</a></string>
   <string name="faq_comp_title">Koji uređaji su kompatibilni?</string>
-  <string name="faq_focus_text">Blesk pri fotografovaní predlžuje čas zhotovenia ale výsledna fotografia je ostrejšia. Môžete si ho vypnúť, no fotografia bude rozmazaná.</string>
-  <string name="faq_focus_title">Sporo fotografiranje?</string>
+  <string name="faq_focus_text">Bleskalica kod fotografiranja produljuje izradu, ali dobivena slika je oštrija. Možete to isključiti, ali slika će biti mutna.</string>
+  <string name="faq_comp_title">Koji uređaji su kompatibilni?</string>
   <string name="faq_misreq_text">Ako prilikom kontrole glazbe ne reagira na zaslonu zaključavanja, izađite iz aplikacije Glazba, izbrišite je iz RAM-a, priključite ponovo Mikey i odaberite iz izbornika "Mikey". Svjesni smo ove greške i radimo sve da je uklonimo!</string>
   <string name="faq_misreq_title">Kako riješiti probleme?</string>
   <string name="faq_plug_text">Ova metoda priključivanja MiKey će pomoći spriječiti potencijalne probleme. Nemojte pritisnuti tipku za vrijeme spajanja MiKey.</string>
@@ -110,7 +110,7 @@
   <string name="picker_lable">Galerija</string>
   <string name="place_barcode_into_rectangle">Postavite QR kod ili barkod unutar tražila pravokutnika</string>
   <string name="rank_prefix">"Rejting: "</string>
-  <string name="rank_suffix">poena</string>
+  <string name="rank_suffix">bodova</string>
   <string name="recognize">Prepoznaj</string>
   <string name="recommend">Preporuka</string>
   <string name="running_notification">Xiaomi MiKey</string>
