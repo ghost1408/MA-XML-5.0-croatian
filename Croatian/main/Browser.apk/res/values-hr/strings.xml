@@ -566,7 +566,7 @@
   <string name="webview_find_on_page">Traži na stranici</string>
   <string name="webview_js_dialog_before_unload">"%s
 Jeste li sigurni da želite napustiti ovu stranicu?"</string>
-  <string name="webview_js_dialog_before_unload_negative_button">Ostati na starnici</string>
+  <string name="webview_js_dialog_before_unload_negative_button">Ostati na stranici</string>
   <string name="webview_js_dialog_before_unload_positive_button">Napustiti ovu stranicu</string>
   <string name="webview_js_dialog_before_unload_title">Potvrda</string>
   <string name="webview_js_dialog_title">Stranica \"%s\" objavljuje:</string>
@@ -585,4 +585,11 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="use_cellular_network_alert_title">Upozorenje mreže</string>
   <string name="date_picker_dialog_other_button_label">Ostalo</string>
   <string name="copy_to_clipboard_failure_message">Kopiranje u međuspremnik nije uspjelo</string>
+  <string name="miuichromium_error_page_mobile">Mobilna mreža</string>
+  <string name="miuichromium_error_page_reason_network">Prikaži URL</string>
+  <string name="miuichromium_error_page_reason_server">Nije moguće učitati ovu stranicu</string>
+  <string name="miuichromium_error_page_reload">Učitaj ponovo</string>
+  <string name="miuichromium_error_page_title">Nije moguće učitati ovu stranicu</string>
+  <string name="miuichromium_error_page_url">Prikaži URL</string>
+  <string name="miuichromium_error_page_wlan">Postavke WLAN-a</string>
 </resources>

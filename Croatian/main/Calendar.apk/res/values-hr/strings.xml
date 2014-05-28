@@ -274,4 +274,7 @@ e-pošte gostima</string>
   <string name="xingxiu"/>
   <string name="yearly">Godišnje (na %s)</string>
   <string name="yearly_plain">Godišnje</string>
+  <string name="zhushen"/>
+  <string name="pref_error_no_ringtone_select">Nijedno</string>
+  <string name="view_all_matches">Prikaži sve</string>
 </resources>
