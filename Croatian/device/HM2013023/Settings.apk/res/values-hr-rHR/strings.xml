@@ -275,11 +275,7 @@ Ova postavka utječe na sve korisnike ovog uređaja."</string>
   <string name="gadget_state_turning_off">Isključivanje</string>
   <string name="gadget_state_turning_on">Uključivanje</string>
   <string name="gadget_sync">Sink.</string>
-  <string name="gadget_title">Nadzor napaja</string>
-  <string name="gadget_toggle_bluetooth">Ažuriranje postavke Bluetootha</string>
-  <string name="gadget_toggle_wifi">Ažuriranje postavki WLAN-a</string>
   <string name="gadget_wifi">WLAN</string>
-  <string name="game_controller_settings_category">Igrači kontroler</string>
   <string name="gemini_3g_disable_warning">3G usluga nije dostupna u odabranoj SIM kartici. Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u 
   Postavke > Bežično povezivanje &amp; Mreže > Mobilne mreže.</string>
   <string name="gemini_3g_disable_warning_case0">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove!

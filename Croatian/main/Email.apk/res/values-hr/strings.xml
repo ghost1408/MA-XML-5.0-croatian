@@ -64,7 +64,7 @@
   <string name="account_settings_retry_label">Pokušaj sinkronizaciju</string>
   <string name="account_settings_retry_summary">Dodirnite ovdje za sinkronizaciju tog računa</string>
   <string name="account_settings_ringtone">Odaberite melodiju zvona</string>
-  <string name="account_settings_signature_hint">Automatski umetni tekst na dnu svake poruke koju šaljete</string>
+  <string name="account_settings_signature_hint">Postavke poslužitelja</string>
   <string name="account_settings_signature_label">Potpis</string>
   <string name="account_settings_servers">Postavke poslužitelja</string>
   <string name="account_settings_summary">Učestalost sinkronizacije, obavijesti itd.</string>
@@ -189,7 +189,7 @@
   <string name="account_setup_username_uneditable_error">"Ne možete promijeniti korisničko ime računa. Da biste dodali račun s nekim drugim korisničkim imenom, dodirnite \"Dodaj račun\".</string>
   <string name="account_sync_off">Sinkronizacija računa nije uključena.</string>
   <string name="account_waiting_for_folders_msg">Učitavanje popisa mapa…</string>
-  <string name="accounts_welcome">Možete postaviti svoj korisnički račun u samo nekoliko koraka.</string>
+  <string name="accounts_welcome">Postavite svoj korisnički račun u samo nekoliko koraka.</string>
   <string name="accounts_welcome_exchange">Možete postaviti svoj korisnički Exchange račun u samo nekoliko koraka.</string>
   <string name="accounts_welcome_exchange_alternate">Možete postaviti svoj korisnički Exchange ActiveSync račun u samo nekoliko koraka.</string>
   <string name="actionbar_large_unread_count">%1$d+ nepročitano</string>
@@ -203,7 +203,7 @@
   <string name="add_cc_bcc_menu">Dodaj kopiju/skrivenu kopiju</string>
   <string name="add_file_attachment">Priloži daoteku</string>
   <string name="add_label">Dodaj mapu</string>
-  <string name="add_quick_responses_action">Compose</string>
+  <string name="add_quick_responses_action">Nova poruka</string>
   <string name="add_photo_attachment">Priloži sliku</string>
   <string name="add_star">Dodaj zvjezdicu</string>
   <string name="add_video_attachment">Priloži videozapis</string>
@@ -211,8 +211,8 @@
   <string name="address_display_format_with_via_domain">%1$s%2$s putem %3$s</string>
   <string name="all_folders_heading">Dodaj mape</string>
   <string name="allread">Pročitano</string>
-  <string name="alert_title_selected">Provjeri sve</string>
-  <string name="alert_selected_all_message">" Odabrali ste %d poruka. Jeste li sigurni？"</string>
+  <string name="alert_title_selected">Odaberi sve</string>
+  <string name="alert_selected_all_message">"Odabrali ste %d poruka. Jeste li sigurni?"</string>
   <string name="always_bcc_myself">Uvijek šalji skrivenu kopiju sebi</string>
   <string name="always_show_images">Uvijek prikaži slike ovog pošiljatelja</string>
   <string name="always_show_images_toast">Slike ovog pošiljatelja automatski će se prikazati.</string>
