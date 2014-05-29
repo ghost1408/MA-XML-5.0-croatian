@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Folders">Mape</string>
-  <string name="abc_action_bar_home_description">kući</string>
+  <string name="abc_action_bar_home_description">Kući</string>
   <string name="abc_action_bar_up_description">Gore</string>
   <string name="abc_action_menu_overflow_description">Više opcija</string>
   <string name="abc_action_mode_done">Gotovo</string>
