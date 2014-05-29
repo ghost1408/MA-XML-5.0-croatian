@@ -125,7 +125,7 @@ Danas u %1$s je vrijeme %2$s, %3$s °C, %4$s. %5$s."</string>
   <string name="sms_notification">Dijeli putem SMS-a</string>
   <string name="tip_weather">MIUI obavijest o vremenu</string>
   <string name="tip_weather_info_content_1">Uzmite nešto viška odjeće!</string>
-  <string name="tip_weather_info_title_1">%1$s razlika temperature od %2$d stupnjeva</string>
+  <string name="tip_weather_info_title_1">%1$s razlika temperature od %2$d °C</string>
   <string name="tip_weather_info_title_2">Danas je %1$s u %2$s</string>
   <string name="trend_weather_today">Danas</string>
   <string name="trend_weather_tomorrow">Sutra</string>

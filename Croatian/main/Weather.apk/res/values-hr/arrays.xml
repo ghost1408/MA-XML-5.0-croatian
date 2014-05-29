@@ -142,7 +142,7 @@
     </string-array>
     <string-array name="weather_sms_addons">
         <item>"Današnja prognoza @: $."</item>
-        <item>Min~Max: %.</item>
+        <item>Min~Max: % °C.</item>
         <item>Ne zaboravite ponijeti kišobran!</item>
         <item>Pokušajte ostati suhi</item>
         <item>Ukoliko sušite odjeću vani, ne zaboravite je pospremiti! :)"</item>
