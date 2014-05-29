@@ -461,7 +461,7 @@
   <string name="menu_photo_save_all">Spremi sve</string>
   <string name="menu_photo_share">Dijeli</string>
   <string name="menu_photo_share_all">Dijeli sve</string>
-  <string name="menu_resend_all">Pošalji sve</string>
+  <string name="menu_resend_all">Pošalji ponovo</string>
   <string name="menu_search">Pretraživanje</string>
   <string name="menu_settings">Postavke</string>
   <string name="menu_show_original">Vrati izvornu verziju</string>
