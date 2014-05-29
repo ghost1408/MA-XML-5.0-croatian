@@ -335,6 +335,7 @@
   <string name="private_settings">Postavke privatnih poruka</string>
   <string name="processing">Obrađujem...</string>
   <string name="prvate_contact">Privatan kontakt</string>
+  <string name="quick_reply">Odgovori</string>
   <string name="rate_limit_surpassed">Potvrdi</string>
   <string name="received_label">"Primljeno: "</string>
   <string name="recipient_editor_count_format">%d</string>
