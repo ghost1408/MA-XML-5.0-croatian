@@ -5,7 +5,7 @@
   <string name="ext_media_safe_unmount_notification_title">Sigurno uklanjanje SD kartice</string>
   <string name="ext_media_safe_unmount_notification_message">Sada možete sigurno ukloniti SD karticu.</string>
   <string name="ext_media_badremoval_notification_title">SD kartica neočekivano uklonjena.</string>
-  <string name="ext_media_badremoval_notification_message">Isključite aktivnu SD karticu prije uklanjanja da izbjegnete gubitak podataka..</string>
+  <string name="ext_media_badremoval_notification_message">Isključite aktivnu SD karticu prije uklanjanja da izbjegnete gubitak podataka.</string>
   <string name="ext_media_unmountable_notification_title">Oštećena SD kartica</string>
   <string name="ext_media_unmountable_notification_message">Oštećena SD kartica. Možda je potrebno formatiranje.</string>
   <string name="ext_media_nofs_notification_title">Prazna SD kartica</string>
