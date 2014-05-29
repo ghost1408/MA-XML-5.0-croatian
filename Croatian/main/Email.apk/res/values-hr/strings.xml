@@ -254,7 +254,6 @@
   <string name="clear_display_images_whitelist_title">Brisanje odobrenja za slike</string>
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="compose">Nova poruka</string>
-  <string name="compose_help_context">Stvaranje poruke</string>
   <string name="compose_send">E-pošta</string>
   <string name="compose_sent">Poruka poslana</string>
   <string name="confirm">Potvrdi</string>
@@ -741,7 +740,6 @@ Za postavljanje automatske sinkronizacije, dodirnite "Promjena postavki sinkroni
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Povucite prst od vrha do dna kako bi se dobili obavijesti. Kliknite za dovršetak postavke.</string>
   <string name="wait_for_sync_title">Čekanje na sinkronizaciju</string>
-  <string name="wait_help_context">čekaj</string>
   <string name="widget_all_mail">Sva E-pošta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
