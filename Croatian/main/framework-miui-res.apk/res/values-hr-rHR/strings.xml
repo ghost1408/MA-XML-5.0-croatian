@@ -228,14 +228,14 @@ Dostupno: %2$s memorije"</string>
   <string name="sync_data_contact">Kontakti</string>
   <string name="sync_data_loading">Učitavanje podataka s poslužitelja</string>
   <string name="sync_data_merge_warning_cancel">Odustani</string>
-  <string name="sync_data_merge_warning_desc">Podataka %s će se kombinirati s podacima iz oblaka!</string>
-  <string name="sync_data_merge_warning_ok">Spoji</string>
+  <string name="sync_data_merge_warning_desc">Podatci %s će se kombinirati s podacima iz Cloud-a!</string>
+  <string name="sync_data_merge_warning_ok">Sinkro.</string>
   <string name="sync_data_merge_warning_title">Upozorenje o vraćanju podataka!</string>
   <string name="sync_data_mms">SMS vijesti</string>
   <string name="sync_data_msg_seperate">, </string>
   <string name="sync_data_notes">Bilješke</string>
   <string name="sync_data_recover_warning_cancel">Odustani</string>
-  <string name="sync_data_recover_warning_desc">Podataka %s će biti vraćeno iz oblaka!</string>
+  <string name="sync_data_recover_warning_desc">Podatci %s će biti vraćeni iz Cloud-a!</string>
   <string name="sync_data_recover_warning_ok">Oporavak</string>
   <string name="sync_data_recover_warning_title">Upozorenje o vraćanju podataka</string>
   <string name="sync_one_time_sync">Dodirni za sinkronizaciju (%1$s)</string>
