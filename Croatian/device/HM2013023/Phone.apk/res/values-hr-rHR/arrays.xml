@@ -3,12 +3,12 @@
     <string-array name="plmn_prefer_network_mode_choices">
         <item>GSM</item>
         <item>WCDMA</item>
-        <item>Dual mode</item>
+        <item>Dvostruki način rada</item>
     </string-array>
     <string-array name="plmn_prefer_network_mode_td_choices">
         <item>GSM</item>
         <item>TD-SCDMA</item>
-        <item>Dual mode</item>
+        <item>Dvostruki način rada</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (auto)</item>
@@ -34,7 +34,7 @@
         <item>Popis blokiranih</item>
     </string-array>
     <string-array name="call_reject_dialog_array">
-       <item>Kontakti</item>
+        <item>Kontakti</item>
         <item>Popis poziva</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
@@ -47,8 +47,8 @@
         <item>Samo GSM</item>
         <item>Poželjno GSM/WCDMA</item>
 	</string-array>		
-	<string-array name="cdma_subscription_choices">
-        <item>UIM</item>
-        <item>NV</item>
+    <string-array name="cdma_system_select_choices">
+        <item>Samo doma</item>
+        <item>Automatski</item>
     </string-array>	
 </resources>

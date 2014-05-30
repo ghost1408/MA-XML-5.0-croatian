@@ -21,7 +21,7 @@
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Odmah</item>
-	<item>5 sekundi</item>
+	    <item>5 sekundi</item>
         <item>15 sekundi</item>
         <item>30 sekundi</item>
         <item>1 minuta</item>

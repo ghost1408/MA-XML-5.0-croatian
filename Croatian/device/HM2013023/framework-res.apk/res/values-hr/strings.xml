@@ -105,9 +105,6 @@
     <string name="invalidPuk">Upišite PUK koji se sastoji od barem 8 brojeva.</string>
     <string name="needPuk">Vaša je SIM kartica zaključana PUK-om. Unesite PUK kôd da biste je otključali.</string>
     <string name="needPuk2">Unesite PUK2 da biste odblokirali SIM karticu.</string>
-    <string name="enablePin">Neuspješno. Omogući SIM/RUIM ZAKLJUČAVANJE.</string>
-    <string name="pinpuk_attempts">"
-Preostalo pokušaja :"</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
     <string name="ClipMmi">ID dolaznog pozivatelja</string>
@@ -714,7 +711,7 @@ Preostalo pokušaja :"</string>
     <string name="keyguard_password_enter_password_code">Unesite zaporku za otključavanje</string>
     <string name="keyguard_password_enter_pin_password_code">Unesite PIN za otključavanje</string>
     <string name="keyguard_password_wrong_pin_code">Netočan PIN kôd.</string>
-    <string name="keyguard_password_pin_failed">PIN radnja neuspješna!</string>
+    <string name="keyguard_password_entry_touch_hint">Unesite zaporku</string>
     <string name="keyguard_label_text">Za otključavanje pritisnite Izbornik pa 0.</string>
     <string name="emergency_call_dialog_number_for_display">Broj hitne službe</string>
     <string name="lockscreen_carrier_default">Nema usluge.</string>
@@ -747,7 +744,6 @@ Preostalo pokušaja :"</string>
     <string name="emergency_calls_only">Samo hitni pozivi</string>
     <string name="lockscreen_network_locked_message">Mreža je zaključana</string>
     <string name="lockscreen_sim_puk_locked_message">SIM kartica je zaključana PUK-om.</string>
-    <string name="lockscreen_perso_locked_message">SIM/RUIM je Perso zaključan</string>
     <string name="lockscreen_sim_locked_message">SIM kartica je zaključana.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Otključavanje SIM kartice…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Netočno ste iscrtali uzorak za otključavanje %d puta. 
@@ -756,8 +752,7 @@ Pokušajte ponovo za %d s."</string>
     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Netočno ste napisali zaporku %d puta. 
 
 Pokušajte ponovo za %d s."</string>
-    <string name="lockscreen_sim_pin_blocked">PIN1 Blokiran! Unesite PUK1 za deblokiranje PIN1.</string>
-    <string name="lockscreen_ruim_pin_blocked">PIN1 Blokiran! Unesite PUK1 za deblokiranje PIN1.</string>
+    <string name="lockscreen_sim_puk_locked_instructions">Pročitajte korisnički priručnik ili kontaktirajte korisničku podršku.</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Netočno ste napisali PIN %d puta. 
 
 Pokušajte ponovo za %d s."</string>
@@ -991,7 +986,6 @@ Za nastavak dodirnite U redu, a za ostanak na trenutačnoj stranici dodirnite Od
     <string name="network_available_sign_in">Prijavite se na mrežu</string>
     <string name="wifi_watchdog_network_disabled">Ne može se spojiti na Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" ima lošu internetsku vezu."</string>
-    <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_p2p_dialog_title">Izravni Wi-Fi</string>
     <string name="wifi_p2p_turnon_message">Pokreni izravan rad s Wi-Fi mrežom. To će isključiti rad s Wi-Fi klijentom/žarišnom točkom.</string>
     <string name="wifi_p2p_failed_message">Pokretanje izravne Wi-Fi veze nije moguće.</string>
@@ -1032,12 +1026,6 @@ Za nastavak dodirnite U redu, a za ostanak na trenutačnoj stranici dodirnite Od
     <string name="date_time_done">Gotovo</string>
     <string name="perms_description_app">Omogućuje aplikacija %1$s.</string>
     <string name="no_permissions">Nije potrebno dopuštenje</string>
-    <string name="perms_hide">
-<b>Sakrij</b>
-</string>
-    <string name="perms_show_all">
-<b>Pokaži sve</b>
-</string>
     <string name="perms_new_perm_prefix">
 <font fgcolor="#ff900000" size="12">NOVO: </font>
 </string>
@@ -1069,18 +1057,15 @@ Za nastavak dodirnite U redu, a za ostanak na trenutačnoj stranici dodirnite Od
     <string name="extmedia_format_button_format">Format</string>
     <string name="adb_active_notification_title">Priključen je alat za uklanjanje programske pogreške USB-a</string>
     <string name="adb_active_notification_message">Dodirnite da biste onemogućili rješavanje programske pogreške na USB-u.</string>
-    <string name="locale_replacement"/>
     <string name="select_input_method">Odabir načina unosa</string>
     <string name="configure_input_methods">Postavljanje načina unosa</string>
     <string name="use_physical_keyboard">Fizička tipkovnica</string>
     <string name="hardware">Hardver</string>
     <string name="select_keyboard_layout_notification_title">Odaberite izgled tipkovnice</string>
     <string name="select_keyboard_layout_notification_message">Dodirnite za odabir izgleda tipkovnice.</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="candidates_style">
-<u>kandidati</u>
-</string>
+    <string name="fast_scroll_alphabet">" ABCČĆDĐEFGHIJKLMNOPQRSŠTUVWXYZŽ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCČĆDĐEFGHIJKLMNOPQRSŠTUVWXYZŽ"</string>
+    <string name="candidates_style">Kandidati</string>
     <string name="ext_media_checking_notification_title">Pripremanje memorije USB</string>
     <string name="ext_media_checking_notification_message">Traženje pogrešaka.</string>
     <string name="ext_media_nofs_notification_title">Prazna memorija USB</string>
@@ -1109,10 +1094,6 @@ Za nastavak dodirnite U redu, a za ostanak na trenutačnoj stranici dodirnite Od
     <string name="ime_action_done">Gotovo</string>
     <string name="ime_action_previous">Preth.</string>
     <string name="ime_action_default">Pokreni</string>
-    <string name="managed_roaming_title">Upravljan Roaming</string>
-    <string name="managed_roaming_dialog_content">Nađena mreža s ograničenom uslugom. Želite li pokrenuti Pretraživanje mreže?</string>
-    <string name="managed_roaming_dialog_ok_button">Da</string>
-    <string name="managed_roaming_dialog_cancel_button">Ne</string>
     <string name="dial_number_using">"Biraj broj
 koristeći %s"</string>
     <string name="create_contact_using">"Stvori kontakt
@@ -1156,9 +1137,7 @@ za račun %s."</string>
     <string name="no_matches">Nema rezultata</string>
     <string name="find_on_page">Pronađi na stranici</string>
     <string name="action_mode_done">Gotovo</string>
-    <string name="progress_unmounting_internal">Isključivanje unutarnje pohrane…</string>
     <string name="progress_unmounting">Isključivanje USB pohrane...</string>
-    <string name="progress_erasing_internal">Brisanje unutarnje pohrane…</string>
     <string name="progress_erasing">Brisanje USB pohrane...</string>
     <string name="format_error">Brisanje USB pohrane nije uspjelo.</string>
     <string name="media_bad_removal">Kartica SD uklonjena je prije isključivanja.</string>
