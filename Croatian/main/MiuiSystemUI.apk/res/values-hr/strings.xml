@@ -320,7 +320,7 @@ d. MMMM yyyy"</string>
     <string name="settings_notification_icon">Obavijest u traci obavijesti</string>
     <string name="settings_toggle">Prekidači</string>
     <string name="settings_expandable_under_fullscreen_summary">povucite prstima preko vrha ekrana prema dolje</string>
-    <string name="settings_expandable_under_keyguard_summary">radi samo za neosigurnom zaključanom zaslonu</string>
+    <string name="settings_expandable_under_keyguard_summary">radi samo za neosiguranom zaključanom zaslonu</string>
     <string name="settings_screenshot_notification_disabled">Prikaži detalje snimke zaslona</string>
     <string name="center_clock_title">Sat u sredini</string>
     <string name="cust_carrier_label_text_title">Prilagodite naziv operatera</string>

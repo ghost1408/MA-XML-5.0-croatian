@@ -185,7 +185,7 @@
   <string name="load_channel_in_process">Učitaj popis kanala</string>
   <string name="loading">Učitavanje</string>
   <string name="login">Prijava</string>
-  <string name="login_and_enable">Prijavite se i sinkronizirajte</string>
+  <string name="login_and_enable">Prijava&amp;Sink</string>
   <string name="login_first">Prvo se trebate prijaviti u svoj Xiaomi račun</string>
   <string name="lrc_progress_modify">Prilagodite brzinu pomicanja stihova</string>
   <string name="lrc_progress_modify_helper">Prilagodite brzinu pomicanja stihova povlačenjem prema gore ili prema dolje</string>
@@ -229,7 +229,7 @@
   <string name="no_song_downloaded">Pjesma ne može biti preuzeta</string>
   <string name="normal_quality">Normalna kvaliteta</string>
   <string name="not_login">Prijava</string>
-  <string name="not_now">Nie teraz</string>
+  <string name="not_now">Ne sada</string>
   <string name="not_selected">Odaberi pjesmu</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
   <string name="online_search_hint">Pretraživanje online glazbe</string>

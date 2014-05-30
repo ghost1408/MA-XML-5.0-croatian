@@ -23,10 +23,10 @@ Omogućiti plutajuće prozore?"</string>
     <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
     <string name="fancy_icon_antispam">com.miui.antispam.AntiSpam</string>
     <string name="optimize_title_cache">Memorija</string>
-    <string name="optimize_title_ad">Reklame</string>
-    <string name="optimize_title_apk">Paketi</string>
+    <string name="optimize_title_ad">Reklama</string>
+    <string name="optimize_title_apk">Paketa</string>
     <string name="optimize_title_residual">Ostaci</string>
-    <string name="button_text_quick_scan">Započeti skeniranje</string>
+    <string name="button_text_quick_scan">Pokreni skeniranje</string>
     <string name="button_text_a_key_clean_up">Počistiti</string>
     <string name="button_text_a_key_optimize">Optimizrati sada</string>
     <string name="button_text_a_key_uninstall">Deinstaliraj</string>
@@ -56,7 +56,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="optimize_tips_ad_content">Slike, tekst, i druge reklame povezanih sadržaja koje davatelji usluga pohranjuju na uređaju.</string>
     <string name="optimize_tips_apk_title">Paketi:</string>
     <string name="optimize_tips_apk_content">"Koristi se za instalaciju aplikacije na uređaj, ali ne rade ništa nakon što ste instalirali aplikaciju."</string>
-    <string name="optimize_tips_cache_title">Predmemorija:</string>
+    <string name="optimize_tips_cache_title">Memorija:</string>
     <string name="optimize_tips_cache_content">Stvoreno od aplikacija i procesa koji ih zahtijevaju samo privremeno (npr. sličice).</string>
     <string name="optimize_tips_residual_title">Ostaci:</string>
     <string name="optimize_tips_residual_content">"Datoteke (npr. videozapisi, slike pozadine, glazba, itd.) koje su preuzete na SD karticu vašeg uređaja od strane aplikacije koja je deinstalirana. Kako vam neke od tih datoteka još uvijek mogu biti od koristi, preporučujemo vam da koristite napredne značajke kod čišćenja zaostalih datoteka."</string>
@@ -75,7 +75,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="deep_clean_summary_install_apps_new">nikad korišrene</string>
     <string name="deep_clean_summary_install_apps_virus">otkriveno virusa</string>
     <string name="deep_clean_summary_install_apps_risk">otkriveno rizika</string>
-    <string name="system_cache_title">Predmemorija sistema</string>
+    <string name="system_cache_title">Memorija sistema</string>
     <string name="empty_folder_title">Prazna mapa(%d)</string>
     <string name="empty_folder_title_hints">Prazna mapa</string>
     <string name="downloaded_rom_title">Isteklo ažuriranje paketa</string>
@@ -235,7 +235,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="opt_item_app_perm">Dopuštenja</string>
     <string name="opt_waiting">Čekam</string>
     <string name="power_center_title">Energija</string>
-    <string name="power_center_consume_rank">Potrošnja energije</string>
+    <string name="power_center_consume_rank">Potrošnja</string>
     <string name="power_center_custom_title">Konfiguracija baterije</string>
     <string name="power_center_custom_summary_default">Optimizranje postavki, čuvanje baterije</string>
     <string name="power_center_low_battery_title">Automatsko prebacivanje</string>
@@ -319,7 +319,7 @@ Omogućiti plutajuće prozore?"</string>
     <string name="power_dialog_sleep_title">Mirovanje</string>
     <string name="power_dialog_vibration_title">Vibracija</string>
     <string name="power_dialog_screen_brightness_title">Svjetlina</string>
-    <string name="power_dialog_screen_brightness_automatic">Podesi svjetliu automatski</string>
+    <string name="power_dialog_screen_brightness_automatic">Podesi svjetlinu automatski</string>
     <string name="power_dialog_screen_brightness_automatic_off">Svjetlina zaslona će biti konstantna u svim okruženjima</string>
     <string name="power_dialog_screen_brightness_automatic_on">Svjetlina zaslona će varirati u odnosu na svjetlo u vašem okruženju</string>
     <string name="power_dialog_cancel">Odustani</string>
@@ -2036,8 +2036,6 @@ Spremni započeti? Dodirnite Dalje."</string>
     <string name="install_unknown_applications">Dopustite instalaciju aplikacija iz nepoznatih izvora</string>
     <string name="install_all_warning">Vaš uređaj i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Prihvaćate isključivu odgovornost za svu štetu nastalu na uređaju ili gubitak podataka uzrokovano upotrebom tih aplikacija.</string>
     <string name="install_applications">Nepoznati izvori</string>
-    <string name="verify_applications">Potvrdi aplikacije</string>
-    <string name="verify_applications_summary">Onemogući ili upozori prije instalacije aplikacija koje mogu uzrokovati štetu</string>
     <string name="advanced_settings">Napredne postavke</string>
     <string name="advanced_settings_summary">Omogućiti više opcija postavki</string>
     <string name="storage_label">Pohrana</string>
@@ -2045,9 +2043,9 @@ Spremni započeti? Dodirnite Dalje."</string>
     <string name="auto_launch_label_generic">Zadane postavke</string>
     <string name="screen_compatibility_label">Kompatibilnost zaslona</string>
     <string name="permissions_label">Dopuštenja</string>
-    <string name="cache_header_label">Predmemorija</string>
-    <string name="clear_cache_btn_text">Očisti predmemoriju</string>
-    <string name="cache_size_label">Predmemorija</string>
+    <string name="cache_header_label">Memorija</string>
+    <string name="clear_cache_btn_text">Očisti memoriju</string>
+    <string name="cache_size_label">Memorija</string>
     <string name="controls_label">Kontrole</string>
     <string name="force_stop">Prisilno zaustavi</string>
     <string name="total_size_label">Ukupno</string>

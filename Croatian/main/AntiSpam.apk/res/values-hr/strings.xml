@@ -59,7 +59,7 @@
     <string name="block_phone_number">spam poziva:%d</string>
     <string name="app_name">Lista zabranjenih</string>
     <string name="fw_blocked">Blokirano:</string>
-    <string name="fw_blocked_count">Blokiranih:</string>
+    <string name="fw_blocked_count">Blokirano: %d poziva i %d SMS-a:</string>
     <string name="fw_blocked_count_call">%dpoziva i</string>
     <string name="fw_blocked_count_sms">%dporuka</string>
     <string name="tab_title">Lista zabranjenih</string>
