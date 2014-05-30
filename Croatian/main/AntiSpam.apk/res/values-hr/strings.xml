@@ -49,7 +49,7 @@
     <string name="info_unantispam_phone_sms">Dopusti pozive i poruke</string>
     <string name="st_antispam_delete">Izbrisati</string>
     <string name="backsound_set_hint">Postaviti audio priključke na %s?</string>
-	<string name="baidu_thanks">Powered By Baidu</string>
+    <string name="baidu_thanks">Powered By Baidu</string>
     <string name="note_list_none">Nema liste za uređivanje</string>
     <string name="note_sms_none">Nema poruka za uređivanje</string>
     <string name="note_call_none">Nema poziva za uređivanje</string>
@@ -59,7 +59,7 @@
     <string name="block_phone_number">spam poziva:%d</string>
     <string name="app_name">Lista zabranjenih</string>
     <string name="fw_blocked">Blokirano:</string>
-    <string name="fw_blocked_count">Blokirano: %d poziva i %d SMS-a:</string>
+    <string name="fw_blocked_count" formatted="false">Blokirano: %d poziva i %d SMS-a:</string>
     <string name="fw_blocked_count_call">%dpoziva i</string>
     <string name="fw_blocked_count_sms">%dporuka</string>
     <string name="tab_title">Lista zabranjenih</string>
