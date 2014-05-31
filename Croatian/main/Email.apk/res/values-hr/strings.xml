@@ -613,7 +613,7 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="quick_responses_empty_view">Nema brzih odgovora.</string>
   <string name="quoted_text">Obuhvati citirani tekst</string>
   <string name="quoted_text_label">Citirani tekst</string>
-  <string name="read_string">razgovor je pročitan</string>
+  <string name="read_string">Razgovor je pročitan</string>
   <string name="recent_folders_heading">Nedavne mape</string>
   <string name="recipient_error_dialog_title">Pogreška primatelja</string>
   <string name="recipient_needed">Dodajte barem jednog primatelja.</string>

@@ -2,7 +2,7 @@
 <resources>
   <string name="MIUI_startpage">Početna stranica</string>
   <string name="accessibility_button_clear">Obriši unos</string>
-  <string name="accessibility_content_view">Zobrazenie stránky</string>
+  <string name="accessibility_content_view">Pogledaj stranicu</string>
   <string name="accessibility_date_picker_month">Mjesec</string>
   <string name="accessibility_date_picker_week">Tjedan</string>
   <string name="accessibility_date_picker_year">Godina</string>
@@ -15,8 +15,8 @@
   <string name="accessibility_time_picker_second">Sekunda</string>
   <string name="account">Račun</string>
   <string name="action">Prijavite se</string>
-  <string name="actionbar_share">Zdieľať</string>
-  <string name="actionbar_web_search">Hľadať</string>
+  <string name="actionbar_share">Podijeli</string>
+  <string name="actionbar_web_search">Traži</string>
   <string name="add_bookmark">Nova oznaka</string>
   <string name="add_folder">Dodaj mapu</string>
   <string name="add_new_bookmark">Dodaj oznaku</string>
@@ -135,7 +135,7 @@
   <string name="contextmenu_set_wallpaper">Postavi kao pozadinsku sliku</string>
   <string name="contextmenu_sharelink">Dijeli vezu</string>
   <string name="contextmenu_view_image">Prikaz slike</string>
-  <string name="copy_link">kopiraj vezu</string>
+  <string name="copy_link">Kopiraj vezu</string>
   <string name="create_shortcut_bookmark">Dodaj prečac početnoj stranici</string>
   <string name="date_picker_dialog_clear">Očistiti</string>
   <string name="date_picker_dialog_set">Postavljanje</string>
