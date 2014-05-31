@@ -73,7 +73,6 @@
   <string name="menu_scan_for_preset">Skeniraj za mem.postajama</string>
   <string name="menu_scan_start">Skeniraj postaje</string>
   <string name="menu_scan_stop">Zaustavi traženje</string>
-  <string name="menu_scan_stop">Ukončiť vyhľadávanie</string>
   <string name="menu_select_station">Odaberi postaju</string>
   <string name="menu_settings">Postavke</string>
   <string name="menu_sleep">Mjerač vremena mirovanja</string>

@@ -14,8 +14,6 @@
     <string name="CnirMmi">Pozivni broj je ograničen</string>
     <string name="CwMmi">Poziv na čekanju</string>
     <string name="DndMmi">Ne uznemiravaj</string>
-    <string name="Midnight">Ponoć</string>
-    <string name="Noon">Podne</string>
     <string name="PinMmi">PIN je promijenjen</string>
     <string name="PwdMmi">Promjena zaporke</string>
     <string name="RestrictedChangedTitle">Promijenjen je ograničeni pristup</string>
