@@ -4,7 +4,6 @@
   <string name="act_aqi_pm10_title">PM10</string>
   <string name="act_aqi_pm25_title">PM2.5</string>
   <string name="act_aqi_so2_title">SO2</string>
-  <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
   <string name="act_city_find_gps_error">Odaberite grad ručno na popisu izbornika.</string>
   <string name="act_find_city_hint">Traži</string>
   <string name="act_find_city_hot_title">Dodaj</string>
@@ -19,22 +18,22 @@
   <string name="act_weather_aqi_title">Indeks kvalitete zraka</string>
   <string name="act_weather_cycle_link_china">WeatherChina</string>
   <string name="act_weather_cycle_low_temp">nisko</string>
+  <string name="act_weather_cycle_no_forcast">Nepoznato</string>
   <string name="act_weather_cycle_update">Ažuriranje…</string>
+  <string name="act_weather_find_city_added">Grad dodan</string>
+  <string name="act_weather_find_city_click_retry">Dodirnite za ponovni pokušaj</string>
   <string name="act_weather_find_city_connect_net">Provjerite svoju mrežnu vezu i pokušajte ponovno.</string>
-  <string name="act_weather_find_city_search_online">Pronađi grad na mreži</string>
+  <string name="act_weather_find_city_net_no_good">"Ne mogu se spojiti na mrežu"</string>
+  <string name="act_weather_find_city_no_result">Nema rezultata</string>
   <string name="act_weather_find_city_searching">Tražim…</string>
   <string name="act_weather_main_aqi_index">Kvaliteta zraka: %s</string>
   <string name="act_weather_main_data_null">Nema podataka o vremenu, dodirnite za osvježiti</string>
   <string name="act_weather_range_select">Odaberite grad</string>
   <string name="act_weather_range_title">Vremenska prognoza u blizini</string>
   <string name="act_weather_update_time">%s Ažurirano</string>
-  <string name="act_weather_find_city_no_result">Nema rezultata</string>
-  <string name="act_weather_find_city_added">Grad dodan</string>
-  <string name="act_weather_find_city_net_no_good">"Ne mogu se spojiti na mrežu"</string>
-  <string name="act_weather_find_city_click_retry">Dodirnite za ponovni pokušaj</string>
-  <string name="button_abandon">Odbaciti promjene</string>
   <string name="add_city">Dodaj lokaciju</string>
-  <string name="act_weather_cycle_no_forcast">Nepoznato</string>
+
+
   <string name="alert_message_delete">Obrisati odabranu %d stavku(e)?</string>
   <string name="alert_provider_message">Trebate omogućiti lokaciju preko vaše mobilne mreže.</string>
   <string name="alert_provider_title">Obavijest o lokaciji</string>
@@ -42,10 +41,7 @@
   <string name="app_love_font_lng">%s</string>
   <string name="app_love_sms_title">Sadržaj poruke</string>
   <string name="app_love_view_title">Pretpregled</string>
-  <string name="network_unavailable">"Ne mogu se spojiti na mrežu. Provjerite podatkovnu vezu i pokušajte ponovno."</string>
-  <string name="weather_data_unreachable">"Ne mogu dobiti detalje o vremenu. Pričekajte 1-2 minute i pokušajte ponovno."</string>
   <string name="app_name">Vrijeme</string>
-  <string name="app_nohave_net">Mreža nije pronađena</string>
   <string name="app_unquiet_net">Slaba mrežna veza</string>
   <string name="aqi_details_dangerous">Ljudi sa srčanim i plučnim bolestima, stariji odrasli, i djeca trebali bi izbjegavati sve fizičke aktivnosti vani. Svi ostali trebali bi izbjegavati duži ili teži napor.</string>
   <string name="aqi_details_fine">Neobično osjetljivi ljudi bi trbali razmisliti o smanjenju dužih ili težih napora.</string>
@@ -53,6 +49,7 @@
   <string name="aqi_details_hazardous">Vani izbjegavajte svu fizičku aktivnost; ljudi sa srčanim ili plučnim bolestima, stariji odrasli i djeca trebali bi ostati u kući i zadržati nisku razinu aktivnosti.</string>
   <string name="aqi_details_light_pollution">Ljudi sa srčanim ili plučnim bolestima, stariji odrasli i djeca trebali bi smanjiti duži ili teži napor.</string>
   <string name="aqi_details_unhealthy">Ljudi sa srčanim ili plučnim bolestima, stariji odrasli i djeca trebali bi izbjegavati duži ili teži napor; svi ostali bi trebali smanjiti duži ili teži napor.</string>
+  <string name="aqi_quality_index_break">Yikes!</string>
   <string name="aqi_quality_index_dangerous">opasno</string>
   <string name="aqi_quality_index_good">dobro</string>
   <string name="aqi_quality_index_hazardous">riskantno</string>
@@ -60,7 +57,7 @@
   <string name="aqi_quality_index_moderate">umjereno</string>
   <string name="aqi_quality_index_pure">odličan</string>
   <string name="aqi_quality_index_unhealthy">nezdravo</string>
-  <string name="aqi_quality_index_break">Yikes!</string>
+  <string name="button_abandon">Odbaci promjene</string>
   <string name="button_allow">Dopusti</string>
   <string name="button_not_allow">Odbij</string>
   <string name="cancel">Otkaži</string>
@@ -94,6 +91,7 @@
   <string name="menu_settings">Postavke</string>
   <string name="menu_share">Dijeli</string>
   <string name="menu_trend">Trend</string>
+  <string name="network_unavailable">"Ne mogu se spojiti na mrežu. Provjerite podatkovnu vezu i pokušajte ponovno."</string>
   <string name="save_screen_shot_failed">Neuspjelo spremanje snimke zaslona.</string>
   <string name="selected_format">Odabrana %d stavka(e)</string>
   <string name="send_sms_notification">Proslijedi obavijest o vremenu</string>
@@ -112,10 +110,7 @@
   <string name="share_button_text">Dijeli</string>
   <string name="share_choice_titile">Dijeli informacije putem</string>
   <string name="share_content">MIUI vrijeme</string>
-  <string name="share_qq">Dijeli putem Tencent Weibo</string>
-  <string name="share_sina">Dijeli putem Sina Weibo</string>
-  <string name="share_weather_content">"MIUI vrijeme
-Danas u %1$s je vrijeme %2$s, %3$s °C, %4$s. %5$s."</string>
+  <string name="share_weather_content">"Danas u %1$s je vrijeme %2$s, %3$s°C, %4$s. %5$s."</string>
   <string name="share_weather_title">Dijeli podatke o vremenu</string>
   <string name="sina_share_fail">Slanje neuspješno!</string>
   <string name="sina_share_pendding">Šaljem...</string>
@@ -129,6 +124,7 @@ Danas u %1$s je vrijeme %2$s, %3$s °C, %4$s. %5$s."</string>
   <string name="tip_weather_info_title_2">Danas je %1$s u %2$s</string>
   <string name="trend_weather_today">Danas</string>
   <string name="trend_weather_tomorrow">Sutra</string>
+  <string name="weather_data_unreachable">"Ne mogu dobiti detalje o vremenu. Pričekajte 1-2 minute i pokušajte ponovno."</string>
   <string name="weather_notification">Obavijest o vremenu</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>

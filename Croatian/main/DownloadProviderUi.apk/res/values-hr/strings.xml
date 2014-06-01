@@ -26,7 +26,7 @@
   <string name="download_complete">Preuzeto</string>
   <string name="download_error">Neuspješno</string>
   <string name="download_error_insufficient_space">Nedovoljno prostora za pohranu</string>
-  <string name="download_in_process">Preuzimam</string>
+  <string name="download_in_process">Preuzimanje</string>
   <string name="download_info_count_deleted_tasks">%s preuzimanja uklonjeno</string>
   <string name="download_info_start_deleted_tasks">Obrisati preuzimanje</string>
   <string name="download_no_application_title">Datoteka se ne može otvoriti</string>

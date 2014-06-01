@@ -23,13 +23,4 @@
     <string name="setup_complete_info" />
     <string name="setup_complete_start">Započnite koristiti MIUI</string>
     <string name="setup_complete_summary">Postavljanje završeno! Uživajte u MIUI!</string>
-    <string name="data_usage_summary">Ako niste podnijeli zahtjev za podatkovne tarife, preporučuje se isključiti promet mobilnih podataka. Inače, vaš mobilni operater može naplatiti dodatne naknade.</string>
-    <string name="traffic_protection_label">Praćenje prometa podataka</string>
-    <string name="traffic_protection_summary">Praćenje prometa podataka će vas podsjetiti kada je vaš plan podataka dosegao svoje ograničenje.</string>
-    <string name="traffic_protection_text_hint">Postavite ograničenje mobilnih podataka</string>
-    <string name="use_data">Omogućiti podatke</string>
-    <string name="default_gprs_sim_name">Unesite \"%s\" ograničenje plana podataka</string>
-    <string name="traffic_protection_unknown">Unijeti ću kasnije</string>
-    <string name="input_method">Način unosa</string>
-    <string name="input_method_category">Odaberite zadani način unosa</string>
 </resources>

@@ -14,12 +14,12 @@
   <string name="AGPS_CAUSE_USER_AGREE">Korisnik se slaže s potvrdom</string>
   <string name="AGPS_CAUSE_USER_DENY">Korisnik se ne slaže s potvrdom</string>
   <string name="AGPS_DEFAULT_STRING">A-GPS zadano</string>
-  <string name="AGPS_MODEM_RESET_HAPPEN">Desilo se resetiranje modema</string>
-  <string name="AGPS_EM_RECV_SI_REQ">Primljen SI zahtjev</string>
   <string name="AGPS_EM_POS_FIXED">Pozicija popravljena</string>
-  <string name="AGPS_NOTIFY_ONLY">Obavijest zahtjeva lokacije</string>
+  <string name="AGPS_EM_RECV_SI_REQ">Primljen SI zahtjev</string>
+  <string name="AGPS_MODEM_RESET_HAPPEN">Desilo se resetiranje modema</string>
   <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Zahtjev lokacije (Dopustite ako nema odgovora)</string>
   <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Zahtjev lokacije (Odbijte ako nema odgovora)</string>
+  <string name="AGPS_NOTIFY_ONLY">Obavijest zahtjeva lokacije</string>
   <string name="AGPS_NOTIFY_PRIVACY">Zahtjev lokacije (Privatno)</string>
   <string name="AgpsHelp_Category">Pomoć</string>
   <string name="EM_NotifyDialog_title">EM Obavijest</string>
@@ -129,8 +129,7 @@ Vaši podaci će biti izbrisani.</string>
   <string name="battery_level">%s%%</string>
   <string name="battery_percent">Postotak baterije</string>
   <string name="beam_mgmt_tab_download_title">PRIMLJENO</string>
-  <string name="beam_mgmt_tab_upload_title">"3.Na prečacu "Dijeljenje", kliknite na "Dopusti drugim korisnicima mreže povezivanje na internet putem
-računala "i odaberite novododanu USB internet mrežu."</string>
+  <string name="beam_mgmt_tab_upload_title">POSLANO</string>
   <string name="beam_share_clear_confirm_dialog_message">Očistiti svu povijest?</string>
   <string name="beam_share_clear_confirm_dialog_title">Očisti sve</string>
   <string name="beam_share_clear_item_dailog_message">Stavka će biti izbrisana.</string>
