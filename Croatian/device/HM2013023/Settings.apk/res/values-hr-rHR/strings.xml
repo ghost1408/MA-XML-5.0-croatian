@@ -35,7 +35,7 @@
   <string name="Network_Initiate">Zahtjev mreže</string>
   <string name="Network_Initiate_Summary_off">>Odbiti mreži traženje pozicije</string>
   <string name="Network_Initiate_Summary_on">Dopustiti mreži traženje pozicije</string>
-  <string name="Network_Local_and_Roaming_Summary">Koristite A-GPS oboje pod matičnom i roaming mrežom</string>
+  <string name="Network_Local_and_Roaming_Summary">Koristite A-GPS pod matičnom i roaming mrežom</string>
   <string name="Network_Only_Local_Summary">Koristite A-GPS samo u domaćoj mreži</string>
   <string name="Network_Roaming_dialog_content">Ako je mreža u roaming-u, A-GPS podatkovni promet može uzrokovati dodatne troškove roaminga.</string>
   <string name="Network_Roaming_dialog_title">Upozorenje</string>
@@ -193,7 +193,7 @@ Vaši podaci će biti izbrisani.</string>
   <string name="dolby_bassboost_high">Jak</string>
   <string name="dolby_bassboost_low">Nizak</string>
   <string name="dolby_bassboost_normal">Normalan</string>
-  <string name="dolby_bassboost_title">Bass:</string>
+  <string name="dolby_bassboost_title">Bas:</string>
   <string name="dolby_movie_advance">Poboljšanje videa</string>
   <string name="dolby_music_advance">Poboljšanje glazbe</string>
   <string name="dolby_roomsize_high">Otvoren prostor</string>
