@@ -16,7 +16,4 @@
   <string name="gemini_sim_management_title">Upravljanje SIM-a</string>
   <string name="gemini_sim_mode_progress_activating_message">Aktiviranje...</string>
   <string name="gemini_sim_mode_progress_deactivating_message">Deaktiviranje...</string>
-  <string name="sim_radio_off">Nije aktivirano</string>
-  <string name="set_mobile_data_failed">Postavljanje neuspješno</string>
-  <string name="mobile_data_switching_message">Prebacivanje mobilne podatkovne veze. Molimo pričekajte…</string>
 </resources>
