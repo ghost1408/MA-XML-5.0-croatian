@@ -17,21 +17,21 @@
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Testiranje stražnjeg zvučnika mikrofona. 
 
 Okrenite telefon, pričajte u stražnji mikrofon, trebali biste čuti glas u zvučniku"</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Testiranje glavnog zvučnika mikrofona.
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Testiranje glavnog zvučnika mikrofona.
 
 Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste čuti glas iz prijemnika"</string>
-    <string name="cit_audio_lb_summary_phonecall">"Test Simulacije poziva.
+  <string name="cit_audio_lb_summary_phonecall">"Test Simulacije poziva.
 
 Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste čuti glas iz prijemnika, napravite test u tihom okruženju"</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Testiranje gornjeg mikrofona na zvučnik.
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Testiranje gornjeg mikrofona na zvučnik.
 
 Okrenite telefon, govorite u gornji mikrofon, trebali biste čuti glas u zvučniku"</string>
-    <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje gornjeg mikrofona povratne informacije zvučnika</string>
-    <string name="cit_audio_loopback_check_one_title">Testiranje mikrofona za slušanje</string>
-    <string name="cit_audio_loopback_check_summary_first">Testiranje će se obaviti povratnom petljom glavnog mikrofona
+  <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje gornjeg mikrofona povratne informacije zvučnika</string>
+  <string name="cit_audio_loopback_check_one_title">Testiranje mikrofona za slušanje</string>
+  <string name="cit_audio_loopback_check_summary_first">Testiranje će se obaviti povratnom petljom glavnog mikrofona
 
 Držite telefon kao da razgovarate, pričajte u glavni mikrofon i trebali biste čuti glas iz prijemnika."</string>
-   <string name="cit_audio_loopback_check_summary_second">"Testiranje drugog zvučnika mikrofona.
+  <string name="cit_audio_loopback_check_summary_second">"Testiranje drugog zvučnika mikrofona.
 
 Uključite telefon, tako da ulaz za slušalice bude okrenut prema dolje. Govorite u prijemnik. Trebali bi čuti vaš glas kroz vanjski zvučnik."</string>
   <string name="cit_audio_loopback_check_two_title">Testiranje mikrofona za zvučnik</string>

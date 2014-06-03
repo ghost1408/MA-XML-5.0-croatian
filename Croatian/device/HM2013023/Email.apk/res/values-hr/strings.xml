@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Račun</string>
   <string name="account_delete_dlg_instructions_fmt">Račun \"%s\" će biti uklonjen iz pošte.</string>
@@ -361,7 +361,7 @@ Kopija: %4$s
   <string name="message_compose_subject_hint">Predmet</string>
   <string name="message_compose_to_hint">Prima</string>
   <string name="message_decode_error">Došlo je do pogreške prilikom dekodiranja poruke.</string>
-  <string name="message_delete_dialog_title" />
+  <string name="message_delete_dialog_title"/>
   <string name="message_discarded_toast">Poruka odbačena</string>
   <string name="message_is_empty_description">Nema predmeta</string>
   <string name="message_list_load_more_messages_action">Učitaj više poruka</string>
@@ -443,7 +443,7 @@ Kopija: %4$s
   <string name="pause_state_retrying">čekanje na ponovni pokušaj</string>
   <string name="pause_state_roaming">obustavljeno – roaming</string>
   <string name="pause_state_running">slanje</string>
-  <string name="permission_access_provider_desc">>Aplikaciji omogućuje pristup podatkovnoj bazi vaše e-pošte, uključujući primljene poruke, poslane poruke, korisnička imena i zaporke.</string>
+  <string name="permission_access_provider_desc">&gt;Aplikaciji omogućuje pristup podatkovnoj bazi vaše e-pošte, uključujući primljene poruke, poslane poruke, korisnička imena i zaporke.</string>
   <string name="permission_access_provider_label">Pristup podacima o davatelju usluge e-pošte</string>
   <string name="permission_read_attachment_desc">Omogućuje aplikaciji da čita vaše privitke e-pošte.</string>
   <string name="permission_read_attachment_label">Čitanje privitaka e-pošte</string>
@@ -557,12 +557,12 @@ Kopija: %4$s
   <string name="upload">Pošalji</string>
   <string name="upload_state_completed">Dovršeno</string>
   <string name="upload_state_failed">Nije uspjelo</string>
-  <string name="upload_state_queued" />
+  <string name="upload_state_queued"/>
   <string name="upload_state_uploading">Učitavanje</string>
   <string name="upload_state_waiting_retry">Čekanje na ponovni pokušaj</string>
   <string name="upload_state_waiting_wifi">Čekanje na WLAN mrežu</string>
-  <string name="uploading_for">" za: &lt;b>%s&lt;/b>"</string>
-  <string name="uploading_to">Učitavanje na: &lt;b>%s&lt;/b></string>
+  <string name="uploading_for">" za: &lt;b&gt;%s&lt;/b&gt;"</string>
+  <string name="uploading_to">Učitavanje na: &lt;b&gt;%s&lt;/b&gt;</string>
   <string name="waitinf_for_sync_message_1">Sinkroniziranje...</string>
   <string name="waitinf_for_sync_message_2">Vaš sandučić će se uskoro pojaviti.</string>
   <string name="widget_all_mail">Kombinirani sandučić</string>

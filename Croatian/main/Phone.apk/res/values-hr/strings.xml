@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="">Prikazano ime</string>
   <string name="ContactScreen">Dodaj/Uredi SIM kontakt</string>
   <string name="ExportContactScreen">Izvoz telefonskih kontakata na SIM karticu</string>
   <string name="absent_num">NEDOSTUPAN BROJ</string>
@@ -55,7 +56,7 @@
   <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Slušalice</string>
   <string name="audio_mode_speaker">Zvučnik</string>
-  <string name="audio_mode_wired_headset">Žičane slušalice</string> 
+  <string name="audio_mode_wired_headset">Žičane slušalice</string>
   <string name="auth_username_summary">Korisničko ime korišteno za autentikaciju</string>
   <string name="auth_username_title">Autentikacija korisničkog imena</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -279,7 +280,7 @@
   <string name="confirm_password_label">Potvrdi novu zaporku</string>
   <string name="confirm_pin2_hint_miui">Potvrdi novi PIN2</string>
   <string name="confirm_pin_hint_miui">Potvrdi novi PIN</string>
-  <string name="confirm_save_info_saved_to">Snimka pohranjena u</string>  
+  <string name="confirm_save_info_saved_to">Snimka pohranjena u</string>
   <string name="connect_disconnect_vibrate_none_miui">Bez vibrcije</string>
   <string name="connect_disconnect_vibrate_normal_miui">Vibracija</string>
   <string name="connect_disconnect_vibrate_summary_miui"/>
@@ -370,7 +371,7 @@
   <string name="dial">Zvanje</string>
   <string name="dial_emergency_empty_error">Poziv nije uspostavljen, nazovite hitni broj!</string>
   <string name="dial_emergency_error">Poziv nije uspostavljen, %s nije hitan broj!</string>
-    <string name="dial_pad_autocomplete">Automatsko popunjavanje biranja</string>
+  <string name="dial_pad_autocomplete">Automatsko popunjavanje biranja</string>
   <string name="dial_related_setting_catory_miui">Biranje</string>
   <string name="dialerKeyboardHintText">Koristite tipkovnicu za unos broja</string>
   <string name="disable">Onemogući</string>
@@ -450,7 +451,11 @@
   <string name="enterName">Unesite ime:</string>
   <string name="enterNumber">Unesite broj telefona:</string>
   <string name="enter_callbarring_password">Unesite zaporku zabrane poziva (4 znamenke)</string>
+<<<<<<< HEAD
   <string name="enter_input">Potrebno je unijeti nešto, pokušajte ponovo!</string>
+=======
+  <string name="enter_input">Potrebno je upisati nešto, pokušajte ponovno!</string>
+>>>>>>> 8d72661b659bbef2fad77ded49eddff248eaf4c8
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin2_text_miui">PIN2</string>
   <string name="enter_pin_text">SIM PIN:</string>
@@ -613,7 +618,11 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="managed_roaming_title">Roaming upravljanje</string>
   <string name="managed_roaming_title_sub1">Roaming upravljanje (SUB1)</string>
   <string name="managed_roaming_title_sub2">Roaming upravljanje (SUB2)</string>
+<<<<<<< HEAD
   <string name="managed_roaming_title_sub3">Roaming upravljanje (SUB3)</string> 
+=======
+  <string name="managed_roaming_title_sub3">Roaming upravljanje (SUB3)</string>
+>>>>>>> 8d72661b659bbef2fad77ded49eddff248eaf4c8
   <string name="menu_add">Dodaj kontakt</string>
   <string name="menu_delete">Izbriši kontakt</string>
   <string name="menu_deselect_all">Poništi odabir za sve</string>
@@ -724,6 +733,11 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="old_password_label">Stara zaporka (4 znamenke)</string>
   <string name="old_pin2_hint_miui">Trenutan PIN2</string>
   <string name="old_pin_hint_miui">Trenutan PIN</string>
+  <string name="oldman_answer_call_button_text">odgovori</string>
+  <string name="oldman_dialpad_button_text">tipkovnica</string>
+  <string name="oldman_end_call_button_text">završi</string>
+  <string name="oldman_reject_call_button_text">odbij</string>
+  <string name="oldman_speaker_button_text"/>
   <string name="onHold">Na čekanju</string>
   <string name="onscreenAddCallText">Dodaj poziv</string>
   <string name="onscreenAddParticipant">Dodaj sudionika</string>
@@ -736,8 +750,8 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="onscreenModifyCallText">Uredi poziv</string>
   <string name="onscreenMuteText">Utišaj</string>
   <string name="onscreenShowDialpadText">Brojčanik</string>
-  <string name="onscreenSwitchText">Prebaci</string>
   <string name="onscreenSwapCallsText">Zamijeni</string>
+  <string name="onscreenSwitchText">Prebaci</string>
   <string name="onscreen_add_call_text_miui">Dodaj poziv</string>
   <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
   <string name="onscreen_audio_mode_handset_miui">Handsfree</string>
@@ -758,7 +772,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="onscreen_tools_off_miui">Alati</string>
   <string name="onscreen_tools_on_miui">Alati</string>
   <string name="open_miui">Otvoreno</string>
-  <string name="optional_summary">&lt;Opcija></string>
+  <string name="optional_summary">&lt;Opcija&gt;</string>
   <string name="ota_activate">Aktiviraj</string>
   <string name="ota_call_end">Natrag</string>
   <string name="ota_failure">Programiranje neuspješno</string>
@@ -1007,16 +1021,16 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="sim_lock_off_miui">Potreban PIN za korištenje telefona</string>
   <string name="sim_lock_on_miui">Potreban PIN za korištenje telefona</string>
   <string name="sim_lock_title_miui">Postavke SIM zaključavanja</string>
-  <string name="sim_slot_alert_cancel">Nastavi koristeći</string>
-  <string name="sim_slot_alert_message">Umetnite %s SIM karticu u prvi utor, koji podržava 3G mreže.</string>
-  <string name="sim_slot_alert_message_3g">"Umetnite %s SIM card karticu u prvi utor, koji podržava 3G mreže."</string>
-  <string name="sim_slot_alert_shutdown">Isključiti</string>
-  <string name="sim_slot_alert_title">Utor za SIM karticu</string>
   <string name="sim_ndp_dismiss_text">Odbaciti</string>
   <string name="sim_ndp_unlock_text">Otključaj</string>
   <string name="sim_picker_timer_miui">"(%1$ds)"</string>
   <string name="sim_pin_change_miui">Promijeni SIM PIN</string>
   <string name="sim_pin_toggle_miui">Zaključaj SIM karticu</string>
+  <string name="sim_slot_alert_cancel">Nastavi koristeći</string>
+  <string name="sim_slot_alert_message">Umetnite %s SIM karticu u prvi utor, koji podržava 3G mreže.</string>
+  <string name="sim_slot_alert_message_3g">"Umetnite %s SIM card karticu u prvi utor, koji podržava 3G mreže."</string>
+  <string name="sim_slot_alert_shutdown">Isključiti</string>
+  <string name="sim_slot_alert_title">Utor za SIM karticu</string>
   <string name="sim_unlock_failed">SIM SIM otključavanje neuspješno.</string>
   <string name="sim_unlock_success">SIM SIM otključavanje uspješno.</string>
   <string name="sip_account_list">SIP računi</string>
@@ -1172,7 +1186,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibracija</string>
   <string name="voicemail_notification_vibrate_when_default">nikad</string>
   <string name="voicemail_notification_vibrate_when_title">Vibracija</string>
-  <string name="voicemail_number_not_set">&lt;Nije podešeno></string>
+  <string name="voicemail_number_not_set">&lt;Nije podešeno&gt;</string>
   <string name="voicemail_provider">Usluge Govorne pošte</string>
   <string name="voicemail_provider_miui">Usluge Govorne pošte</string>
   <string name="voicemail_provider_sum_miui">Odaberite uslugu Govorne pošte</string>
@@ -1186,7 +1200,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
 "</string>
   <string name="wait_prompt_str">"Poslati sljedeće zvukove?"</string>
   <string name="wild_prompt_str">Zamijeniti znak sa</string>
-   <string name="wrong_password">Neispravna zaporka</string>
+  <string name="wrong_password">Neispravna zaporka</string>
   <string name="xdivert_active">Aktivno</string>
   <string name="xdivert_button">X-Divert postavke</string>
   <string name="xdivert_enternumber_error">Unesite telefonski broj za obje pretplate</string>
@@ -1199,4 +1213,8 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="xdivert_sub_absent">Obje pretplate trebaju biti aktivirane za obradu X-Divert</string>
   <string name="xdivert_summary">CFNRc Postavke</string>
   <string name="xdivert_title">X-Divert</string>
+<<<<<<< HEAD
   </resources>
+=======
+</resources>
+>>>>>>> 8d72661b659bbef2fad77ded49eddff248eaf4c8

@@ -69,9 +69,9 @@
   <string name="earphone">Slušalice</string>
   <string name="email">Email:</string>
   <string name="fail_generate_barcode">Generiranje koda nije uspjelo</string>
-  <string name="faq_comp_text">Za uređaje s MIUIv5 i Xiaomi telefone. Aktualnu verziju MiKey aplikaciju možete pronaći na <a href="http://www.miui.cz/mikey">miui.cz/mikey</a></string>
-  <string name="faq_focus_text">Bleskalica kod fotografiranja produljuje izradu, ali dobivena slika je oštrija. Možete to isključiti, ali slika će biti mutna.</string>
+  <string name="faq_comp_text">Za uređaje s MIUIv5 i Xiaomi telefone. Aktualnu verziju MiKey aplikaciju možete pronaći na &lt;a href="http://www.miui.cz/mikey"&gt;miui.cz/mikey&lt;/a&gt;</string>
   <string name="faq_comp_title">Koji uređaji su kompatibilni?</string>
+  <string name="faq_focus_text">Bleskalica kod fotografiranja produljuje izradu, ali dobivena slika je oštrija. Možete to isključiti, ali slika će biti mutna.</string>
   <string name="faq_misreq_text">Ako prilikom kontrole glazbe ne reagira na zaslonu zaključavanja, izađite iz aplikacije Glazba, izbrišite je iz RAM-a, priključite ponovo Mikey i odaberite iz izbornika "Mikey". Svjesni smo ove greške i radimo sve da je uklonimo!</string>
   <string name="faq_misreq_title">Kako riješiti probleme?</string>
   <string name="faq_plug_text">Ova metoda priključivanja MiKey će pomoći spriječiti potencijalne probleme. Nemojte pritisnuti tipku za vrijeme spajanja MiKey.</string>
@@ -127,8 +127,8 @@ To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_silent_mode">Bez zvuka</string>
   <string name="setting_silent_mode_default">Način rada slušalice (odaberite MiKey)</string>
   <string name="setting_silent_mode_desc">"Za spajanje slušalica, odaberite način rada slušalice i odvojite MiKey. U protivnom to neće raditi ispravno na audio izlaz."</string>
-  <string name="setting_speed_desc">Brzina pritiska gumba</string>
   <string name="setting_silent_mode_dust_cap">Način rada čepova</string>
+  <string name="setting_speed_desc">Brzina pritiska gumba</string>
   <string name="setting_speed_quick">Brzo</string>
   <string name="setting_speed_slow">Sporo</string>
   <string name="setting_speed_text">Brzina</string>

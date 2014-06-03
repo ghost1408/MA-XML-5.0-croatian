@@ -33,7 +33,7 @@
   <string name="NI_Request_ClientName">Ime klijenta</string>
   <string name="NI_Request_ID">ID Podnositelja zahtjeva</string>
   <string name="Network_Initiate">Zahtjev mreže</string>
-  <string name="Network_Initiate_Summary_off">>Odbiti mreži traženje pozicije</string>
+  <string name="Network_Initiate_Summary_off">&gt;Odbiti mreži traženje pozicije</string>
   <string name="Network_Initiate_Summary_on">Dopustiti mreži traženje pozicije</string>
   <string name="Network_Local_and_Roaming_Summary">Koristite A-GPS pod matičnom i roaming mrežom</string>
   <string name="Network_Only_Local_Summary">Koristite A-GPS samo u domaćoj mreži</string>
@@ -151,6 +151,7 @@ Vaši podaci će biti izbrisani.</string>
   <string name="bluetooth_ftp_profile_summary_connected">Povezano za prijenos datoteka</string>
   <string name="bluetooth_ftp_profile_summary_use_for">Upotrijebi za prijenos datoteka</string>
   <string name="bluetooth_profile_ftp">Prijenos datoteka</string>
+  <string name="breathing_light_color_title">"  boja LED-a"</string>
   <string name="bugreport_in_power">Izvješća o greškama u izborniku napajanja</string>
   <string name="bugreport_in_power_summary">U izbornik napajanja uključi opciju za izradu izvješća o greškama</string>
   <string name="bugreport_tool_log_toast">Zapis spremljen u %s</string>
@@ -268,30 +269,30 @@ Vaši podaci će biti izbrisani.</string>
   <string name="gadget_wifi">WLAN</string>
   <string name="game_controller_settings_category">Igrači kontroler</string>
   <string name="gemini_3g_disable_warning">3G usluga nije dostupna u odabranoj SIM kartici. Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u 
-  Postavke > Bežično povezivanje &amp; Mreže > Mobilne mreže.</string>
+  Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže.</string>
   <string name="gemini_3g_disable_warning_case0">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove!
    Sigurno želite omogućiti roaming podataka i odaberati ovu SIM karticu?</string>
   <string name="gemini_3g_disable_warning_case1">3G usluga nije dostupna s ovom odabranom SIM karticom. 
   Podaci će se učitavati sporije. 
   Možete promijeniti postavke 3G usluge u 
-  Postavke > Bežično povezivanje &amp; Mreže > Mobilne mreže. 
+  Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže. 
   Sigurno želite odabrati ovu SIM karticu?</string>
   <string name="gemini_3g_disable_warning_case2">3G usluga nije dostupna s ovom odabranom SIM karticom. 
   Podaci će se učitavati sporije. 
   Možete promijeniti postavke 3G usluge u 
-  Postavke > Upravljanje SIM-a. 
+  Postavke &gt; Upravljanje SIM-a. 
   Sigurno želite odabrati ovu SIM karticu?</string>
   <string name="gemini_3g_disable_warning_case3">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove! 
   Osim toga, 3G usluga nije dostupna s ovom SIM karticom. Podaci će se učitavati sporije. 
-  Možete promijeniti postavke 3G usluge u Postavke > Bežično povezivanje &amp; Mreže > Mobilne mreže. 
+  Možete promijeniti postavke 3G usluge u Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže. 
   Sigurno želite omogućiti roaming podataka i odabrati ovu SIM karticu?</string>
   <string name="gemini_3g_disable_warning_case4">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove! 
   Osim toga, 3G usluga nije dostupna s ovom SIM karticom.
    Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u 
-   Postavke > Upravljanje SIM-a. Sigurno želite omogućiti roaming podataka i odabrati ovu SIM karticu?</string>
+   Postavke &gt; Upravljanje SIM-a. Sigurno želite omogućiti roaming podataka i odabrati ovu SIM karticu?</string>
   <string name="gemini_3g_disable_warning_cu">3G usluga nije dostupna u odabranoj SIM kartici. 
   Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u
-   Postavke > Upravljanje SIM-a.</string>
+   Postavke &gt; Upravljanje SIM-a.</string>
   <string name="gemini_3g_indic">3G</string>
   <string name="gemini_3g_modem_switch_confirm_message">To će također prebaciti 3G uslugu na ovu SIM karticu. Nastaviti? Uvjerite se da ova odabrana SIM kartica podržava 3G uslugu.</string>
   <string name="gemini_3g_modem_switching_message">Prebacivanje SIM-a će potrajati oko 10 sekundi za dovršetak. Pričekajte...</string>
@@ -358,9 +359,9 @@ Vaši podaci će biti izbrisani.</string>
   <string name="gemini_tether_saving_progress_message">Spremanje...</string>
   <string name="gemini_video_call">Video poziv</string>
   <string name="gemini_voice_call">Glasovni poziv</string>
-  <string name="gemini_wap_push_permission_tail">Prihvatiti ovaj sporazum?</string>
   <string name="gemini_wap_push_permission_head">Nakon što omogućite Auto-push uslugu, možete primati push poruke, napraviti pokretanje lokalnih aplikacija i proizvoditi podatkovni promet. 
   Uobičajena auto-push usluga uključuje obavijesti e-pošte, upravljanje uređajem, indikaciju usluga, te uslugu učitavanja i rezerviranja push-a</string>
+  <string name="gemini_wap_push_permission_tail">Prihvatiti ovaj sporazum?</string>
   <string name="gemini_wap_push_permission_title">Ugovor o pružanju Auto-push usluge</string>
   <string name="general_settings_title">Općenito</string>
   <string name="gps_time_sync_attention_gps_off">"Za korištenje GPS predviđenog vremena, morate prvo omogućiti GPS. Osim toga, GPS može podbaciti u dobivanju podataka o vremenu zbog slabog signala okoliša.
@@ -382,11 +383,12 @@ Sigurno želite koristiti GPS predviđeno vrijeme?"</string>
   <string name="hdmi_notification_content">Dodirnite za konfiguraciju HDMI-a</string>
   <string name="hdmi_notification_title">HDMI kabel povezan</string>
   <string name="hdmi_settings">HDMI postavke</string>
-  <string name="hdmi_settings_summary">>Dodirnite za konfiguraciju HDMI-a</string>
+  <string name="hdmi_settings_summary">&gt;Dodirnite za konfiguraciju HDMI-a</string>
   <string name="hdmi_toggler">HDMI</string>
   <string name="hdmi_video_resolution">Video rezolucija</string>
   <string name="hdmi_video_toggler">Video</string>
   <string name="incoming_call_app_name">Dolazni poziv</string>
+  <string name="incoming_call_vibrate_abbreviation">"Pozivi "</string>
   <string name="incomming_command_summary_format">Možete izgovoriti %1$s ili %2$s za javljanje ili odbijanje dolaznih poziva.</string>
   <string name="install_text">Instaliraj</string>
   <string name="internal_format">Brisanje unutarnje USB pohrane</string>
@@ -408,8 +410,8 @@ Sigurno želite koristiti GPS predviđeno vrijeme?"</string>
   <string name="location_access_title">Pristup mojoj lokaciji</string>
   <string name="location_settings_label">Namještanje položaja</string>
   <string name="location_sources_heading">Izvori lokacija</string>
-  <string name="lock_screen_notifications_title">Obavijesti zaključanog zaslona</string>
   <string name="lock_screen_notifications_summary">Prikaži obavijesti na zaklj.zaslonu</string>
+  <string name="lock_screen_notifications_title">Obavijesti zaključanog zaslona</string>
   <string name="lock_screen_style_title">Stil zaključanog zaslona</string>
   <string name="lockdown_vpn_already_connected">Uvijek na VPN je omogućeno za spajanje.</string>
   <string name="lockscreen_style_default_desc">Brzi pristup aplikacijama za zaključanom zaslonu</string>
@@ -419,6 +421,7 @@ Sigurno želite koristiti GPS predviđeno vrijeme?"</string>
   <string name="meeting_summary">Vibracija samo</string>
   <string name="memory_available_read_only">Dostupno (samo za čitanje)</string>
   <string name="memory_media_cache_usage">Podaci iz predmemorije</string>
+  <string name="mms_vibrate_abbreviation">SMS/MMS </string>
   <string name="mota_system_update_summary">Provjerite ažuriranja sustava na poslužitelju</string>
   <string name="move_app_to_where">Premjesti u %s</string>
   <string name="mtk_datausage_amount_editor_title">Iskorištena količina podataka</string>
@@ -433,6 +436,7 @@ Sigurno želite koristiti GPS predviđeno vrijeme?"</string>
   <string name="mtk_datausage_update">Ažuriraj uporabu podataka</string>
   <string name="mtk_datausage_update_set">Ažuriraj</string>
   <string name="mtk_datausage_usage_list">Upotreba podataka po aplikaciji</string>
+  <string name="mtk_settings">Postavke MTK</string>
   <string name="mtk_thememanager_title">Tema</string>
   <string name="mtp_transfer_erase_error_text">SD kartica se ne može izbrisati tijekom prijenosa datoteka</string>
   <string name="mtp_transfer_unmount_error_text">SD kartica se ne može isključiti tijekom prijenos datoteka</string>
@@ -446,15 +450,16 @@ Sigurno želite koristiti GPS predviđeno vrijeme?"</string>
   <string name="nfc_rw_tag_title">Tag čitanje &amp; pisanje</string>
   <string name="nfc_tag_mode_category">Tag način</string>
   <string name="not_installed">Nije instalirano</string>
+  <string name="notification_vibrate_abbreviation">"Obavijesti "</string>
   <string name="ok">U redu</string>
-  <string name="oldman_mode_entry_title">Lite način rada</string>
-  <string name="oldman_mode_entry_name">Lite način rada</string>
-  <string name="oldman_mode_settings_caption">Postavke Lite načina rada</string>
-  <string name="oldman_mode_enabled_name">Lite način rada</string>
-  <string name="oldman_mode_summary">Koristite pojednostavljen početni zaslon i izbornik</string>
   <string name="oldman_mode_confirm_title">Ponovno pokrenuti telefon?</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Vaš telefon će se ponovno pokrenuti i ući u Lite način rada.</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Izađi iz Lite način rada?</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">Vaš telefon će se ponovno pokrenuti i ući u Lite način rada.</string>
+  <string name="oldman_mode_enabled_name">Lite način rada</string>
+  <string name="oldman_mode_entry_name">Lite način rada</string>
+  <string name="oldman_mode_entry_title">Lite način rada</string>
+  <string name="oldman_mode_settings_caption">Postavke Lite načina rada</string>
+  <string name="oldman_mode_summary">Koristite pojednostavljen početni zaslon i izbornik</string>
   <string name="outdoor_settings_title">Na otvorenom</string>
   <string name="outdoor_summary">Najglasniji zvuk i vibracija</string>
   <string name="pch_call_prefer_summary_on">Poziv željeno</string>
@@ -529,8 +534,8 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
   <string name="sound_category_feedback_title">Sustav</string>
   <string name="sound_enhancement_title">Poboljšanje zvuka</string>
   <string name="status_imei_slot1">IMEI(Utor1)</string>
-  <string name="status_imei_sv_slot1">IMEI SV(Utor1)</string>
   <string name="status_imei_slot2">IMEI(Utor2)</string>
+  <string name="status_imei_sv_slot1">IMEI SV(Utor1)</string>
   <string name="status_imei_sv_slot2">IMEI SV(Utor2)</string>
   <string name="status_latest_area_info">Davatelj usluga</string>
   <string name="status_meid_number_slot1">MEID(Utor1)</string>
@@ -551,9 +556,9 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
   <string name="tls_summary_off">TLS je isključen</string>
   <string name="tls_summary_on">TLS je uključen</string>
   <string name="tls_title">TLS</string>
-  <string name="touch_title">Dodirni</string>
-  <string name="touch_sensitive_title">Način rada s rukavicama</string>
   <string name="touch_sensitive_summary">Napravite zaslon osjetljiv na dodatni pritisak</string>
+  <string name="touch_sensitive_title">Način rada s rukavicama</string>
+  <string name="touch_title">Dodirni</string>
   <string name="track_frame_time">Profiliraj GPU prikazivanje</string>
   <string name="trust_access_points">Zadane vjerodostojne AP</string>
   <string name="tv_system_title">TV sustav</string>
@@ -561,32 +566,32 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
   <string name="tvout_settings_summary">Postavke TV izlaza</string>
   <string name="uninstall_all_users_text">Deinstaliraj za sve korisnike</string>
   <string name="unlock_set_unlock_mode_voice_weak">Otključavanje glasom</string>
-  <string name="unmount_usb_inform_text">>USB pohrana biti će isključena.</string>
+  <string name="unmount_usb_inform_text">&gt;USB pohrana biti će isključena.</string>
   <string name="usb_bicr_summary">Prikaži virtualni CD koji sadrži nekoliko korisnih softvera.</string>
   <string name="usb_bicr_title">Ugrađeni CD-ROM</string>
   <string name="usb_charge_summary">Zaustavite sve funkcije USB-a.Omogućuje ubrzanje punjenja USB-a i smanjenje potrošnje energije.</string>
   <string name="usb_charge_title">Punjenje samo</string>
   <string name="usb_connect_as_cdrom_category">Poveži kao CD-ROM</string>
+  <string name="usb_connection_category">Spojite kao</string>
   <string name="usb_host_mode_subtext">Korištenjem igraćih kontrolora i drugih perifernih uređaja na USB priključku, može smanjiti trajanje baterije</string>
   <string name="usb_host_mode_text">Omogući USB host način</string>
+  <string name="usb_mtp_title">&gt;Uređaj za medije (MTP)</string>
+  <string name="usb_ptp_summary">"Omogućuje vam prijenos fotografija pomoću softvera fotoaparata i prijenos bilo koje datoteke na računala koja ne podržavaju MTP"</string>
+  <string name="usb_ptp_title">Fotoaparat (PTP)</string>
   <string name="usb_sharing_info_step_1">1. Otvorite mrežne veze na vašem Windows računalu.</string>
   <string name="usb_sharing_info_step_2">2. Desnom tipkom miša kliknite vezu koju želite podijeliti, a zatim kliknite svojstva.</string>
   <string name="usb_sharing_info_step_3">"3. Kliknite karticu za razmjenu i odaberite "Dopusti drugim korisnicima mreže povezivanje putem internet veze ovog računala (odaberite novododanu mrežu koja predstavlja USB internet ako se pojavi Početni mrežni priključak)."</string>
   <string name="usb_sharing_info_title">Internet pass-through</string>
   <string name="usb_sharing_summary">Dijeljenje Windows PC interneta preko USB kabela</string>
   <string name="usb_sharing_title">USB Internet</string>
-  <string name="usb_tethering_active_subtext">Povezano</string>
   <string name="usb_tether_type_title">Vrsta USB dijeljenja</string>
-   <string name="usb_tethering_available_subtext">USB priključen, odaberite za dijeljenje veze</string>
+  <string name="usb_tethering_active_subtext">Povezano</string>
+  <string name="usb_tethering_available_subtext">USB priključen, odaberite za dijeljenje veze</string>
   <string name="usb_tethering_button_text">Dijeljenje veze USB-om</string>
   <string name="usb_tethering_errored_subtext">Pogreška dijeljenja veze USB-om</string>
   <string name="usb_tethering_storage_active_subtext">Dijeljenje veze nije moguće ako se upotrebljava USB pohrana.</string>
   <string name="usb_tethering_unavailable_subtext">USB nije priključen</string>
-  <string name="usb_mtp_title">>Uređaj za medije (MTP)</string>
-  <string name="usb_ptp_summary">"Omogućuje vam prijenos fotografija pomoću softvera fotoaparata i prijenos bilo koje datoteke na računala koja ne podržavaju MTP"</string>
-  <string name="usb_ptp_title">Fotoaparat (PTP)</string>
   <string name="usb_ums_summary">XP preporuka. Omogućuje prijenos datoteka između računala i Android uređaja.</string>
-  <string name="usb_connection_category">Spojite kao</string>
   <string name="usb_ums_title">USB pohrana</string>
   <string name="user_account_title">Račun za sadržaj</string>
   <string name="user_add_user_message_long">"Možete podijeliti ovaj uređaj s drugim ljudima stvaranjem novih korisnika. Svaki korisnik ima svoj ​​vlastiti prostor, koji se može prilagoditi s vlastitim aplikacijama, pozadina, i tako dalje. Korisnici također mogu prilagoditi postavke tablet poput WLAN-a da utjecati na svakoga.
@@ -624,9 +629,9 @@ Svaki korisnik može prihvatiti dopuštenje ažuriranih alikacija na ime svih os
   <string name="vibrate_title">Vibracija</string>
   <string name="video_call_summary">Postavite zadanu melodiju zvona video poziva</string>
   <string name="video_call_title">Melodija zvona video poziva</string>
-  <string name="voice_category">Glas</string>
   <string name="voice_call_summary">Postavite zadanu melodiju zvona glasovnih poziva</string>
   <string name="voice_call_title">Melodija zvona govornog poziva</string>
+  <string name="voice_category">Glas</string>
   <string name="voice_ui_app_category">Za aplikacije</string>
   <string name="voice_ui_language_title">Jezik za kontrolu glasa</string>
   <string name="voice_ui_setting_category">Postavke</string>
@@ -737,9 +742,4 @@ Za postavljanje uređaja može biti potrebna značajna mrežna aktivnost."</stri
   <string name="wifi_tether_wps_pin_error">Nevaljan PIN</string>
   <string name="wifi_tethering_title">WLAN hotspot</string>
   <string name="wifi_wps_fail_error">WLAN zaštićenoo postavljanje neuspjelo, pokušajte ponovo.</string>
-  <string name="breathing_light_color_title">"  boja LED-a"</string>
-  <string name="incoming_call_vibrate_abbreviation">"Pozivi "</string>
-  <string name="mms_vibrate_abbreviation">SMS/MMS </string>
-  <string name="notification_vibrate_abbreviation">"Obavijesti "</string>
-  <string name="mtk_settings">Postavke MTK</string>
 </resources>

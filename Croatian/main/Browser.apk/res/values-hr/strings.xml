@@ -47,7 +47,7 @@
   <string name="autofill_profile_successful_delete">Tekst automatskog ispunjavanja izbrisan.</string>
   <string name="autofill_profile_successful_save">Tekst automatskog ispunjavanja spremljen.</string>
   <string name="autofill_setup_dialog_message">Preglednik automatski može dovršiti web-obrasce kao što je ovaj jedan. Želite li postaviti automatsko ispunjavanje teksta?</string>
-  <string name="autofill_setup_dialog_negative_toast">Uvijek možete postaviti tekst za automatsko ispunjavanje sa zaslona Preglednik > Postavke > Općenito.</string>
+  <string name="autofill_setup_dialog_negative_toast">Uvijek možete postaviti tekst za automatsko ispunjavanje sa zaslona Preglednik &gt; Postavke &gt; Općenito.</string>
   <string name="autologin_bar_error">"Neuspjela prijava."</string>
   <string name="autologin_bar_hide_text">Sakrij</string>
   <string name="autologin_bar_login_text">Prijava</string>
@@ -136,8 +136,10 @@
   <string name="contextmenu_sharelink">Dijeli vezu</string>
   <string name="contextmenu_view_image">Prikaz slike</string>
   <string name="copy_link">Kopiraj vezu</string>
+  <string name="copy_to_clipboard_failure_message">Kopiranje u međuspremnik nije uspjelo</string>
   <string name="create_shortcut_bookmark">Dodaj prečac početnoj stranici</string>
   <string name="date_picker_dialog_clear">Očistiti</string>
+  <string name="date_picker_dialog_other_button_label">Ostalo</string>
   <string name="date_picker_dialog_set">Postavljanje</string>
   <string name="date_picker_dialog_title">Postavljanje datuma</string>
   <string name="date_time_picker_dialog_title">Postavljanje datuma i vremena</string>
@@ -147,6 +149,7 @@
   <string name="delete_folder">Izbriši mapu</string>
   <string name="delete_multi_bookmarks_alert_title">Izbrisati %1$s stavke?</string>
   <string name="disable_autofill">Onemogući automatsko ispunjavanje</string>
+  <string name="dont_remind_again">Ne prikazuj ponovo</string>
   <string name="download">Preuzimanje</string>
   <string name="download_complete">Preuzimanje dovršeno</string>
   <string name="download_default_path_txt">Zapamti ovaj odabir</string>
@@ -195,8 +198,8 @@
   <string name="geolocation_permissions_prompt_message">%s želi znati vašu lokaciju</string>
   <string name="geolocation_permissions_prompt_remember">Zapamti prednosti</string>
   <string name="geolocation_permissions_prompt_share">Dijeli lokaciju</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Ova stranica može pristupiti vašoj lokaciji. To se može promijeniti u Postavke -> Napredno -> Postavke privatnosti.</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">Ova stranica ne može pristupiti vašoj lokaciji. To se može promijeniti u Postavke -> Napredno -> Postavke privatnosti.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Ova stranica može pristupiti vašoj lokaciji. To se može promijeniti u Postavke -&gt; Napredno -&gt; Postavke privatnosti.</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">Ova stranica ne može pristupiti vašoj lokaciji. To se može promijeniti u Postavke -&gt; Napredno -&gt; Postavke privatnosti.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Otkaži</string>
   <string name="geolocation_settings_page_dialog_message">Očistiti pristup lokacij za ovu stranicu?</string>
   <string name="geolocation_settings_page_dialog_ok_button">U redu</string>
@@ -257,6 +260,13 @@
   <string name="miui_quicksearch_enable_pref_title">Obavijesti brzog pretraživanja</string>
   <string name="miui_search_notification_message">Otvori brzo pretraživanje</string>
   <string name="miui_search_notification_title">Brzo pretraživanje</string>
+  <string name="miuichromium_error_page_mobile">Mobilna mreža</string>
+  <string name="miuichromium_error_page_reason_network">Prikaži URL</string>
+  <string name="miuichromium_error_page_reason_server">Nije moguće učitati ovu stranicu</string>
+  <string name="miuichromium_error_page_reload">Učitaj ponovo</string>
+  <string name="miuichromium_error_page_title">Nije moguće učitati ovu stranicu</string>
+  <string name="miuichromium_error_page_url">Prikaži URL</string>
+  <string name="miuichromium_error_page_wlan">Postavke WLAN-a</string>
   <string name="miuichromium_save_password_message">Želite li zapamtiti ovu zaporku preglednika?</string>
   <string name="miuichromium_save_password_never">Nikad</string>
   <string name="miuichromium_save_password_notnow">Ne sada</string>
@@ -421,8 +431,8 @@
   <string name="pref_ua_string">Niz korisničkog agenta</string>
   <string name="pref_ua_title">Upravljanje korisničkim agentom</string>
   <string name="pref_version_summary">Verzija: %s</string>
-  <string name="pref_video_preload_summary">"Dopusti pregledniku predučitavanje video zapisa kad poslužitelj to podržava"</string>
   <string name="pref_video_preload_dialogtitle">Predučitavanje video zapisa...</string>
+  <string name="pref_video_preload_summary">"Dopusti pregledniku predučitavanje video zapisa kad poslužitelj to podržava"</string>
   <string name="pref_volume_key_enabled">Tipke za glasnoću</string>
   <string name="pref_volume_key_operation">Funkcija tipaka za glasnoću</string>
   <string name="pref_zoom_on_double_tap">Dvaput dotaknite za zumiranje</string>
@@ -502,6 +512,7 @@
   <string name="sign_in_to" formatted="false">Prijavite se na %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Spremanje za izvanmrežno čitanje nije uspjelo."</string>
   <string name="snapshot_go_live">Idi uživo</string>
+  <string name="snapshot_successed">Uspješno spremljeno za vanmrežno čitanje</string>
   <string name="ssl_certificate">Sigurnosna potvrda</string>
   <string name="ssl_certificate_is_valid">Ovaj certifikat nije valjan.</string>
   <string name="ssl_continue">Nastavi</string>
@@ -523,7 +534,7 @@
   <string name="sub_sync_item_browser_title_cloud_tab_summary">Sinkronizacija otvorenih kartica preglednika između različitih uređaja</string>
   <string name="sub_sync_item_browser_title_history">Sinkronizacija povijesti</string>
   <string name="sub_sync_item_browser_title_history_summary">Sinkronizacija povijesti preglednika</string>
-  <string name="sub_sync_item_browser_title_novel">">Sinkronizacija novela</string>
+  <string name="sub_sync_item_browser_title_novel">"&gt;Sinkronizacija novela</string>
   <string name="sub_sync_item_browser_title_novel_summary">Sinkronizacija novela preglednika</string>
   <string name="sync_item_browser_summary">Sinkronizacija podataka na vaš cloud i olakšava njihovo korištenje između raznih uređaja</string>
   <string name="sync_item_browser_title">Sinkronizacija preglednika</string>
@@ -546,6 +557,8 @@
   <string name="url_copy_done">URL kopiran u međuspremnik</string>
   <string name="url_hint">Traži ili upišite URL</string>
   <string name="url_visit_confirm">Posjetite</string>
+  <string name="use_cellular_network_alert_message">WLAN nedostupan, nastaviti preko podatkovne veze?</string>
+  <string name="use_cellular_network_alert_title">Upozorenje mreže</string>
   <string name="user_defined_webpage">Dodaj na početnu stranicu</string>
   <string name="user_defined_webpage_title">Dodaj na početnu stranicu</string>
   <string name="username">Ime</string>
@@ -579,17 +592,4 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="webview_yesterday">Jučer</string>
   <string name="week_picker_dialog_title">Postavite tjedan</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
-  <string name="snapshot_successed">Uspješno spremljeno za vanmrežno čitanje</string>
-  <string name="dont_remind_again">Ne prikazuj ponovo</string>
-  <string name="use_cellular_network_alert_message">WLAN nedostupan, nastaviti preko podatkovne veze?</string>
-  <string name="use_cellular_network_alert_title">Upozorenje mreže</string>
-  <string name="date_picker_dialog_other_button_label">Ostalo</string>
-  <string name="copy_to_clipboard_failure_message">Kopiranje u međuspremnik nije uspjelo</string>
-  <string name="miuichromium_error_page_mobile">Mobilna mreža</string>
-  <string name="miuichromium_error_page_reason_network">Prikaži URL</string>
-  <string name="miuichromium_error_page_reason_server">Nije moguće učitati ovu stranicu</string>
-  <string name="miuichromium_error_page_reload">Učitaj ponovo</string>
-  <string name="miuichromium_error_page_title">Nije moguće učitati ovu stranicu</string>
-  <string name="miuichromium_error_page_url">Prikaži URL</string>
-  <string name="miuichromium_error_page_wlan">Postavke WLAN-a</string>
 </resources>

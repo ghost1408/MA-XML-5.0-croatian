@@ -133,7 +133,7 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="preference">Postavke</string>
   <string name="pwd_alert">Postavi zaporku</string>
   <string name="pwd_pref">Zaštitite oznaku od prepisivanja</string>
-  <string name="pwd_pref_desc"></string>
+  <string name="pwd_pref_desc"/>
   <string name="read_a_tag">Pročitaj oznaku</string>
   <string name="reading">Čitanje…</string>
   <string name="remote_app">Čekanje preuzimanja…</string>
@@ -199,10 +199,10 @@ dotaknite stražnjom stranom vašeg telefona drugu oznaku."</string>
   <string name="wifi">WLAN</string>
   <string name="wireless_network">Bežično &amp; mreže</string>
   <string name="write_a_tag">Oznaku napisao</string>
-  <string name="writing">Zapisivanje</string>
   <string name="write_pon_pon_tile">Napiši oznake</string>
   <string name="write_success">Pisanje završeno</string>
   <string name="write_tag">Napiši oznaku</string>
+  <string name="writing">Zapisivanje</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Pohrana nedostupna, provjerite SD karticu.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>

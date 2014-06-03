@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="FMRecording_reach_storage_threshold">Snimanje zaustavljeno. Prostor za pohranu SD kartica je nizak.</string>
   <string name="access_sd_fail">"Nije moguć pristup SD kartici."</string>
@@ -19,11 +19,11 @@
   <string name="auto_select_af">Zamjenske frekvencije</string>
   <string name="auto_select_af_summary">Kada signal postane preslab, podesite na zamjensku frekvenciju koja pruža ista postaja</string>
   <string name="button_text_stop">Zaustavi</string>
-  <string name="context_menu_title">%sMHZ</string>
-  <string name="context_menu_item_edit">Uredi</string>
   <string name="context_menu_item_delete">Izbrisati</string>
+  <string name="context_menu_item_edit">Uredi</string>
   <string name="context_menu_item_favorite">Dodaj u mem.postaje</string>
   <string name="context_menu_item_unfavorite">Ukloni iz mem.postaja</string>
+  <string name="context_menu_title">%sMHZ</string>
   <string name="default_audio">Stereo</string>
   <string name="default_band">Europa/Zagreb</string>
   <string name="default_blank"/>
@@ -100,13 +100,13 @@
   <string name="preset_tune">Podešavanje</string>
   <string name="presetlist_autoselect_title">Potvrdi automatski odabir</string>
   <string name="radio_text_string">Ovo je dugi niz radio tekst poruka koje treba pomicati</string>
+  <string name="record_completed">Snimanje završeno</string>
   <string name="record_error_file_removed">Snimanje je zaustavljeno.Snimka se nameće.</string>
   <string name="record_error_unknown">Snimanje zaustavljeno. Nepoznata greška tijekom snimanja.</string>
   <string name="record_fail">Snimanje nije uspjelo</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Klikni za prikaz datoteke %s</string>
   <string name="record_sucess">Snimanje uspjelo</string>
-  <string name="record_completed">Snimanje završeno</string>
   <string name="regional_band">Regionalna Frekvencija će izbrisati sve spremljene postaje</string>
   <string name="search_dialog_title">Skeniraj postaje</string>
   <string name="sel_band_menu">Odaberite Regionalnu Frekvenciju</string>

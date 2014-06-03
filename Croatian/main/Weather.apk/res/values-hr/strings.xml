@@ -32,8 +32,6 @@
   <string name="act_weather_range_title">Vremenska prognoza u blizini</string>
   <string name="act_weather_update_time">%s Ažurirano</string>
   <string name="add_city">Dodaj lokaciju</string>
-
-
   <string name="alert_message_delete">Obrisati odabranu %d stavku(e)?</string>
   <string name="alert_provider_message">Trebate omogućiti lokaciju preko vaše mobilne mreže.</string>
   <string name="alert_provider_title">Obavijest o lokaciji</string>

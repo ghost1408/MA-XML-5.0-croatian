@@ -171,7 +171,7 @@ za za prekid vraćanja"</string>
   <string name="multi_select_title">%1$s odabrano</string>
   <string name="my_phone">Moj uređaj</string>
   <string name="no_encrypt_password">Nema šifriranih zaporki</string>
-  <string name="no_network">"Ne mogu se spojiti na mrežu.</string> 
+  <string name="no_network">"Ne mogu se spojiti na mrežu.</string>
   <string name="note_title">Bilješke</string>
   <string name="nothing_searched">Nema rezultata pretraživanja</string>
   <string name="progress_backup_hint">"Stvaranje pohrane: "</string>

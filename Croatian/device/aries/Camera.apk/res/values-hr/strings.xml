@@ -446,6 +446,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Brzo uzastopno snimanje nije podržano kada je snimanje zvuka UKLJUČENO.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržano kada je HDR UKLJUČEN.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Brzo uzastopno snimanje nije podržano kada ISO nije 'automatski'."</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Nije moguće pregledavati fotografije ili video ako je zaslon zaključan.</string>
   <string name="toast_start_audio_capture">Napravite zvuk na okidanju</string>
   <string name="undo">VRATI</string>
   <string name="unit_mm">mm</string>
@@ -474,5 +475,4 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="wifi_security">Sigurnost:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Molimo provjerite sigurnost prije spajanja na ovu WLAN mrežu</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Nije moguće pregledavati fotografije ili video ako je zaslon zaključan.</string>
 </resources>

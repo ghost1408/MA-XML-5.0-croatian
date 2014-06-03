@@ -78,7 +78,7 @@
   <string name="directory_searching_fmt">Tražim %s...</string>
   <string name="discard_label">Otkaži</string>
   <string name="dismiss_all_label">Odbaciti sve</string>
-  <string name="do_not_check">NE PROVJERAVAJ -></string>
+  <string name="do_not_check">NE PROVJERAVAJ -&gt;</string>
   <string name="does_not_repeat">Jednokratni događaj</string>
   <string name="done">NATRAG</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>
@@ -137,8 +137,8 @@
   <string name="menu_general_preferences">Opće postavke</string>
   <string name="menu_preferences">Postavke</string>
   <string name="menu_select_visible_calendars">Kalendari za prikaz</string>
-  <string name="miui_chinese_week_range_single"/>
   <string name="miui_chinese_week_range_double"/>
+  <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Novo</string>
   <string name="modify_all">Promijenite sve događaje u seriji</string>
   <string name="modify_all_following">Promijenite ovaj i sve buduće događaje</string>
@@ -179,6 +179,7 @@ pričekajte da se završi sinkronizacija i pokušajte ponovo). Ili dodirnite "Od
   <string name="online_reminder_slider_text">Omogućite obavijesti</string>
   <string name="pengzu">Bol</string>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>
+  <string name="pref_error_no_ringtone_select">Nijedno</string>
   <string name="pref_title_alarm_remind">Podsjetnik alarma</string>
   <string name="pref_title_alert_remind">Skočni podsjetnik</string>
   <string name="pref_title_no_remind">Nema podsjetnika</string>
@@ -258,6 +259,7 @@ e-pošte gostima</string>
   <string name="tomorrow">Sutra</string>
   <string name="tomorrow_at_time_fmt">Sutra u %s</string>
   <string name="topic_event_list_header_label">Nadolazeći događaji</string>
+  <string name="view_all_matches">Prikaži sve</string>
   <string name="view_event_calendar_label">Kalendar:</string>
   <string name="view_event_organizer_label">Organizator:</string>
   <string name="view_event_response_label">Prisustvovati?</string>
@@ -275,6 +277,4 @@ e-pošte gostima</string>
   <string name="yearly">Godišnje (na %s)</string>
   <string name="yearly_plain">Godišnje</string>
   <string name="zhushen"/>
-  <string name="pref_error_no_ringtone_select">Nijedno</string>
-  <string name="view_all_matches">Prikaži sve</string>
 </resources>

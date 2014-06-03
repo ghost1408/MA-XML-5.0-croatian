@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Barkod skener</string>
-    <string name="copy">Kopiraj</string>
-    <string name="name">Ime:</string>
-    <string name="nickname">Nadimak:</string>
-    <string name="company">Tvrtka:</string>
-    <string name="title">Titula:</string>
-    <string name="phone">Telefon:</string>
-    <string name="email">Email:</string>
-    <string name="web">Web:</string>
-    <string name="address">Adresa:</string>
-    <string name="birthday">Rođendan:</string>
-    <string name="note">Bilješka:</string>
-    <string name="add_to_contacts">Dodaj kontaktu</string>
-    <string name="recognize">Prepoznaj</string>
-    <string name="place_barcode_into_rectangle">Postavite QR kod ili barkod unutar tražila pravokutnika</string>
-    <string name="open_flash_error">Neuspjelo uključivanje bljeskalice</string>
-    <string name="close_flash_error">Neuspjelo isključivanje bljeskalice</string>
-    <string name="scan_fail">Neuspjelo skeniraje</string>
-    <string name="vcard_prompt">Ne mogu dodati kontaktu, nedostaje ime</string>
-    <string name="copy_succeed">Uspješno kopiranje</string>
-    <string name="fail_generate_barcode">Neuspjelo generiranje barkoda ili QR koda</string>
-    <string name="scan_result">Rezultati skeniranja</string>
-    <string name="flash_lable">Bljeskalica</string>
-    <string name="picker_lable">Galerija</string>
+  <string name="add_to_contacts">Dodaj kontaktu</string>
+  <string name="address">Adresa:</string>
+  <string name="app_name">Barkod skener</string>
+  <string name="birthday">Rođendan:</string>
+  <string name="close_flash_error">Neuspjelo isključivanje bljeskalice</string>
+  <string name="company">Tvrtka:</string>
+  <string name="copy">Kopiraj</string>
+  <string name="copy_succeed">Uspješno kopiranje</string>
+  <string name="email">Email:</string>
+  <string name="fail_generate_barcode">Neuspjelo generiranje barkoda ili QR koda</string>
+  <string name="flash_lable">Bljeskalica</string>
+  <string name="name">Ime:</string>
+  <string name="nickname">Nadimak:</string>
+  <string name="note">Bilješka:</string>
+  <string name="open_flash_error">Neuspjelo uključivanje bljeskalice</string>
+  <string name="phone">Telefon:</string>
+  <string name="picker_lable">Galerija</string>
+  <string name="place_barcode_into_rectangle">Postavite QR kod ili barkod unutar tražila pravokutnika</string>
+  <string name="recognize">Prepoznaj</string>
+  <string name="scan_fail">Neuspjelo skeniraje</string>
+  <string name="scan_result">Rezultati skeniranja</string>
+  <string name="title">Titula:</string>
+  <string name="vcard_prompt">Ne mogu dodati kontaktu, nedostaje ime</string>
+  <string name="web">Web:</string>
 </resources>
