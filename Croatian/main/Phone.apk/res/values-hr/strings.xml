@@ -631,7 +631,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="missed_call_notify_ten_times_miui">10 puta</string>
   <string name="missed_call_notify_thrice_miui">3 puta</string>
   <string name="missed_call_notify_times_summary_miui">Ponavljaj svakih 5 minuta po zadanome za propuštene pozive</string>
-  <string name="missed_call_notify_times_title_miui">Propušten poziv podsjetnik puta</string>
+  <string name="missed_call_notify_times_title_miui">Podsjetnik propuštenih poziva</string>
   <string name="missed_call_notify_twice_miui">Dvaput</string>
   <string name="mmiCancelled">MMI kod otkazan</string>
   <string name="mmiStarted">MMI kod pokrenut</string>

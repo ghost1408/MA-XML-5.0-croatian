@@ -331,15 +331,15 @@ Kupili ste [%1$s] za vrijednost od [%2$s yuan]. Telefon službe za korisnike: %3
   <string name="login">Prijava</string>
   <string name="memu_refresh">Osvježi</string>
   <string name="mibi_license_message">Dodirnite "U redu" ako se slažete s odredbama i uvjetima koji su opisani u %1$s.</string>
-  <string name="mibi_license_message_span">MiCredit Korisničko sporazum</string>
-  <string name="mibi_license_title">Korisničko sporazum</string>
+  <string name="mibi_license_message_span">MiCredit Korisnički sporazum</string>
+  <string name="mibi_license_title">Korisnički sporazum</string>
   <string name="mili_center">MiCredit</string>
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">Neuspjela nadoplata</string>
   <string name="msg_picker_hint_1_1">1.</string>
   <string name="msg_picker_hint_1_2">Nadoplata preko poruka može biti puno skuplja: &lt;font color=red&gt;%1$d yuan = %2$d MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
-  <string name="msg_picker_hint_2_2">Davatelj usluga naplaćuje %1$s yuan naknade za uslugu po nadoplati</string>
+  <string name="msg_picker_hint_2_2">Davatelj usluga naplaćuje %1$s yuana naknade za uslugu po nadoplati</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Mjesečna maksimalna naknada: %1$s yuan</string>
   <string name="msg_send_no_net_error">"Neuspjelo slanje poruke: nemoguće spojiti na mrežu."</string>
@@ -405,7 +405,7 @@ Kupili ste [%1$s] za vrijednost od [%2$s yuan]. Telefon službe za korisnike: %3
   <string name="progress_warning_check">"Plaćanje još nije dodano na vaš ​​račun. 
 Mi ćemo opet provjeriti u roku od dva radna dana."</string>
   <string name="progress_warning_contact_server">"Plaćanje još nije dodano na vaš ​​račun. 
-1. Molimo kontaktirajte naš Shenzhou centar službu za korisnike：%1$s 
+1. Molimo kontaktirajte naš Shenzhou centar službu za korisnike: %1$s 
 2. Kada se to zatraži, unesite serijski broj: %2$s."</string>
   <string name="progress_warning_waiting">"Plaćanje još nije dodano na vaš ​​račun."</string>
   <string name="recharge_alipay_title">Alipay</string>
