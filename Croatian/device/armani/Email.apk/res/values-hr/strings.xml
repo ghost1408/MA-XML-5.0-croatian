@@ -448,7 +448,7 @@ Kopija: %4$s
   <string name="pause_state_retrying">čekanje na ponovni pokušaj</string>
   <string name="pause_state_roaming">obustavljeno – roaming</string>
   <string name="pause_state_running">slanje</string>
-  <string name="permission_access_provider_desc">>Aplikaciji omogućuje pristup podatkovnoj bazi vaše e-pošte, uključujući primljene poruke, poslane poruke, korisnička imena i zaporke.</string>
+  <string name="permission_access_provider_desc">&gt;Aplikaciji omogućuje pristup podatkovnoj bazi vaše e-pošte, uključujući primljene poruke, poslane poruke, korisnička imena i zaporke.</string>
   <string name="permission_access_provider_label">Pristup podacima o davatelju usluge e-pošte</string>
   <string name="permission_read_attachment_desc">Omogućuje aplikaciji da čita vaše privitke e-pošte.</string>
   <string name="permission_read_attachment_label">Čitanje privitaka e-pošte</string>
@@ -566,8 +566,8 @@ Kopija: %4$s
   <string name="upload_state_uploading">Učitavanje</string>
   <string name="upload_state_waiting_retry">Čekanje na ponovni pokušaj</string>
   <string name="upload_state_waiting_wifi">Čekanje na WLAN mrežu</string>
-  <string name="uploading_for">" za: &lt;b>%s&lt;/b>"</string>
-  <string name="uploading_to">Učitavanje na: &lt;b>%s&lt;/b></string>
+  <string name="uploading_for">" za: &lt;b&gt;%s&lt;/b&gt;"</string>
+  <string name="uploading_to">Učitavanje na: &lt;b&gt;%s&lt;/b&gt;</string>
   <string name="waitinf_for_sync_message_1">Sinkroniziranje...</string>
   <string name="waitinf_for_sync_message_2">Vaš sandučić će se uskoro pojaviti.</string>
   <string name="widget_all_mail">Kombinirani sandučić</string>

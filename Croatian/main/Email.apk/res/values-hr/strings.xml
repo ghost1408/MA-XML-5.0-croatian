@@ -309,10 +309,10 @@
   <string name="deleted">Obrisano</string>
   <string name="device_activity_btn_str">Natrag na aktivaciju</string>
   <string name="device_activity_lint_str">Omogućite kompletno ažuriranje usluge E-pošte i aktivirajte sigurnosnu opremu</string>
-  <string name="device_not_activiey_lint1">Upravitelj uređaja nije aktiviran</string>
-  <string name="device_not_activiey_lint2">Usluga E-pošte ne radi ispravno</string>
   <string name="device_admin_description">Omogućuje sigurnosna pravila određena poslužiteljem</string>
   <string name="device_admin_label">E-pošta</string>
+  <string name="device_not_activiey_lint1">Upravitelj uređaja nije aktiviran</string>
+  <string name="device_not_activiey_lint2">Usluga E-pošte ne radi ispravno</string>
   <string name="disable_admin_warning">"UPOZORENJE: Deaktivacijom ovlasti aplikacije E-pošta za upravljanje uređajem izbrisat će se svi računi e-pošte koji traže tu ovlast, kao i e-pošta, kontakti, događaji kalendara i drugi podaci."</string>
   <string name="discard">Odbaci</string>
   <string name="discard_drafts">Odbaci skice</string>
@@ -477,7 +477,7 @@ Kopija: %4$s
   <string name="message_compose_insert_quick_response_list_title">Umetanje brzog odgovora</string>
   <string name="message_compose_insert_quick_response_menu_title">Umetanje brzog odgovora</string>
   <string name="message_decode_error">Došlo je do pogreške prilikom dekodiranja poruke.</string>
-  <string name="message_details_title">Pojedinosti poruke</string> 
+  <string name="message_details_title">Pojedinosti poruke</string>
   <string name="message_discarded">Poruka je odbačena.</string>
   <string name="message_invite_accept">Da</string>
   <string name="message_invite_calendar_view">Prikaži u Kalendaru</string>
@@ -744,8 +744,6 @@ Za postavljanje automatske sinkronizacije, dodirnite "Promjena postavki sinkroni
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
   <string name="wrong_password">Pogrešna zaporka!</string>
-  <string name="yes">Da</string>
-  <string name="zip_viewer_no_file">Nema datoteka!</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Pohrana nedostupna, provjerite SD karticu.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
@@ -755,4 +753,6 @@ Veličina: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s
 Veličina delta ažuriranja: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s ažuriranje!</string>
+  <string name="yes">Da</string>
+  <string name="zip_viewer_no_file">Nema datoteka!</string>
 </resources>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="BaMmi">Zabrana poziva</string>
-  <string name="CLIRDefaultOnNextCallOn">Zadana postavka ID-a pozivatelja ima ograničenje. Sljedeći poziv: Ograničen</string>
-  <string name="CLIRDefaultOnNextCallOff">Zadana postavka ID-a pozivatelja ima ograničenje. Sljedeći poziv: Nije ograničen</string>
-  <string name="CLIRDefaultOffNextCallOn">Zadana postavka ID-a pozivatelja nema ograničenje. Sljedeći poziv: Ograničen</string>
   <string name="CLIRDefaultOffNextCallOff">Zadana postavka ID-a pozivatelja nema ograničenje. Sljedeći poziv: Nije ograničen</string>
+  <string name="CLIRDefaultOffNextCallOn">Zadana postavka ID-a pozivatelja nema ograničenje. Sljedeći poziv: Ograničen</string>
+  <string name="CLIRDefaultOnNextCallOff">Zadana postavka ID-a pozivatelja ima ograničenje. Sljedeći poziv: Nije ograničen</string>
+  <string name="CLIRDefaultOnNextCallOn">Zadana postavka ID-a pozivatelja ima ograničenje. Sljedeći poziv: Ograničen</string>
   <string name="CLIRPermanent">Ne možete promijeniti postavku ID-a pozivatelja..</string>
   <string name="CfMmi">Preusmjeravanje poziva</string>
   <string name="ClipMmi">ID dolaznog pozivatelja</string>
@@ -19,14 +19,14 @@
   <string name="PinMmi">PIN je promijenjen</string>
   <string name="PwdMmi">Promjena zaporke</string>
   <string name="RestrictedChangedTitle">Promijenjen je ograničeni pristup</string>
+  <string name="RestrictedOnAll">Sve su glasovne/podatkovne/SMS usluge blokirane.</string>
+  <string name="RestrictedOnAllVoice">Sve su glasovne usluge blokirane.</string>
   <string name="RestrictedOnData">Podatkovna usluga je blokirana.</string>
   <string name="RestrictedOnEmergency">Hitna usluga je blokirana.</string>
   <string name="RestrictedOnNormal">Glasovna usluga je blokirana.</string>
-  <string name="RestrictedOnAllVoice">Sve su glasovne usluge blokirane.</string>
   <string name="RestrictedOnSms">SMS usluga je blokirana.</string>
   <string name="RestrictedOnVoiceData">Glasovne/podatkovne usluge blokirane su.</string>
   <string name="RestrictedOnVoiceSms">Glasovne/SMS usluge su blokirane.</string>
-  <string name="RestrictedOnAll">Sve su glasovne/podatkovne/SMS usluge blokirane.</string>
   <string name="RuacMmi">Odbijanje neželjenih i neugodnih poziva</string>
   <string name="SetupCallDefault">Prihvatiti poziv?</string>
   <string name="ThreeWCMmi">Trostrani poziv</string>
@@ -120,7 +120,7 @@
   <string name="chooseUsbActivity">Odabir aplikacije za USB uređaj</string>
   <string name="choose_account_label">Odaberite račun</string>
   <string name="chooser_wallpaper">Promjena pozadinske slike</string>
-  <string name="clearDefaultHintMsg">Izbrisati zadano u Postavkama sustava > Aplikacije > Preuzimanja.</string>
+  <string name="clearDefaultHintMsg">Izbrisati zadano u Postavkama sustava &gt; Aplikacije &gt; Preuzimanja.</string>
   <string name="common_name">Zajednički naziv:</string>
   <string name="configure_input_methods">Postavljanje načina unosa</string>
   <string name="contentServiceSync">Sinkronizacija</string>
@@ -133,6 +133,12 @@
   <string name="create_contact_using">"Stvori kontakt
 za %s."</string>
   <string name="cut">Izreži</string>
+  <string name="data_service">Podatkovne usluge</string>
+  <string name="data_service_content">"Podatkovna veza vašeg telefona je isključena, da bi se postiglo bolje iskustvo, predlaže smo vam da otvorite podatkovnu vezu.
+
+S obzirom da je otvorena podatkovna veza, možete koristiti telefonske kartice za pristup internetu, molimo Vas da potvrdite želite li otvoriti?
+
+"</string>
   <string name="data_usage_3g_limit_snoozed_title">Prekoračeno ograničenje 2G-3G</string>
   <string name="data_usage_3g_limit_title">2G-3G podaci su onemogućeni</string>
   <string name="data_usage_4g_limit_snoozed_title">Prekoračeno je ograničenje 4G podataka</string>
@@ -251,10 +257,12 @@ za %s."</string>
   <string name="format_error">Brisanje USB pohrane nije uspjelo.</string>
   <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
   <string name="gadget_host_error_inflating">Widget nije moguće dodati.</string>
+  <string name="gemini_3g_disable_warning_case5">Telefon će imati neki podatkovni promet ako je otvorena podatkovna veza. Posebne naknade se naplaćuju od strane operatora. Prepoznati potrebu za otvoriti je?</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_bug_report">Izvješće o bugovima</string>
   <string name="global_action_lock">Zaključavanje zaslona</string>
   <string name="global_action_power_off">Isključi</string>
+  <string name="global_action_reboot">Ponovno pokretanje</string>
   <string name="global_action_reboot_summary">Zatvorite sve programe i ponovno pokrenite telefon</string>
   <string name="global_action_silent_mode_off_status">Zvuk je uključen</string>
   <string name="global_action_silent_mode_on_status">Zvuk je isključen</string>
@@ -377,7 +385,7 @@ Za nastavak dodirnite U redu, a za ostanak na trenutačnoj stranici dodirnite Od
   <string name="keyguard_password_enter_pin_prompt">Novi PIN kôd</string>
   <string name="keyguard_password_enter_puk_code">Unesite PUK i novi PIN kôd</string>
   <string name="keyguard_password_enter_puk_prompt">PUK kôd</string>
-  <string name="keyguard_password_entry_touch_hint">" "<font size="17">Doditnite za unos zaporke</font>" "</string>
+  <string name="keyguard_password_entry_touch_hint">" "&lt;font size="17"&gt;Doditnite za unos zaporke&lt;/font&gt;" "</string>
   <string name="keyguard_password_wrong_pin_code">Netočan PIN kôd.</string>
   <string name="kg_emergency_call_label">Hitan poziv</string>
   <string name="kg_enter_confirm_pin_hint">Potvrdite željeni PIN kôd</string>
@@ -538,8 +546,9 @@ Pokušajte ponovo za %d s."</string>
   <string name="no_file_chosen">Nema odabranih datoteka</string>
   <string name="no_matches">Nema rezultata</string>
   <string name="no_permissions">Nije potrebno dopuštenje</string>
-  <string name="no_recent_tasks">Nema nedavnih aplikacija.</string>   
+  <string name="no_recent_tasks">Nema nedavnih aplikacija.</string>
   <string name="noon">podne</string>
+  <string name="not_show_again">Ne prikazuj ponovo.</string>
   <string name="notification_title">Pogreška prijave za račun %1$s</string>
   <string name="number_picker_decrement_button">Smanjivanje</string>
   <string name="number_picker_increment_button">Povećavanje</string>
@@ -680,8 +689,8 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_pkgUsageStats">Omogućuje aplikaciji promjenu prikupljene statistike upotrebe komponenata. Nije namijenjena uobičajenim aplikacijama.</string>
   <string name="permdesc_processOutgoingCalls">Aplikaciji omogućuje obradu odlaznih poziva i promjenu broja za biranje. Ta dozvola aplikaciji omogućuje nadziranje, preusmjeravanje ili sprječavanje odlaznih poziva.</string>
   <string name="permdesc_readCalendar">Aplikaciji omogućuje čitanje svih događaja u kalendaru pohranjenih na vašem telefonu, uključujući one od vaših prijatelja ili suradnika. To aplikaciji može omogućiti dijeljenje ili spremanje vaših podataka kalendara, neovisno o povjerljivosti ili osjetljivosti.</string>
-  <string name="permdesc_readCellBroadcasts">Omogućuje aplikaciji čitanje poruka emitiranih unutar mobilne mreže koje prima vaš uređaj. Upozorenja koja se emitiraju na području mobilne mreže dostavljaju se na nekim lokacijama kako bi upozorila korisnike na hitne situacije. Zlonamjerne aplikacije mogu ometati izvršavanje ili rad vašeg uređaja kada stigne hitno upozorenje koje se emitira unutar mobilne mreže.</string>
   <string name="permdesc_readCallLog">Aplikaciji omogućuje čitanje zapisnika poziva vašeg telefona, uključujući podatke o dolaznim i odlaznim pozivima. Ta dozvola aplikacijama omogućuje spremanje podataka zapisnika poziva, a zlonamjerne aplikacije mogu dijeliti podatke zapisnika poziva bez vašeg znanja.</string>
+  <string name="permdesc_readCellBroadcasts">Omogućuje aplikaciji čitanje poruka emitiranih unutar mobilne mreže koje prima vaš uređaj. Upozorenja koja se emitiraju na području mobilne mreže dostavljaju se na nekim lokacijama kako bi upozorila korisnike na hitne situacije. Zlonamjerne aplikacije mogu ometati izvršavanje ili rad vašeg uređaja kada stigne hitno upozorenje koje se emitira unutar mobilne mreže.</string>
   <string name="permdesc_readContacts">Aplikaciji omogućuje čitanje podataka o vašim kontaktima pohranjenim na telefonu, uključujući učestalost poziva, e-poruka ili drugih načina komunikacije s određenim pojedincima. Ta dozvola aplikaciji omogućuje spremanje podataka kontakata, a zlonamjerne aplikacije mogu dijeliti podatke kontakata bez vašeg znanja.</string>
   <string name="permdesc_readDictionary">Aplikaciji omogućuje čitanje svih riječi, imena i fraza koje je korisnik pohranio u korisničkom rječniku.</string>
   <string name="permdesc_readFrameBuffer">Aplikaciji omogućuje čitanje sadržaja međuspremnika okvira.</string>
@@ -1004,7 +1013,7 @@ za račun %s"</string>
   <string name="permlab_writeSocialStream">pisanje društvenog streama</string>
   <string name="permlab_writeSyncSettings">uključivanje/isključivanje sinkronizacije</string>
   <string name="perms_description_app">Omogućuje aplikacija %1$s.</string>
-  <string name="perms_new_perm_prefix">" "<font fgcolor="#ff900000" size="12">NOVO: </font>" "</string>
+  <string name="perms_new_perm_prefix">" "&lt;font fgcolor="#ff900000" size="12"&gt;NOVO: &lt;/font&gt;" "</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Pomoćnik</string>
   <string name="phoneTypeCallback">Povratni poziv</string>
@@ -1059,6 +1068,7 @@ za račun %s"</string>
   <string name="preposition_for_year">%s.</string>
   <string name="progress_erasing">Brisanje USB pohrane...</string>
   <string name="progress_unmounting">Isključivanje USB pohrane...</string>
+  <string name="reboot">Ponovno pokretanje</string>
   <string name="reboot_confirm">Želite ponovno pokretanje telefona?</string>
   <string name="reboot_safemode_confirm">Želite li ponovo pokrenuti uređaj u sigurnom načinu rada? To će onemogućiti sve aplikacije treće strane koje ste instalirali. Bit će vraćene kada ponovo pokrenete uređaj.</string>
   <string name="reboot_safemode_title">Ponovno pokretanje u sigurnom načinu rada</string>
@@ -1126,7 +1136,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="save_password_never">Nikad</string>
   <string name="save_password_notnow">Ne sada</string>
   <string name="save_password_remember">Zapamti</string>
-  <string name="screen_compat_mode_hint">Omogućiti to ponovo u Postavkama sustava > Aplikacije > Preuzimanja.</string>
+  <string name="screen_compat_mode_hint">Omogućiti to ponovo u Postavkama sustava &gt; Aplikacije &gt; Preuzimanja.</string>
   <string name="screen_compat_mode_scale">Mjerilo</string>
   <string name="screen_compat_mode_show">Uvijek prikaži</string>
   <string name="screen_lock">Zaključavanje zaslona</string>
@@ -1151,8 +1161,8 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="serviceClassDataAsync">Asinkrono</string>
   <string name="serviceClassDataSync">Sinkronizacija</string>
   <string name="serviceClassFAX">Faks</string>
-  <string name="serviceClassPacket">Paket</string>
   <string name="serviceClassPAD">PAD</string>
+  <string name="serviceClassPacket">Paket</string>
   <string name="serviceClassSMS">SMS</string>
   <string name="serviceClassVoice">Glas</string>
   <string name="serviceDisabled">Usluga je onemogućena.</string>
@@ -1172,6 +1182,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="shutdown_confirm">Vaš će se telefon isključiti.</string>
   <string name="shutdown_confirm_question">Želite li isključiti uređaj?</string>
   <string name="shutdown_progress">Isključivanje...</string>
+  <string name="shutdown_quickly">Brzo Ponovno pokretanje</string>
   <string name="silent_mode">Bešumni način</string>
   <string name="silent_mode_ring">Zvono uključeno</string>
   <string name="silent_mode_silent">Zvono isključeno</string>
@@ -1187,26 +1198,30 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="sipAddressTypeOther">Drugo</string>
   <string name="sipAddressTypeWork">Posao</string>
   <string name="skip_button_label">Preskoči</string>
-  <string name="sms_control_message">Aplikacija &lt;b>%1$s&lt;/b> šalje veliki broj SMS poruka. Želite li dopustiti ovoj aplikaciji da nastavi slati poruke?</string>
+  <string name="sms_control_message">Aplikacija &lt;b&gt;%1$s&lt;/b&gt; šalje veliki broj SMS poruka. Želite li dopustiti ovoj aplikaciji da nastavi slati poruke?</string>
   <string name="sms_control_no">Odbij</string>
   <string name="sms_control_title">Slanje SMS poruka</string>
   <string name="sms_control_yes">Dopusti</string>
-  <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Ovo se naplaćuje putem vašeg mobilnog računa.</font></string>
+  <string name="sms_premium_short_code_details">&lt;font fgcolor="#ffffb060"&gt;Ovo se napla&amp;#263;uje putem va&amp;#353;eg mobilnog ra&amp;#269;una.&lt;/font&gt;</string>
   <string name="sms_short_code_confirm_allow">Pošalji</string>
   <string name="sms_short_code_confirm_always_allow">Dopusti uvijek</string>
   <string name="sms_short_code_confirm_deny">Odustani</string>
-  <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> želi poslati poruku na &lt;b>%2$s&lt;/b>.</string>
+  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; želi poslati poruku na &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Ne dopuštaj nikada</string>
-  <string name="sms_short_code_details">Ovo <font fgcolor="#ffffb060">će se možda naplaćivati</font> putem vašeg mobilnog računa.</string>
+  <string name="sms_short_code_details">Ovo &lt;font fgcolor="#ffffb060"&gt;&amp;#263;e se mo&amp;#382;da napla&amp;#263;ivati&lt;/font&gt; putem va&amp;#353;eg mobilnog ra&amp;#269;una.</string>
   <string name="sms_short_code_remember_choice">Zapamti odabir</string>
-  <string name="sms_short_code_remember_undo_instruction">Kasnije to možete promijeniti u odjeljku Postavke > Aplikacije</string>
+  <string name="sms_short_code_remember_undo_instruction">Kasnije to možete promijeniti u odjeljku Postavke &gt; Aplikacije</string>
   <string name="smv_application">Aplikacija %1$s (proces %2$s) prekršila je vlastito pravilo StrictMode.</string>
   <string name="smv_process">Proces %1$s prekršio je svoje vlastito pravilo StrictMode.</string>
   <string name="ssl_certificate">Sigurnosni certifikat</string>
   <string name="ssl_certificate_is_valid">Ovaj je certifikat valjan.</string>
   <string name="status_bar_device_locked">Uređaj zaključan.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="status_bar_settings_airplane_dlg_message">Način rada u zrakoplovu uključen.</string>
+  <string name="status_bar_settings_airplane_dlg_title">Način rada u zrakoplovu</string>
   <string name="storage_external_usb">Vanjska USB pohrana</string>
+  <string name="storage_ic_usb1">Vanjska IC-USB pohrana 1</string>
+  <string name="storage_ic_usb2">Vanjska IC-USB pohrana 2</string>
   <string name="storage_internal">Interna pohrana</string>
   <string name="storage_phone">Interna pohrana</string>
   <string name="storage_sd_card">SD kartica</string>
@@ -1292,9 +1307,9 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="vpn_title_long">Aplikacija %s je aktivirala VPN</string>
   <string name="wait">Pričekaj</string>
   <string name="wallpaper_binding_label">Slika pozadine</string>
-  <string name="wday_date">%2$s, %3$s</string>
   <string name="wday1_date1_time1_wday2_date2_time2">%3$s %1$s, %2$s - %6$s %4$s, %5$s</string>
   <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
+  <string name="wday_date">%2$s, %3$s</string>
   <string name="webpage_unresponsive">"Stranica ne reagira.
 
 Želite li ju zatvoriti?"</string>
@@ -1318,26 +1333,11 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Prima:</string>
   <string name="wifi_p2p_turnon_message">Pokreni izravan rad s WLAN mrežom. To će isključiti rad s WLAN klijentom/hotspotom.</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" zbog loše internetske veze."</string>
   <string name="wifi_watchdog_network_disabled">Nije moguće spajanje na WLAN</string>
-  <string name="years">godina</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" zbog loše internetske veze."</string>
+  <string name="wlan_direct_name">Redmi Note</string>
   <string name="year">godina</string>
+  <string name="years">godina</string>
   <string name="yes">U redu</string>
   <string name="zz_keyguard_accessibility_voice_unlock">Otključavanje glasom.</string>
-  <string name="data_service">Podatkovne usluge</string>
-  <string name="data_service_content">"Podatkovna veza vašeg telefona je isključena, da bi se postiglo bolje iskustvo, predlaže smo vam da otvorite podatkovnu vezu.
-
-S obzirom da je otvorena podatkovna veza, možete koristiti telefonske kartice za pristup internetu, molimo Vas da potvrdite želite li otvoriti?
-
-"</string>
-  <string name="gemini_3g_disable_warning_case5">Telefon će imati neki podatkovni promet ako je otvorena podatkovna veza. Posebne naknade se naplaćuju od strane operatora. Prepoznati potrebu za otvoriti je?</string>
-  <string name="global_action_reboot">Ponovno pokretanje</string>
-  <string name="not_show_again">Ne prikazuj ponovo.</string>
-  <string name="reboot">Ponovno pokretanje</string>
-  <string name="shutdown_quickly">Brzo Ponovno pokretanje</string>
-  <string name="status_bar_settings_airplane_dlg_message">Način rada u zrakoplovu uključen.</string>
-  <string name="status_bar_settings_airplane_dlg_title">Način rada u zrakoplovu</string>
-  <string name="storage_ic_usb1">Vanjska IC-USB pohrana 1</string>
-  <string name="storage_ic_usb2">Vanjska IC-USB pohrana 2</string>
-  <string name="wlan_direct_name">Redmi Note</string>
 </resources>

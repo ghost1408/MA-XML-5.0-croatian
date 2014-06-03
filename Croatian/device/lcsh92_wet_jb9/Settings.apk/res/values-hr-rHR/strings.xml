@@ -69,6 +69,7 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="accessibility_toggle_speak_password_preference_title">Izgovori zaporke</string>
   <string name="activity_not_found">Aplikacija nije instalirana.</string>
   <string name="adjust_3d_depth_title">"Podesi 3D dubinu igara"</string>
+  <string name="adupsfota_software_update_string_ext">WLAN ažuriranje</string>
   <string name="agps_OK">U redu</string>
   <string name="agps_disable_on_reboot">Onemogućiti nakon ponovnog pokretanja</string>
   <string name="agps_disable_on_reboot_summary">Onemogućiti A-GPS nakon ponovnog pokretanja</string>
@@ -96,11 +97,14 @@ Ako uređaj ima nekoliko korisnika, korištenje ovog prečaca na zaslonu zaklju�
   <string name="alarm_command_summary_format">Možete izgovoriti %1$s ili %2$s za kontrolu alarma.</string>
   <string name="allow">Dopusti</string>
   <string name="apn_list_category_title">Popis pristupnih točaka</string>
+  <string name="apn_port_warning">Port mora biti između 1-65535!</string>
   <string name="apn_predefine_change_dialog_notice">Sigurno to želite spremiti? Promjene na zadanom APN-u može uzrokovati probleme s povezivanjem!</string>
   <string name="app_special_disable_dlg_text">Ako isključite aplikaciju sustava, ostale aplikacije mogu uzrokovati neočekivano ponašanje.
 Vaši podaci će biti izbrisani.</string>
   <string name="app_special_disable_dlg_title">Brisanje podataka i onemogućiti aplikaciju?</string>
   <string name="audio_profile_add">Dodaj</string>
+  <string name="audio_profile_bes_loudness_summary">Povećanje glasnoće zvučnika</string>
+  <string name="audio_profile_bes_loudness_title">BesLoudness</string>
   <string name="audio_profile_category_custom_title">Korisnik definira profile</string>
   <string name="audio_profile_category_predefine_title">Unaprijed definirani profili</string>
   <string name="audio_profile_delete">Izbriši</string>
@@ -150,8 +154,18 @@ Vaši podaci će biti izbrisani.</string>
   <string name="button_disconnect_network">Odspojite se s mreže</string>
   <string name="camera_app_name">Fotoaparat</string>
   <string name="camera_command_summary_format">Možete izgovoriti %1$s ili %2$s za slikanje</string>
+  <string name="card_emulation_settings_category_title">dostupan sigurnosni element</string>
+  <string name="card_emulation_settings_no_element_found">Nema dostupnog sigurnosnog elementa.</string>
+  <string name="card_emulation_settings_off_text">Ako želite vidjeti sigurnosne elemente, uključite emulaciju kartice.</string>
+  <string name="card_emulation_sim_not_supported_message">%1$s ne podržava NFC funkciju emulaciju kartice.</string>
+  <string name="card_emulation_switch_error_message">Nije uspjelo prebacivanje na %1$s.</string>
+  <string name="card_emulation_switch_error_title">Greška</string>
+  <string name="card_emulation_turning_off_text">Uključivanje emulaciju kartice isključeno...</string>
+  <string name="card_emulation_turning_on_text">Uključivanje emulaciju kartice uključeno...</string>
   <string name="change_data_conn_message">%1$s nije dostupan sada, promijeniti zadanu podatkovnu vezu na %2$s?</string>
   <string name="change_data_conn_title">Promjena podatkovne veze</string>
+  <string name="clear_motion_summary">Poboljšanje prikaza videozapisa</string>
+  <string name="clear_motion_title">ClearMotionTM</string>
   <string name="color_calibration_none">Prirodna</string>
   <string name="color_calibration_srgb">sRGB</string>
   <string name="configed_access_points">Vjerodostojne pristupne točke</string>
@@ -262,23 +276,24 @@ Ova postavka utječe na sve korisnike ovog uređaja."</string>
   <string name="gadget_sync">Sink.</string>
   <string name="gadget_wifi">WLAN</string>
   <string name="gemini_3g_disable_warning">3G usluga nije dostupna u odabranoj SIM kartici. Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u 
-  Postavke > Bežično povezivanje &amp; Mreže > Mobilne mreže.</string>
+  Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže.</string>
   <string name="gemini_3g_disable_warning_case0">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove!
    Sigurno želite omogućiti roaming podataka i odaberati ovu SIM karticu?</string>
   <string name="gemini_3g_disable_warning_case1">3G usluga nije dostupna s ovom odabranom SIM karticom. Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u 
-  Postavke > Bežično povezivanje &amp; Mreže > Mobilne mreže. 
+  Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže. 
   Sigurno želite odabrati ovu SIM karticu?</string>
   <string name="gemini_3g_disable_warning_case2">3G usluga nije dostupna s ovom odabranom SIM karticom. Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u 
-  Postavke > Upravljanje SIM-a. Sigurno želite odabrati ovu SIM karticu?</string>
+  Postavke &gt; Upravljanje SIM-a. Sigurno želite odabrati ovu SIM karticu?</string>
   <string name="gemini_3g_disable_warning_case3">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove! 
   Osim toga, 3G usluga nije dostupna s ovom SIM karticom. Podaci će se učitavati sporije. 
-  Možete promijeniti postavke 3G usluge u Postavke > Bežično povezivanje &amp; Mreže > Mobilne mreže. 
+  Možete promijeniti postavke 3G usluge u Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže. 
   Sigurno želite omogućiti roaming podataka i odabrati ovu SIM karticu?</string>
   <string name="gemini_3g_disable_warning_case4">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove! 
   Osim toga, 3G usluga nije dostupna s ovom SIM karticom.
-  Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u Postavke > Upravljanje SIM-a. Sigurno želite omogućiti roaming podataka i odabrati ovu SIM karticu?</string>
+  Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u Postavke &gt; Upravljanje SIM-a. Sigurno želite omogućiti roaming podataka i odabrati ovu SIM karticu?</string>
+  <string name="gemini_3g_disable_warning_case5">Telefon će imati neki podatkovni promet ako je otvorena podatkovna veza. Posebne naknade koje se naplaćuju od strane operatora. Prepoznati potrebu otvoriti je?</string>
   <string name="gemini_3g_disable_warning_cu">3G usluga nije dostupna u odabranoj SIM kartici. 
-  Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u Postavke > Upravljanje SIM-a.</string>
+  Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u Postavke &gt; Upravljanje SIM-a.</string>
   <string name="gemini_3g_indic">3G</string>
   <string name="gemini_3g_modem_switch_confirm_message">To će također prebaciti 3G uslugu na ovu SIM karticu. Nastaviti? Uvjerite se da ova odabrana SIM kartica podržava 3G uslugu.</string>
   <string name="gemini_3g_modem_switching_message">Prebacivanje SIM-a će potrajati oko 10 sekundi za dovršetak. Pričekajte...</string>
@@ -345,9 +360,9 @@ Ova postavka utječe na sve korisnike ovog uređaja."</string>
   <string name="gemini_tether_saving_progress_message">Spremanje...</string>
   <string name="gemini_video_call">Video poziv</string>
   <string name="gemini_voice_call">Glasovni poziv</string>
-  <string name="gemini_wap_push_permission_tail">Prihvatiti ovaj sporazum?</string>
   <string name="gemini_wap_push_permission_head">Nakon što omogućite Auto-push uslugu, možete primati push poruke, napraviti pokretanje lokalnih aplikacija i proizvoditi podatkovni promet. 
   Uobičajena auto-push usluga uključuje obavijesti e-pošte, upravljanje uređajem, indikaciju usluga, te uslugu učitavanja i rezerviranja push-a</string>
+  <string name="gemini_wap_push_permission_tail">Prihvatiti ovaj sporazum?</string>
   <string name="gemini_wap_push_permission_title">Ugovor o pružanju Auto-push usluge</string>
   <string name="general_settings_title">Općenito</string>
   <string name="global_change_warning">Ova postavka utječe na sve korisnike ovog telefona.</string>
@@ -373,7 +388,7 @@ Sigurno želite koristiti GPS predviđeno vrijeme?"</string>
   <string name="hdmi_notification_content">Dodirnite za konfiguraciju HDMI-a</string>
   <string name="hdmi_notification_title">HDMI kabel povezan</string>
   <string name="hdmi_settings">HDMI postavke</string>
-  <string name="hdmi_settings_summary">>Dodirnite za konfiguraciju HDMI-a</string>
+  <string name="hdmi_settings_summary">&gt;Dodirnite za konfiguraciju HDMI-a</string>
   <string name="hdmi_toggler">HDMI</string>
   <string name="hdmi_video_resolution">Video rezolucija</string>
   <string name="hdmi_video_toggler">Video</string>
@@ -394,8 +409,8 @@ Sigurno želite koristiti GPS predviđeno vrijeme?"</string>
   <string name="location_access_title">Pristup mojoj lokaciji</string>
   <string name="location_settings_label">Namještanje položaja</string>
   <string name="location_sources_heading">Izvori lokacija</string>
-  <string name="lock_screen_notifications_title">Obavijesti zaključanog zaslona</string>
   <string name="lock_screen_notifications_summary">Prikaži obavijesti na zaklj.zaslonu</string>
+  <string name="lock_screen_notifications_title">Obavijesti zaključanog zaslona</string>
   <string name="lock_screen_style_title">Stil zaključanog zaslona</string>
   <string name="lockdown_vpn_already_connected">Uvijek na VPN je omogućeno za spajanje.</string>
   <string name="lockscreen_style_default_desc">Brzi pristup aplikacijama za zaključanom zaslonu</string>
@@ -439,9 +454,21 @@ Sigurno želite koristiti GPS predviđeno vrijeme?"</string>
   <string name="not_installed">Nije instalirano</string>
   <string name="notification_vibrate_abbreviation">"Obavijesti "</string>
   <string name="ok">U redu</string>
+  <string name="oobe_default_sim_title">Postavljanje zadanog SIM-a</string>
+  <string name="oobe_sim_info_title">Upravljanje SIM-a</string>
   <string name="outdoor_settings_title">Na otvorenom</string>
   <string name="outdoor_summary">Najglasniji zvuk i vibracija</string>
   <string name="overlay_display_devices_title">Simuliraj sekundarni zaslon</string>
+  <string name="passpoint_append_summary">(kroz Passpoint)</string>
+  <string name="passpoint_append_summary_not_connected">(Passpoint)</string>
+  <string name="passpoint_certificate">Certifikat</string>
+  <string name="passpoint_config_credential_type">Tip uverenja</string>
+  <string name="passpoint_config_eap_method">EAP metoda</string>
+  <string name="passpoint_config_hotspot">Hotspot 2.0</string>
+  <string name="passpoint_summary">Auto. poveži na passpoint-enabled AP</string>
+  <string name="passpoint_supported">Podržano</string>
+  <string name="passpoint_title">Passpoint</string>
+  <string name="passpoint_username_pw">Koris.ime/Zaporka</string>
   <string name="pch_call_prefer_summary_on">Poziv željeno</string>
   <string name="pch_data_prefer_summary_off">Poziv željeno</string>
   <string name="pch_toggle_title">GPRS željeni način prijenosa</string>
@@ -476,12 +503,12 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
   <string name="screensaver_settings_when_to_dream">Kada pokrenuti sanjarenje</string>
   <string name="sd_card_settings_label">SD kartica</string>
   <string name="sd_eject">Isključi SD karticu</string>
-  <string name="sd_memory">SD kartica</string>
-  <string name="sd_mount">Uključi SD karticu</string>
-  <string name="sd_mount_usbstorage">Priključite USB pohranu</string>
   <string name="sd_eject_usbstorage">Isključiti USB pohranu</string>
   <string name="sd_eject_usbstorage_summary">Isključite USB uređaj za pohranu za sigurno uklanjanje</string>
   <string name="sd_insert_usb_summary">Umetnite USB za pohranu</string>
+  <string name="sd_memory">SD kartica</string>
+  <string name="sd_mount">Uključi SD karticu</string>
+  <string name="sd_mount_usbstorage">Priključite USB pohranu</string>
   <string name="security_not_set">Sigurnost nije postavljena</string>
   <string name="security_settings_billing_desc">Ova aplikacija može naplaćivati upotrebu:</string>
   <string name="security_settings_premium_sms_desc">Pošalji premium SMS</string>
@@ -515,8 +542,8 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
   <string name="sound_category_feedback_title">Sustav</string>
   <string name="sound_enhancement_title">Poboljšanje zvuka</string>
   <string name="status_imei_slot1">IMEI(Utor1)</string>
-  <string name="status_imei_sv_slot1">IMEI SV(Utor1)</string>
   <string name="status_imei_slot2">IMEI(Utor2)</string>
+  <string name="status_imei_sv_slot1">IMEI SV(Utor1)</string>
   <string name="status_imei_sv_slot2">IMEI SV(Utor2)</string>
   <string name="status_latest_area_info">Davatelj usluga</string>
   <string name="status_meid_number_slot1">MEID(Utor1)</string>
@@ -543,7 +570,7 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
   <string name="tvout_settings_summary">Postavke TV izlaza</string>
   <string name="uninstall_all_users_text">Deinstaliraj za sve korisnike</string>
   <string name="unlock_set_unlock_mode_voice_weak">Otključavanje glasom</string>
-  <string name="unmount_usb_inform_text">>USB pohrana biti će isključena.</string>
+  <string name="unmount_usb_inform_text">&gt;USB pohrana biti će isključena.</string>
   <string name="usb_bicr_summary">Prikaži virtualni CD koji sadrži nekoliko korisnih softvera.</string>
   <string name="usb_bicr_title">Ugrađeni CD-ROM</string>
   <string name="usb_charge_summary">Zaustavite sve funkcije USB-a.Omogućuje ubrzanje punjenja USB-a i smanjenje potrošnje energije.</string>
@@ -703,31 +730,4 @@ Za postavljanje uređaja može biti potrebna značajna mrežna aktivnost."</stri
   <string name="wifi_tether_wps_pin_error">Nevaljan PIN</string>
   <string name="wifi_tethering_title">WLAN hotspot</string>
   <string name="wifi_wps_fail_error">WLAN zaštićeno postavljanje neuspjelo, pokušajte ponovo</string>
-  <string name="adupsfota_software_update_string_ext">WLAN ažuriranje</string>
-  <string name="apn_port_warning">Port mora biti između 1-65535!</string>
-  <string name="audio_profile_bes_loudness_summary">Povećanje glasnoće zvučnika</string>
-  <string name="audio_profile_bes_loudness_title">BesLoudness</string>
-  <string name="card_emulation_settings_category_title">dostupan sigurnosni element</string>
-  <string name="card_emulation_settings_no_element_found">Nema dostupnog sigurnosnog elementa.</string>
-  <string name="card_emulation_settings_off_text">Ako želite vidjeti sigurnosne elemente, uključite emulaciju kartice.</string>
-  <string name="card_emulation_sim_not_supported_message">%1$s ne podržava NFC funkciju emulaciju kartice.</string>
-  <string name="card_emulation_switch_error_message">Nije uspjelo prebacivanje na %1$s.</string>
-  <string name="card_emulation_switch_error_title">Greška</string>
-  <string name="card_emulation_turning_off_text">Uključivanje emulaciju kartice isključeno...</string>
-  <string name="card_emulation_turning_on_text">Uključivanje emulaciju kartice uključeno...</string>
-  <string name="clear_motion_summary">Poboljšanje prikaza videozapisa</string>
-  <string name="clear_motion_title">ClearMotionTM</string>
-  <string name="gemini_3g_disable_warning_case5">Telefon će imati neki podatkovni promet ako je otvorena podatkovna veza. Posebne naknade koje se naplaćuju od strane operatora. Prepoznati potrebu otvoriti je?</string>
-  <string name="oobe_default_sim_title">Postavljanje zadanog SIM-a</string>
-  <string name="oobe_sim_info_title">Upravljanje SIM-a</string>
-  <string name="passpoint_append_summary">(kroz Passpoint)</string>
-  <string name="passpoint_append_summary_not_connected">(Passpoint)</string>
-  <string name="passpoint_certificate">Certifikat</string>
-  <string name="passpoint_config_credential_type">Tip uverenja</string>
-  <string name="passpoint_config_eap_method">EAP metoda</string>
-  <string name="passpoint_config_hotspot">Hotspot 2.0</string>
-  <string name="passpoint_summary">Auto. poveži na passpoint-enabled AP</string>
-  <string name="passpoint_supported">Podržano</string>
-  <string name="passpoint_title">Passpoint</string>
-  <string name="passpoint_username_pw">Koris.ime/Zaporka</string>
 </resources>

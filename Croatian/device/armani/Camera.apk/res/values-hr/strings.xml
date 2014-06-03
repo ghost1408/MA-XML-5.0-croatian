@@ -293,8 +293,8 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_multilevel_entry_low">Nisko</string>
   <string name="pref_camera_multilevel_entry_lower">Niže</string>
   <string name="pref_camera_multilevel_entry_lowest">Najniže</string>
-  <string name="pref_camera_multilevel_entry_normal">Normalan</string>
   <string name="pref_camera_multilevel_entry_middle">Srednje (Zadano)</string>
+  <string name="pref_camera_multilevel_entry_normal">Normalan</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">Jedno lice</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">Dva lica</string>
   <string name="pref_camera_multiple_face_beauty_title">Poboljšanje lica</string>

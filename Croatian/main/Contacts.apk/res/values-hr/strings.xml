@@ -6,6 +6,7 @@
   <string name="account_default">Telefon</string>
   <string name="account_phone">Samo telefon, bez sinkronizacije</string>
   <string name="account_sim">SIM kartica</string>
+  <string name="account_sim2">SIM kartica %d</string>
   <string name="account_type_format">%1$s kontakt</string>
   <string name="account_unactivated">Račun nije aktiviran</string>
   <string name="actionIncomingCall">Dolazni pozivi</string>
@@ -212,6 +213,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="deleteConfirmation">Ovaj će kontakt biti izbrisan.</string>
   <string name="deleteConfirmationDetail">Izbrisati \"%s\"?</string>
   <string name="deleteConfirmation_title">Izbrisati</string>
+  <string name="delete_call_log_selected_title">Brisanje odabranih zapisa poziva?</string>
   <string name="delete_call_log_title">Odaberite popis za brisanje</string>
   <string name="delete_contact_calllog_title">Izbrisati?</string>
   <string name="delete_dial_input">Izbrisati</string>
@@ -354,6 +356,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="export_sim_contacts_dialog_message">Vaša SIM kartica može pohraniti %d kontakata</string>
   <string name="export_to_sdcard">Izvoz na SD karticu</string>
   <string name="export_to_sim">Izvoz na SIM karticu</string>
+  <string name="export_to_sim2">Izvoz na SIM 2</string>
   <string name="export_to_sim_title">Izvoz na SIM karticu…</string>
   <string name="export_vcard_description">"Izvoz vCard datoteke na unutarnju pohranu"</string>
   <string name="exporting_contact_failed_message">"Izvoz podataka o kontaktu nije uspio.
@@ -423,6 +426,7 @@ Razlog: \"%s\""</string>
   <string name="ic_menu_done">Gotovo</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
+  <string name="imei_invalid">Nevaljani IMEI</string>
   <string name="import_all_sim_entries_miui">Uvezi sve kontakate</string>
   <string name="import_all_vcard_string">Uvezi sve vCard datoteke</string>
   <string name="import_contact_card_button">Uvezi kontakt</string>
@@ -430,6 +434,7 @@ Razlog: \"%s\""</string>
   <string name="import_from_other_phone">Uvezi iz drugog telefona</string>
   <string name="import_from_sdcard">Uvezi iz pohrane</string>
   <string name="import_from_sim">Uvezi s SIM kartice</string>
+  <string name="import_from_sim2">Uvoz iz SIM 2</string>
   <string name="import_multiple_vcard_string">Uvoz više vCard datoteka</string>
   <string name="import_name">Naziv</string>
   <string name="import_one_vcard_string">Uvoz jedne vCard datoteke</string>
@@ -502,6 +507,7 @@ Razlog: \"%s\""</string>
   <string name="map_other">Prikaz adrese</string>
   <string name="map_work">Prikaz adrese na poslu</string>
   <string name="meid">MEID</string>
+  <string name="meid_invalid">Nevaljani MEID</string>
   <string name="menu_accounts">Računi</string>
   <string name="menu_addStar">Dodaj u Favorite</string>
   <string name="menu_bar_group_add">Dodaj</string>
@@ -584,65 +590,65 @@ Razlog: \"%s\""</string>
   <string name="noContacts">Nema kontakata.</string>
   <string name="noContactsHelpText">"Nemate kontakata za prikaz.
 
-Za dodavanje kontakata, dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font></b>", onda dodirnite:
+Za dodavanje kontakata, dodirnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Izbornik&lt;/font&gt;&lt;/b&gt;", onda dodirnite:
 
-"<b><font fgcolor="#ffffffff"><li>"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za izradu novog kontakta iz nule
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice
-"</li></font></b>"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Ra&amp;#269;uni za dodati ili postaviti ra&amp;#269;un s kontaktima  mo&amp;#382;ete sinkronizirati s telefonom
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Novi kontakt za izradu novog kontakta iz nule
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">"Nemate kontakata za prikaz."</string>
   <string name="noContactsHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
 
-Za dodavanje kontakata, dodirnite ""<b><font fgcolor="#ffffffff">Menu</font></b>", onda dodirnite:
+Za dodavanje kontakata, dodirnite ""&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", onda dodirnite:
  
-"<b><font fgcolor="#ffffffff"><li>"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opcije prikaza za promjenu koji će kontakti biti vidljivi
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za izradu novog kontakta iz nule
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice
-"</li></font></b>"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Ra&amp;#269;uni za dodati ili postaviti ra&amp;#269;un s kontaktima  mo&amp;#382;ete sinkronizirati s telefonom
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Opcije prikaza za promjenu koji &amp;#263;e kontakti biti vidljivi
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Novi kontakt za izradu novog kontakta iz nule
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)"</string>
   <string name="noContactsNoSimHelpText">"Nemate kontakata za prikaz.
 
-Za dodavanje kontakata, dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font></b>", onda dodirnite:
+Za dodavanje kontakata, dodirnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Izbornik&lt;/font&gt;&lt;/b&gt;", onda dodirnite:
 
-"<b><font fgcolor="#ffffffff"><li>"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za izradu novog kontakta iz nule
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz kontakata sa SD kartice
-"</li></font></b>"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Ra&amp;#269;uni za dodati ili postaviti ra&amp;#269;un s kontaktima  mo&amp;#382;ete sinkronizirati s telefonom
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Novi kontakt za izradu novog kontakta iz nule
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvoz/izvoz kontakata sa SD kartice
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
 
-Za dodavanje kontakata, dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font></b>", onda dodirnite:
+Za dodavanje kontakata, dodirnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Izbornik&lt;/font&gt;&lt;/b&gt;", onda dodirnite:
 
-"<b><font fgcolor="#ffffffff"><li>"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opcije prikaza za promjenu koji će kontakti biti vidljivi
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za izradu novog kontakta iz nule
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice
-"</li></font></b>"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Ra&amp;#269;uni za dodati ili postaviti ra&amp;#269;un s kontaktima  mo&amp;#382;ete sinkronizirati s telefonom
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Opcije prikaza za promjenu koji &amp;#263;e kontakti biti vidljivi
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Novi kontakt za izradu novog kontakta iz nule
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsWithPhoneNumbers">Nema kontakata s telefonskim brojem.</string>
   <string name="noFavoritesHelpText">"Nemate nijedan favorit.
 
 Za dodavanje kontakta na listu favorita :
 
-"<li>Dodirnite <b>Kontakti</b>" karticu
-"</li>" 
-"<li>"Dodirnite kontakt koji želite dodati u Favorite
-"</li>" 
-"<li>"Klik na zvijezdu uz ime kontakta
-"</li>"
+"&lt;li&gt;Dodirnite &lt;b&gt;Kontakti&lt;/b&gt;" karticu
+"&lt;/li&gt;" 
+"&lt;li&gt;"Dodirnite kontakt koji &amp;#382;elite dodati u Favorite
+"&lt;/li&gt;" 
+"&lt;li&gt;"Klik na zvijezdu uz ime kontakta
+"&lt;/li&gt;"
 "</string>
   <string name="noGroups">Nema skupina.</string>
   <string name="noMatchingContacts">Nema pronađenih odgovarajućih kontakata.</string>
@@ -726,6 +732,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="pref_key_rebuild_t9_index_message">Obnovi indeks za rješavanje problema pretraživanja</string>
   <string name="pref_key_rebuild_t9_index_title">Obnovi indeks podataka</string>
   <string name="pref_key_sim_manage">Upravljanje SIM-om</string>
+  <string name="pref_key_sim_manage2">Postavljanje SIM 2</string>
   <string name="pref_summary_import_from_account">Prijenos kontakata iz Google i Exchange računa na moj Xiaomi račun</string>
   <string name="pref_title_account_import">Uvezi iz računa</string>
   <string name="pref_title_import_from_account">Uvezi iz Xiaomi računa</string>
@@ -1015,6 +1022,7 @@ Molimo otvoriti ovaj program radi obnove resursa."</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Odaberi sve</string>
   <string name="sim_contact_existing">Kontakt već postoji</string>
   <string name="sim_contact_invalid">Nevažeći SIM kontakt</string>
+  <string name="sim_contact_number_missing">Nedostaje kontakt broj na SIM kartici</string>
   <string name="sim_contact_search_error">Desila se pogreška</string>
   <string name="sim_contacts">Kontakti SIM kartice</string>
   <string name="sim_error_anr_full">Nema dovoljno prostora na SIM kartici</string>
@@ -1147,30 +1155,22 @@ Odaberite jednu od sljedećih opcija:"</string>
   <string name="websiteLabelsGroup">Web-lokacija</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Brisanje podataka</string>
-  <string name="yellowPageNavigationLabel">Direktorij</string>
   <string name="yellowPageNavigationIconLabel">Direktorij</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Dopustiti lokaciju od strane mreže</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Popis brojeva usluga i trgovina u okviru vašeg položaja može poboljšati funkciju.</string>
+  <string name="yellowPageNavigationLabel">Direktorij</string>
+  <string name="yellowpage_navigation_menu_order">Moj redoslijed</string>
   <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
   <string name="yellowpage_navigation_network_location_enable_later">Poslije</string>
-  <string name="yellowpage_navigation_search_hint">Traži</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Popis brojeva usluga i trgovina u okviru vašeg položaja može poboljšati funkciju.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Dopustiti lokaciju od strane mreže</string>
   <string name="yellowpage_navigation_no_content">"Nema rezultata pretraživanja"</string>
-  <string name="yellowpage_navigation_search_offline_hint">"Niste povezani na mrežu"</string>
   <string name="yellowpage_navigation_search_city_name_hint">Grad</string>
-  <string name="yellowpage_navigation_search_select_city">Odaberite grad</string>
-  <string name="yellowpage_navigation_search_result_no_more">Nema više rezultata</string>
+  <string name="yellowpage_navigation_search_hint">Traži</string>
+  <string name="yellowpage_navigation_search_offline_hint">"Niste povezani na mrežu"</string>
   <string name="yellowpage_navigation_search_result_network_error">"Ne mogu se spojiti na mrežu"</string>
+  <string name="yellowpage_navigation_search_result_no_more">Nema više rezultata</string>
   <string name="yellowpage_navigation_search_result_service_error">Usluga je trenutno dostupna</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Nepoznata pogreška</string>
-  <string name="yellowpage_navigation_menu_order">Moj redoslijed</string>
+  <string name="yellowpage_navigation_search_select_city">Odaberite grad</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na početni zaslon</string>
-  <string name="imei_invalid">Nevaljani IMEI</string>
-  <string name="meid_invalid">Nevaljani MEID</string>
-  <string name="delete_call_log_selected_title">Brisanje odabranih zapisa poziva?</string>
-  <string name="import_from_sim2">Uvoz iz SIM 2</string>
-  <string name="export_to_sim2">Izvoz na SIM 2</string>
-  <string name="pref_key_sim_manage2">Postavljanje SIM 2</string>
-  <string name="account_sim2">SIM kartica %d</string>
-  <string name="sim_contact_number_missing">Nedostaje kontakt broj na SIM kartici</string>
   <string name="zero_items_selected">Ništa nije odabrano</string>
-  </resources>
+</resources>

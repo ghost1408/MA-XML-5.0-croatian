@@ -143,7 +143,7 @@ Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
   <string name="find_device_notice_p1">Kada izgubite svoj telefon, molimo vas da posjetite</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">Da ga pronađete, zaključate, ili obrišete sve podatke</string>
-   <string name="find_device_notice_p4">Kada god se mijenja SIM kartica, registracijski SMS može biti poslan za praćenje telefona</string>
+  <string name="find_device_notice_p4">Kada god se mijenja SIM kartica, registracijski SMS može biti poslan za praćenje telefona</string>
   <string name="find_device_success_title">Lociranje uređaja omogućeno</string>
   <string name="find_password_on_web_msg">Molimo vas posjetite račun.xiaomi.com za vraćanje svoje zaporke</string>
   <string name="foreign_login">Država/Pozivni broj</string>
@@ -297,6 +297,11 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="sync_dspt">Omogući sinkronizaciju</string>
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
+  <string name="sync_sub_1_intl_sms">SMS poruka će biti poslana za aktiviranje SIM kartice (međunarodni troškovi se naplaćuju)</string>
+  <string name="sync_sub_1_sms">SMS poruka će biti poslana za aktiviranje SIM kartice (vrijede cijene davatelja usluga)</string>
+  <string name="sync_sub_1_sms_1_intl_sms">2 SMS poruke će biti poslane za aktiviranje SIM kartica (domaći i međunarodni troškovi se naplaćuju)</string>
+  <string name="sync_sub_2_intl_sms">2 SMS poruke će biti poslane za aktiviranje SIM kartica (međunarodni troškovi se naplaćuju)</string>
+  <string name="sync_sub_2_sms">2 SMS poruke će biti poslane za aktiviranje SIM kartica (vrijede cijene davatelja usluga)</string>
   <string name="sync_sub_dspt">SMS će biti poslan za aktivaciju usluge</string>
   <string name="sync_sub_int_dspt">Međunarodni SMS će biti poslan za aktivaciju usluge</string>
   <string name="title_reg">Registracija</string>
@@ -324,9 +329,4 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="wrong_vcode">Netočan vkôd</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="sync_sub_1_intl_sms">SMS poruka će biti poslana za aktiviranje SIM kartice (međunarodni troškovi se naplaćuju)</string>
-  <string name="sync_sub_1_sms">SMS poruka će biti poslana za aktiviranje SIM kartice (vrijede cijene davatelja usluga)</string>
-  <string name="sync_sub_1_sms_1_intl_sms">2 SMS poruke će biti poslane za aktiviranje SIM kartica (domaći i međunarodni troškovi se naplaćuju)</string>
-  <string name="sync_sub_2_intl_sms">2 SMS poruke će biti poslane za aktiviranje SIM kartica (međunarodni troškovi se naplaćuju)</string>
-  <string name="sync_sub_2_sms">2 SMS poruke će biti poslane za aktiviranje SIM kartica (vrijede cijene davatelja usluga)</string>
 </resources>

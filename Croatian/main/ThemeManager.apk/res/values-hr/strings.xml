@@ -5,15 +5,13 @@
   <string name="all_resources">Sve</string>
   <string name="all_ringtone_resource">Sve</string>
   <string name="app_name">Teme</string>
+  <string name="apply_default_font_tip">"Ostati na trenutnom fontu sustava?"</string>
   <string name="apply_font_btn_exclude">Podesi bez fonta</string>
   <string name="apply_font_btn_reboot">Podesi i ponovno pokreni</string>
   <string name="apply_font_tip">Tema sadrži font. Potrebno ponovno pokretanje.</string>
   <string name="apply_lockscreen_paper_tips">"Zaslon zaključavanja koji se koristi ne podržava promjenu slike, novi zaslon zaključavanja možda neće biti vidljiv."</string>
   <string name="apply_theme_no_select_message">Izaberite stavke.</string>
   <string name="apply_theme_with_ringtones">Podesi temu s melodijom zvona</string>
-  <string name="apply_default_font_tip">"Ostati na trenutnom fontu sustava?"</string>
-  <string name="theme_yes">Da</string>
-  <string name="theme_no">Ne</string>
   <string name="backup_preference_title">Pohrani temu</string>
   <string name="backup_theme_dialog_message">"Pohraniti trenutnu temu u %1$s"</string>
   <string name="backup_theme_dialog_ok">Sigurnosna kopija</string>
@@ -249,7 +247,9 @@
   <string name="theme_import_activity_label">Tema poboljšana</string>
   <string name="theme_import_from_sdcard">Uvezi s SD kartice</string>
   <string name="theme_name">%1$s</string>
+  <string name="theme_no">Ne</string>
   <string name="theme_select_others">Pregledaj</string>
+  <string name="theme_yes">Da</string>
   <string name="third_party_pickers_activity_title">Podesi %1$s</string>
   <string name="title_component">Miks</string>
   <string name="title_local">Lokalno</string>

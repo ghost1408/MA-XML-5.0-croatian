@@ -65,8 +65,8 @@ Omogućite to Postavke &gt; Sustav &gt; Gumbi &amp; tipke"</string>
   <string name="format_time_in_12_hours">hh:mma</string>
   <string name="global_action_privacy_mode_dialog_message">U Čuvar načinu, pozivi, bilješke, galerija i SMS poruke će biti skrivene i Pokretač neće moći ući u način uređivanja. Možete postaviti lozinku za zaštitu Guard moda kroz Postavke kontrole upravljanja</string>
   <string name="global_action_toggle_privacy_mode">Čuvar</string>
-  <string name="grain_buds"/>
   <string name="good_friday">MIUI Petak!</string>
+  <string name="grain_buds"/>
   <string name="grain_rain"/>
   <string name="grant_permissions_account">Dozvoli pristup računu</string>
   <string name="grant_permissions_apps">Dozvoli pristup aplikaciji</string>
@@ -175,7 +175,7 @@ Dostupno: %2$s memorije"</string>
   <string name="perm_tigger_toggle_dspt">Dozvoliti aplikaciji da uključi stavke u statusnoj traci</string>
   <string name="perm_tigger_toggle_lab">Uključi stavke u statusnoj traci</string>
   <string name="perm_use_find_device">Lociraj uređaj</string>
-  <string name="permdesc_accessNote">Omogućuje aplikaciji da pročita i mijenja vaše bilješke spremljene na telefonu. Zlonamjerne aplikacije mogu koristiti to za slanje bilješke drugim ljudima ili izbrisati sve bilješke.</string> 
+  <string name="permdesc_accessNote">Omogućuje aplikaciji da pročita i mijenja vaše bilješke spremljene na telefonu. Zlonamjerne aplikacije mogu koristiti to za slanje bilješke drugim ljudima ili izbrisati sve bilješke.</string>
   <string name="permlab_accessNote">Zabilješke pristupa</string>
   <string name="pin_operation_failed">PIN operacija neuspješna.</string>
   <string name="pincode_set_to_default_msg">PIN kod je 1234, unesite novi PIN.</string>
@@ -299,5 +299,4 @@ Dostupno: %2$s memorije"</string>
   <string name="yellow_page_sms_sending">Šaljem……</string>
   <string name="yellow_page_unable_send_sms">Neuspješno slanje SMS poruke.</string>
   <string name="yesterday">Jučer</string>
-
 </resources>

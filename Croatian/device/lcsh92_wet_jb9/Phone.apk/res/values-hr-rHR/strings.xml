@@ -153,8 +153,8 @@
   <string name="lable_data_sync">DATA-SYNC</string>
   <string name="lable_disable">Onemogući</string>
   <string name="lable_enable">Omogući</string>
-  <string name="lable_incoming_calls_except">Dolazni pozivi u roamingu</string>
   <string name="lable_fax">FAX</string>
+  <string name="lable_incoming_calls_except">Dolazni pozivi u roamingu</string>
   <string name="lable_packet">PAKET</string>
   <string name="lable_pad">PAD</string>
   <string name="lable_sim_not_ready">Alat SIM-a nije spreman/nepodržan</string>
@@ -264,8 +264,8 @@ Jeste li sigurni da želite omogućiti poželjne mobilne podatke?"</string>
   <string name="simContacts_title">Odaberite kontakte za uvoz</string>
   <string name="sim_manage_call_via">Poziv kroz</string>
   <string name="sim_manage_indicator_3g">3G</string>
-  <string name="sim_manage_suggested">Preporuka</string>
   <string name="sim_manage_sipcall">Internetski poziv</string>
+  <string name="sim_manage_suggested">Preporuka</string>
   <string name="sim_permanently_locked">Unos netočnog PUK2 koda više od 10 puta, trajno zaključava SIM karticu</string>
   <string name="sim_picker_timer_miui">(%1$d sek.)</string>
   <string name="sim_slot_alert_cancel">Nastavi koristeći</string>

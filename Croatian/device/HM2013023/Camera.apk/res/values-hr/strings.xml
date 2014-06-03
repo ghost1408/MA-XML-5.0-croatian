@@ -275,7 +275,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
   <string name="pref_camera_scenemode_entry_sunset">Zalazak sunca</string>
   <string name="pref_camera_scenemode_title">Način scene</string>
-<string name="pref_camera_settings_category">Postavke fotoaparata</string>
+  <string name="pref_camera_settings_category">Postavke fotoaparata</string>
   <string name="pref_camera_settings_title">Postavke</string>
   <string name="pref_camera_sharpness_entry_high">+1</string>
   <string name="pref_camera_sharpness_entry_low">-1</string>
@@ -431,14 +431,14 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="wechat_details">WeChat detalji:</string>
   <string name="white_balance">Balans bijele</string>
   <string name="width">Širina</string>
-  <string name="wifi_connect_fail">Istek vremena veze ili neuspjeh s WLAN mrežom</string>							
-  <string name="wifi_connect_success">Uspješno povezano na WLAN mrežu</string>							
-  <string name="wifi_connecting">Povezivanje na WLAN...</string>							
-  <string name="wifi_details">Detalji WLAN mreže:</string>							
-  <string name="wifi_open_fail">Nije moguće otvoriti WLAN mrežu</string>							
-  <string name="wifi_pwd">Zaporka:</string>							
-  <string name="wifi_security">Sigurnost:</string>							
-  <string name="wifi_ssid">SSID:</string>							
-  <string name="wifi_warning">Molimo provjerite sigurnost prije spajanja na ovu WLAN mrežu</string>							
-  <string name="wifi_connect_not_found">Ne mogu naći WLAN mrežu</string>							
+  <string name="wifi_connect_fail">Istek vremena veze ili neuspjeh s WLAN mrežom</string>
+  <string name="wifi_connect_not_found">Ne mogu naći WLAN mrežu</string>
+  <string name="wifi_connect_success">Uspješno povezano na WLAN mrežu</string>
+  <string name="wifi_connecting">Povezivanje na WLAN...</string>
+  <string name="wifi_details">Detalji WLAN mreže:</string>
+  <string name="wifi_open_fail">Nije moguće otvoriti WLAN mrežu</string>
+  <string name="wifi_pwd">Zaporka:</string>
+  <string name="wifi_security">Sigurnost:</string>
+  <string name="wifi_ssid">SSID:</string>
+  <string name="wifi_warning">Molimo provjerite sigurnost prije spajanja na ovu WLAN mrežu</string>
 </resources>
