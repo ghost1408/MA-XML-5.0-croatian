@@ -83,6 +83,7 @@
     <string name="start_up">Start</string>
     <string name="cancel">Otkaži</string>
     <string name="timer_message_with_hour">%1$d sati i %2$d minuta</string>
+	<string name="timer_message_with_seconds">%1$d sekundi</string>
     <string name="timer_message">%1$d minuta</string>
     <string name="shutdown_alarm_title">Isključi alarm</string>
     <string name="shutdown_alarm_enable_summary">Uključeno gašenje alarma</string>

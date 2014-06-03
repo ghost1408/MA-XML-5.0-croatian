@@ -2148,6 +2148,12 @@ Spremni započeti? Dodirnite Dalje."</string>
     <string name="runningservices_settings_title">Pokrenute usluge</string>
     <string name="runningservices_settings_summary">Pogledajte i nadzirite pokrenute usluge</string>
     <string name="service_restarting">Ponovno pokretanje</string>
+	<string name="save_button">Spremi</string>
+    <string name="scan_done">Skeniranje završeno</string>
+    <string name="scan_list_label">Nađeno:</string>
+    <string name="scanning_prefix">Skeniranje: %s</string>
+    <string name="scanning_start_hints">Priprema skeniranja</string>
+    <string name="scanning_virus">Skeniranje...</string>
     <string name="cached">Pozadinski proces u predmemoriji</string>
     <string name="no_running_services">Ništa se ne izvodi.</string>
     <string name="service_started_by_app">Pokrenula aplikacija.</string>
@@ -3623,6 +3629,7 @@ Preuzmi upravljački program na http://miui.com/mac"</string>
     <string name="free_wifi_connect_fail">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
     <string name="free_wifi_connect_fail2">"Ne mogu prijaviti. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
     <string name="free_wifi_login_again">Prijavite se opet</string>
+	<string name="free_wifi_manage_summary">Dodirnite za pregled %1$s.</string>
     <string name="free_wifi_connected_count">%1$s korisnika povezano</string>
     <string name="free_wifi_speed_title">Spora veza?</string>
     <string name="free_wifi_connected_time">Trajanje: %1$s</string>
