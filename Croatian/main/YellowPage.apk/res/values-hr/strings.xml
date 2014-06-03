@@ -89,8 +89,6 @@ Provjerite vaš broj za praćenje."</string>
   <string name="express_sender_name">Ime pošiljatelja</string>
   <string name="express_sender_region">Regija pošiljatelja</string>
   <string name="express_view_order">Prikaz narudžbi</string>
-  <string name="expresss_inquiry_all_logistics">Sve</string>
-  <string name="expresss_inquiry_frequently_used_logistics">Često</string>
   <string name="login_before_use">Prijavite se prije korištenja.</string>
   <string name="login_ok">Prijava</string>
   <string name="mark_number_custom_dialog_maintitle">Potvrdi ili ispravi oznaku</string>
