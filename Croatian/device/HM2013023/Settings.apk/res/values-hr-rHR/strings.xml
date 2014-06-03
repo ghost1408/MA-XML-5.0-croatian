@@ -674,7 +674,7 @@ Svaki korisnik može prihvatiti dopuštenje ažuriranih alikacija na ime svih os
   <string name="wifi_disconnect">Odspojiti</string>
   <string name="wifi_display_available_devices">Dostupni uređaji</string>
   <string name="wifi_display_details">Postavke zaslona</string>
-  <string name="wifi_display_disconnect_text">Veza s &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt; će biti prekinuta</string>
+  <string name="wifi_display_disconnect_text">Veza s %1$s će biti prekinuta</string>
   <string name="wifi_display_disconnect_title">Odspojiti?</string>
   <string name="wifi_display_no_devices_found">Nisu pronađeni uređaji u blizini.</string>
   <string name="wifi_display_options_done">Gotovo</string>

@@ -9,7 +9,7 @@
     <string name="CfMmi">Preusmjeravanje poziva</string>
     <string name="ClipMmi">ID dolaznog pozivatelja</string>
     <string name="ClirMmi">ID izlaznog pozivatelja</string>
-    <string name="CndMmi">Doručenie volaného čísla</string>
+    <string name="CndMmi">Isporuka pozivnog broj</string>
     <string name="CnipMmi">Sadržan je pozivni broj</string>
     <string name="CnirMmi">Pozivni broj je ograničen</string>
     <string name="CwMmi">Poziv na čekanju</string>
@@ -55,9 +55,9 @@
     <string name="activitychooserview_choose_application">Odabir aplikacije</string>
     <string name="adb_active_notification_message">Dodirnite da biste onemogućili rješavanje programske pogreške na USB-u.</string>
     <string name="adb_active_notification_title">Priključen je alat za uklanjanje programske pogreške USB-a</string>
+    <string name="addToDictionary">Dodaj u rječnik</string>
     <string name="add_account_button_label">Dodaj račun</string>
     <string name="add_account_label">Dodajte račun</string>
-    <string name="addToDictionary">Dodaj u rječnik</string>
     <string name="aerr_application">Nažalost, aplikacija %1$s je prekinula s radom.</string>
     <string name="aerr_process">Nažalost, proces %1$s je zaustavljen.</string>
     <string name="aerr_title" />
@@ -345,7 +345,7 @@ za %s."</string>
 
 Jeste li sigurni da želite napustiti ovu stranicu?"</string>
     <string name="js_dialog_before_unload_positive_button">Napusti stranicu</string>
-	<string name="js_dialog_before_unload_negative_button">Ostani na ovoj stranici</string>
+    <string name="js_dialog_before_unload_negative_button">Ostani na ovoj stranici</string>
     <string name="js_dialog_before_unload_title">Potvrda kretanja</string>
     <string name="js_dialog_title">Stranica na adresi \"%s\" sadrži sljedeće:</string>
     <string name="js_dialog_title_default">JavaScript</string>
@@ -1335,8 +1335,8 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
     <string name="wifi_p2p_turnon_message">Pokreni izravan rad s Wi-Fi mrežom. To će isključiti rad s Wi-Fi klijentom/žarišnom točkom.</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_watchdog_network_disabled">Nije moguće spajanje na Wi-Fi</string>
-    <string name="wifi_watchdog_network_disabled_detailed">" zbog loše internetske veze."</string>
-    <string name="year">godina</string>
     <string name="years">godina</string>
+    <string name="year">godina</string>
     <string name="yes">U redu</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" zbog loše internetske veze."</string>
 </resources>

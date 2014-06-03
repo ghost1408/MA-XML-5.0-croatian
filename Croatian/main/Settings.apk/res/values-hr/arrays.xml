@@ -266,6 +266,12 @@
         <item>eHRPD</item>
         <item>Neodređen</item>
     </string-array>
+	 <string-array name="mvno_type_entries">
+        <item>Ništa</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+	</string-array>
     <string-array name="app_install_location_entries">
         <item>Unutarnja pohrana</item>
         <item>SD kartica</item>
