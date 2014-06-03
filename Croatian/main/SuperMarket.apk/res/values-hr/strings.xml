@@ -248,7 +248,6 @@
   <string name="pref_title_feature_intro">Posebne značajke</string>
   <string name="pref_title_hotsubjects_notification">Zbirke</string>
   <string name="pref_title_network_diagnostics">Dijagnostika mreže</string>
-  <string name="pref_title_show_report_data">@string/show_report_data</string>
   <string name="pref_title_silent_install">Sakrij obavijesti instalacije</string>
   <string name="pref_title_slient_install">"Kada dodirnete "Instaliraj" u Xiaomi App Marketu, aplikacija što se preuzima će biti instalirana bez ikakvih daljnjih skočnih prozora ili obavijesti."</string>
   <string name="pref_title_update_all">Za dobivanje svih ažuriranja koja su dostupna za vaše aplikacije jednim dodirom, idite na karticu "Ažuriranja" i dodirnite "Ažuriraj sve".</string>

@@ -7,7 +7,6 @@
   <string name="account_msim">SIM %d</string>
   <string name="account_phone">Samo telefon, (bez sinkronizacije)</string>
   <string name="account_sim">Samo SIM kartica (bez sinkronizacije)</string>
-  <string name="account_sim">SIM kartica</string>
   <string name="account_sim2">SIM kartica %d</string>
   <string name="account_type_format">%1$s kontakt</string>
   <string name="account_unactivated">Račun nije aktiviran</string>
@@ -17,7 +16,7 @@
   <string name="activity_title_contacts_filter">Kontakti za prikaz</string>
   <string name="activity_title_settings">Postavke</string>
   <string name="addPeopleToGroup">Da biste dodali neke članove, uredite grupu.</string>
-  <string name="add_2sec_pause">Dodaj 2 s puze</string>
+  <string name="add_2sec_pause">Dodaj 2 s pauze</string>
   <string name="add_account">Dodaj računt</string>
   <string name="add_blacklist">Blokiraj</string>
   <string name="add_connection_button">Dodaj vezu</string>
@@ -216,7 +215,6 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="deleteConfirmation_title">Izbrisati</string>
   <string name="delete_call_log_selected_title">Brisanje odabranih zapisa poziva?</string>
   <string name="delete_call_log_title">Odaberite popis za brisanje</string>
-  <string name="delete_contact_calllog_title">Izbrisati?</string>
   <string name="delete_contact_calllog_title">Izbrisati zapisnike poziva?</string>
   <string name="delete_dial_input">Izbrisati</string>
   <string name="delete_duplicate">Spoji</string>

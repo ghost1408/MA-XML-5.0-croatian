@@ -2566,7 +2566,6 @@ Ova postavka utječe na sve korisnike ovog telefona."</string>
   <string name="runningservices_settings_title">Pokrenute usluge</string>
   <string name="save_button">Spremi</string>
   <string name="scan_done">Skeniranje završeno</string>
-  <string name="scan_list_label">Nađeno:</string>
   <string name="scanning_prefix">Skeniranje: %s</string>
   <string name="scanning_start_hints">Priprema skeniranja</string>
   <string name="scanning_virus">Skeniranje...</string>
