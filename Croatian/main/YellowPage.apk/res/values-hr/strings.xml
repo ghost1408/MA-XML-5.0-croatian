@@ -62,11 +62,11 @@
   <string name="express_inquiry">Praćenje</string>
   <string name="express_inquiry_button_text">Prati</string>
   <string name="express_inquiry_data_owner_prefix">Praćenje pošiljke provided by</string>
-  <string name="express_inquiry_data_owner_suffix"/>
   <string name="express_inquiry_delete_warning_multiple">Obrisati %d odabrane stavke povijesti?</string>
   <string name="express_inquiry_delete_warning_single">Obrisati odabranu stavku?</string>
   <string name="express_inquiry_delivered">Isporučeno</string>
   <string name="express_inquiry_history">Povijest</string>
+  <string name="express_inquiry_indication">Broj za praćenje</string>
   <string name="express_inquiry_internal_failure">"Desila se greška.
 Provjerite vaš broj za praćenje."</string>
   <string name="express_inquiry_logistics_indication">Naziv davatelja usluge</string>
@@ -74,8 +74,6 @@ Provjerite vaš broj za praćenje."</string>
   <string name="express_inquiry_no_result">Nema rezultata</string>
   <string name="express_inquiry_serial_number_indication">Broj za praćenje</string>
   <string name="express_inquiry_serial_number_prefix">"Serijski broj: "</string>
-  <string name="expresss_inquiry_all_logistics">Sve</string>
-  <string name="expresss_inquiry_frequently_used_logistics">Često korišteno</string>
   <string name="express_next_step">Dalje</string>
   <string name="express_no_address">Prazno</string>
   <string name="express_order_confirmation">Potvrda narudžbe</string>
@@ -89,10 +87,13 @@ Provjerite vaš broj za praćenje."</string>
   <string name="express_sender_name">Ime pošiljatelja</string>
   <string name="express_sender_region">Regija pošiljatelja</string>
   <string name="express_view_order">Prikaz narudžbi</string>
+  <string name="expresss_inquiry_all_logistics">Sve</string>
+  <string name="expresss_inquiry_frequently_used_logistics">Često korišteno</string>
   <string name="login_before_use">Prijavite se prije korištenja.</string>
   <string name="login_ok">Prijava</string>
   <string name="mark_number_custom_dialog_maintitle">Potvrdi ili ispravi oznaku</string>
   <string name="mark_number_dialog_maintitle">Označi kao spam broj i učitaj</string>
+  <string name="mark_number_dialog_subtitle"/>
   <string name="mark_title_null_hint">Unos ne može biti prazan</string>
   <string name="menu_about_yellow_page">O ovoj stranici</string>
   <string name="menu_add_black_list">Dodaj na listu zabranjenih</string>

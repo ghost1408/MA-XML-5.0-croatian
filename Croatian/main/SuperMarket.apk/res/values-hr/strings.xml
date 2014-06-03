@@ -63,7 +63,6 @@
     <string name="pref_title_web_dev">Developer</string>
     <string name="pref_title_version">Verzija</string>
     <string name="pref_title_clear_session">Očisti sesiju</string>
-    <string name="pref_title_show_report_data">@string/show_report_data</string>
     <string name="pref_title_slient_install">"Kada dodirnete "Instaliraj" u Xiaomi App Marketu, aplikacija što se preuzima će biti instalirana bez ikakvih daljnjih skočnih prozora ili obavijesti."</string>
     <string name="pref_title_auto_update">"Prilikom dostupnosti ažuriranja za aplikacije koje ste instalirali, oni će se preuzeti i primijeniti onda kada ne koristite svoj ​​telefon (i to samo kada imate WLAN vezu). Na taj način, ne morate trošiti vrijeme na provjere ažuriranja ručno."</string>
     <string name="pref_title_delta_update">Kako bi se smanjio mobilni podatkovni promet, Xiaomi App Market će samo preuzeti pojedine dijelove aplikacije koje su se zapravo promijenili prilikom ažuriranja.</string>

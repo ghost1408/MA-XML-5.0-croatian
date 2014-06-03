@@ -172,7 +172,6 @@
   <string name="call_waiting_tone_title_miui">Ton Poziva na čekanju</string>
   <string name="call_waiting_tone_twice_and_vibrate_miui">Reproduciraj i vibriraj dva puta</string>
   <string name="call_waiting_tone_twice_only_miui">Reproduciraj ton samo dva puta</string>
-  <string name="callwait_open_hint">\""Poziv na čekanju \" je servis operatera. Ako vidite \"Nevažeći MMI kod\", kontaktirajte svog operatora.</string>
   <string name="caller_id_sum_miui">Sakrij/Pokaži moj broj za odlazne pozive (ako mreža podržava)</string>
   <string name="caller_id_title_miui">ID Pozivatelja</string>
   <string name="caller_manage_header">Konferencijski poziv %s</string>
@@ -181,6 +180,7 @@
   <string name="callind_multi_sim">Odaberite pretplate</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
   <string name="calling_via_template_miui">"Pozivanje putem ^1"</string>
+  <string name="callwait_open_hint">\""Poziv na čekanju \" je servis operatera. Ako vidite \"Nevažeći MMI kod\", kontaktirajte svog operatora.</string>
   <string name="cancel">Otkaži</string>
   <string name="cancel_call">Otkaži</string>
   <string name="card_01">Kartica 1</string>
@@ -384,7 +384,6 @@
   <string name="disable_pin_ok">SIM PIN onemogućen</string>
   <string name="disable_sim_pin">Onemogući SIM PIN</string>
   <string name="disable_sim_pin_miui">Onemogući SIM PIN</string>
-  <string name="">Prikazano ime</string>
   <string name="display_name_summary">&lt;Isto kao i korisničko ime&gt;</string>
   <string name="display_name_title">Prikaži ime</string>
   <string name="domain_address_title">Poslužitelj</string>
@@ -451,6 +450,7 @@
   <string name="enterName">Unesite ime:</string>
   <string name="enterNumber">Unesite broj telefona:</string>
   <string name="enter_callbarring_password">Unesite zaporku zabrane poziva (4 znamenke)</string>
+  <string name="enter_input">Potrebno je unijeti nešto, pokušajte ponovo!</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin2_text_miui">PIN2</string>
   <string name="enter_pin_text">SIM PIN:</string>
@@ -607,6 +607,13 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="manage_fdn_list">FDN popis</string>
   <string name="manage_fdn_list_miui">FDN popis</string>
   <string name="manage_fdn_list_sum_miui">Upravljanje popisa brojeva telefona</string>
+  <string name="managed_roaming_dialog_cancel_button">Odustani</string>
+  <string name="managed_roaming_dialog_content">Mreža uspostavljena s ograničenim uslugama. Odabrati mrežu ručno?</string>
+  <string name="managed_roaming_dialog_ok_button">U redu</string>
+  <string name="managed_roaming_title">Roaming upravljanje</string>
+  <string name="managed_roaming_title_sub1">Roaming upravljanje (SUB1)</string>
+  <string name="managed_roaming_title_sub2">Roaming upravljanje (SUB2)</string>
+  <string name="managed_roaming_title_sub3">Roaming upravljanje (SUB3)</string> 
   <string name="menu_add">Dodaj kontakt</string>
   <string name="menu_delete">Izbriši kontakt</string>
   <string name="menu_deselect_all">Poništi odabir za sve</string>
@@ -681,6 +688,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="not_a_valid_port">Broj porta mora biti od 1000 do 65534</string>
   <string name="not_allowed">Vaš SIM ne dozvoljava spajanje na ovu mrežu.</string>
   <string name="not_connected_miui">Nije povezano</string>
+  <string name="not_show_again">Ne prikazuj ponovo.</string>
   <string name="not_voice_capable">Glasovni pozivi nisu podržani</string>
   <string name="notification_action_end_call">Prekini poziv</string>
   <string name="notification_dialing">Pozivanje</string>
@@ -700,7 +708,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="notification_voicemail_text_format">Biram %s</string>
   <string name="notification_voicemail_title">Nova govorna pošta</string>
   <string name="notification_voicemail_title_count">Nova govorna pošta (%d)</string>
-  <string name="not_show_again">Ne prikazuj ponovo.</string>
   <string name="number">Broj</string>
   <string name="number_format_error_message_miui">%s podržava samo brojeve</string>
   <string name="number_type_jituan_miui">Grupni broj</string>
@@ -712,11 +719,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="nw_unlock_failed">Otključavanje SIM-a Mreže neuspješno.</string>
   <string name="nw_unlock_success">Otključavanje SIM-a Mreže uspješno.</string>
   <string name="ok">U redu</string>
-  <string name="oldman_answer_call_button_text">odgovori</string>
-  <string name="oldman_reject_call_button_text">odbij</string>
-  <string name="oldman_end_call_button_text">završi</string>
-  <string name="oldman_dialpad_button_text">tipkovnica</string>
-  <string name="oldman_speaker_button_text"></string>
   <string name="oldPin2Label">Stari PIN2</string>
   <string name="oldPinLabel">Stari PIN</string>
   <string name="old_password_label">Stara zaporka (4 znamenke)</string>
@@ -827,7 +829,6 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="preferred_network_mode_dialogtitle">Željeni mrežni način</string>
   <string name="preferred_network_mode_evdo_only_summary">Željeni mrežni način: EvDo samo</string>
   <string name="preferred_network_mode_global_summary">Željeni mrežni način: Global</string>
-  <string name="preferred_network_type_group_title_miui">Mobilna mreža (%s)</string>
   <string name="preferred_network_mode_gsm_only_summary">Željeni mrežni način: GSM samo</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Željeni mrežni način: GSM / WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Željeni mrežni način: CDMA+LTE/EVDO</string>
@@ -851,8 +852,10 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="preferred_network_mode_wcdma_perf_summary">Željeni mrežni način: WCDMA poželjan</string>
   <string name="preferred_network_type_3g_only_warning_miui">"Odabrali ste "3G samo" kao poželjnu vrstu mreže, i ako SIM kartica nema mogućnost 3G nećete imati signala! Kliknite "U redu" za nastavak."</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
+  <string name="preferred_network_type_group_title_miui">Mobilna mreža (%s)</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G poželjno</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_miui"> 4G poželjno</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automatski</string>
   <string name="preferred_network_type_pref_entries_global_miui">Globalno</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Samo 2G (štedi bateriju)</string>
@@ -1196,12 +1199,4 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="xdivert_sub_absent">Obje pretplate trebaju biti aktivirane za obradu X-Divert</string>
   <string name="xdivert_summary">CFNRc Postavke</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="enter_input">Potrebno je upisati nešto, pokušajte ponovno!</string>
-  <string name="managed_roaming_dialog_cancel_button">Odustani</string>
-  <string name="managed_roaming_dialog_content">Mreža uspostavljena s ograničenim uslugama. Odabrati mrežu ručno?</string>
-  <string name="managed_roaming_dialog_ok_button">U redu</string>
-  <string name="managed_roaming_title">Roaming upravljanje</string>
-  <string name="managed_roaming_title_sub1">Roaming upravljanje (SUB1)</string>
-  <string name="managed_roaming_title_sub2">Roaming upravljanje (SUB2)</string>
-  <string name="managed_roaming_title_sub3">Roaming upravljanje (SUB3)</string> 
   </resources>

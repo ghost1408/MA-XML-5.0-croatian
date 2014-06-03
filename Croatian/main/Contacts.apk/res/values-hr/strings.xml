@@ -4,7 +4,9 @@
   <string name="account_abnormal_state">Pogreška u podacima o računu korisnika, pokušajte se ponovno prijaviti.</string>
   <string name="account_container_title">Uvezen iz</string>
   <string name="account_default">Telefon</string>
-  <string name="account_phone">Samo telefon, bez sinkronizacije</string>
+  <string name="account_msim">SIM %d</string>
+  <string name="account_phone">Samo telefon, (bez sinkronizacije)</string>
+  <string name="account_sim">Samo SIM kartica (bez sinkronizacije)</string>
   <string name="account_sim">SIM kartica</string>
   <string name="account_type_format">%1$s kontakt</string>
   <string name="account_unactivated">Račun nije aktiviran</string>
@@ -118,6 +120,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="callrecordview_menu_show_called">Prikaži odlazne pozive</string>
   <string name="callrecordview_menu_show_missed">Prikaži propuštene pozive</string>
   <string name="callrecordview_menu_show_new">Novi kontakti</string>
+  <string name="callrecordview_menu_show_sim">Poziva: %s</string>
   <string name="callrecordview_menu_show_stranger">Prikaži nepoznate pozive</string>
   <string name="callrecordview_menu_show_title">Odaberite vrstu popisa poziva koji će biti prikazani</string>
   <string name="cancel_confirmation_dialog_message">Odbaciti promjene?</string>
@@ -157,8 +160,6 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_export_vcard_type">v30_generic</string>
-  <string name="config_import_vcard_type">zadano</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Obrisati popis poziva?</string>
   <string name="confirm_delete_selected_all_call_logs">Obrisati popis poziva?</string>
@@ -214,6 +215,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="deleteConfirmation_title">Izbrisati</string>
   <string name="delete_call_log_title">Odaberite popis za brisanje</string>
   <string name="delete_contact_calllog_title">Izbrisati?</string>
+  <string name="delete_contact_calllog_title">Izbrisati zapisnike poziva?</string>
   <string name="delete_dial_input">Izbrisati</string>
   <string name="delete_duplicate">Spoji</string>
   <string name="delete_duplicate_message">"Spajanje kontakata..."</string>
@@ -347,6 +349,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Upišite ime osobe"</string>
   <string name="eventLabelsGroup">Rođendan</string>
+  <string name="eventTypeCustom">Prilagođeno</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Izvoz uspješan</string>
   <string name="export_sim_contact_finish_failure">Preneseno: %1$d Preostalo: %2$d</string>
@@ -354,6 +357,8 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="export_sim_contacts_dialog_message">Vaša SIM kartica može pohraniti %d kontakata</string>
   <string name="export_to_sdcard">Izvoz na SD karticu</string>
   <string name="export_to_sim">Izvoz na SIM karticu</string>
+  <string name="export_to_sim1">Izvoz na SIM 1</string>
+  <string name="export_to_sim2">Izvoz na na SIM 2</string>
   <string name="export_to_sim_title">Izvoz na SIM karticu…</string>
   <string name="export_vcard_description">"Izvoz vCard datoteke na unutarnju pohranu"</string>
   <string name="exporting_contact_failed_message">"Izvoz podataka o kontaktu nije uspio.
@@ -423,6 +428,7 @@ Razlog: \"%s\""</string>
   <string name="ic_menu_done">Gotovo</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
+  <string name="imei_invalid">Neispravan IMEI</string>
   <string name="import_all_sim_entries_miui">Uvezi sve kontakate</string>
   <string name="import_all_vcard_string">Uvezi sve vCard datoteke</string>
   <string name="import_contact_card_button">Uvezi kontakt</string>
@@ -430,6 +436,8 @@ Razlog: \"%s\""</string>
   <string name="import_from_other_phone">Uvezi iz drugog telefona</string>
   <string name="import_from_sdcard">Uvezi iz pohrane</string>
   <string name="import_from_sim">Uvezi s SIM kartice</string>
+  <string name="import_from_sim1">Uvezi s SIM 1</string>
+  <string name="import_from_sim2">Uvezi s SIM 2</string>
   <string name="import_multiple_vcard_string">Uvoz više vCard datoteka</string>
   <string name="import_name">Naziv</string>
   <string name="import_one_vcard_string">Uvoz jedne vCard datoteke</string>
@@ -450,7 +458,6 @@ Razlog: \"%s\""</string>
   <string name="import_weibo_error_unknown">Nepoznata greška.</string>
   <string name="import_weibo_error_user_cancel">Korisnik otkazao.</string>
   <string name="import_weibo_fetch_followers">Dohvaćam kontakte…</string>
-  <string name="import_weibo_notification_title">Uvoz Sina Weibo kontakata…</string>
   <string name="import_weibo_notification_title_done">Ažurirano %s kontakata</string>
   <string name="import_weibo_progress_name">Uklapanje \"%1$s\"…</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
@@ -502,6 +509,7 @@ Razlog: \"%s\""</string>
   <string name="map_other">Prikaz adrese</string>
   <string name="map_work">Prikaz adrese na poslu</string>
   <string name="meid">MEID</string>
+  <string name="meid_invalid">Nevaljan MEID</string>
   <string name="menu_accounts">Računi</string>
   <string name="menu_addStar">Dodaj u Favorite</string>
   <string name="menu_bar_group_add">Dodaj</string>
@@ -584,65 +592,47 @@ Razlog: \"%s\""</string>
   <string name="noContacts">Nema kontakata.</string>
   <string name="noContactsHelpText">"Nemate kontakata za prikaz.
 
-Za dodavanje kontakata, dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font></b>", onda dodirnite:
+Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
 
-"<b><font fgcolor="#ffffffff"><li>"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za izradu novog kontakta iz nule
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice
-"</li></font></b>"
-"</string>
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+"Novi kontakt za izradu novog kontakta iz nule" 
+"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"</string>
   <string name="noContactsHelpTextForCreateShortcut">"Nemate kontakata za prikaz."</string>
   <string name="noContactsHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
 
-Za dodavanje kontakata, dodirnite ""<b><font fgcolor="#ffffffff">Menu</font></b>", onda dodirnite:
+Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
  
-"<b><font fgcolor="#ffffffff"><li>"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opcije prikaza za promjenu koji će kontakti biti vidljivi
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za izradu novog kontakta iz nule
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice
-"</li></font></b>"
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+"Opcije prikaza za promjenu koji će kontakti biti vidljivi"
+"Novi kontakt za izradu novog kontakta iz nule" 
+"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)"</string>
   <string name="noContactsNoSimHelpText">"Nemate kontakata za prikaz.
 
-Za dodavanje kontakata, dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font></b>", onda dodirnite:
+Za dodavanje kontakata, dodirnite "">Izbornik", onda dodirnite:
 
-"<b><font fgcolor="#ffffffff"><li>"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za izradu novog kontakta iz nule
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz kontakata sa SD kartice
-"</li></font></b>"
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+"Novi kontakt za izradu novog kontakta iz nule" 
+"Uvoz/izvoz kontakata sa SD kartice"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
 
-Za dodavanje kontakata, dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font></b>", onda dodirnite:
+Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
 
-"<b><font fgcolor="#ffffffff"><li>"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opcije prikaza za promjenu koji će kontakti biti vidljivi
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za izradu novog kontakta iz nule
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice
-"</li></font></b>"
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom"
+"Opcije prikaza za promjenu koji će kontakti biti vidljivi" 
+"Novi kontakt za izradu novog kontakta iz nule"
+"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"
 "</string>
   <string name="noContactsWithPhoneNumbers">Nema kontakata s telefonskim brojem.</string>
   <string name="noFavoritesHelpText">"Nemate nijedan favorit.
 
 Za dodavanje kontakta na listu favorita :
 
-"<li>Dodirnite <b>Kontakti</b>" karticu
-"</li>" 
-"<li>"Dodirnite kontakt koji želite dodati u Favorite
-"</li>" 
-"<li>"Klik na zvijezdu uz ime kontakta
-"</li>"
+"Dodirnite Kontakti karticu" 
+"Dodirnite kontakt koji želite dodati u Favorite" 
+"Klik na zvijezdu uz ime kontakta"
 "</string>
   <string name="noGroups">Nema skupina.</string>
   <string name="noMatchingContacts">Nema pronađenih odgovarajućih kontakata.</string>
@@ -726,6 +716,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="pref_key_rebuild_t9_index_message">Obnovi indeks za rješavanje problema pretraživanja</string>
   <string name="pref_key_rebuild_t9_index_title">Obnovi indeks podataka</string>
   <string name="pref_key_sim_manage">Upravljanje SIM-om</string>
+  <string name="pref_key_sim_manage2">Upravljanje SIM-om 2</string>
   <string name="pref_summary_import_from_account">Prijenos kontakata iz Google i Exchange računa na moj Xiaomi račun</string>
   <string name="pref_title_account_import">Uvezi iz računa</string>
   <string name="pref_title_import_from_account">Uvezi iz Xiaomi računa</string>
@@ -773,7 +764,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="profile_display_name">Postavi moj profil</string>
   <string name="profile_name">Moj profil</string>
   <string name="profile_name_photo">Ja</string>
-  <string name="progress_notifier_message" formatted="false">Uvoz %s (od %s) Kontakt: %s</string>
   <string name="quickcontact_missing_app">Nije pronađena nijedna aplikacija koja može provesti ovu radnju</string>
   <string name="quit_dialog_confirm_title">Niste spojili nijedan kontakt</string>
   <string name="readOnlyContactDeleteConfirmation">Ovaj kontakt sadrži informacije iz više računa. Informacije iz računa koji su samo za čitanje bit će skrivene na popisu kontakata, a ne izbrisane.</string>
@@ -857,6 +847,7 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_comment_upload_success">Komentar poslan! Vaš komentar će biti prikazan nakon pregleda.</string>
   <string name="resource_default">Zadani zvuk zvona</string>
   <string name="resource_default_name">Izvor</string>
+  <string name="resource_delete">Izbrisati</string>
   <string name="resource_delete_all">Izbrisati %1$d odabrane izvore?</string>
   <string name="resource_delete_confirm">Izbrisati odabrane izvore?</string>
   <string name="resource_delta_update_failed">Ažuriranje neuspješno! Kompletni izvori će sada biti preuzeti</string>
@@ -939,6 +930,7 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_share_subject">Dijeli temu: %1$s</string>
   <string name="resource_share_text">"Ova tema bi vam se mogla svidjeti: %1$s! Link: %2$s"</string>
   <string name="resource_share_title">Dijeli</string>
+  <string name="resource_switch_account">Promjena</string>
   <string name="resource_system_title">Resursi sustava</string>
   <string name="resource_tip_select_ringtone">Ništa odabrano</string>
   <string name="resource_title">Detalji resursa</string>
@@ -1015,6 +1007,7 @@ Molimo otvoriti ovaj program radi obnove resursa."</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Odaberi sve</string>
   <string name="sim_contact_existing">Kontakt već postoji</string>
   <string name="sim_contact_invalid">Nevažeći SIM kontakt</string>
+  <string name="sim_contact_number_missing">Nedostaje broj kontakta na SIM.</string>
   <string name="sim_contact_search_error">Desila se pogreška</string>
   <string name="sim_contacts">Kontakti SIM kartice</string>
   <string name="sim_error_anr_full">Nema dovoljno prostora na SIM kartici</string>
@@ -1029,7 +1022,6 @@ Molimo otvoriti ovaj program radi obnove resursa."</string>
   <string name="sim_export_loading">Čitam SIM karticu…</string>
   <string name="sim_indexed_contact_not_exist">Mjesto %1$d na SIM kartici nevažeče: mora biti između %2$d i %3$d.</string>
   <string name="sim_no_contact">Nema kontakata na SIM kartici</string>
-  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Nema članova skupine</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
   <string name="smart_group_company_label">Po tvrtci</string>
@@ -1078,9 +1070,9 @@ Molimo otvoriti ovaj program radi obnove resursa."</string>
   <string name="strequentList">Favoriti</string>
   <string name="success_message_import_from_account">Uspješno uvezeno</string>
   <string name="summary_kind_title">Pregled</string>
-  <string name="t9_search_guide">Brzo pronaći ljude koristeći svoj dialler pad</string>
-  <string name="t9_search_guide_pinyin">Upišite 7 i 5 za traženje Steve Jobs-a</string>
-  <string name="t9_search_guide_zhuyin">Upišite 7 i 5 za traženje Steve Jobs-a</string>
+  <string name="t9_search_guide">Brzo pronađite ljude koristeći svoj brojčanik</string>
+  <string name="t9_search_guide_pinyin">Upišite 7 i 5 za traženje Severine</string>
+  <string name="t9_search_guide_zhuyin">Upišite 7 i 5 za traženje Severine</string>
   <string name="take_new_photo">Snimi novu fotografiju</string>
   <string name="take_photo">Snimi fotografiju</string>
   <string name="titleJoinContactDataWith">Spoji kontakte</string>
@@ -1149,28 +1141,20 @@ Odaberite jednu od sljedećih opcija:"</string>
   <string name="wipe_data">Brisanje podataka</string>
   <string name="yellowPageNavigationLabel">Direktorij</string>
   <string name="yellowPageNavigationIconLabel">Direktorij</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Dopustiti lokaciju od strane mreže</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Popis brojeva usluga i trgovina u okviru vašeg položaja može poboljšati funkciju.</string>
+  <string name="yellowpage_navigation_menu_order">Moj redoslijed</string>
   <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
   <string name="yellowpage_navigation_network_location_enable_later">Poslije</string>
-  <string name="yellowpage_navigation_search_hint">Traži</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Popis brojeva usluga i trgovina u okviru vašeg položaja može poboljšati funkcijuu.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Dopustiti lokaciju od strane mreže</string>
   <string name="yellowpage_navigation_no_content">"Nema rezultata pretraživanja"</string>
-  <string name="yellowpage_navigation_search_offline_hint">"Niste povezani na mrežu"</string>
   <string name="yellowpage_navigation_search_city_name_hint">Grad</string>
-  <string name="yellowpage_navigation_search_select_city">Odaberite grad</string>
-  <string name="yellowpage_navigation_search_result_no_more">Nema više rezultata</string>
+  <string name="yellowpage_navigation_search_hint">Traži</string>
+  <string name="yellowpage_navigation_search_offline_hint">Niste povezani na mrežu</string>
   <string name="yellowpage_navigation_search_result_network_error">"Ne mogu se spojiti na mrežu"</string>
-  <string name="yellowpage_navigation_search_result_service_error">Usluga je trenutno dostupna</string>
+  <string name="yellowpage_navigation_search_result_no_more">Nema više rezultata</string>
+  <string name="yellowpage_navigation_search_result_service_error">Usluga trenutno nedostupna</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Nepoznata pogreška</string>
-  <string name="yellowpage_navigation_menu_order">Moj redoslijed</string>
-  <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na početni zaslon</string>
-  <string name="imei_invalid">Nevaljani IMEI</string>
-  <string name="meid_invalid">Nevaljani MEID</string>
-  <string name="delete_call_log_selected_title">Brisanje odabranih zapisa poziva?</string>
-  <string name="import_from_sim2">Uvoz iz SIM 2</string>
-  <string name="export_to_sim2">Izvoz na SIM 2</string>
-  <string name="pref_key_sim_manage2">Postavljanje SIM 2</string>
-  <string name="account_sim2">SIM kartica %d</string>
-  <string name="sim_contact_number_missing">Nedostaje kontakt broj na SIM kartici</string>
+  <string name="yellowpage_navigation_search_select_city">Odaberite grad</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="zero_items_selected">Ništa nije odabrano</string>
   </resources>
