@@ -16,7 +16,7 @@
     <string name="menu_login">Prijavite se</string>
     <string name="menu_account">Moj račun</string>
     <string name="menu_install_all">Instaliraj sve</string>
-    <string name="menu_download_manager">Pruzimanja</string>
+    <string name="menu_download_manager">Preuzimanja</string>
     <string name="menu_refresh">Osvježi</string>
     <string name="menu_clear_search_history">Izbriši povijest pretraživanja</string>
     <string name="menu_clear_update_history">Izbriši zapise ažuriranja</string>

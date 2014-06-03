@@ -88,7 +88,7 @@ Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
   <string name="add_weibo_account">Dodaj račun</string>
   <string name="alert_notif_title_dspt">Vratite sinkronizaciju kako bi se osigurala sigurnost podataka</string>
   <string name="alert_title_remove_account">Izbriši račun</string>
-  <string name="app_name">Xiaomi Framework usluge</string>
+  <string name="app_name">Mi Cloud framewor</string>
   <string name="available_functionality">Dostupne funkcije</string>
   <string name="bad_authentication">Krivo korisničko ime ili zaporka</string>
   <string name="bind_sina_weibo">Autoriziraj Sina Weibo</string>
@@ -170,7 +170,7 @@ Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
   <string name="micloud_account">Xiaomi račun</string>
   <string name="micloud_account_details">Detalji račna</string>
   <string name="micloud_account_label">Račun: %1$s</string>
-  <string name="micloud_account_name">Xiaomi račun</string>
+  <string name="micloud_account_name">Mi Cloud</string>
   <string name="micloud_account_not_actived">Račun nije aktiviran</string>
   <string name="micloud_activate_account_fail_notify_title">Nije uspjelo aktiviranje vašeg Xiaomi računa</string>
   <string name="micloud_activate_account_success_notify_title">Uspješno aktiviranje vašeg Xiaomi računa</string>
@@ -287,7 +287,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Preskoči prijavu</string>
   <string name="skip_login_u">Preskoči prijavu</string>
-  <string name="skip_setup_account_msg">Koristeći svoj ​​Xiaomi račun, možete sinkronizirati i pohraniti vaše SMS poruke, kontakte, fotografije, bilješke, itd. Nastaviti i postaviti kasnije?</string>
+  <string name="skip_setup_account_msg">Možete postaviti Mi račun kasnije u Postavkama.</string>
   <string name="skip_setup_account_title">Preskoči prijavu u račun</string>
   <string name="start_micloud">Početak</string>
   <string name="sub_alert_notif_dspt" formatted="false">"Imate %s lokalnih kontakata telefona, %s SMS poruka, %s fotografija, %s bilježaka i ostalih podataka koji nisu sinkronizirani. 
