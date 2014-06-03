@@ -451,11 +451,7 @@
   <string name="enterName">Unesite ime:</string>
   <string name="enterNumber">Unesite broj telefona:</string>
   <string name="enter_callbarring_password">Unesite zaporku zabrane poziva (4 znamenke)</string>
-<<<<<<< HEAD
-  <string name="enter_input">Potrebno je unijeti nešto, pokušajte ponovo!</string>
-=======
   <string name="enter_input">Potrebno je upisati nešto, pokušajte ponovno!</string>
->>>>>>> 8d72661b659bbef2fad77ded49eddff248eaf4c8
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin2_text_miui">PIN2</string>
   <string name="enter_pin_text">SIM PIN:</string>
@@ -618,11 +614,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="managed_roaming_title">Roaming upravljanje</string>
   <string name="managed_roaming_title_sub1">Roaming upravljanje (SUB1)</string>
   <string name="managed_roaming_title_sub2">Roaming upravljanje (SUB2)</string>
-<<<<<<< HEAD
   <string name="managed_roaming_title_sub3">Roaming upravljanje (SUB3)</string> 
-=======
-  <string name="managed_roaming_title_sub3">Roaming upravljanje (SUB3)</string>
->>>>>>> 8d72661b659bbef2fad77ded49eddff248eaf4c8
   <string name="menu_add">Dodaj kontakt</string>
   <string name="menu_delete">Izbriši kontakt</string>
   <string name="menu_deselect_all">Poništi odabir za sve</string>
@@ -1213,8 +1205,5 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="xdivert_sub_absent">Obje pretplate trebaju biti aktivirane za obradu X-Divert</string>
   <string name="xdivert_summary">CFNRc Postavke</string>
   <string name="xdivert_title">X-Divert</string>
-<<<<<<< HEAD
-  </resources>
-=======
 </resources>
->>>>>>> 8d72661b659bbef2fad77ded49eddff248eaf4c8
+

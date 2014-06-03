@@ -46,12 +46,12 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
   <string name="accessibility_screen_magnification_summary">"Kada je ova značajka uključena, možete povećavati/smanjivanti trostrukim dodirom po zaslonu.
 
 Dok zumirate, možete:
-"&lt;li&gt;&lt;ul&gt;"Pan: Povucite dva ili vi&amp;#353;e prstiju po zaslonu.
-"&lt;li&gt;Prilagoditi razinu zumiranja: Stisnite dva ili vi&amp;#353;e prsta ili ih razmaknite.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"&lt;li&gt;&lt;ul&gt;"Pan: Povucite dva ili više prstiju po zaslonu.
+"&lt;li&gt;Prilagoditi razinu zumiranja: Stisnite dva ili više prsta ili ih razmaknite.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
-Tako&amp;#273;er mo&amp;#382;ete privremeno uve&amp;#263;ati ono &amp;#353;to je pod prstom sa trostrukim takni i dr&amp;#382;i. U ovom uve&amp;#263;anom stanju, mo&amp;#382;ete povu&amp;#263;i prst i istra&amp;#382;iti razli&amp;#269;ite dijelove zaslona. Podignite prst za povratak na prija&amp;#353;nje stanje.
+Takđer možete privremeno uvećati ono što je pod prstom sa trostrukim takni i drži. U ovom uvećanom stanju, možete povući prst i istražiti različite dijelove zaslona. Podignite prst za povratak na prijašnje stanje.
 
-Napomena: Trostruki dodir za uve&amp;#263;anje radi svugdje osim trake tipkovnice i navigacije."</string>
+Napomena: Trostruki dodir za uvećanje radi svugdje osim trake tipkovnice i navigacije."</string>
   <string name="accessibility_screen_magnification_title">Geste uvećanja</string>
   <string name="accessibility_script_injection_button_disallow">"Nemoj dozvoliti"</string>
   <string name="accessibility_script_injection_title">Poboljšajte web pristupačnost</string>
@@ -749,226 +749,6 @@ Pogodnije kontrole korištenja podataka možete pronaći u postavkama unutar apl
 
 Neki računi mogu također promjene koje učinite na uređaju automatski kopirati na web. Google račun funkcionira na taj način. 
 
-<<<<<<< HEAD
- Nećete izgubiti podatke aplikacija."</string>
-    <string name="reset_app_preferences_button">Poništi aplikacije</string>
-    <string name="manage_space_text">Upravljaj prostorom</string>
-    <string name="filter">Filter</string>
-    <string name="filter_dlg_title">Odabir opcija filtra</string>
-    <string name="filter_apps_all">Sve</string>
-    <string name="filter_apps_disabled">Onemogućeno</string>
-    <string name="filter_apps_third_party">Preuzeto</string>
-    <string name="filter_apps_running">Pokrenuto</string>
-    <string name="filter_apps_onsdcard">USB pohrana</string>
-    <string name="disabled">Onemogućeno</string>
-    <string name="not_installed">Nije instalirano</string>
-    <string name="no_applications">Nema aplikacija.</string>
-    <string name="internal_storage">Unutarnja pohrana</string>
-    <string name="sd_card_storage">USB pohrana</string>
-    <string name="recompute_size">Ponovni izračun veličine…</string>
-    <string name="clear_data_dlg_title">Izbrisati podatke aplikacije?</string>
-    <string name="clear_data_dlg_text">"Svi podaci ove aplikacije bit će trajno izbrisani. To uključuje sve datoteke, postavke, račune, baze podataka itd."</string>
-    <string name="app_not_found_dlg_title" />
-    <string name="app_not_found_dlg_text">"Aplikacija nije pronađena na popisu instaliranih aplikacija."</string>
-    <string name="clear_data_failed">"Podaci aplikacije nisu se mogli izbrisati."</string>
-    <string name="app_factory_reset_dlg_title">Deinstalirati ažuriranja?</string>
-    <string name="app_factory_reset_dlg_text">Sva ažuriranja ove aplikacije sustava Android bit će deinstalirana.</string>
-    <string name="clear_failed_dlg_title">Izbriši podatke</string>
-    <string name="clear_failed_dlg_text">"Brisanje podataka za aplikaciju nije uspjelo."</string>
-    <string name="security_settings_desc">Ova aplikacija može pristupiti sljedećim stavkama na vašem uređaju:</string>
-    <string name="security_settings_desc_multi">Ova aplikacija može pristupiti sljedećim stavkama na vašem uređaju. Radi poboljšanja performansi i smanjenja upotrebe memorije neke od tih dozvola dostupne su aplikaciji %1$s jer izvodi isti proces kao i %2$s:</string>
-    <string name="join_two_items">%1$s i %2$s</string>
-    <string name="join_many_items_last">%1$s i %2$s</string>
-    <string name="join_many_items_first">%1$s, %2$s</string>
-    <string name="join_many_items_middle">%1$s, %2$s</string>
-    <string name="security_settings_billing_desc">Ova aplikacija može naplaćivati upotrebu:</string>
-    <string name="security_settings_premium_sms_desc">Pošalji premium SMS</string>
-    <string name="computing_size">Izračunavanje…</string>
-    <string name="invalid_size_value">"Nije moguće izračunati veličinu paketa."</string>
-    <string name="empty_list_msg">"Nemate instaliranih aplikacija treće strane."</string>
-    <string name="move_app">Premjesti</string>
-    <string name="move_app_to_internal">Premjesti na uređaj</string>
-    <string name="move_app_to_sdcard">Premjesti na USB pohranu</string>
-    <string name="moving">Premještanje</string>
-    <string name="insufficient_storage">Nema dovoljno prostora za pohranu.</string>
-    <string name="does_not_exist">"Aplikacija ne postoji."</string>
-    <string name="app_forward_locked">Aplikacija ima zaštitu protiv kopiranja.</string>
-    <string name="invalid_location">"Lokacija instalacije nije važeća."</string>
-    <string name="system_package">"Ažuriranja sustava nije moguće instalirati na vanjskom mediju."</string>
-    <string name="force_stop_dlg_title">Prisilno zaustaviti?</string>
-    <string name="force_stop_dlg_text">Ako prisilno zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
-    <string name="move_app_failed_dlg_title" />
-    <string name="move_app_failed_dlg_text">"Premještanje aplikacije %1$s nije uspjelo."</string>
-    <string name="app_install_location_title">Željena lokacije instalacije</string>
-    <string name="app_install_location_summary">Promijenite željenu lokaciju instalacije za nove aplikacije.</string>
-    <string name="app_disable_dlg_title">Onemogući ugrađenu aplikaciju?</string>
-    <string name="app_disable_dlg_text">Ako onemogućite ugrađenu aplikaciju, druge aplikacije mogu se ponašati nepredviđeno.</string>
-    <string name="app_special_disable_dlg_title">Brisanje podataka i onemogućiti aplikaciju?</string>
-    <string name="app_special_disable_dlg_text">Ako ste onemogućili ugrađen u aplikaciju, i druge mogu se ponašati nepredviđeno. Vaši podaci će također biti izbrisani.</string>
-    <string name="app_disable_notifications_dlg_title">Isključiti obavijesti?</string>
-    <string name="app_disable_notifications_dlg_text">Ako isključite obavijesti za ovu aplikaciju, možda ćete propustiti važna upozorenja i ažuriranja.</string>
-    <string name="app_ops_settings">Radnje aplikacija</string>
-    <string name="app_ops_settings_summary">Pregled ili promjena  dopuštenja aplikacija</string>
-    <string name="app_ops_running">U tijeku</string>
-    <string name="app_ops_never_used">((Nikada upotrebljavano)</string>
-    <string name="storageuse_settings_title">Upotreba pohrane</string>
-    <string name="storageuse_settings_summary">Prikaz pohrane koju upotrebljavaju aplikacije</string>
-    <string name="runningservices_settings_title">Pokrenute usluge</string>
-    <string name="runningservices_settings_summary">Pogledajte i nadzirite pokrenute usluge</string>
-    <string name="service_restarting">Ponovno pokretanje</string>
-	<string name="save_button">Spremi</string>
-    <string name="scan_done">Skeniranje završeno</string>
-    <string name="scanning_prefix">Skeniranje: %s</string>
-    <string name="scanning_start_hints">Priprema skeniranja</string>
-    <string name="scanning_virus">Skeniranje...</string>
-    <string name="cached">Pozadinski proces u predmemoriji</string>
-    <string name="no_running_services">Ništa se ne izvodi.</string>
-    <string name="service_started_by_app">Pokrenula aplikacija.</string>
-    <string name="service_client_name">%1$s</string>
-    <string name="service_background_processes">%1$s slobodno</string>
-    <string name="service_foreground_processes">%1$s iskorišteno</string>
-    <string name="memory">RAM</string>
-    <string name="service_process_name">%1$s</string>
-    <string name="running_process_item_user_label">Korisnik: %1$s</string>
-    <string name="running_process_item_removed_user_label">Uklonjen korisnik</string>
-    <string name="running_processes_item_description_s_s">%1$d proces i %2$d usluga</string>
-    <string name="running_processes_item_description_s_p">%1$d proces i %2$d usluga</string>
-    <string name="running_processes_item_description_p_s">%1$d procesa i  %2$d usluga</string>
-    <string name="running_processes_item_description_p_p">%1$d procesa i %2$d usluga</string>
-    <string name="runningservicedetails_settings_title">Pokrenute apliakcije</string>
-    <string name="no_services">Nema aktivnih usluga</string>
-    <string name="runningservicedetails_services_title">Usluge</string>
-    <string name="runningservicedetails_processes_title">Procesi</string>
-    <string name="service_stop">Zaustavi</string>
-    <string name="service_manage">Postavljanje</string>
-    <string name="service_stop_description">Ovu je uslugu pokrenula njezina aplikacija. Zaustavljanje može uzrokovati pad aplikacije.</string>
-    <string name="heavy_weight_stop_description">"Ova se aplikacija ne može sigurno zaustaviti. Ako je zaustavite, mogli biste izgubiti trenutačan rad."</string>
-    <string name="background_process_stop_description">"Ovo je proces stare aplikacije koja se još uvijek izvršava u slučaju da opet bude potrebna. Obično je nema potrebe zaustavljati."</string>
-    <string name="service_manage_description">%1$s: trenutačno u upotrebi. Dodirnite Postavke za upravljanje.</string>
-    <string name="main_running_process_description">Glavni proces u upotrebi.</string>
-    <string name="process_service_in_use_description">Usluga %1$s je u upotrebi.</string>
-    <string name="process_provider_in_use_description">Pružatelj %1$s je u upotrebi.</string>
-    <string name="runningservicedetails_stop_dlg_title">Zaustaviti sistemsku uslugu?</string>
-    <string name="runningservicedetails_stop_dlg_text">Ako zaustavite ovu uslugu, neke značajke vašeg uređaja mogu prestati raditi ispravno dok ga ne isključite i ponovo ne uključite.</string>
-    <string name="language_settings">Jezik &amp; unos</string>
-    <string name="language_keyboard_settings_title">Jezik &amp; unos</string>
-    <string name="language_settings_category">Postavke jezika</string>
-    <string name="keyboard_settings_category">Tipkovnica &amp; način unosa</string>
-    <string name="phone_language">Jezik</string>
-    <string name="phone_language_summary" />
-    <string name="auto_replace">Automatska zamjena</string>
-    <string name="auto_replace_summary">Ispravi pogrešno napisane riječi</string>
-    <string name="auto_caps">Automatsko pisanje velikih slova</string>
-    <string name="auto_caps_summary">Postavi veliko slovo na početku rečenice</string>
-    <string name="auto_punctuate">Automatsko stavljanje interpunkcije</string>
-    <string name="hardkeyboard_category">Postavke fizičke tipkovnice</string>
-    <string name="auto_punctuate_summary">Pritisnite razmaknicu dvaput za umetanje \".\"</string>
-    <string name="show_password">Zaporke vidljive</string>
-    <string name="show_password_summary" />
-    <string name="ime_security_warning">Ovaj način unosa možda može prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. To omogućuje aplikacija %1$s. Upotrijebiti taj način unosa?</string>
-    <string name="spellchecker_security_warning">Ovaj alat za provjeru pravopisa može prikupljati sav tekst koji upisujete, uključujući osobne podatke kao što su zaporke i brojevi kreditnih kartica. Dolazi s aplikacije %1$s. Upotrebljavati taj alat za provjeru pravopisa?</string>
-    <string name="spellchecker_quick_settings">Postavke</string>
-    <string name="spellchecker_language">Jezik</string>
-    <string name="failed_to_open_app_settings_toast">Otvaranje postavki za aplikaciju %1$s nije uspjelo</string>
-    <string name="pointer_settings_category">Miš/dodirna površina</string>
-    <string name="pointer_speed">Brzina pokazivača</string>
-    <string name="game_controller_settings_category">Igrači kontroler</string>
-    <string name="vibrate_input_devices">Upotrijebi vibraciju</string>
-    <string name="vibrate_input_devices_summary">Preusmjeri vibraciju na igrači kontroler kada su povezani.</string>
-    <string name="keyboard_layout_dialog_title">Odaberite izgled tipkovnice</string>
-    <string name="keyboard_layout_dialog_setup_button">Postavljanje izgleda tipkovnice</string>
-    <string name="keyboard_layout_dialog_switch_hint">Za prijelaz pritisnite Ctrl i razmaknicu</string>
-    <string name="keyboard_layout_default_label">Zadano</string>
-    <string name="keyboard_layout_picker_title">Postavke tipkovnice</string>
-    <string name="user_dict_settings_titlebar">Korisnički rječnik</string>
-    <string name="user_dict_single_settings_title">Osobni rječnik</string>
-    <string name="user_dict_multiple_settings_title">Osobni rječnici</string>
-    <string name="user_dict_settings_summary" />
-    <string name="user_dict_settings_add_menu_title">Dodaj</string>
-    <string name="user_dict_settings_add_dialog_title">Dodaj u rječnik</string>
-    <string name="user_dict_settings_add_screen_title">Fraza</string>
-    <string name="user_dict_settings_add_dialog_more_options">Više opcija</string>
-    <string name="user_dict_settings_add_dialog_less_options">Manje opcija</string>
-    <string name="user_dict_settings_add_dialog_confirm">U redu</string>
-    <string name="user_dict_settings_add_word_option_name">Riječ:</string>
-    <string name="user_dict_settings_add_shortcut_option_name">Prečac:</string>
-    <string name="user_dict_settings_add_locale_option_name">Jezik:</string>
-    <string name="user_dict_settings_add_word_hint">Upišite riječ</string>
-    <string name="user_dict_settings_add_shortcut_hint">Neobavezni prečac</string>
-    <string name="user_dict_settings_edit_dialog_title">Uredi riječ</string>
-    <string name="user_dict_settings_context_menu_edit_title">Uredi</string>
-    <string name="user_dict_settings_context_menu_delete_title">Izbriši</string>
-    <string name="user_dict_settings_empty_text">"Nemate nijednu riječ u korisničkom rječniku.
-Riječ možete dodati dodirom na gumb Dodaj (+)."</string>
-    <string name="user_dict_settings_all_languages">Za sve jezike</string>
-    <string name="user_dict_settings_more_languages">Više jezika…</string>
-    <string name="testing">Testiranje</string>
-    <string name="testing_phone_info">Informacije o uređaju</string>
-    <string name="testing_battery_info">Informacije o bateriji</string>
-    <string name="testing_sim_toolkit">Alat SIM-a</string>
-    <string name="quick_launch_title">Brzo pokretanje</string>
-    <string name="quick_launch_summary">Postavljanje tipkovničkih prečaca za pokretanje aplikacija</string>
-    <string name="quick_launch_assign_application">Dodjela aplikacije</string>
-    <string name="quick_launch_no_shortcut">Bez prečaca</string>
-    <string name="quick_launch_shortcut">Pretraži + %1$s</string>
-    <string name="quick_launch_clear_dialog_title">Izbriši</string>
-    <string name="quick_launch_clear_dialog_message">Vaš prečac za stavku %1$s (%2$s) bit će izbrisan.</string>
-    <string name="quick_launch_clear_ok_button">U redu</string>
-    <string name="quick_launch_clear_cancel_button">Odustani</string>
-    <string name="quick_launch_display_mode_applications">Aplikacije</string>
-    <string name="quick_launch_display_mode_shortcuts">Prečaci</string>
-    <string name="input_methods_settings_title">Unos teksta</string>
-    <string name="input_method">Način unosa</string>
-    <string name="current_input_method">Zadano</string>
-    <string name="input_method_selector">Izbornik načina unosa</string>
-    <string name="input_method_selector_show_automatically_title">Automatski</string>
-    <string name="input_method_selector_always_show_title">Uvijek prikaži</string>
-    <string name="input_method_selector_always_hide_title">Uvijek sakrij</string>
-    <string name="configure_input_method">Postavljanje načina unosa</string>
-    <string name="input_method_settings">Postavke</string>
-    <string name="input_method_settings_button">Postavke</string>
-    <string name="active_input_method_subtypes">Aktivni načini unosa</string>
-    <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezik sustava</string>
-    <string name="input_methods_settings_label_format">%1$s postavke</string>
-    <string name="input_methods_and_subtype_enabler_title">Odabir aktivnih načina unosa</string>
-    <string name="onscreen_keyboard_settings_summary">Postavke zaslonske tipkovnice</string>
-    <string name="builtin_keyboard_settings_title">Fizička tipkovnica</string>
-    <string name="builtin_keyboard_settings_summary">Postavke fizičke tipkovnice</string>
-    <string name="development_settings_title">Opcije za razvojne programere</string>
-    <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
-    <string name="development_settings_not_available">Opcije razvojnih programera nisu dostupne za ovog korisnika</string>
-    <string name="enable_adb">Uklanjanje pogreške USB-a</string>
-    <string name="enable_adb_summary">Uklanjanje pogrešaka s priključenim USB-om</string>
-    <string name="clear_adb_keys">Opoziv autorizacija za uklanjanje pogrešaka USB-a</string>
-    <string name="bugreport_in_power">Izvješća o greškama u izborniku napajanja</string>
-    <string name="bugreport_in_power_summary">U izbornik napajanja uključi opciju za izradu izvješća o greškama</string>
-    <string name="keep_screen_on">Zadrži u aktivnom stanju</string>
-    <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
-    <string name="bt_hci_snoop_log">Omogući zapisnik naredbe \"snoop\" za Bluetooth HCI</string>
-    <string name="bt_hci_snoop_log_summary">Snimi sve Bluetooth HCI pakete u datoteci</string>
-    <string name="bt_trace_log">Omogućiti zapis praćenja Bluetootha</string>
-    <string name="bt_trace_log_summary">Omogući zapis pračenja Bluetootha</string>
-    <string name="select_runtime_title">Odabir vremena izvođenja</string>
-    <string name="select_runtime_dialog_title">Odabir vremena izvođenja</string>
-    <string name="select_runtime_warning_message">Ponovo pokrenuti uređaj da biste promijenili vrijeme izvođenja s %1$s na %2$s?</string>
-    <string name="wifi_display_certification">Certifikacija bežičnog zaslona</string>
-    <string name="wifi_display_certification_summary">Prikaži opcije za certifikaciju bežičnog zaslona</string>
-    <string name="allow_mock_location">Dopusti probne lokacije</string>
-    <string name="allow_mock_location_summary">Dopusti probne lokacije</string>
-    <string name="adb_warning_title">Omogućiti rješavanje programske pogreške na USB-u?</string>
-    <string name="adb_warning_message">Rješavanje programske pogreške USB-a namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaju bez obavijesti i za čitanje dnevničkih zapisa.</string>
-    <string name="adb_keys_warning_message">"Opozvati pristup USB ispravljanje pogrešaka iz svih računala koje ste ranije odobrili?"</string>
-    <string name="dev_settings_warning_title">Dopustiti postavke razvojnih programera?</string>
-    <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
-    <string name="enable_quickboot_title">Omogućiti QuickBoot način</string>
-    <string name="enable_quickboot_summary">Stavite uređaj u QuickBoot način umjesto normalnog isključivanja.</string>
-    <string name="verify_apps_over_usb_title">Potvrdite aplikacije preko USB-a</string>
-    <string name="verify_apps_over_usb_summary">Provjerite aplikacije instalirane preko ADB/ADT za štetnim ponašanjem.</string>
-    <string name="enforce_read_external_title">Zaštiti USB pohranu</string>
-    <string name="enforce_read_external_summary">Aplikacije moraju tražiti dozvolu za čitanje USB pohrane</string>
-    <string name="enforce_read_external_confirm_title">Zaštititi USB pohranu?</string>
-    <string name="enforce_read_external_confirm_message">"Kad je USB pohrana zaštićena, aplikacije moraju tražiti dozvolu za čitanje podataka s vanjske pohrane
-=======
 Za odabir vrsta informacija za sinkroniziranje unutar svakog računa, idite na Postavke &gt; Računi."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Uključiti auto. sinkronizaciju?</string>
   <string name="data_usage_change_cycle">Promjena ciklusa…</string>
@@ -987,8 +767,7 @@ Za odabir vrsta informacija za sinkroniziranje unutar svakog računa, idite na P
   <string name="data_usage_enable_mobile">Mobilni podaci</string>
   <string name="data_usage_label_background">Pozadina</string>
   <string name="data_usage_label_foreground">Prednji plan</string>
-  <string name="data_usage_limit_dialog_mobile">"Vaša podatkovna veza mobilnog uređaja bit će onemogućena kada dosegnete navedeno ograničenje.
->>>>>>> 8d72661b659bbef2fad77ded49eddff248eaf4c8
+  <string name="data_usage_limit_dialog_mobile">"Vaša podatkovna veza mobilnog uređaja bit će onemogućena kada dosegnete navedeno ograničenje
 
 S obzirom da se mjerenje korištenja podataka obavlja na uređaju a vaš pružatelj usluga može drugačije obračunavati promet, razmislite o konzervativnom ograničenju."</string>
   <string name="data_usage_limit_dialog_title">Ograničavanje upotrebe podataka</string>
@@ -1017,7 +796,7 @@ Ova postavka utječe na sve korisnike ovog uređaja."</string>
   <string name="data_usage_restrict_denied_dialog">"Ograničavanje pozadinskih podataka moguće je samo ako ste postavili ograničenje mobilnih podataka."</string>
   <string name="data_usage_summary_title">Korištenje podataka</string>
   <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;ograni&amp;#269;enje&lt;/font&gt;</string>
+"&lt;font size="12"&gt;ograničenje&lt;/font&gt;</string>
   <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
 "&lt;font size="12"&gt;upozorenje&lt;/font&gt;</string>
   <string name="data_usage_tab_3g">2G-3G</string>
@@ -1761,14 +1540,14 @@ Trenutno ste prijavljeni na slijedeće račune:
   <string name="master_clear_all">"Izbriši sve podatke s unutarnje pohrane uređaja? Radnja se ne može poništiti!"</string>
   <string name="master_clear_button_text">Poništi uređaj</string>
   <string name="master_clear_confirm_title">Poništiti?</string>
-  <string name="master_clear_desc">"To će izbrisati sve podatke s "&lt;b&gt;unutarnje pohrane&lt;/b&gt;" ure&amp;#273;aja, uklju&amp;#269;uju&amp;#263;i:
+  <string name="master_clear_desc">"To će izbrisati sve podatke s "&lt;b&gt;unutarnje pohrane&lt;/b&gt;" uređaja, uključujući:
 
-"&lt;li&gt;Va&amp;#353; Google ra&amp;#269;un&lt;/li&gt;"
+"&lt;li&gt;Vaš Google račun&lt;/li&gt;"
 "&lt;li&gt;Podatke sustava i aplikacija&lt;/li&gt;"
 "&lt;li&gt;Preuzete aplikacije&lt;/li&gt;</string>
   <string name="master_clear_desc_also_erases_external">&lt;li&gt;Glazba&lt;/li&gt;"
 "&lt;li&gt;Fotografije&lt;/li&gt;"
-"&lt;li&gt;Ostale korisni&amp;#269;ke podatke&lt;/li&gt;</string>
+"&lt;li&gt;Ostale korisničke podatke&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"
 
 Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana&lt;/b&gt; mora biti izbrisana.</string>
@@ -1932,17 +1711,17 @@ Pokušajte sljedeće:
  Napomena: Za ubuntu 8.04 okružje"</string>
   <string name="msd_install_retry_mac">"Ako računalo ne može detektirati vaš uređaj,
 Pokušajte sljedeće:
-"&lt;li&gt;"U&amp;#269;inite potragu za
+"&lt;li&gt;"Učinite potragu za
 Android File Transfer,
 i pokrenite softver."&lt;/li&gt;"
 "&lt;li&gt;Ponovno spojite USB kabel.&lt;/li&gt;"
-"&lt;li&gt;Ponovno instalirajte upravlja&amp;#269;ki program.&lt;/li&gt;</string>
+"&lt;li&gt;Ponovno instalirajte upravljački program.&lt;/li&gt;</string>
   <string name="msd_install_retry_windows_vista">"Ako računalo ne može detektirati vaš uređaj,
 Pokušajte ponovno spojiti USB kabel."</string>
   <string name="msd_install_retry_windows_xp">"Ako računalo ne može detektirati vaš uređaj,
 Pokušajte sljedeće:
 "&lt;li&gt;1) Ponovno spojite USB kabel.&lt;/li&gt;"
-"&lt;li&gt;2) Ponovno instalirajte upravlja&amp;#269;ki program.&lt;/li&gt;</string>
+"&lt;li&gt;2) Ponovno instalirajte upravljački program.&lt;/li&gt;</string>
   <string name="msd_install_status_done">Upravljački program instaliran.</string>
   <string name="msd_install_status_undo">Instaliraj upravljački program</string>
   <string name="msd_install_succeed">Upravljački program instaliran.</string>
@@ -2730,12 +2509,12 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="reset_app_preferences_button">Poništi aplikacije</string>
   <string name="reset_app_preferences_desc">"Ovo će poništiti sve željene postavke za:
 
- "&lt;li&gt;Onemogu&amp;#263;ene aplikacije&lt;/li&gt;"
- "&lt;li&gt;Obavijesti onemogu&amp;#263;enih aplikacija&lt;/li&gt;"
+ "&lt;li&gt;Onemogućne aplikacije&lt;/li&gt;"
+ "&lt;li&gt;Obavijesti onemogućenih aplikacija&lt;/li&gt;"
  "&lt;li&gt;Zadane aplikacije za radnje&lt;/li&gt;"
- "&lt;li&gt;Ograni&amp;#269;enja pozadinskih podataka za aplikacije&lt;/li&gt;"
+ "&lt;li&gt;Ograničenja pozadinskih podataka za aplikacije&lt;/li&gt;"
 
- Ne&amp;#263;ete izgubiti podatke aplikacija."</string>
+ Nećete izgubiti podatke aplikacija."</string>
   <string name="reset_app_preferences_title">Poništiti željene postavke aplikacija?</string>
   <string name="residual_cancel">Odustani</string>
   <string name="residual_clean">Izbriši</string>
