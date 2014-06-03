@@ -459,8 +459,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="simple_mode_button_text_hdr">Zatvori HDR način</string>
   <string name="simple_mode_button_text_panorama">Zatvori panoramu</string>
   <string name="simple_mode_button_text_slow_video">Zatvori slow-motion kameru</string>
-  <string name="simple_mode_title">Pojednostavljen prikaz</string>
-  <string name="simple_mode_title">Jednostavan način</string>
+  <string name="simple_mode_title">Jednostavan prikaz</string>
   <string name="slideshow">Dijaprojekcija</string>
   <string name="snapshot_lower_than_video">Rezolucija video snimke je manja od veličine videozapisa. Prekrivanje na veličinu videozapisa.
    Odaberite razoluciju višu ili jednaku trenutnoj veličini videozapisa.</string>
