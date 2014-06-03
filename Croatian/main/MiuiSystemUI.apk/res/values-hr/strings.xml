@@ -126,7 +126,7 @@ Ako ponovo omogućite podatke, operator će vam to možda dodatno naplatiti."</s
     <string name="dismount_storage">Ne</string>
     <string name="usb_notification">Povezano kroz USB</string>
     <string name="usb_notification_mtp_info">Pristup datotekama telefona</string>
-    <string name="usb_notification_ptp_info">Pristup fotografijama</string>
+    <string name="usb_notification_ptp_info">Pristup fotografijama telefona</string>
     <string name="usb_notification_mtp_problem">Pomoć</string>
     <string name="usb_ptp_text">Slike</string>
     <string name="usb_mtp_text">Datoteke</string>
