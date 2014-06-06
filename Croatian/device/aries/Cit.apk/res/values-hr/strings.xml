@@ -78,17 +78,17 @@ Govorite kao da vodite razgovor. Trebali biste čuti glas na prednji zvučnik. O
   <string name="cit_front_camera_check_summary">"Koraci testiranja:
   
 1. Kliknite tipku kamere za otvaranje fotoaparata
-2. Uvjerite se da bljeskalica bljesne
-3. Snimite fotografiju
-4. Spremite fotografiju
-5. Pregledajte sliku, kada ste zadovoljni, možete je izbrisati.
+2. Dodirnite tipku okidača
+3. Snimite fotografiju. Sustav će spremiti fotografiju automatski
+4. Pregledajte sliku. Dodirnite "Izbriši" za dovršenje testa
+
 </string>
   <string name="cit_front_camera_check_title"> Test prednje kamere (prednja kamera)</string>
   <string name="cit_gps_check_summary">Ovaj test će prikazati informacije GPS-a</string>
   <string name="cit_gps_check_title">Testiranje GPS-a</string>
-  <string name="cit_gps_disabled">"GPS nije omogućen, 
-  uključite GPS iz prečaca"</string>
-  <string name="cit_gps_satellite_count">GPS Sateliti: %d</string>
+  <string name="cit_gps_disabled">"GPS nije omogućen
+Dodirnite zaslon za pokretanje GPS-a…"</string>
+  <string name="cit_gps_satellite_count">GPS Satelita: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Vrijednosti senzora žiroskopa X, Y, Z koordinata</string>
@@ -133,12 +133,13 @@ Govorite kao da vodite razgovor. Trebali biste čuti glas na prednji zvučnik. O
   <string name="cit_light_sensor_check_title">Testiranje Senzora osvjetljenja</string>
   <string name="cit_magnetic_sensor_check_summary">Ispod je trenutna vrijednost magnetometara u X, Y, Z orijentaciji</string>
   <string name="cit_magnetic_sensor_check_title">Testiranje Magnetometra</string>
-  <string name="cit_main_camera_check_summary">Testiranje kontrolne liste:
+  <string name="cit_main_camera_check_summary">Upute za test:
+  
 1. Kliknite tipku kamere za otvaranje fotoaparata
-2. Uvjerite se da bljeskalica bljesne
-3. Snimite fotografiju
-4. Spremite fotografiju
-4. Pregledajte sliku, kada ste zadovoljni, možete je izbrisati.
+2. Uvjerite se da je bljeskalica uključena
+3. Dodirnite tipku okidača
+4. Snimite fotografiju. Sustav će spremiti fotografiju automatski
+5. Pregledajte sliku. Dodirnite "Izbriši" za dovršenje testa
   </string>
   <string name="cit_main_camera_check_title">Testiranje Fotoaparata (glavna kamera)</string>
   <string name="cit_name">Otkrivanje Hardvare-a</string>
