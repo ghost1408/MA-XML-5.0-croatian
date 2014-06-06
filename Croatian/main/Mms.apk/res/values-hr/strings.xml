@@ -413,6 +413,9 @@
   <string name="sms_full_title">Memorija tekstualnih poruka je puna</string>
   <string name="sms_rejected_body">Dolazna poruka odbijena je iz nepoznatog razloga.</string>
   <string name="sms_rejected_title">Tekstualna poruka odbijena je</string>
+  <string name="sp_category_all">Sve vijesti</string>
+  <string name="sp_category_bank">Vijesti iz banke</string>
+  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Poruke s obavijestima</string>
   <string name="sp_mark_as_read">Označiti sve poruke pročitanima?</string>
   <string name="sp_mark_as_read_progress">Označavam sve poruke kao pročitane...</string>

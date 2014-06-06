@@ -878,6 +878,8 @@ Ova postavka utječe na sve korisnike ovog uređaja."</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">2-jezgreni</string>
   <string name="device_cpu4_info">4-jezgreni</string>
+  <string name="device_cpu8_info">8-jezgreni</string>
+  <string name="device_default_name">Xiaomi Telefon</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
   <string name="device_info_default">Nepoznato</string>
   <string name="device_info_label">Informacije o uređaju</string>

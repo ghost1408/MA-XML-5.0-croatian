@@ -184,7 +184,7 @@
   <string name="add_photo_attachment">Priloži sliku</string>
   <string name="add_star">Dodaj zvjezdicu</string>
   <string name="add_video_attachment">Priloži videozapis</string>
-  <string name="address_display_format">%1$s | %2$s</string>
+  <string name="address_display_format">%1$s  | %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s%2$s putem %3$s</string>
   <string name="all_folders_heading">Dodaj mape</string>
   <string name="allread">Pročitano</string>
@@ -195,6 +195,8 @@
   <string name="app_name">E-pošta</string>
   <string name="archive">Arhiva</string>
   <string name="archived">Arhivirano</string>
+  <string name="att_download_failed_content">Preuzimanje nije uspjelo</string>
+  <string name="att_download_failed_title">Preuzimanje privitka nije uspjelo</string>
   <string name="att_mgr_no_attachment">Nema privitaka!</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Ime</string>
@@ -304,6 +306,10 @@
   <string name="device_admin_label">E-pošta</string>
   <string name="device_not_activiey_lint1">Upravitelj uređaja nije aktiviran</string>
   <string name="device_not_activiey_lint2">Usluga E-pošte ne radi ispravno</string>
+  <string name="dialog_auto_download_failed">"Nije moguće završiti auto.preuzimanje"</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">Nedovoljno prostora za %s.</string>
+  <string name="dialog_insufficient_space_on_external">"Nije moguće završiti auto.preuzimanje. Nedovoljno prostora na vanjskoj pohrani."</string>
+  <string name="dialog_insufficient_space_on_internal">"Nedovoljno prostora na vanjskoj pohrani."</string>
   <string name="disable_admin_warning">"UPOZORENJE: Deaktivacijom ovlasti aplikacije E-pošta za upravljanje uređajem izbrisat će se svi računi e-pošte koji traže tu ovlast, kao i e-pošta, kontakti, događaji kalendara i drugi podaci."</string>
   <string name="discard">Odbaci</string>
   <string name="discard_drafts">Odbaci skice</string>
@@ -400,6 +406,7 @@
   <string name="login_failed_ticker">Prijava računa %s neuspješna.</string>
   <string name="login_failed_title">"Neuspjela prijava"</string>
   <string name="long_press_to_select_tip">Dodirnite &amp; zadržite za odabir jednog razgovora, zatim dodirnite da ih odaberete više.</string>
+  <string name="mail">E-pošta</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani prikaz</string>
   <string name="mailbox_name_display_drafts">Skice</string>
   <string name="mailbox_name_display_inbox">Pristigla pošta</string>

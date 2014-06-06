@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string-array name="general_preference_text_zoom_summary_array">
+        <item>Sićušan tekst</item>
+        <item>Mali tekst</item>
+        <item>Tekst normalne veličine</item>
+        <item>Veliki tekst</item>
+        <item>Ogroman tekst</item>
+   </string-array>
     <string-array name="compose_modes">
         <item>Odgovor</item>
         <item>Odgovori svima</item>
@@ -38,12 +45,12 @@
         <item>Prikaži samo brisanje</item>
         <item>Prikaži arhiviranje &amp; brisanje</item>
     </string-array>
-	<string-array name="general_preference_text_zoom_summary_array">
-        <item>Sićušan tekst</item>
-        <item>Mali tekst</item>
-        <item>Tekst normalne veličine</item>
-        <item>Veliki tekst</item>
-        <item>Ogroman tekst</item>
+	<string-array name="menu_att_mgr_sort_string_array">
+        <item>Najnovije</item>
+        <item>Format</item>
+        <item>Naziv</item>
+        <item>Poslano</item>
+        <item>Podaci</item>
 	</string-array>
 	<string-array name="general_preference_auto_advance_summary_array">
         <item>Idi na noviju poruku nakon brisanja poruke</item>
