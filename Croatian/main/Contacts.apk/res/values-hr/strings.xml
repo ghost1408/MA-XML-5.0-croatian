@@ -110,7 +110,6 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="callrecordview_menu_delete_missed">Obrisati popis propuštenih poziva</string>
   <string name="callrecordview_menu_delete_new">Obrisati popis poziva novih kontakata</string>
   <string name="callrecordview_menu_delete_one">Ukloniti iz popisa poziva</string>
-  <string name="callrecordview_menu_delete_stranger">Obrisati popis poziva nepoznatih brojeva</string>
   <string name="callrecordview_menu_delete_stranger">Brisanje nepoznatih brojeva</string>
   <string name="callrecordview_menu_edit_call_note">Uredi bilješku poziva</string>
   <string name="callrecordview_menu_paste">Zalijepi</string>
