@@ -57,7 +57,6 @@
   <string name="file_download">Preuzmi datoteku</string>
   <string name="file_downloading">Preuzimnje datoteke</string>
   <string name="file_restore">Vrati datoteke</string>
-  <string name="file_restore">Vraćanje datoteka</string>
   <string name="file_share_download_complete">Primljena dijeljena datoteka!</string>
   <string name="file_share_upload_complete">Dijeljena datoteka poslana!</string>
   <string name="file_upload">Učitaj datoteku</string>
