@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="screen_timeout_entries">
-        <item>15 sekundi</item>
-        <item>30 sekundi</item>
-        <item>1 minuta</item>
-        <item>2 minute</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>Nikad</item>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ništa</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720  , 1920x1080 xhdpi</item>
     </string-array>
-    <string-array name="dream_timeout_entries">
-        <item>Nikad</item>
-        <item>15 sekundi</item>
-        <item>30 sekundi</item>
-        <item>1 minuta</item>
-        <item>2 minute</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>30 minuta</item>
-    </string-array>
-    <string-array name="lock_after_timeout_entries">
-        <item>Odmah</item>
-	    <item>5 sekundi</item>
-        <item>15 sekundi</item>
-        <item>30 sekundi</item>
-        <item>1 minuta</item>
-        <item>2 minute</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>30 minuta</item>
-	</string-array>
-     <string-array name="led_color_entries">
-        <item>Plava</item>
-        <item>Crvena</item>
-        <item>Žuta</item>
-        <item>Zelena</item>
-        <item>Roza</item>
-        <item>Bijela</item>
-        <item>Ljubičasta</item>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Žiadne</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Pitaj</item>
@@ -64,10 +38,6 @@
         <item>Ručno povezivanje</item>
         <item>Uvijek pitaj</item>
     </string-array>
-    <string-array name="wifi_ap_channel_width">
-        <item>20 MHz</item>
-        <item>Autom. 20/40 MHz</item>
-    </string-array>
     <string-array name="network_use_entry">
         <item>Samo kuća</item>
         <item>Kuća + Roaming</item>
@@ -82,16 +52,16 @@
         <item>720P</item>
         <item>480P</item>
     </string-array>
+    <string-array name="hdmi_video_resolution_entries_8193">
+        <item>Auto</item>
+        <item>720p 60Hz</item>
+        <item>720p 50Hz</item>
+        <item>1080p 24Hz</item>
+    </string-array>
     <string-array name="hdmi_video_mode_entries">
         <item>Cijeli zaslon</item>
         <item>Prilagođeno</item>
-        <item>Origialna veličina</item>
-    </string-array>
-    <string-array name="hdmi_deep_color_entries">
-        <item>8 bit</item>
-        <item>Automatski</item>
-        <item>10 bit</item>
-        <item>12 bit</item>
+        <item>Originalna veličina</item>
     </string-array>
     <string-array name="sim_slot">
        <item>(neodređeno)</item>
@@ -107,6 +77,14 @@
         <item>Uvijek</item>
         <item>Isključi kad je stanje mirovanja za 5 min</item>
         <item>Isključi kad je stanje mirovanja za 10 min</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 &amp; IPv6</item>
+    </string-array>
+    <string-array name="usb_tether_type_entries">
+        <item>Windows(RNDIS)</item>
+        <item>Linux/Mac OS(EEM)</item>
     </string-array>
     <string-array name="wifi_ap_wps_mode_entries">
         <item>Push gumb</item>

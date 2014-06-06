@@ -106,9 +106,7 @@
   <string name="bugreport_title">Izradi izvješće o bugu</string>
   <string name="byteShort">B</string>
   <string name="cancel">Odustani</string>
-  <string name="candidates_style">
-&lt;u&gt;candidates&lt;/u&gt;
-</string>
+  <string name="candidates_style">" "&lt;u&gt;kandidati&amp;#225;ti&lt;/u&gt;" "</string>
   <string name="capital_off">Isklj.</string>
   <string name="capital_on">Uklj.</string>
   <string name="car_mode_disable_notification_message">Dodirnite za izlaz iz načina rada u automobilu.</string>
@@ -201,8 +199,9 @@ koristeći %s"</string>
   <string name="default_audio_route_category_name">Sustav</string>
   <string name="default_audio_route_name">Telefon</string>
   <string name="default_audio_route_name_dock_speakers">Zvučnici postolja</string>
+  <string name="default_audio_route_name_hdmi">HDMI</string>
   <string name="default_audio_route_name_headphones">Slušalice</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
+  <string name="default_permission_group">Dopuštenja</string>
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
   <string name="deny">Odbij</string>
@@ -1103,11 +1102,9 @@ za račun %s."</string>
   <string name="permlab_writeSocialStream">pisanje društvenog streama</string>
   <string name="permlab_writeSyncSettings">uključivanje/isključivanje sinkronizacije</string>
   <string name="perms_description_app">Omogućuje aplikacija %1$s.</string>
-  <string name="perms_hide">
-&lt;b&gt;Sakrij&lt;/b&gt;
-</string>
-  <string name="perms_new_perm_prefix">"NOVO: "</string>
-  <string name="perms_show_all">Pokaži sve</string>
+  <string name="perms_hide">" "&lt;b&gt;Sakrij&amp;#357;&lt;/b&gt;" "</string>
+  <string name="perms_new_perm_prefix">" "&lt;font size="12" fgcolor="#ff900000"&gt;NOVO: &lt;/font&gt;" "</string>
+  <string name="perms_show_all">" "&lt;b&gt;Pokaži&amp;#357; v&amp;#353;sve&lt;/b&gt;" "</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Pomoćnik</string>
   <string name="phoneTypeCallback">Povratni poziv</string>

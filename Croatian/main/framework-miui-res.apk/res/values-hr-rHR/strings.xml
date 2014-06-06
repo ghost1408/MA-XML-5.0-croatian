@@ -5,6 +5,8 @@
   <string name="activating">Aktiviram...</string>
   <string name="alwaysUsePrompt">Zapamti ovaj izbor</string>
   <string name="android_lockscreen_glogin_instructions">Za otključati, prijavite se vašim računom </string>
+  <string name="anniversary_of_lifting_martial_law"/>
+  <string name="anti_aggression_day"/>
   <string name="app_no_notification">nema obavijesti</string>
   <string name="app_notificaiton_on_notificationBar">Traka obavijesti</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Traka obavijesti i statusa</string>
@@ -67,6 +69,7 @@ Omogućite to Postavke &gt; Sustav &gt; Gumbi &amp; tipke"</string>
   <string name="global_action_toggle_privacy_mode">Čuvar</string>
   <string name="good_friday">MIUI Petak!</string>
   <string name="grain_buds"/>
+  <string name="grain_in_ear"/>
   <string name="grain_rain"/>
   <string name="grant_permissions_account">Dozvoli pristup računu</string>
   <string name="grant_permissions_apps">Dozvoli pristup aplikaciji</string>
@@ -77,6 +80,7 @@ Omogućite to Postavke &gt; Sustav &gt; Gumbi &amp; tipke"</string>
   <string name="group_name_family">Obitelj</string>
   <string name="group_name_friends">Prijatelji</string>
   <string name="heavy_snow"/>
+  <string name="hksar_establishment_day"/>
   <string name="hoar_frost_falls"/>
   <string name="hours">%d sati</string>
   <string name="incorrect_pincode">Pogrešan PIN</string>
@@ -87,6 +91,7 @@ Omogućite to Postavke &gt; Sustav &gt; Gumbi &amp; tipke"</string>
   <string name="input_pin_code_to_unlock">Unesite PIN kôd da otključate uređaj</string>
   <string name="input_puk_code">Unesite PUK kôd</string>
   <string name="input_puk_code_to_unlock">Unesite PUK kôd da otključate uređaj</string>
+  <string name="insects_awaken"/>
   <string name="international_womens_day">Međunarodni dan žena</string>
   <string name="labour_day"/>
   <string name="lantern_festival"/>

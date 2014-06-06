@@ -169,9 +169,6 @@
   <string name="account_setup_username_password_toast">Upišite važeću adresu e-pošte i zaporku.</string>
   <string name="account_setup_username_uneditable_error">"Ne možete promijeniti korisničko ime računa. Da biste dodali račun s nekim drugim korisničkim imenom, dodirnite \"Dodaj račun\".</string>
   <string name="account_sync_off">Sinkronizacija računa nije uključena.</string>
-  <string name="account_type_exchange">Exchange</string>
-  <string name="account_type_imap">IMAP</string>
-  <string name="account_type_pop3">POP3</string>
   <string name="account_waiting_for_folders_msg">Učitavanje popisa mapa…</string>
   <string name="accounts_welcome">Možete postaviti svoj korisnički račun u samo nekoliko koraka.</string>
   <string name="actionbar_large_unread_count">%1$d+ nepročitano</string>
@@ -196,7 +193,6 @@
   <string name="always_show_images_toast">Slike ovog pošiljatelja automatski će se prikazati.</string>
   <string name="annex_size">privitci</string>
   <string name="app_name">E-pošta</string>
-  <string name="application_mime_type">application/email-ls</string>
   <string name="archive">Arhiva</string>
   <string name="archived">Arhivirano</string>
   <string name="att_mgr_no_attachment">Nema privitaka!</string>
@@ -298,11 +294,6 @@
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Danas, %1$s</string>
   <string name="date_message_received_yesterday">Jučer, %1$s</string>
-  <string name="debug_title">Uklanjanje grešaka</string>
-  <string name="default_">ZADANO</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
   <string name="default_setup">ZADANE POSTAVKE</string>
   <string name="default_signature">Poslano s MIUI telefona</string>
   <string name="delete">Obrisati</string>
@@ -392,9 +383,6 @@
   <string name="help_and_info">Pomoć</string>
   <string name="hide_elided">▼ Sakrij citirani tekst</string>
   <string name="hide_folders">Sakrij mape</string>
-  <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-  <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
-  <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Odgovori svima ovdje</string>
   <string name="ignore_spam_warning">Zanemari, poruka je pouzdana</string>
   <string name="imap_name">IMAP</string>

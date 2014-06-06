@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_abnormal_state">Pogreška informacija o računu, pokušajte se ponovno prijaviti.</string>
   <string name="account_info">Moj račun</string>
   <string name="account_unactivated">Račun nije aktiviran.</string>
   <string name="all_resources">Sve</string>
@@ -24,6 +25,7 @@
   <string name="component_category_finest_title">OPĆE</string>
   <string name="component_category_more_title">NAPREDNO</string>
   <string name="component_include_title">Sadrži %1$s stavki</string>
+  <string name="component_lockstyle_personal_title">Postavke</string>
   <string name="component_select_title">Odabrano %1$s stavaka</string>
   <string name="component_settings_title">Uredi temu</string>
   <string name="default_name">Zadano</string>
@@ -49,6 +51,7 @@
   <string name="lockstyle_personal_settings">Uređivanje</string>
   <string name="long_ringtone_resource">Dugo</string>
   <string name="maml_component_customization_title">Postavke</string>
+  <string name="menu_refresh">Osvježi</string>
   <string name="mi_wallpaper">MIUI Slika pozadine</string>
   <string name="online_no_network">Neuspješno povezivanje s mrežom</string>
   <string name="online_search_hint">Potražnja mrežnih izvora</string>
@@ -73,17 +76,19 @@
   <string name="resource_comment_3_star">***</string>
   <string name="resource_comment_4_star">****</string>
   <string name="resource_comment_5_star">*****</string>
+  <string name="resource_comment_account_need_activitied">Aktiviranje Xiaomi računa.</string>
   <string name="resource_comment_all_comments">Svi komentari</string>
   <string name="resource_comment_average_score">Prosječna ocjena</string>
   <string name="resource_comment_bad_comments">Negativno</string>
+  <string name="resource_comment_count">%1$s procjena i %2$s komentara (verzija %3$s)</string>
   <string name="resource_comment_current_version">Trenutna verzija</string>
-  <string name="resource_comment_date">%1$02d-%2$02d</string>
+  <string name="resource_comment_description">%1$s komentirao je %2$s.%3$s.%4$s</string>
   <string name="resource_comment_edit_comment">Dodaj komentar</string>
   <string name="resource_comment_edit_comment_waiting">Provjera što ste koristili</string>
   <string name="resource_comment_edit_text_default">Napiši komentar</string>
   <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
   <string name="resource_comment_entry_tips">Vidi komentare</string>
-  <string name="resource_comment_expand_full_text">Proširi na cijeli tekst▼</string>
+  <string name="resource_comment_expand_full_text">Proširi tekst▼</string>
   <string name="resource_comment_footer">Prazni komentari nisu prikazani.</string>
   <string name="resource_comment_good_comments">Pozitivni komentari</string>
   <string name="resource_comment_invalid">Dodirni zvijezdu da ocijeniš</string>
@@ -102,6 +107,7 @@
   <string name="resource_comment_upload_not_bought">Morate podesiti temu prije pisanja komentara.</string>
   <string name="resource_comment_upload_not_logined">Niste prijavljeni!</string>
   <string name="resource_comment_upload_success">Komentar poslan! Biti će prikazan nakon pregleda</string>
+  <string name="resource_comment_version_name">(%1$s verzija)</string>
   <string name="resource_default">Zadana melodija zvona</string>
   <string name="resource_default_name">Resursi</string>
   <string name="resource_delete">Izbrisati</string>
@@ -188,6 +194,7 @@
   <string name="resource_share_subject">Podijeli temu: %1$s</string>
   <string name="resource_share_text">Evo teme koja bi vam se mogla svidjeti: %1$s! Poveznica: %2$s</string>
   <string name="resource_share_title">Podijeli</string>
+  <string name="resource_switch_account">Promjena</string>
   <string name="resource_system_title">Resursi sistema</string>
   <string name="resource_tip_select_ringtone">Melodija zvona nije odabrana</string>
   <string name="resource_title">Detalji resursa</string>
@@ -197,17 +204,23 @@
   <string name="resource_trial_end_restore">Kraj probnog perioda</string>
   <string name="resource_trial_end_title">Probni period istekao</string>
   <string name="resource_trial_time">（period od %1$d minuta）</string>
-  <string name="resource_unable_to_access">"Trenutno nedostupno u vašoj regiji/zemlji."</string>
+  <string name="resource_unable_to_access">"Trenutno nedostupno u vašoj 
+  regiji/zemlji."</string>
   <string name="resource_unknow_error">Nepoznata mrežna pogreška.</string>
   <string name="resource_update">Ažuriraj</string>
   <string name="resource_user_know">U redu</string>
   <string name="resource_waiting_download">Čekam preuzimanje...</string>
   <string name="restore_default_theme_alert">Koristite Teme aplikaciju za kupnju ili ponovno preuzimanje.</string>
-  <string name="sdcard_not_mounted_dialog_message">"SD kartica nedostupna, stavite je odmah."</string>
+  <string name="ringtone_volume_mute">Vaš zvuk zvona trenutno je isključen.</string>
+  <string name="sdcard_not_mounted_dialog_message">"SD kartica nedostupna, 
+  stavite je odmah."</string>
   <string name="sdcard_not_mounted_dialog_title">SD kartica nije prisutna</string>
+  <string name="sdcard_status_changed_dialog_message">"Završeno. \nMolimo otvorite ovu aplikaciju radi ažuriranja resursa."</string>
+  <string name="sdcard_status_changed_dialog_title">Status SD kartice je promijenjen</string>
   <string name="selected_resource_file_invalid">Odabrana datoteka nije valjana.</string>
   <string name="settings">Postavke</string>
   <string name="short_ringtone_resource">Kratko</string>
+  <string name="theme_another_import_running">Uvoz teme, pričekajte...</string>
   <string name="theme_batch_has_update_text">%1$d tema ima dostupnu novu verziju</string>
   <string name="theme_batch_update_all">Ažuriraj sve</string>
   <string name="theme_batch_update_dlg_content">Želite li ažurirati sada?</string>
@@ -245,10 +258,35 @@
   <string name="theme_fresh_man_notifaction">Isprobajte neke nove teme!</string>
   <string name="theme_immediately_apply_tip">Tema uređena, podesiti odmah?</string>
   <string name="theme_import_activity_label">Tema poboljšana</string>
+  <string name="theme_import_data">Uvoz tema</string>
+  <string name="theme_import_fail">Uvoz %1$s nije uspio</string>
   <string name="theme_import_from_sdcard">Uvezi s SD kartice</string>
-  <string name="theme_name">%1$s</string>
+  <string name="theme_import_importing">Ažuriranje.. Preostalo %1$d</string>
+  <string name="theme_import_item_delete_request_button">Izbriši</string>
+  <string name="theme_import_item_delete_request_content">Tema nije ažurirana.</string>
+  <string name="theme_import_item_delete_request_title">Ažuriranje nije uspjelo</string>
+  <string name="theme_import_item_importing">Ažuriranje...</string>
+  <string name="theme_import_item_not_exist">Datoteka ne postoji</string>
+  <string name="theme_import_item_not_upgraded">Nije ažurirano</string>
+  <string name="theme_import_item_reject_use">Ažuriranje teme...</string>
+  <string name="theme_import_item_waiting">Čekanje...</string>
+  <string name="theme_import_new_download">Preuzimanje</string>
+  <string name="theme_import_normal">Ažuriranje tema</string>
+  <string name="theme_import_oper_complete">Završeno</string>
+  <string name="theme_import_oper_start">Ažurirati sve</string>
+  <string name="theme_import_oper_stop">Zaustavi</string>
+  <string name="theme_import_oper_stop_request_content">TTema mora biti ažurirana da funkcionira ispravno. Zaustaviti ažuriranje?</string>
+  <string name="theme_import_preparing">Provjera lokalnih tema</string>
+  <string name="theme_import_stoping">Zaustavljanje...</string>
+  <string name="theme_importing">Uvoz teme...</string>
+  <string name="theme_is_imported">Tema je uvezena</string>
   <string name="theme_no">Ne</string>
+  <string name="theme_sdcard_importing">Uvoz sa SD kartice...</string>
   <string name="theme_select_others">Pregledaj</string>
+  <string name="theme_upgrade_request_cancel">Ne</string>
+  <string name="theme_upgrade_request_content">Tema mora biti ažurirana da funkcionira ispravno. Potrebna je internetska veza, nastaviti..?</string>
+  <string name="theme_upgrade_request_title">Ažuriranje teme</string>
+  <string name="theme_upgrade_request_yes">U redu</string>
   <string name="theme_yes">Da</string>
   <string name="third_party_pickers_activity_title">Podesi %1$s</string>
   <string name="title_component">Miks</string>

@@ -33,7 +33,7 @@
   <string name="NI_Request_ClientName">Ime klijenta</string>
   <string name="NI_Request_ID">ID Podnositelja zahtjeva</string>
   <string name="Network_Initiate">Zahtjev mreže</string>
-  <string name="Network_Initiate_Summary_off">&gt;Odbiti mreži traženje pozicije</string>
+  <string name="Network_Initiate_Summary_off">Odbiti mreži traženje pozicije</string>
   <string name="Network_Initiate_Summary_on">Dopustiti mreži traženje pozicije</string>
   <string name="Network_Local_and_Roaming_Summary">Koristite A-GPS pod matičnom i roaming mrežom</string>
   <string name="Network_Only_Local_Summary">Koristite A-GPS samo u domaćoj mreži</string>
@@ -43,39 +43,30 @@
   <string name="Phone_vibrate_summary">Vibracija uređaja za dolazne pozive</string>
   <string name="USER_RESPONSE_TIMEOUT">Čekanje isteka vremena provjere</string>
   <string name="WiFiNetwork_on_title">WLAN je aktivan</string>
+  <string name="about_agps_message">"A-GPS (Assisted-GPS) je sustav koji može poboljšati izvedbu pokretanja i vrijeme (TTFF) GPS satelita."</string>
   <string name="about_agps_title">Više o A-GPS</string>
   <string name="accessibility_feature_state_off">Isključeno</string>
   <string name="accessibility_feature_state_on">Uključeno</string>
+    <string name="accessibility_global_gesture_preference_description">"Kada je ova značajka uključena, možete brzo omogućiti značajke pristupačnosti u dva koraka:
+
+Korak 1: Pritisnite i držite gumb za napajanje dok ne čujete zvuk ili osjetite vibraciju.
+
+Korak 2: Dodirnite i držite dva prsta sve dok ne čujete zvučnu potvrdu.
+
+Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu privremeno omogućuje dostupnost sve dok ureðaj nije otključan."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Isključeno</string>
   <string name="accessibility_global_gesture_preference_summary_on">Uključeno</string>
   <string name="accessibility_global_gesture_preference_title">Prečac pristupačnosti</string>
-  <string name="accessibility_long_press_timeout_preference_title">Kašnjenje dodira i zadržavanja</string>
-  <string name="accessibility_menu_item_settings">Postavke</string>
-  <string name="accessibility_no_services_installed">Nema instaliranih usluga</string>
+  <string name="accessibility_long_press_timeout_preference_title">Dodirni &amp; drži odgodu</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Tipka za uključivanje prekida poziv</string>
-  <string name="accessibility_screen_magnification_title">Pokreti povećavanja</string>
-  <string name="accessibility_script_injection_allowed">Dopušteno</string>
-  <string name="accessibility_script_injection_button_allow">Dopustiti</string>
-  <string name="accessibility_script_injection_button_disallow">Ne dopustiti</string>
-  <string name="accessibility_script_injection_disallowed">Nedopušteno</string>
-  <string name="accessibility_service_default_description">Nema opisa</string>
-  <string name="accessibility_service_disable_warning_summary">Dodir na "U redu" će zaustaviti %1$s.</string>
-  <string name="accessibility_service_disable_warning_title">Zaustavi %1$s?</string>
-  <string name="accessibility_service_no_apps_title">Potreban vam je čitač zaslona?</string>
-  <string name="accessibility_service_security_warning_title">Upotrijebiti %1$s?</string>
-  <string name="accessibility_services_title">Usluge</string>
-  <string name="accessibility_settings">Dostupnost</string>
-  <string name="accessibility_settings_title">Postavke dostupnosti</string>
-  <string name="accessibility_sync_disabled">Sinkronizacija onemogućena</string>
-  <string name="accessibility_sync_enabled">Sinkronizacija omogućena</string>
-  <string name="accessibility_sync_error">Pogreška sinkronizacije</string>
-  <string name="accessibility_system_title">Sustav</string>
+  <string name="accessibility_screen_magnification_title">Pokreti uvećanja</string>
   <string name="accessibility_toggle_large_text_preference_title">Veliki tekst</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Ažuriranje uvećanja zaslona pri izmjeni aplikacija</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Autom. ažuriranje uvećanja zaslona</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Uvećanje zaslona</string>
   <string name="accessibility_toggle_script_injection_preference_title">Poboljšati dostupnost web stranice</string>
   <string name="accessibility_toggle_speak_password_preference_title">Izgovori zaporke</string>
+  <string name="activity_not_found">Aplikacija nije instalirana.</string>
   <string name="adjust_3d_depth_title">"Podesi 3D dubinu igara"</string>
   <string name="agps_OK">U redu</string>
   <string name="agps_disable_on_reboot">Onemogućiti nakon ponovnog pokretanja</string>
@@ -126,6 +117,8 @@ Vaši podaci će biti izbrisani.</string>
   <string name="auto_backlight_summary">Automatski prilagodi pozadinsko osvjetljenje radi uštede energije</string>
   <string name="auto_backlight_title">Ekonomično pozadinsko osvjetljenje</string>
   <string name="battery_desc_users">Baterija koju upotrebljava korisnik</string>
+  <string name="battery_info_power_wireless">bežično</string>
+  <string name="battery_info_status_charging_wireless">(bežično)</string>
   <string name="battery_level">%s%%</string>
   <string name="battery_percent">Postotak baterije</string>
   <string name="beam_mgmt_tab_download_title">PRIMLJENO</string>
@@ -148,12 +141,8 @@ Vaši podaci će biti izbrisani.</string>
   <string name="beam_share_show_received_files_menu">Prikaži primljene datoteke</string>
   <string name="beam_share_transfer_fail_dialog_title">Beam dijeljenje neuspješno</string>
   <string name="bluetooth_advanced_settings">Napredne postavke</string>
-  <string name="bluetooth_ftp_profile_summary_connected">Povezano za prijenos datoteka</string>
-  <string name="bluetooth_ftp_profile_summary_use_for">Upotrijebi za prijenos datoteka</string>
-  <string name="bluetooth_profile_ftp">Prijenos datoteka</string>
-  <string name="breathing_light_color_title">"  boja LED-a"</string>
-  <string name="bugreport_in_power">Izvješća o greškama u izborniku napajanja</string>
   <string name="bugreport_in_power_summary">U izbornik napajanja uključi opciju za izradu izvješća o greškama</string>
+  <string name="bugreport_in_power">Izvješća o greškama u izborniku napajanja</string>
   <string name="bugreport_tool_log_toast">Zapis spremljen u %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Stvaranje izvješća greške (traje oko 1 minute)</string>
   <string name="button_disconnect_network">Odspojite se s mreže</string>
@@ -175,6 +164,9 @@ Vaši podaci će biti izbrisani.</string>
   <string name="data_enabler_summary">Omogućiti pristup podacima putem mobilne mreže</string>
   <string name="data_enabler_title">Podaci omogućeni</string>
   <string name="data_enabler_waiting_message">Pričekajte…...</string>
+    <string name="data_usage_restrict_background_multiuser">"Ako ograničite pozadinske mobilne podatke, neke aplikacije i usluge neće raditi ako niste povezani s Wi-Fi mrežom.
+
+Ova postavka utječe na sve korisnike ovog uređaja."</string>
   <string name="data_usage_uninstalled_apps_users">Uklonjene aplikacije i korisnici</string>
   <string name="default_name">Zadano</string>
   <string name="deny">Odbij</string>
@@ -195,6 +187,9 @@ Vaši podaci će biti izbrisani.</string>
   <string name="dolby_bassboost_low">Nizak</string>
   <string name="dolby_bassboost_normal">Normalan</string>
   <string name="dolby_bassboost_title">Bas:</string>
+    <string name="dolby_mode_movie">Videozapis</string>
+  <string name="dolby_mode_music">Glazba</string>
+  <string name="dolby_mode_off">Isključeno</string>
   <string name="dolby_movie_advance">Poboljšanje videa</string>
   <string name="dolby_music_advance">Poboljšanje glazbe</string>
   <string name="dolby_roomsize_high">Otvoren prostor</string>
@@ -263,36 +258,14 @@ Vaši podaci će biti izbrisani.</string>
   <string name="gadget_state_turning_off">Isključivanje</string>
   <string name="gadget_state_turning_on">Uključivanje</string>
   <string name="gadget_sync">Sink.</string>
-  <string name="gadget_title">Nadzor napajanja</string>
-  <string name="gadget_toggle_bluetooth">Ažuriranje postavke Bluetootha</string>
-  <string name="gadget_toggle_wifi">Ažuriranje postavki WLAN-a</string>
   <string name="gadget_wifi">WLAN</string>
-  <string name="game_controller_settings_category">Igrači kontroler</string>
-  <string name="gemini_3g_disable_warning">3G usluga nije dostupna u odabranoj SIM kartici. Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u 
-  Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže.</string>
-  <string name="gemini_3g_disable_warning_case0">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove!
-   Sigurno želite omogućiti roaming podataka i odaberati ovu SIM karticu?</string>
-  <string name="gemini_3g_disable_warning_case1">3G usluga nije dostupna s ovom odabranom SIM karticom. 
-  Podaci će se učitavati sporije. 
-  Možete promijeniti postavke 3G usluge u 
-  Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže. 
-  Sigurno želite odabrati ovu SIM karticu?</string>
-  <string name="gemini_3g_disable_warning_case2">3G usluga nije dostupna s ovom odabranom SIM karticom. 
-  Podaci će se učitavati sporije. 
-  Možete promijeniti postavke 3G usluge u 
-  Postavke &gt; Upravljanje SIM-a. 
-  Sigurno želite odabrati ovu SIM karticu?</string>
-  <string name="gemini_3g_disable_warning_case3">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove! 
-  Osim toga, 3G usluga nije dostupna s ovom SIM karticom. Podaci će se učitavati sporije. 
-  Možete promijeniti postavke 3G usluge u Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže. 
-  Sigurno želite omogućiti roaming podataka i odabrati ovu SIM karticu?</string>
-  <string name="gemini_3g_disable_warning_case4">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove! 
-  Osim toga, 3G usluga nije dostupna s ovom SIM karticom.
-   Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u 
-   Postavke &gt; Upravljanje SIM-a. Sigurno želite omogućiti roaming podataka i odabrati ovu SIM karticu?</string>
-  <string name="gemini_3g_disable_warning_cu">3G usluga nije dostupna u odabranoj SIM kartici. 
-  Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u
-   Postavke &gt; Upravljanje SIM-a.</string>
+  <string name="gemini_3g_disable_warning">3G usluga nije dostupna s odabranom SIM karticom. Podaci se mogu učitavati sporije. Možete promijeniti postavke 3G usluge u Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže.</string>
+  <string name="gemini_3g_disable_warning_case0">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove! Omogućiti roaming podatke i odabrati ovu SIM karticu??</string>
+  <string name="gemini_3g_disable_warning_case1">3G usluga nije dostupna s odabranom SIM karticom. Podaci se mogu učitavati sporije. Možete promijeniti postavke 3G usluge u Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže. Želite li odabrati ovu SIM karticu?</string>
+  <string name="gemini_3g_disable_warning_case2">3G usluga nije dostupna s odabranom SIM karticom. Podaci se mogu učitavati sporije. Možete promijeniti postavke 3G usluge u Postavke &gt; Upravljanje SIM-a. Želite odabrati ovu SIM karticu?</string>
+  <string name="gemini_3g_disable_warning_case3">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove! 3G usluga nije dostupna s odabranom SIM karticom. Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u Postavke &gt; Bežično povezivanje &amp; Mreže &gt; Mobilne mreže. Omogućiti roaming podataka za ovu SIM karticu?</string>
+  <string name="gemini_3g_disable_warning_case4">Morate prvo omogućiti podatke u roamingu za ovu SIM karticu koje može izazvati značajne roaming troškove! 3G usluga nije dostupna s odabranom SIM karticom. Podaci će se učitavati sporije. Možete promijeniti postavke 3G usluge u Postavke &gt; Upravljanje SIM-a. Omogućiti roaming podataka za ovu SIM karticu?</string>
+  <string name="gemini_3g_disable_warning_cu">3G usluga nije dostupna s odabranom SIM karticom. Podaci se mogu učitavati sporije. Možete promijeniti postavke 3G usluge u Postavke &gt; Upravljanje SIM-a.</string>
   <string name="gemini_3g_indic">3G</string>
   <string name="gemini_3g_modem_switch_confirm_message">To će također prebaciti 3G uslugu na ovu SIM karticu. Nastaviti? Uvjerite se da ova odabrana SIM kartica podržava 3G uslugu.</string>
   <string name="gemini_3g_modem_switching_message">Prebacivanje SIM-a će potrajati oko 10 sekundi za dovršetak. Pričekajte...</string>
@@ -359,11 +332,15 @@ Vaši podaci će biti izbrisani.</string>
   <string name="gemini_tether_saving_progress_message">Spremanje...</string>
   <string name="gemini_video_call">Video poziv</string>
   <string name="gemini_voice_call">Glasovni poziv</string>
+  <string name="gemini_wap_push_permission">Auto-push usluga</string>
   <string name="gemini_wap_push_permission_head">Nakon što omogućite Auto-push uslugu, možete primati push poruke, napraviti pokretanje lokalnih aplikacija i proizvoditi podatkovni promet. 
-  Uobičajena auto-push usluga uključuje obavijesti e-pošte, upravljanje uređajem, indikaciju usluga, te uslugu učitavanja i rezerviranja push-a</string>
+Uobičajena auto-push usluga uključuje obavijesti e-pošte, upravljanje uređajem, indikaciju usluga, te uslugu učitavanja i rezerviranja push-a</string>
   <string name="gemini_wap_push_permission_tail">Prihvatiti ovaj sporazum?</string>
   <string name="gemini_wap_push_permission_title">Ugovor o pružanju Auto-push usluge</string>
   <string name="general_settings_title">Općenito</string>
+  <string name="global_change_warning">Toto nastavenie je pre všetkých užívateľov tohto zariadenia.</string>
+  <string name="global_font_change_title">Zmeniť veľkosť písma</string>
+  <string name="global_locale_change_title">Zmeniť jazyk</string>
   <string name="gps_time_sync_attention_gps_off">"Za korištenje GPS predviđenog vremena, morate prvo omogućiti GPS. Osim toga, GPS može podbaciti u dobivanju podataka o vremenu zbog slabog signala okoliša.
 Sigurno želite omogućiti GPS i čekati na GPS predviđeno vrijeme?"</string>
   <string name="gps_time_sync_attention_gps_on">"Potrajati će najviše 1 minutu za dobivanje GPS fix-a. Osim toga, GPS može podbaciti u dobivanju podataka o vremenu zbog slabog signala okoliša.

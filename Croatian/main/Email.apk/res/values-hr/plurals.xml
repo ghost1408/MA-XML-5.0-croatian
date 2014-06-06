@@ -53,32 +53,32 @@
         <item quantity="one">Uklanjanje zvjezdice %1$d razgovora.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> utišano.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> utišan.</item>
+        <item quantity="other">%1$d utišano.</item>
+        <item quantity="one">%1$d utišan.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> prijavljeno kao spam.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> prijavljen kao spam.</item>
+        <item quantity="other">%1$d prijavljeno kao spam.</item>
+        <item quantity="one">%1$d prijavljen kao spam.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> prijavljeni da nisu spam.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> prijavljen da nije spam.</item>
+        <item quantity="other">%1$d prijavljeni da nisu spam.</item>
+        <item quantity="one">%1$d prijavljen da nije spam.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> označeno kao nevažno.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> označen kao nevažan.</item>
+        <item quantity="other">%1$d označeno kao nevažno.</item>
+        <item quantity="one">%1$d označen kao nevažan.</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> prijavljeno kao phishing.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> prijavljen kao phishing.</item>
+        <item quantity="other">%1$d prijavljeno kao phishing.</item>
+        <item quantity="one">%1$d prijavljen kao phishing.</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> arhivirano.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> arhivirana.</item>
+        <item quantity="other">%1$d arhivirano.</item>
+        <item quantity="one">%1$d arhiviran.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> izbrisano.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> izbrisana.</item>
+        <item quantity="other">%1$dizbrisano.</item>
+        <item quantity="one">%1$d izbrisan.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Promijenjenih mapa.</item>

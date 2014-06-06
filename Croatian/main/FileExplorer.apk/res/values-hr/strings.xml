@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">Premještam korisničke podatke, može trajati nekoliko minuta.</string>
+  <string name="account_bind_prompt">Premještam korisničke podatke, 
+  može trajati nekoliko minuta,
+  pričekajte...</string>
   <string name="add_task">Dodaj zadatak</string>
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
   <string name="already_signin_description">Već ste prijavljeni.</string>
@@ -12,12 +14,12 @@
   <string name="app_name">Datoteke</string>
   <string name="application_size_label">Aplikacija</string>
   <string name="background">Preuzimanje u pozadini</string>
-  <string name="big5_summary">Tradicionalni kineski Windows zadano kodiranje</string>
+  <string name="big5_summary">Zadani format za Windowse s tradicionalnim kineskim</string>
   <string name="big5_title">BIG5</string>
-  <string name="bind_account">Sinkronizirati postojeći račun</string>
-  <string name="bind_account_summary">Sinkroniziraj postojeći KuaiPan račun s svojim Xiaomi računom</string>
-  <string name="binded_accout_description">Vaš Xiaomi račun je sinkroniziran s KuaiPan-om. Sada možete koristiti svoj Xiaomi račun da pristupite podacima koje ste pohranili na KuaiPan-u.</string>
-  <string name="binded_accout_title">Računi sinkronizirani</string>
+  <string name="bind_account">Povezivanje na MiDrive račun</string>
+  <string name="bind_account_summary">Ako već imate MiDrive račun, možete ga sinkronizirati s vašim osobnim podacima</string>
+  <string name="binded_accout_description">Računi su povezani, možete se prijaviti bilo s Xiaomi ili MiDrive računom</string>
+  <string name="binded_accout_title">MiDrive račun</string>
   <string name="cache_size_label">Memorija</string>
   <string name="cancel">Otkaži</string>
   <string name="cancel_app_garbage_cleanup">Otkaži čišćenje aplikacija</string>
@@ -97,7 +99,7 @@
   <string name="fail_to_rename">Datoteka ili mapa s istim nazivom već postoji.</string>
   <string name="favorite_photo">Fotografija</string>
   <string name="favorite_ringtone">Zvukovi zvona</string>
-  <string name="favorite_screen_cap">MIUI slike zaslona</string>
+  <string name="favorite_screen_cap">MIUI snimak zaslona</string>
   <string name="file_cleanup">Čišćenje datoteka</string>
   <string name="file_info_canread">Čitljivo:</string>
   <string name="file_info_canwrite">Pisljivo:</string>
@@ -139,14 +141,14 @@
   <string name="kuaipan_prompt_message">"
  Nažalost, naš poslužitelj je dolje za održavanje u ovom trenutku. Molimo pokušajte kasnije
 "</string>
-  <string name="kuaipan_tech_support">Prijavi se na kuaipan.cn</string>
+  <string name="kuaipan_tech_support">Pruža Kingsoft Kuaipan</string>
   <string name="load_err">Neuspješno učitavanje</string>
   <string name="loading">Učitavam…</string>
   <string name="local_cache_size">Veličina lokalne memorije: %s</string>
   <string name="login_reg_content">"Pohranite datoteke i sinkronizirajte ih na više uređaja,
 potrebno mrežno povezivanje."</string>
-  <string name="login_reg_content0">Koristi Kuaipan od svuda.</string>
-  <string name="menu_item_cleanup">Očisti</string>
+  <string name="login_reg_content0">MiDrive je Vaš Cloud</string>
+  <string name="menu_item_cleanup">Očistiti datoteke</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Traži</string>
   <string name="menu_item_sort">Sortiraj po</string>
@@ -180,7 +182,7 @@ potrebno mrežno povezivanje."</string>
   <string name="notif_title">FTP server pokrenut.</string>
   <string name="open_changed_file_message">"Datoteka koju okušavate otvoriti je izmijenjena, mogli bi:
 1. Preuzeti (ažurirati lokalnu datoteku na zadnju verziju)
-2. Učitati je na vaš KuaiPan račun."</string>
+2. Učitati je na vaš Cloud račun."</string>
   <string name="open_changed_file_title">Datoteka izmijenjena</string>
   <string name="operating">Pokrenuto…</string>
   <string name="operation_cancel">Otkaži</string>
@@ -216,7 +218,7 @@ potrebno mrežno povezivanje."</string>
   <string name="operation_send">Pošalji</string>
   <string name="operation_show_sys">Pokaži skrivene datoteke</string>
   <string name="operation_unfavorite">Nefavoriti</string>
-  <string name="pan_settting">KuaiPan postavke</string>
+  <string name="pan_settting">MiDrive postavke</string>
   <string name="paused">Pauzirano</string>
   <string name="pull_to_signin">Povuci dolje za prijavu.</string>
   <string name="query_bind_state">Spajanje s KuaiPan…</string>
@@ -229,13 +231,13 @@ potrebno mrežno povezivanje."</string>
   <string name="scanning_on_going">Skeniranje…</string>
   <string name="sd_card_available">Dostupno: %1$s</string>
   <string name="sd_card_size">SD kartica: %1$s</string>
-  <string name="sd_full">Interna pohrana vašeg telefona je puna</string>
-  <string name="sd_size_label">Pohrana SD kartice</string>
+  <string name="sd_full">SD kartica je puna</string>
+  <string name="sd_size_label">USB Pohrana</string>
   <string name="search_hint">Tražim</string>
   <string name="search_title">Tražim</string>
-  <string name="send_to_midrive">KuaiPan</string>
+  <string name="send_to_midrive">MiDrive</string>
   <string name="send_to_midrive_failed_message">Ova vrsta datoteke nije podržana.</string>
-  <string name="server_control_advanced_settings">FTP postavke</string>
+  <string name="server_control_advanced_settings">Napredne postavke</string>
   <string name="server_control_charset">Kodiranje prijenosa</string>
   <string name="server_control_settings">Postavke</string>
   <string name="share_link_failed">Stvaranje mape vanjske veze neuspješno</string>
@@ -244,22 +246,22 @@ potrebno mrežno povezivanje."</string>
   <string name="signin_error">Mreža trenutno nedostupna. Provjerite mrežnu vezu.</string>
   <string name="signin_success">"Prijava uspješna!
 Uzmite slobodan prostor %1$s"</string>
-  <string name="space_info">KuaiPan: %1$s dostupno, %2$s ukupno</string>
+  <string name="space_info">Kapacitet: %1$s dostupno, %2$s ukupno</string>
   <string name="space_usage">Iskorišten prostor</string>
   <string name="start_cleanup">Pokreni čišćenje</string>
-  <string name="start_server">Start</string>
-  <string name="start_use_xiaomi_account">Započni koristiti KuaiPan</string>
-  <string name="stay_awake_summary">Držati zaslon budnim kad koristite FTP</string>
+  <string name="start_server">Započeti FTP</string>
+  <string name="start_use_xiaomi_account">Prijava</string>
+  <string name="stay_awake_summary">Držati zaslon budnim tijekom FTP prijenosa</string>
   <string name="stay_awake_title">Držati budnim</string>
-  <string name="stop_server">Stop</string>
+  <string name="stop_server">Zaustaviti FTP</string>
   <string name="storage_internal">Unutarnja pohrana</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">USB pohrana</string>
-  <string name="storage_warning">Vanjska pohrana nedostupna.</string>
+  <string name="storage_warning">SD kartica nedostupna.</string>
   <string name="sys_size">Dostupan prostor %1$s</string>
   <string name="sys_size_title">Dostupan prostor</string>
   <string name="tab_category">Kategorije</string>
-  <string name="tab_networkdisk">KuaiPan</string>
+  <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_phone">Telefon</string>
   <string name="temp_file_cleanup_indication">%s privremene datoteke</string>
   <string name="temp_file_title">Privremene datoteke</string>
@@ -271,8 +273,10 @@ Uzmite slobodan prostor %1$s"</string>
   <string name="transing">Slanje…</string>
   <string name="trash_box_capacity">Koš za smeće %1$s</string>
   <string name="trash_box_link">Za pražnjenje koša za smeće, posjetite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
-  <string name="trash_box_message1">Obrišite nepotrebne datoteke da oslobodite prostor.</string>
-  <string name="trash_box_message2">Ispraznite koš za smeće kako bi oslobodili prostor.</string>
+  <string name="trash_box_message1">Obrišite nepotrebne datoteke da
+oslobodite prostor.</string>
+  <string name="trash_box_message2">Ispraznite koš za smeće kako bi
+oslobodili prostor.</string>
   <string name="ui_bar_txt_download_progress">%1$d datoteka(e) ostalo za preuzeti</string>
   <string name="ui_bar_txt_upload_progress">%1$d datoteka(e) ostalo za učitati</string>
   <string name="ui_filechange_btn_download">Preuzimanje datoteka</string>
@@ -285,25 +289,24 @@ Uzmite slobodan prostor %1$s"</string>
   <string name="uninstall_app_data">Obrisati aplikaciju i podatke aplikacije</string>
   <string name="unmount_inform_text">Isključiti USB pohranu?</string>
   <string name="upload_failed">Učitavanje neuspješno!</string>
-  <string name="upload_file_toolarge_message">%1$d neupješno učitavanje: možete\u0009 učitati datoteke veće od 300MB.</string>
-  <string name="uploading">Učitavanj…</string>
+  <string name="upload_file_toolarge_message">Datoteke veće od 300M ne mogu biti poslane. Molimo provjerite Upravitelj razmjene podataka za više informacija.</string>
+  <string name="uploading">Učitavanje…</string>
   <string name="used">Iskorišteno</string>
-  <string name="user_guide">Uvod u KuaiPan</string>
-  <string name="user_guide_download_other_version">Preuzmite Kuaipan za Windows ili OSX</string>
-  <string name="user_guide_kuaipan_copy">Pristupite svojim datotekama s više uređaja</string>
+  <string name="user_guide">Korisniče upute</string>
+  <string name="user_guide_download_other_version">Možete preuzeti MiDrive na računalo</string>
+  <string name="user_guide_kuaipan_copy">Kopiranje datoteka na MiDrive</string>
   <string name="user_guide_other_version">Dostupno i za ostale platforme.</string>
-  <string name="user_guide_summary">Kratak pregled</string>
-  <string name="user_guide_upload_to_kuaipan">Pohranite stavke na Kuaipan s vašeg telefona</string>
+  <string name="user_guide_summary">Kako koristiti MiDrive</string>
+  <string name="user_guide_upload_to_kuaipan"/>
   <string name="utf8_summary">Zadano kodiranje FTP sistema</string>
-  <string name="utf8_title">UTF-8</string>
-  <string name="version_text">verzija %1$s</string>
+  <string name="version_text">Verzija %1$s</string>
   <string name="wait_net">Čekanje mreže…</string>
   <string name="wait_sdcard">Čekam SD karticu…</string>
   <string name="wait_wifi">Čekam na WLAN…</string>
   <string name="waiting">Čekanje…</string>
   <string name="waiting_for_cleaning">Čekam čišćenje…</string>
   <string name="waiting_for_scanning">Čekam skeniranje …</string>
-  <string name="wangpan_root_path">Kuaipan</string>
+  <string name="wangpan_root_path">Moj Drive</string>
   <string name="wifi_state">WLAN status</string>
   <string name="xiaomi_account">Xiaomi račun</string>
   <string name="yes">Da</string>

@@ -113,7 +113,8 @@ i neće biti dostupne sve dok isključite USB pohranu.</string>
     <string name="headset_custom">Prilagodi</string>	
     <string name="headset_info">Prilagodi funkcije tipaka</string>	
     <string name="headset_settings">Slušalice priključene</string>	
-    <string name="invalid_charger">"USB punjenje nije podržano. Upotrijebite samo priloženi punjač."</string>	
+    <string name="invalid_charger">"USB punjenje nije podržano. 
+Upotrijebite samo priloženi punjač."</string>	
     <string name="key_position_custom">Prilagođena pozicija gumba</string>	
     <string name="label_view">Prikaži</string>	
     <string name="lockscreen_carrier_default">Nema usluge</string>	

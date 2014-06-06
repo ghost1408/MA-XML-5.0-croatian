@@ -5,7 +5,7 @@
   <string name="action_clear_memory">Isprazni RAM</string>
   <string name="action_clear_sms_inbox">Izbriši dolazne SMS poruke</string>
   <string name="action_close">Zatvori</string>
-  <string name="action_home">HOME</string>
+  <string name="action_home">KUĆI</string>
   <string name="action_lock_screen">Zaklj. zaslon</string>
   <string name="action_open_camera">Fotoaparat</string>
   <string name="action_open_camera2">Fotoaparat</string>
@@ -20,9 +20,9 @@
   <string name="action_screen_shot">Snimak zaslona</string>
   <string name="action_send_text_message">Pošalji SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
-  <string name="action_share_to_miliao_wall">MiTalk Wall</string>
-  <string name="action_share_to_moment">Dijeli trenutke putem WeChat</string>
-  <string name="action_share_to_wechat">Dijeli putem  WeChat</string>
+  <string name="action_share_to_miliao_wall">MiTalk</string>
+  <string name="action_share_to_moment">Dijeli putem WeChat</string>
+  <string name="action_share_to_wechat">Dijeli putem WeChat</string>
   <string name="action_share_to_weibo">Dijeli putem Weibo</string>
   <string name="action_toolbox">Alati</string>
   <string name="action_zero_volume">Utišaj</string>
@@ -71,7 +71,8 @@
   <string name="fail_generate_barcode">Generiranje koda nije uspjelo</string>
   <string name="faq_comp_text">Za uređaje s MIUIv5 i Xiaomi telefone. Aktualnu verziju MiKey aplikaciju možete pronaći na &lt;a href="http://www.miui.cz/mikey"&gt;miui.cz/mikey&lt;/a&gt;</string>
   <string name="faq_comp_title">Koji uređaji su kompatibilni?</string>
-  <string name="faq_focus_text">Bleskalica kod fotografiranja produljuje izradu, ali dobivena slika je oštrija. Možete to isključiti, ali slika će biti mutna.</string>
+  <string name="faq_focus_text">Bljeskalica kod fotografiranja produljuje izradu, ali dobivena slika je oštrija. Možete to isključiti, ali slika će biti mutna.</string>
+  <string name="faq_focus_title">Sporo fotografiranje?</string>
   <string name="faq_misreq_text">Ako prilikom kontrole glazbe ne reagira na zaslonu zaključavanja, izađite iz aplikacije Glazba, izbrišite je iz RAM-a, priključite ponovo Mikey i odaberite iz izbornika "Mikey". Svjesni smo ove greške i radimo sve da je uklonimo!</string>
   <string name="faq_misreq_title">Kako riješiti probleme?</string>
   <string name="faq_plug_text">Ova metoda priključivanja MiKey će pomoći spriječiti potencijalne probleme. Nemojte pritisnuti tipku za vrijeme spajanja MiKey.</string>
@@ -89,7 +90,7 @@
   <string name="faq_voice_title">Nema zvuka prilikom poziva?</string>
   <string name="faq_vsm_text">Uvjerite se da ste prije rastavljanja stražnjeg poklpoca uklonili MiKey!</string>
   <string name="faq_vsm_title">Upozorenje</string>
-  <string name="file_delimiter">／</string>
+  <string name="file_delimiter">/</string>
   <string name="flash_lable">Bljeskalica</string>
   <string name="front_camera">Prednja kamera</string>
   <string name="goto_update">Ažuriranje</string>
@@ -109,7 +110,7 @@
   <string name="picker_lable">Galerija</string>
   <string name="place_barcode_into_rectangle">Postavite QR kod ili barkod unutar tražila pravokutnika</string>
   <string name="rank_prefix">"Rejting: "</string>
-  <string name="rank_suffix">bodova</string>
+  <string name="rank_suffix">" bodova"</string>
   <string name="recognize">Prepoznaj</string>
   <string name="recommend">Preporuka</string>
   <string name="running_notification">Xiaomi MiKey</string>
@@ -118,7 +119,7 @@
   <string name="sdcard">sdkartica</string>
   <string name="select_camera">Odabrati kameru?</string>
   <string name="select_device">Odabrati uređaj?</string>
-  <string name="setting_feedback">Feedback</string>
+  <string name="setting_feedback">Pov. informacija</string>
   <string name="setting_instant_photo_desc">"Fokusiraj prije snimanja fotografije"</string>
   <string name="setting_instant_photo_text">Fokusiraj prije</string>
   <string name="setting_keeplive_desc">"Dopustiti aplikaciji rad u pozadini.
@@ -132,7 +133,7 @@ To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_speed_quick">Brzo</string>
   <string name="setting_speed_slow">Sporo</string>
   <string name="setting_speed_text">Brzina</string>
-  <string name="setting_vibrate_desc">"Sposobnost da se osjećaju provedbe funkcija neponavljajući povratne informacije vibracija</string>
+  <string name="setting_vibrate_desc">"Sposobnost funkcije vibracije telefona</string>
   <string name="setting_vibrate_text">Vibracija</string>
   <string name="settings">Postavke</string>
   <string name="short_click_1">1x</string>

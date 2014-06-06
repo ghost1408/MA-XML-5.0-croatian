@@ -63,7 +63,6 @@
   <string name="aerr_title"/>
   <string name="allow">Dopusti</string>
   <string name="alwaysUse">Koristi se kao zadana postavka za ovu lokaciju.</string>
-  <string name="am">prijepodne</string>
   <string name="android_system_label">Sustav Android</string>
   <string name="android_upgrading_apk">Optimiziranje aplikacije %1$d od %2$d.</string>
   <string name="android_upgrading_complete">Završetak inicijalizacije.</string>
@@ -601,7 +600,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="month_shortest_november">S</string>
   <string name="month_shortest_october">L</string>
   <string name="month_shortest_september">R</string>
-  <string name="month_year" formatted="false">%B %Y.</string>
+  <string name="month_year" formatted="false">%B %Y</string>
   <string name="more_item_label">Više</string>
   <string name="needPuk">Vaša je SIM kartica zaključana PUK-om. Unesite PUK kôd da biste je otključali.</string>
   <string name="needPuk2">Unesite PUK2 da biste odblokirali SIM karticu.</string>
@@ -1080,9 +1079,7 @@ za račun %s."</string>
   <string name="permlab_writeSocialStream">pisanje društvenog streama</string>
   <string name="permlab_writeSyncSettings">uključivanje/isključivanje sinkronizacije</string>
   <string name="perms_description_app">Omogućuje aplikacija %1$s.</string>
-  <string name="perms_new_perm_prefix">
-&lt;font fgcolor="#ff900000" size="12"&gt;NOVO: &lt;/font&gt;
-</string>
+  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NOVO: &lt;/font&gt;</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Pomoćnik</string>
   <string name="phoneTypeCallback">Povratni poziv</string>
@@ -1105,7 +1102,6 @@ za račun %s."</string>
   <string name="phoneTypeWork">Posao</string>
   <string name="phoneTypeWorkMobile">Poslovni mobitel</string>
   <string name="phoneTypeWorkPager">Poslovni dojavljivač</string>
-  <string name="pm">poslijepodne</string>
   <string name="policydesc_disableCamera">Spriječite upotrebu svih kamera uređaja.</string>
   <string name="policydesc_disableKeyguardFeatures">Sprječava se upotreba nekih značajki u zaštitnom zaključavanju tipkovnice.</string>
   <string name="policydesc_encryptedStorage">Zahtijevajte da pohranjeni podaci aplikacije budu šifrirani.</string>
@@ -1318,8 +1314,6 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="time_picker_increment_set_pm_button">Postavi PM</string>
   <string name="time_wday">%1$s %2$s</string>
   <string name="time_wday_date">%1$s %2$s, %3$s</string>
-  <string name="today">Danas</string>
-  <string name="tomorrow">Sutra</string>
   <string name="turn_off_radio">Isključi bežičnu vezu</string>
   <string name="turn_on_radio">Uključi bežični prijenos</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Dodirnite dvaput za upravljanje zumiranjem</string>
@@ -1404,6 +1398,5 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="year">godina</string>
   <string name="years">godina</string>
   <string name="yes">U redu</string>
-  <string name="yesterday">Jučer</string>
   <string name="zz_keyguard_accessibility_voice_unlock">Otključavanje glasom.</string>
 </resources>

@@ -28,7 +28,7 @@
   <string name="packaging_dialog_content">Stvaranje izvješća, pričekajte...</string>
   <string name="report_miui">Prijavi MIUI</string>
   <string name="section_description">Opis</string>
-  <string name="section_err_type">Tip mišljenja</string>
+  <string name="section_err_type">Tip pogreške</string>
   <string name="section_screenshot">Snimka zaslona</string>
   <string name="status_msg_collecting_log">Prikupljanje zapisa...</string>
   <string name="status_msg_pending_upload">%d mišljenja učitano...</string>

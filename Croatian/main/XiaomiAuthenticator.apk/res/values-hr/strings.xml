@@ -120,6 +120,7 @@ Prijavite se na account.xiaomi.com, upravljanje svojim ​​računom i kliknite
   <string name="security_setting">Postavke sigurnosti</string>
   <string name="settings_menu_item">Postavke</string>
   <string name="submit">Spremi</string>
+  <string name="success_copy_to_clipboard">Kopirano u međuspremnik</string>
   <string name="success_reset_password">Resetiranje zaporke</string>
   <string name="success_set_password">Zaporka promijenjena</string>
   <string name="summary_lockpattern">Potreban jedinstveni uzorak zaključavanja za MiCredit</string>

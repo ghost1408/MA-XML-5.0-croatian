@@ -6,7 +6,7 @@
   <string name="account">Račun</string>
   <string name="account_dspt">"Prijavite se na Xiaomi Račun. 
 Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
-  <string name="account_hint_text">E-pošta/Telefonski broj</string>
+  <string name="account_hint_text">E-pošta/Tel. broj</string>
   <string name="account_name">Račun: %1$s</string>
   <string name="activate_desc_2_intl_sim_cards">SMS i međunarodni SMS će biti poslani za aktivaciju vaše SIM kartice</string>
   <string name="activate_desc_2_sim_cards">2 SMS-a će biti poslana za aktivaciju dvije SIM kartice</string>
@@ -157,7 +157,7 @@ Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
   <string name="input_vcode_prompt">Unesite verifijacijski kôd</string>
   <string name="int_phone_user_notice">Unesite broj formata: +385xxxxxxxxx</string>
   <string name="internet_comm">Poslužitelj poruka</string>
-  <string name="internet_message">Cloud poruke</string>
+  <string name="internet_message">MiCloud poruke</string>
   <string name="login">Prijavite se</string>
   <string name="login_failed">Prijava nije uspjela</string>
   <string name="login_instead_reg">Prijavite se brojem telefona</string>
@@ -170,7 +170,7 @@ Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
   <string name="micloud_account">Xiaomi račun</string>
   <string name="micloud_account_details">Detalji račna</string>
   <string name="micloud_account_label">Račun: %1$s</string>
-  <string name="micloud_account_name">Mi Cloud</string>
+  <string name="micloud_account_name">Xiaomi</string>
   <string name="micloud_account_not_actived">Račun nije aktiviran</string>
   <string name="micloud_activate_account_fail_notify_title">Nije uspjelo aktiviranje vašeg Xiaomi računa</string>
   <string name="micloud_activate_account_success_notify_title">Uspješno aktiviranje vašeg Xiaomi računa</string>
@@ -327,6 +327,6 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="wipe_data_dialog_title">"Neke stavke nisu bile sinkronizirane."</string>
   <string name="wrong_captcha">Netočan captcha kôd</string>
   <string name="wrong_vcode">Netočan vkôd</string>
-  <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+  <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
 </resources>

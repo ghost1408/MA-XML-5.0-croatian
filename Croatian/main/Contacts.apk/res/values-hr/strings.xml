@@ -111,6 +111,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="callrecordview_menu_delete_new">Obrisati popis poziva novih kontakata</string>
   <string name="callrecordview_menu_delete_one">Ukloniti iz popisa poziva</string>
   <string name="callrecordview_menu_delete_stranger">Obrisati popis poziva nepoznatih brojeva</string>
+  <string name="callrecordview_menu_delete_stranger">Brisanje nepoznatih brojeva</string>
   <string name="callrecordview_menu_edit_call_note">Uredi bilješku poziva</string>
   <string name="callrecordview_menu_paste">Zalijepi</string>
   <string name="callrecordview_menu_settings">Postavke</string>
@@ -595,11 +596,17 @@ Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
 "Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
 "Novi kontakt za izradu novog kontakta iz nule" 
 "Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"</string>
-  <string name="noContactsHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)</string>
   <string name="noContactsHelpTextForCreateShortcut">"Nemate kontakata za prikaz."</string>
+  <string name="noContactsHelpTextWithSync">"Nemate kontakata za prikaz. Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
+Za dodavanje kontakata, dodirnite ""Izbornik", onda dodirnite:
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+"Opcije prikaza za promjenu koji će kontakti biti vidljivi" 
+"Novi kontakt za izradu novog kontakta iz nule" 
+"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"
+"</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)"</string>
   <string name="noContactsNoSimHelpText">"Nemate kontakata za prikaz.
-Za dodavanje kontakata, dodirnite "">Izbornik", onda dodirnite:
+Za dodavanje kontakata, dodirnite ">Izbornik", onda dodirnite:
 "Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
 "Novi kontakt za izradu novog kontakta iz nule" 
 "Uvoz/izvoz kontakata sa SD kartice"
@@ -1127,6 +1134,7 @@ Odaberite jednu od sljedećih opcija:"</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Brisanje podataka</string>
   <string name="yellowPageNavigationIconLabel">Direktorij</string>
+  <string name="yellowPageNavigationLabel">Direktorij</string>
   <string name="yellowpage_navigation_menu_order">Moj redoslijed</string>
   <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
   <string name="yellowpage_navigation_network_location_enable_later">Poslije</string>

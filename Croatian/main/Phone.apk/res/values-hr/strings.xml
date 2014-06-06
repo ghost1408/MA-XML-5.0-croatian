@@ -1096,7 +1096,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="sum_loading_settings">Učitavanje postavki…</string>
   <string name="sum_search_networks">Pretraži sve dostupne mreže</string>
   <string name="sum_select_automatically">Automatski odaberi željenu mrežu</string>
-  <string name="sum_select_automatically_option_miui">Automatski odabir željene mreže, %s</string>
+  <string name="sum_select_automatically_option_miui">Odabir željene mreže %s</string>
   <string name="sum_show_caller_id">Broj prikazan za odlazne pozive</string>
   <string name="sum_voicemail_choose_provider">Odaberite uslugu govorne pošte</string>
   <string name="sum_xdivert_disabled">X-Divert Onemogućen</string>

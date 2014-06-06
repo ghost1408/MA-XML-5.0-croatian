@@ -57,6 +57,7 @@
   <string name="file_download">Preuzmi datoteku</string>
   <string name="file_downloading">Preuzimnje datoteke</string>
   <string name="file_restore">Vrati datoteke</string>
+  <string name="file_restore">Vraćanje datoteka</string>
   <string name="file_share_download_complete">Primljena dijeljena datoteka!</string>
   <string name="file_share_upload_complete">Dijeljena datoteka poslana!</string>
   <string name="file_upload">Učitaj datoteku</string>
@@ -141,7 +142,8 @@
   <string name="save_to_kuaipan">Spremi na MiDrive</string>
   <string name="scan_2d_code">Skeniraj 2D kod</string>
   <string name="scan_file">Pretraži datoteke</string>
-  <string name="scan_tip">Molimo provjerite da li je primatelj omogućio povezivanje i može primiti datoteku(e)</string>
+  <string name="scan_tip">Molimo provjerite da li je primatelj omogućio povezivanje 
+  i može primiti datoteku</string>
   <string name="scan_title">Fokusirajte 2D kod</string>
   <string name="scanning">Skeniranje...</string>
   <string name="sdcard_invalid">SD kartica nedostupna!</string>
